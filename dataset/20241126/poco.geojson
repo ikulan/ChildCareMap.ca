@@ -1,0 +1,1808 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.755361",
+          "49.269751"
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "name": "Port Coquitlam Children's Centre",
+        "address": "50-3150 Coast Meridian Rd",
+        "city": "Port Coquitlam",
+        "services": [
+          1,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.772308",
+          "49.24427"
+        ]
+      },
+      "properties": {
+        "id": "247",
+        "name": "Kilmer Children's Centre Inc.",
+        "address": "1592 Knappen St",
+        "city": "Port Coquitlam",
+        "services": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.75106",
+          "49.269857"
+        ]
+      },
+      "properties": {
+        "id": "261",
+        "name": "Birchland Tree House Play Care Ltd.",
+        "address": "1331 Fraser Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.786434",
+          "49.253672"
+        ]
+      },
+      "properties": {
+        "id": "272",
+        "name": "Green Planet Daycare",
+        "address": "2435 Lobb Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.776031",
+          "49.271799"
+        ]
+      },
+      "properties": {
+        "id": "289",
+        "name": "Kiddies Korner Parent Participation Preschool",
+        "address": "2211 Prairie Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.739969",
+          "49.270626"
+        ]
+      },
+      "properties": {
+        "id": "386",
+        "name": "Cedar Drive Preschool Society",
+        "address": "3170 Cedar Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.785182",
+          "49.232885"
+        ]
+      },
+      "properties": {
+        "id": "407",
+        "name": "Creative Kids Childcare Learning Centre Inc",
+        "address": "1144 Confederation Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.760513",
+          "49.282292"
+        ]
+      },
+      "properties": {
+        "id": "432",
+        "name": "The Learning Experience Children's Centre Ltd.",
+        "address": "3862 Wellington St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.784394",
+          "49.257506"
+        ]
+      },
+      "properties": {
+        "id": "500",
+        "name": "Kid's Stop Daycare",
+        "address": "2359 Hawthorne Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.763511",
+          "49.264808"
+        ]
+      },
+      "properties": {
+        "id": "618",
+        "name": "Northside Childcare Facility",
+        "address": "1770 Westminster Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.771453",
+          "49.242323"
+        ]
+      },
+      "properties": {
+        "id": "705",
+        "name": "Tickle Me Pink Family Child Care",
+        "address": "1988 Campbell Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.777385",
+          "49.266698"
+        ]
+      },
+      "properties": {
+        "id": "753",
+        "name": "Poco Village Early Learning Centre Ltd",
+        "address": "2879 Shaughnessy St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.77337",
+          "49.241218"
+        ]
+      },
+      "properties": {
+        "id": "806",
+        "name": "Messy Hands Early Learning Center",
+        "address": "1457 Pitt River Rd",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.759527",
+          "49.276541"
+        ]
+      },
+      "properties": {
+        "id": "852",
+        "name": "Taniere Des Lynx",
+        "address": "1618 Patricia Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.788727",
+          "49.228883"
+        ]
+      },
+      "properties": {
+        "id": "883",
+        "name": "Citadel Childcare Centre",
+        "address": "779 Citadel Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.757152",
+          "49.26203"
+        ]
+      },
+      "properties": {
+        "id": "950",
+        "name": "Life Stars Child Care Corp.",
+        "address": "1539 Angelo Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.787089",
+          "49.230726"
+        ]
+      },
+      "properties": {
+        "id": "1061",
+        "name": "Citadel Sun Child Care",
+        "address": "827 Citadel Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.787105",
+          "49.265413"
+        ]
+      },
+      "properties": {
+        "id": "1387",
+        "name": "Tiny Sprouts Daycare Ltd",
+        "address": "2606 Kingsway Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.783953",
+          "49.273616"
+        ]
+      },
+      "properties": {
+        "id": "1410",
+        "name": "Pi Academy Child Care",
+        "address": "3440 Jervis St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.765731",
+          "49.264125"
+        ]
+      },
+      "properties": {
+        "id": "1569",
+        "name": "Cocoon Early Learning",
+        "address": "2827 Commonwealth St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.78013",
+          "49.258799"
+        ]
+      },
+      "properties": {
+        "id": "1581",
+        "name": "Cats Kids",
+        "address": "2236 Kelly Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.782086",
+          "49.246055"
+        ]
+      },
+      "properties": {
+        "id": "1662",
+        "name": "Golden Blooms Child Care Centre Ltd",
+        "address": "1620 Mary Hill Rd",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.770945",
+          "49.27212"
+        ]
+      },
+      "properties": {
+        "id": "1707",
+        "name": "Salisbury Childcare Centre Ltd",
+        "address": "2120 Salisbury Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.766816",
+          "49.282464"
+        ]
+      },
+      "properties": {
+        "id": "1728",
+        "name": "Watch Me Grow Child Care Centre",
+        "address": "3916 Oxford St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.780877",
+          "49.25556"
+        ]
+      },
+      "properties": {
+        "id": "1827",
+        "name": "Wind And Tide - Central Poco",
+        "address": "2260 Central Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.755683",
+          "49.272617"
+        ]
+      },
+      "properties": {
+        "id": "1879",
+        "name": "Stay 'N' Play Group Daycare",
+        "address": "100-3310 Coast Meridian Rd",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.776789",
+          "49.260609"
+        ]
+      },
+      "properties": {
+        "id": "1907",
+        "name": "Port Coquitlam Community Centre",
+        "address": "2150 Wilson Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.777618",
+          "49.265292"
+        ]
+      },
+      "properties": {
+        "id": "2013",
+        "name": "Pure Play Child Care Shaughnessy",
+        "address": "6108-2850 Shaughnessy St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.790137",
+          "49.270638"
+        ]
+      },
+      "properties": {
+        "id": "2095",
+        "name": "Little Cube Montessori Preschool & Kindergarten",
+        "address": "106-3242 Westwood St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.749495",
+          "49.280503"
+        ]
+      },
+      "properties": {
+        "id": "2187",
+        "name": "Fairy & Kids Child Care",
+        "address": "1230 Halifax Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.759698",
+          "49.265701"
+        ]
+      },
+      "properties": {
+        "id": "2214",
+        "name": "Nature Childcare",
+        "address": "2928 Cumberland St",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.783982",
+          "49.246841"
+        ]
+      },
+      "properties": {
+        "id": "2240",
+        "name": "Lululala Child Care",
+        "address": "1663 Mcpherson Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.782525",
+          "49.276754"
+        ]
+      },
+      "properties": {
+        "id": "2334",
+        "name": "Huggy-Buggy Child Care Centre",
+        "address": "3601 Hastings St",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.756886",
+          "49.261121"
+        ]
+      },
+      "properties": {
+        "id": "2343",
+        "name": "Pocokids Care & Learn",
+        "address": "1525 Bridgman Ave",
+        "city": "Port Coquitlam",
+        "services": [
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.746934",
+          "49.259209"
+        ]
+      },
+      "properties": {
+        "id": "2349",
+        "name": "Kid Kat Childcare",
+        "address": "2433 Ottawa St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.734225",
+          "49.267987"
+        ]
+      },
+      "properties": {
+        "id": "2355",
+        "name": "Riverwood Academics & Discovery",
+        "address": "688 Omineca Pl",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.756573",
+          "49.2764"
+        ]
+      },
+      "properties": {
+        "id": "2388",
+        "name": "Growing Rainbows Daycare",
+        "address": "3583 Coast Meridian Rd",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.774573",
+          "49.232217"
+        ]
+      },
+      "properties": {
+        "id": "2411",
+        "name": "Fraser Little Thinkers Childcare",
+        "address": "1033 Fraserview St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.765875",
+          "49.272697"
+        ]
+      },
+      "properties": {
+        "id": "2557",
+        "name": "Tiny Forest Childcare",
+        "address": "1851 Salisbury Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.770713",
+          "49.271509"
+        ]
+      },
+      "properties": {
+        "id": "2582",
+        "name": "The Alex Early Care And Learning Centre",
+        "address": "100-3235 Flint St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.780458",
+          "49.237042"
+        ]
+      },
+      "properties": {
+        "id": "2614",
+        "name": "Cherry Blossom Family Child Care",
+        "address": "1263 Kensington Pl",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.790133",
+          "49.271097"
+        ]
+      },
+      "properties": {
+        "id": "2743",
+        "name": "Abc Kids World Learning Center",
+        "address": "104-3278 Westwood St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "2790",
+        "name": "Raja Montessori Academy Ltd.",
+        "address": null,
+        "city": null,
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.776789",
+          "49.26951"
+        ]
+      },
+      "properties": {
+        "id": "2810",
+        "name": "Learning Lab Kids Club",
+        "address": "2255 Fraser Ave",
+        "city": "Port Coquitlam",
+        "services": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.776205",
+          "49.250625"
+        ]
+      },
+      "properties": {
+        "id": "2851",
+        "name": "Caring Hearts Child Care",
+        "address": "1890 Humber Cres",
+        "city": "Port Coquitlam",
+        "services": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.774578",
+          "49.236686"
+        ]
+      },
+      "properties": {
+        "id": "2853",
+        "name": "Hazelwood Early Learning Centre",
+        "address": "2145 Nova Scotia Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.776848",
+          "49.237808"
+        ]
+      },
+      "properties": {
+        "id": "2854",
+        "name": "Hazelwood Early Learning Centre",
+        "address": "1265 Citadel Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.784813",
+          "49.238415"
+        ]
+      },
+      "properties": {
+        "id": "3038",
+        "name": "Tuberose Childcare",
+        "address": "2625 Klassen Crt",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.746908",
+          "49.259775"
+        ]
+      },
+      "properties": {
+        "id": "3255",
+        "name": "Meri's Kids",
+        "address": "2451 Ottawa St",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.764037",
+          "49.270877"
+        ]
+      },
+      "properties": {
+        "id": "3424",
+        "name": "Bright Future Childcare Ltd",
+        "address": "1784 Prairie Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.770496",
+          "49.243645"
+        ]
+      },
+      "properties": {
+        "id": "3466",
+        "name": "Creating Smiles - Kilmer",
+        "address": "1575 Knappen St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.740859",
+          "49.26335"
+        ]
+      },
+      "properties": {
+        "id": "3467",
+        "name": "Creating Smiles - Blakeburn",
+        "address": "1040 Riverside Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.754538",
+          "49.270907"
+        ]
+      },
+      "properties": {
+        "id": "3476",
+        "name": "Dream Builders Early Learning Centre",
+        "address": "1116-1470 Prairie Ave",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.744979",
+          "49.269456"
+        ]
+      },
+      "properties": {
+        "id": "3513",
+        "name": "Glade Abc Childcare Center",
+        "address": "1136 Glade Crt",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.780866",
+          "49.277514"
+        ]
+      },
+      "properties": {
+        "id": "3682",
+        "name": "Brightpath Port Coquitlam North",
+        "address": "3610 Hastings St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.786442",
+          "49.268168"
+        ]
+      },
+      "properties": {
+        "id": "3709",
+        "name": "Building Blocks",
+        "address": "2621 Davies Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.766073",
+          "49.288452"
+        ]
+      },
+      "properties": {
+        "id": "3721",
+        "name": "Coquitlam River Out Of School Care",
+        "address": "4250 Shaughnessy St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.767885",
+          "49.266202"
+        ]
+      },
+      "properties": {
+        "id": "3728",
+        "name": "Shelley's Family Daycare",
+        "address": "1926 Suffolk Ave",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.781436",
+          "49.244687"
+        ]
+      },
+      "properties": {
+        "id": "3792",
+        "name": "Lea's Cuddly Corner",
+        "address": "1598 Elinor Cres",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.772999",
+          "49.243916"
+        ]
+      },
+      "properties": {
+        "id": "3867",
+        "name": "True Colours Family Daycare",
+        "address": "1579 Pitt River Rd",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.763259",
+          "49.265682"
+        ]
+      },
+      "properties": {
+        "id": "4015",
+        "name": "Poco Happy Times Preschool",
+        "address": "1761 Westminster Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.754349",
+          "49.270081"
+        ]
+      },
+      "properties": {
+        "id": "4075",
+        "name": "Port Coquitlam Daycare",
+        "address": "3156 Coast Meridian Rd",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.754433",
+          "49.267776"
+        ]
+      },
+      "properties": {
+        "id": "4130",
+        "name": "Turtle Tots Daycare",
+        "address": "34-3046 Coast Meridian Rd",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.750718",
+          "49.285201"
+        ]
+      },
+      "properties": {
+        "id": "4143",
+        "name": "Apel Montessori Childcare Center",
+        "address": "1326 Apel Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.75925",
+          "49.264831"
+        ]
+      },
+      "properties": {
+        "id": "4161",
+        "name": "Glenwood Childcare Centre",
+        "address": "1610 Westminster Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.773238",
+          "49.266837"
+        ]
+      },
+      "properties": {
+        "id": "4172",
+        "name": "Honeybees Child Care Center",
+        "address": "121A 2099 Lougheed Hwy",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.741816",
+          "49.273161"
+        ]
+      },
+      "properties": {
+        "id": "4238",
+        "name": "Lincoln Park Childcare Centre",
+        "address": "3369 Cornwall St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.7644",
+          "49.264103"
+        ]
+      },
+      "properties": {
+        "id": "4240",
+        "name": "Space Mountain Learning Centre",
+        "address": "1772 Manchester Crt",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.743696",
+          "49.280523"
+        ]
+      },
+      "properties": {
+        "id": "4277",
+        "name": "Bcca Kids Club",
+        "address": "1019 Fernwood Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.753852",
+          "49.281247"
+        ]
+      },
+      "properties": {
+        "id": "4304",
+        "name": "Love & Care Family Daycare",
+        "address": "3839 Toronto St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.777768",
+          "49.231067"
+        ]
+      },
+      "properties": {
+        "id": "4361",
+        "name": "Magic Years Child Development Center",
+        "address": "2166 Drawbridge Close",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.780498",
+          "49.246047"
+        ]
+      },
+      "properties": {
+        "id": "4370",
+        "name": "All Aboard Child Care",
+        "address": "1620 Western Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.746741",
+          "49.264215"
+        ]
+      },
+      "properties": {
+        "id": "4391",
+        "name": "Brightstart Children's Academy Ltd",
+        "address": "1141 Riverwood Gate",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.771505",
+          "49.248573"
+        ]
+      },
+      "properties": {
+        "id": "4473",
+        "name": "Flowers Childcare",
+        "address": "1763 Pitt River Rd",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.790137",
+          "49.270638"
+        ]
+      },
+      "properties": {
+        "id": "4504",
+        "name": "The Beautiful Montessori Daycare",
+        "address": "104-3242 Westwood St",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.778666",
+          "49.249377"
+        ]
+      },
+      "properties": {
+        "id": "4551",
+        "name": "Caring Hearts Child Care",
+        "address": "1805 Aire Cres",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.778527",
+          "49.250595"
+        ]
+      },
+      "properties": {
+        "id": "4564",
+        "name": "Caring Hearts Child Care",
+        "address": "1854 Western Dr",
+        "city": "Port Coquitlam",
+        "services": [
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.768439",
+          "49.249874"
+        ]
+      },
+      "properties": {
+        "id": "4567",
+        "name": "Precious Moments Family Child Care",
+        "address": "1860 Langan Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.756568",
+          "49.276944"
+        ]
+      },
+      "properties": {
+        "id": "4654",
+        "name": "Early Learning Childcare Centre",
+        "address": "3635 Coast Meridian Rd",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.756604",
+          "49.273919"
+        ]
+      },
+      "properties": {
+        "id": "4758",
+        "name": "Alegria Childcare",
+        "address": "3433 Coast Meridian Rd",
+        "city": "Port Coquitlam",
+        "services": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.747482",
+          "49.260259"
+        ]
+      },
+      "properties": {
+        "id": "4759",
+        "name": "B & W Montessori Learning Academy",
+        "address": "2462 Yangtze Gate",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.755624",
+          "49.271998"
+        ]
+      },
+      "properties": {
+        "id": "4828",
+        "name": "Stay 'N' Play Group Daycare",
+        "address": "3260 Coast Meridian Rd",
+        "city": "Port Coquitlam",
+        "services": [
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.764759",
+          "49.28063"
+        ]
+      },
+      "properties": {
+        "id": "4852",
+        "name": "Sherri's Daycare",
+        "address": "3806 Clematis Cres",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.780494",
+          "49.26112"
+        ]
+      },
+      "properties": {
+        "id": "4883",
+        "name": "Bramblewood Montessori Child Care Center Ltd.",
+        "address": "201 2255 Wilson Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.778628",
+          "49.265884"
+        ]
+      },
+      "properties": {
+        "id": "4888",
+        "name": "Lions Park Montessori",
+        "address": "50 2789 Shaughnessy St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.785299",
+          "49.275027"
+        ]
+      },
+      "properties": {
+        "id": "4992",
+        "name": "Anna's Playhouse Daycare",
+        "address": "2581 Kitchener Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.79008",
+          "49.269871"
+        ]
+      },
+      "properties": {
+        "id": "5004",
+        "name": "Early Learning Childcare Centre",
+        "address": "101 3200 Westwood St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.762592",
+          "49.267341"
+        ]
+      },
+      "properties": {
+        "id": "5063",
+        "name": "Coast Meridian Montessori Pre-School Ltd",
+        "address": "1730 Coquitlam Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.756487",
+          "49.26661"
+        ]
+      },
+      "properties": {
+        "id": "5073",
+        "name": "Flowers Family Child Care",
+        "address": "2977 Coast Meridian Rd",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.782539",
+          "49.275077"
+        ]
+      },
+      "properties": {
+        "id": "5113",
+        "name": "Westwood Park Daycare",
+        "address": "3529 Hastings St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.761952",
+          "49.273803"
+        ]
+      },
+      "properties": {
+        "id": "5129",
+        "name": "Little Lamb's Daycare Inc.",
+        "address": "1711 Dorset Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.764996",
+          "49.270326"
+        ]
+      },
+      "properties": {
+        "id": "5149",
+        "name": "Schola Bohemia Services",
+        "address": "3151 York St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.751962",
+          "49.271868"
+        ]
+      },
+      "properties": {
+        "id": "5194",
+        "name": "Littles And Middles Dayhome",
+        "address": "1352 Oriole Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.772972",
+          "49.245862"
+        ]
+      },
+      "properties": {
+        "id": "5197",
+        "name": "D's Daycare",
+        "address": "1639 Pitt River Rd",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.744448",
+          "49.260998"
+        ]
+      },
+      "properties": {
+        "id": "5198",
+        "name": "Riverside Childcare",
+        "address": "1183 Riverside Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.790112",
+          "49.269817"
+        ]
+      },
+      "properties": {
+        "id": "5212",
+        "name": "School Of Early Learning",
+        "address": "103 3200 Westwood St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.763896",
+          "49.274467"
+        ]
+      },
+      "properties": {
+        "id": "5244",
+        "name": "All About The Kids",
+        "address": "1768 Laurier Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.744409",
+          "49.271503"
+        ]
+      },
+      "properties": {
+        "id": "5362",
+        "name": "Stepping Stones Childcare Centre",
+        "address": "1089 Prairie Ave",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.754467",
+          "49.259185"
+        ]
+      },
+      "properties": {
+        "id": "5408",
+        "name": "Monte-Reggio Child Care",
+        "address": "2407 Bennie Pl",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.743084",
+          "49.285511"
+        ]
+      },
+      "properties": {
+        "id": "5427",
+        "name": "Little Blessings Childcare Centre",
+        "address": "1042 Victoria Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.755416",
+          "49.259809"
+        ]
+      },
+      "properties": {
+        "id": "5428",
+        "name": "Little Plum Tree Daycare",
+        "address": "2421 Gillespie St",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.785907",
+          "49.231861"
+        ]
+      },
+      "properties": {
+        "id": "5497",
+        "name": "La Vie Est Belle Childcare Centre",
+        "address": "1103 Confederation Dr",
+        "city": "Port Coquitlam",
+        "services": []
+      }
+    }
+  ]
+}
