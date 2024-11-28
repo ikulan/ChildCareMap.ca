@@ -1,0 +1,1346 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.169496",
+          "49.334635"
+        ]
+      },
+      "properties": {
+        "id": "75",
+        "name": "Pj Kids Club",
+        "address": "1150 22Nd St",
+        "city": "West Vancouver",
+        "phone": "604-926-5972",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135759",
+          "49.336752"
+        ]
+      },
+      "properties": {
+        "id": "163",
+        "name": "Gatehouse Montessori Preschool - Class 1 2 & 3",
+        "address": "1305 Taylor Way",
+        "city": "West Vancouver",
+        "phone": "604-925-1437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.144963",
+          "49.334215"
+        ]
+      },
+      "properties": {
+        "id": "188",
+        "name": "Stars For Life Childcare Education",
+        "address": "1068 Inglewood Ave",
+        "city": "West Vancouver",
+        "phone": "778-899-4686",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.181594",
+          "49.333334"
+        ]
+      },
+      "properties": {
+        "id": "195",
+        "name": "Dundarave Preschool By The Sea",
+        "address": "2478 Bellevue Ave",
+        "city": "West Vancouver",
+        "phone": "604-922-7437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.150693",
+          "49.33723"
+        ]
+      },
+      "properties": {
+        "id": "257",
+        "name": "Camp Ridgeview",
+        "address": "1250 Mathers Ave",
+        "city": "West Vancouver",
+        "phone": "604-926-9142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.152675",
+          "49.330068"
+        ]
+      },
+      "properties": {
+        "id": "258",
+        "name": "Holly House",
+        "address": "1329 Duchess Ave",
+        "city": "West Vancouver",
+        "phone": "604-926-9142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135816",
+          "49.338533"
+        ]
+      },
+      "properties": {
+        "id": "331",
+        "name": "Acorn Early Education Centre",
+        "address": "1525 Taylor Way",
+        "city": "West Vancouver",
+        "phone": "604-922-2933",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.203286",
+          "49.343974"
+        ]
+      },
+      "properties": {
+        "id": "380",
+        "name": "Early Inquirers Preschool Ltd.",
+        "address": "3175 Thompson Pl",
+        "city": "West Vancouver",
+        "phone": "604-926-6836",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135753",
+          "49.336754"
+        ]
+      },
+      "properties": {
+        "id": "688",
+        "name": "Child Connect Early Learning",
+        "address": "1305 Taylor Way",
+        "city": "West Vancouver",
+        "phone": "604-281-4410",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.159809",
+          "49.332183"
+        ]
+      },
+      "properties": {
+        "id": "1168",
+        "name": "Ambleside Montessori",
+        "address": "860 17Th St",
+        "city": "West Vancouver",
+        "phone": "604-961-3469",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.134509",
+          "49.330606"
+        ]
+      },
+      "properties": {
+        "id": "1186",
+        "name": "Taylor Way Childcare Centre",
+        "address": "694 Keith Rd",
+        "city": "West Vancouver",
+        "phone": "604-828-8222",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.277504",
+          "49.364695"
+        ]
+      },
+      "properties": {
+        "id": "1205",
+        "name": "Gleneagles Saplings",
+        "address": "6262 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "226-978-5527",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.128396",
+          "49.334244"
+        ]
+      },
+      "properties": {
+        "id": "1288",
+        "name": "A Plus Daycare",
+        "address": "490 Macbeth Cres",
+        "city": "West Vancouver",
+        "phone": "778-887-1414",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.277504",
+          "49.364695"
+        ]
+      },
+      "properties": {
+        "id": "1334",
+        "name": "Gleneagles Saplings",
+        "address": "6262 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "778-838-0335",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.203288",
+          "49.343953"
+        ]
+      },
+      "properties": {
+        "id": "1335",
+        "name": "West Bay Saplings",
+        "address": "3175 Thompson Pl",
+        "city": "West Vancouver",
+        "phone": "778-838-0335",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.149071",
+          "49.341456"
+        ]
+      },
+      "properties": {
+        "id": "1349",
+        "name": "The Otta Daycare",
+        "address": "1255 Ottaburn Rd",
+        "city": "West Vancouver",
+        "phone": "778-863-8963",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.121326",
+          "49.322218"
+        ]
+      },
+      "properties": {
+        "id": "1601",
+        "name": "Mother Bear Child Development Capilano",
+        "address": "206 Lawa Ave",
+        "city": "West Vancouver",
+        "phone": "604-319-7286",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.121326",
+          "49.322218"
+        ]
+      },
+      "properties": {
+        "id": "1602",
+        "name": "Mother Bear Child Development Capilano",
+        "address": "206 Lawa Ave",
+        "city": "West Vancouver",
+        "phone": "604-319-7286",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.14493",
+          "49.33423"
+        ]
+      },
+      "properties": {
+        "id": "1658",
+        "name": "Stars For Life Childcare Education",
+        "address": "1068 Inglewood Ave",
+        "city": "West Vancouver",
+        "phone": "778-899-4686",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.152675",
+          "49.330068"
+        ]
+      },
+      "properties": {
+        "id": "1858",
+        "name": "Hollyburn Elementary Seamless Day Before And After School",
+        "address": "1329 Duchess Ave",
+        "city": "West Vancouver",
+        "phone": "604-981-1220",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.126641",
+          "49.360306"
+        ]
+      },
+      "properties": {
+        "id": "1936",
+        "name": "Birdhouse Montessori",
+        "address": "591 St. Giles Rd",
+        "city": "West Vancouver",
+        "phone": "604-353-7181",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.267228",
+          "49.35897"
+        ]
+      },
+      "properties": {
+        "id": "2036",
+        "name": "Marina Bay Academy",
+        "address": "3-5775 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "778-984-3200",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.267228",
+          "49.35897"
+        ]
+      },
+      "properties": {
+        "id": "2037",
+        "name": "Marina Bay Academy",
+        "address": "3-5775 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "778-984-3200",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135815",
+          "49.327534"
+        ]
+      },
+      "properties": {
+        "id": "2150",
+        "name": "Cefa Park Royal",
+        "address": "727 Park Royal North",
+        "city": "West Vancouver",
+        "phone": "604-281-0720",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135815",
+          "49.327534"
+        ]
+      },
+      "properties": {
+        "id": "2151",
+        "name": "Cefa Park Royal",
+        "address": "727 Park Royal North",
+        "city": "West Vancouver",
+        "phone": "604-281-0720",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.251104",
+          "49.344693"
+        ]
+      },
+      "properties": {
+        "id": "2226",
+        "name": "Taking Shape Preschool",
+        "address": "4685 Keith Rd",
+        "city": "West Vancouver",
+        "phone": "778-839-1982",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.180618",
+          "49.335898"
+        ]
+      },
+      "properties": {
+        "id": "2255",
+        "name": "Irwin Park Elementary Seamless Day Before And After School",
+        "address": "2455 Haywood Ave",
+        "city": "West Vancouver",
+        "phone": "604-981-1240",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.146155",
+          "49.336074"
+        ]
+      },
+      "properties": {
+        "id": "2290",
+        "name": "Kidikare Early Learning Centre",
+        "address": "1112 Kings Ave",
+        "city": "West Vancouver",
+        "phone": "604-364-9848",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.146422",
+          "49.333758"
+        ]
+      },
+      "properties": {
+        "id": "2300",
+        "name": "Ambleside Montessori 2",
+        "address": "1115 Haywood Ave",
+        "city": "West Vancouver",
+        "phone": "604-961-3469",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.128396",
+          "49.334244"
+        ]
+      },
+      "properties": {
+        "id": "2483",
+        "name": "A Plus Daycare",
+        "address": "490 Macbeth Crescent",
+        "city": "West Vancouver",
+        "phone": "778-887-1414",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.277504",
+          "49.364695"
+        ]
+      },
+      "properties": {
+        "id": "2491",
+        "name": "Gleneagles Saplings",
+        "address": "6262 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "778-838-0335",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13589",
+          "49.338532"
+        ]
+      },
+      "properties": {
+        "id": "2558",
+        "name": "Treetops Montessori",
+        "address": "1525 Taylor Way",
+        "city": "West Vancouver",
+        "phone": "604-925-2414",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.276273",
+          "49.371823"
+        ]
+      },
+      "properties": {
+        "id": "2813",
+        "name": "Cora Early Learning",
+        "address": "6388 Argyle Ave",
+        "city": "West Vancouver",
+        "phone": "778-985-4595",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.152466",
+          "49.346833"
+        ]
+      },
+      "properties": {
+        "id": "2872",
+        "name": "Chartwell Elementary Just B4 Early Childhood Education Progr",
+        "address": "1300 Chartwell Dr",
+        "city": "West Vancouver",
+        "phone": "604-981-1210",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.193784",
+          "49.33797"
+        ]
+      },
+      "properties": {
+        "id": "2976",
+        "name": "Blossoms@Bellevue Academy",
+        "address": "2893 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "778-288-0052",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.162908",
+          "49.328977"
+        ]
+      },
+      "properties": {
+        "id": "3142",
+        "name": "Little Legends Academy",
+        "address": "1821 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "236-323-2009",
+        "services": [
+          "Under 36 months",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.162908",
+          "49.328977"
+        ]
+      },
+      "properties": {
+        "id": "3143",
+        "name": "Little Legends Academy",
+        "address": "1821 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "236-323-2009",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.140806",
+          "49.354738"
+        ]
+      },
+      "properties": {
+        "id": "3155",
+        "name": "West Vancouver Monarch Montessori Daycare",
+        "address": "1106 Gilston Rd",
+        "city": "West Vancouver",
+        "phone": "604-970-0008",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.173169",
+          "49.332605"
+        ]
+      },
+      "properties": {
+        "id": "3174",
+        "name": "Kinder Years Childcare",
+        "address": "2264 Gordon Ave",
+        "city": "West Vancouver",
+        "phone": "604-921-2375",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135429",
+          "49.339321"
+        ]
+      },
+      "properties": {
+        "id": "3303",
+        "name": "Kidikare Early Learning Centre - Taylor",
+        "address": "1585 Taylor Way",
+        "city": "West Vancouver",
+        "phone": "604-364-9848",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.152025",
+          "49.337508"
+        ]
+      },
+      "properties": {
+        "id": "3304",
+        "name": "Kidikare Early Learning Centre - Lawson",
+        "address": "1315 Lawson  Avenue",
+        "city": "West Vancouver",
+        "phone": "604-364-9848",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.134535",
+          "49.332867"
+        ]
+      },
+      "properties": {
+        "id": "3330",
+        "name": "Indigo Meadow Learning Centre",
+        "address": "950 Taylor Way",
+        "city": "West Vancouver",
+        "phone": "778-814-2945",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.171418",
+          "49.340332"
+        ]
+      },
+      "properties": {
+        "id": "3360",
+        "name": "Blue Ocean Daycare",
+        "address": "2221 Ottawa Ave",
+        "city": "West Vancouver",
+        "phone": "236-881-3775",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.152466",
+          "49.346833"
+        ]
+      },
+      "properties": {
+        "id": "3418",
+        "name": "Top Drawer Daycares Inc.",
+        "address": "1300 Chartwell Dr",
+        "city": "West Vancouver",
+        "phone": "604-218-7055",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.16503",
+          "49.342866"
+        ]
+      },
+      "properties": {
+        "id": "3541",
+        "name": "Cute Flowers Child Care Centre",
+        "address": "1890 Rosebery Ave",
+        "city": "West Vancouver",
+        "phone": "778-317-4694",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.27747",
+          "49.368558"
+        ]
+      },
+      "properties": {
+        "id": "3653",
+        "name": "Jumpstart Preschool",
+        "address": "6350 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "604-787-4588",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.251104",
+          "49.344693"
+        ]
+      },
+      "properties": {
+        "id": "3746",
+        "name": "Connections Kids Club - Caulfeild",
+        "address": "4685 Keith Rd",
+        "city": "West Vancouver",
+        "phone": "604-271-7600",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.169496",
+          "49.334635"
+        ]
+      },
+      "properties": {
+        "id": "3848",
+        "name": "Pj Kids Club",
+        "address": "1150 22Nd St",
+        "city": "West Vancouver",
+        "phone": "604-926-5972",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.254188",
+          "49.33946"
+        ]
+      },
+      "properties": {
+        "id": "3883",
+        "name": "Tiddlycove Montessori School",
+        "address": "4773 Picadilly South",
+        "city": "West Vancouver",
+        "phone": "604-204-7472",
+        "services": [
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.167249",
+          "49.330433"
+        ]
+      },
+      "properties": {
+        "id": "3895",
+        "name": "Daycare Plus Child Development Centre",
+        "address": "2062 Esquimalt Ave",
+        "city": "West Vancouver",
+        "phone": "604-913-1095",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.251104",
+          "49.344693"
+        ]
+      },
+      "properties": {
+        "id": "3970",
+        "name": "Taking Shape Preschool",
+        "address": "4685 Keith Rd",
+        "city": "West Vancouver",
+        "phone": "778-839-1982",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135759",
+          "49.336752"
+        ]
+      },
+      "properties": {
+        "id": "3971",
+        "name": "Gatehouse Montessori Group Daycare - Class 1 & 2",
+        "address": "1305 Taylor Way",
+        "city": "West Vancouver",
+        "phone": "604-925-1437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135816",
+          "49.338533"
+        ]
+      },
+      "properties": {
+        "id": "3973",
+        "name": "Acorn Early Education Centre",
+        "address": "1525 Taylor Way",
+        "city": "West Vancouver",
+        "phone": "604-922-2933",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.169496",
+          "49.334635"
+        ]
+      },
+      "properties": {
+        "id": "4007",
+        "name": "West Vancouver Playschool",
+        "address": "1150 22Nd St",
+        "city": "West Vancouver",
+        "phone": "604-922-4214",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.131371",
+          "49.333513"
+        ]
+      },
+      "properties": {
+        "id": "4069",
+        "name": "La Maison",
+        "address": "595 Burley Dr",
+        "city": "West Vancouver",
+        "phone": "604-926-9142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.180618",
+          "49.335898"
+        ]
+      },
+      "properties": {
+        "id": "4088",
+        "name": "Irwin Park Tree House",
+        "address": "2455 Haywood Ave",
+        "city": "West Vancouver",
+        "phone": "604-926-4080",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.180618",
+          "49.335898"
+        ]
+      },
+      "properties": {
+        "id": "4089",
+        "name": "Irwin Park Tree House",
+        "address": "2455 Haywood Ave",
+        "city": "West Vancouver",
+        "phone": "604-926-4080",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.19313",
+          "49.338079"
+        ]
+      },
+      "properties": {
+        "id": "4119",
+        "name": "Altamont Child Development Centre Inc.",
+        "address": "2879 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "604-922-3435",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.19313",
+          "49.338079"
+        ]
+      },
+      "properties": {
+        "id": "4120",
+        "name": "Altamont Child Development Centre Inc.",
+        "address": "2879 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "604-922-3435",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.237838",
+          "49.34123"
+        ]
+      },
+      "properties": {
+        "id": "4129",
+        "name": "Cypress Park Playschool",
+        "address": "4355 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "604-922-4214",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.171422",
+          "49.332637"
+        ]
+      },
+      "properties": {
+        "id": "4275",
+        "name": "Olive Grove West",
+        "address": "885 22 St",
+        "city": "West Vancouver",
+        "phone": "604-281-1822",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.171422",
+          "49.332637"
+        ]
+      },
+      "properties": {
+        "id": "4276",
+        "name": "Olive Grove West",
+        "address": "885 22 St",
+        "city": "West Vancouver",
+        "phone": "604-281-1822",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.170768",
+          "49.332254"
+        ]
+      },
+      "properties": {
+        "id": "4474",
+        "name": "Gordon House Childcare",
+        "address": "Gordon House Childcare 2104 Gordon Avenue",
+        "city": "West Vancouver",
+        "phone": "604-786-2577",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.1678",
+          "49.332559"
+        ]
+      },
+      "properties": {
+        "id": "4475",
+        "name": "Gordon House Childcare",
+        "address": "2104 Gordon Ave",
+        "city": "West Vancouver",
+        "phone": "604-786-2577",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.146842",
+          "49.324435"
+        ]
+      },
+      "properties": {
+        "id": "4522",
+        "name": "Ambleside Park Childcare",
+        "address": "1093 Par Rd",
+        "city": "West Vancouver",
+        "phone": "604-786-2577",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.146842",
+          "49.324435"
+        ]
+      },
+      "properties": {
+        "id": "4523",
+        "name": "Ambleside Park Childcare",
+        "address": "1093 Par Rd",
+        "city": "West Vancouver",
+        "phone": "604-786-2577",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.125435",
+          "49.336941"
+        ]
+      },
+      "properties": {
+        "id": "4554",
+        "name": "Kuddles Early Infant Stimulation Centre",
+        "address": "370 Mathers Ave",
+        "city": "West Vancouver",
+        "phone": "604-729-6538",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.196132",
+          "49.349178"
+        ]
+      },
+      "properties": {
+        "id": "4614",
+        "name": "Mulgrave Early Learning Centre",
+        "address": "2330 Cypress Lane",
+        "city": "West Vancouver",
+        "phone": "604-922-3223",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.125457",
+          "49.33703"
+        ]
+      },
+      "properties": {
+        "id": "4652",
+        "name": "Kuddles Early Infant Stimulation Centre",
+        "address": "370 Mathers Ave",
+        "city": "West Vancouver",
+        "phone": "604-729-6538",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.260119",
+          "49.353729"
+        ]
+      },
+      "properties": {
+        "id": "4661",
+        "name": "Eagle Harbour Montessori Childcare",
+        "address": "5575 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "604-783-6604",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.136489",
+          "49.339729"
+        ]
+      },
+      "properties": {
+        "id": "4951",
+        "name": "Club West",
+        "address": "760 Westcot Rd",
+        "city": "West Vancouver",
+        "phone": "604-926-9142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.237761",
+          "49.341196"
+        ]
+      },
+      "properties": {
+        "id": "5020",
+        "name": "Cypress Park Kids Club",
+        "address": "4355 Marine Dr",
+        "city": "West Vancouver",
+        "phone": "604-202-1918",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135816",
+          "49.338533"
+        ]
+      },
+      "properties": {
+        "id": "5148",
+        "name": "Olive Branch Childcare",
+        "address": "1525 Taylor Way",
+        "city": "West Vancouver",
+        "phone": "604-281-1871",
+        "services": []
+      }
+    }
+  ]
+}

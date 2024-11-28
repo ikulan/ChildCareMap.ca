@@ -1,0 +1,2747 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.483527",
+          "49.870191"
+        ]
+      },
+      "properties": {
+        "id": "29",
+        "name": "Discovery World Daycare",
+        "address": "870 Francis Ave",
+        "city": "Kelowna",
+        "phone": "250-868-7395",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.471838",
+          "49.858672"
+        ]
+      },
+      "properties": {
+        "id": "206",
+        "name": "Kids Corner Daycare",
+        "address": "3261 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "250-861-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.484791",
+          "49.879427"
+        ]
+      },
+      "properties": {
+        "id": "273",
+        "name": "The Clubhouse At Sutherland",
+        "address": "839 Sutherland Ave",
+        "city": "Kelowna",
+        "phone": "250-860-4393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.441101",
+          "49.923107"
+        ]
+      },
+      "properties": {
+        "id": "354",
+        "name": "Glenmore Recreation After School Program",
+        "address": "239 Snowsell St",
+        "city": "Kelowna",
+        "phone": "250-763-6343",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.396387",
+          "49.842817"
+        ]
+      },
+      "properties": {
+        "id": "356",
+        "name": "For The Kids Daycare Centre",
+        "address": "3770 Water Rd",
+        "city": "Kelowna",
+        "phone": "250-762-3661",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.471613",
+          "49.858471"
+        ]
+      },
+      "properties": {
+        "id": "359",
+        "name": "Kelowna Christian School",
+        "address": "3285 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "250-861-5432",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.463375",
+          "49.879823"
+        ]
+      },
+      "properties": {
+        "id": "362",
+        "name": "Cornerstone Early Learning Center",
+        "address": "1920 Dunn St",
+        "city": "Kelowna",
+        "phone": "250-717-1818",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.481529",
+          "49.886922"
+        ]
+      },
+      "properties": {
+        "id": "409",
+        "name": "Daycare Connection",
+        "address": "934 Bernard Ave",
+        "city": "Kelowna",
+        "phone": "250-860-2721",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.371978",
+          "49.889694"
+        ]
+      },
+      "properties": {
+        "id": "438",
+        "name": "Butterfly Kisses",
+        "address": "770 Stearns Rd",
+        "city": "Kelowna",
+        "phone": "250-826-7298",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.49639",
+          "49.821855"
+        ]
+      },
+      "properties": {
+        "id": "467",
+        "name": "Friends Family Day Care",
+        "address": "476 Barkley Rd",
+        "city": "Kelowna",
+        "phone": "250-764-0924",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.393087",
+          "49.88594"
+        ]
+      },
+      "properties": {
+        "id": "470",
+        "name": "Dougall Road Daycare",
+        "address": "320 Dougall Rd S",
+        "city": "Kelowna",
+        "phone": "250-765-4340",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.457724",
+          "49.893227"
+        ]
+      },
+      "properties": {
+        "id": "471",
+        "name": "Carla's Daycare",
+        "address": "1755 Highland Dr N",
+        "city": "Kelowna",
+        "phone": "250-869-9775",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.480547",
+          "49.853117"
+        ]
+      },
+      "properties": {
+        "id": "637",
+        "name": "The Clubhouse At Casorso",
+        "address": "3675 Casorso Rd",
+        "city": "Kelowna",
+        "phone": "250-860-4393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.440642",
+          "49.914423"
+        ]
+      },
+      "properties": {
+        "id": "709",
+        "name": "Little Owl Academy",
+        "address": "615-1984 Kane Rd",
+        "city": "Kelowna",
+        "phone": "778-898-4544",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.385616",
+          "49.891352"
+        ]
+      },
+      "properties": {
+        "id": "845",
+        "name": "Happy Kids Day Care",
+        "address": "270 Sadler Rd",
+        "city": "Kelowna",
+        "phone": "778-821-2080",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.457066",
+          "49.861276"
+        ]
+      },
+      "properties": {
+        "id": "873",
+        "name": "Creative Advantage Klo",
+        "address": "7-1790 K.L.O. Rd",
+        "city": "Kelowna",
+        "phone": "778-484-3400",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.488593",
+          "49.873645"
+        ]
+      },
+      "properties": {
+        "id": "898",
+        "name": "Kidz World Childcare",
+        "address": "2248 Richter St",
+        "city": "Kelowna",
+        "phone": "250-575-3680",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.380718",
+          "49.902182"
+        ]
+      },
+      "properties": {
+        "id": "911",
+        "name": "Isy's Daycare",
+        "address": "303 Phipps Cres",
+        "city": "Kelowna",
+        "phone": "250-765-1800",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.457748",
+          "49.906595"
+        ]
+      },
+      "properties": {
+        "id": "932",
+        "name": "Whisker's Daycare",
+        "address": "1772 Spruceglen Dr",
+        "city": "Kelowna",
+        "phone": "250-878-9984",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.359125",
+          "49.936219"
+        ]
+      },
+      "properties": {
+        "id": "962",
+        "name": "Learn N' Play Home Daycare",
+        "address": "3530 Weston Rd",
+        "city": "Kelowna",
+        "phone": "250-863-6243",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.455908",
+          "49.90383"
+        ]
+      },
+      "properties": {
+        "id": "1059",
+        "name": "The Purple Toad Daycare",
+        "address": "1809 Ivans Ave",
+        "city": "Kelowna",
+        "phone": "250-878-2984",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.406289",
+          "49.879534"
+        ]
+      },
+      "properties": {
+        "id": "1071",
+        "name": "Smiles & Chuckles Family Daycare",
+        "address": "670 Mitchell Rd",
+        "city": "Kelowna",
+        "phone": "250-861-6114",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.469003",
+          "49.878959"
+        ]
+      },
+      "properties": {
+        "id": "1116",
+        "name": "The Lil' Cottage Educational Daycare",
+        "address": "1398 Mcinnes Ave",
+        "city": "Kelowna",
+        "phone": "250-681-4474",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.489585",
+          "49.866775"
+        ]
+      },
+      "properties": {
+        "id": "1238",
+        "name": "Kelowna Kids Co.",
+        "address": "201-2750 Richter St",
+        "city": "Kelowna",
+        "phone": "778-392-8432",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.474768",
+          "49.813443"
+        ]
+      },
+      "properties": {
+        "id": "1262",
+        "name": "Cozy House Family Daycare",
+        "address": "853 Hammer Ave",
+        "city": "Kelowna",
+        "phone": "250-864-5122",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.477795",
+          "49.875998"
+        ]
+      },
+      "properties": {
+        "id": "1271",
+        "name": "Okanagan Boys And Girls Clubs - A.S. Matheson",
+        "address": "2090 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "250-762-3989",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.412926",
+          "49.881659"
+        ]
+      },
+      "properties": {
+        "id": "1272",
+        "name": "Tiny Treasures",
+        "address": "1 1310 Graham Rd",
+        "city": "Kelowna",
+        "phone": "236-795-8172",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.388999",
+          "49.890283"
+        ]
+      },
+      "properties": {
+        "id": "1282",
+        "name": "Lil' Bloomers Childcare",
+        "address": "215 Shepherd Rd",
+        "city": "Kelowna",
+        "phone": "250-868-7259",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.471116",
+          "49.811273"
+        ]
+      },
+      "properties": {
+        "id": "1360",
+        "name": "Treehouse Forest Preschool",
+        "address": "4711 Raymer Rd",
+        "city": "Kelowna",
+        "phone": "250-860-4393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.391119",
+          "49.906613"
+        ]
+      },
+      "properties": {
+        "id": "1465",
+        "name": "Natural Beginnings Childcare",
+        "address": "310 Hillaby Ave",
+        "city": "Kelowna",
+        "phone": "250-801-2167",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.463254",
+          "49.89998"
+        ]
+      },
+      "properties": {
+        "id": "1473",
+        "name": "Glenmore Little Bears Early Years Centre",
+        "address": "1603 Sonora Dr",
+        "city": "Kelowna",
+        "phone": "250-808-5216",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.39705",
+          "49.878786"
+        ]
+      },
+      "properties": {
+        "id": "1490",
+        "name": "Rainbow Daycare",
+        "address": "842 Juniper Rd",
+        "city": "Kelowna",
+        "phone": "236-338-0444",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.453255",
+          "49.883461"
+        ]
+      },
+      "properties": {
+        "id": "1521",
+        "name": "Cefa Early Learning Spall Road",
+        "address": "3-1745 Spall Rd",
+        "city": "Kelowna",
+        "phone": "236-361-5511",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.388649",
+          "49.907216"
+        ]
+      },
+      "properties": {
+        "id": "1531",
+        "name": "Big Dreamers Daycare - Mac House",
+        "address": "155 Fitzpatrick Rd",
+        "city": "Kelowna",
+        "phone": "250-765-5777",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.477935",
+          "49.8499"
+        ]
+      },
+      "properties": {
+        "id": "1539",
+        "name": "Cloud Nine Kids Childcare Centre",
+        "address": "3714 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "778-392-8555",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.375376",
+          "49.88468"
+        ]
+      },
+      "properties": {
+        "id": "1545",
+        "name": "Shaeas Daycare",
+        "address": "420 Brighton Rd",
+        "city": "Kelowna",
+        "phone": "604-226-3367",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.399484",
+          "49.898856"
+        ]
+      },
+      "properties": {
+        "id": "1576",
+        "name": "Ymca-Pearson Out Of School Care",
+        "address": "700 Pearson Rd",
+        "city": "Kelowna",
+        "phone": "250-317-9120",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.457202",
+          "49.887409"
+        ]
+      },
+      "properties": {
+        "id": "1596",
+        "name": "Parkinson Recreation Centre Licensed Preschool",
+        "address": "1800 Parkinson Way",
+        "city": "Kelowna",
+        "phone": "250-470-0639",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.487845",
+          "49.874585"
+        ]
+      },
+      "properties": {
+        "id": "1623",
+        "name": "Linda's \"Little People\" Family Daycare",
+        "address": "2197 Richter St",
+        "city": "Kelowna",
+        "phone": "250-301-6547",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.486443",
+          "49.813057"
+        ]
+      },
+      "properties": {
+        "id": "1642",
+        "name": "Auntie's House",
+        "address": "642 Thorneloe Rd",
+        "city": "Kelowna",
+        "phone": "250-864-2304",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.473903",
+          "49.886756"
+        ]
+      },
+      "properties": {
+        "id": "1672",
+        "name": "World Within Early Learning",
+        "address": "1491 D Anjou St",
+        "city": "Kelowna",
+        "phone": "250-864-9946",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.483837",
+          "49.835442"
+        ]
+      },
+      "properties": {
+        "id": "1860",
+        "name": "Garde Scolaire L'anse-Au-Sable",
+        "address": "675 Lequime Rd",
+        "city": "Kelowna",
+        "phone": "250-764-2771",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.483837",
+          "49.835442"
+        ]
+      },
+      "properties": {
+        "id": "1881",
+        "name": "Garderie Les Libellules",
+        "address": "675 Lequime Rd",
+        "city": "Kelowna",
+        "phone": "604-736-5056",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.435495",
+          "49.919014"
+        ]
+      },
+      "properties": {
+        "id": "1883",
+        "name": "Knox Kids Co.",
+        "address": "228 Valley Rd",
+        "city": "Kelowna",
+        "phone": "250-470-7858",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.380324",
+          "49.895068"
+        ]
+      },
+      "properties": {
+        "id": "1895",
+        "name": "Simple Wonders Okanagan Childcare",
+        "address": "410 Hardie Rd",
+        "city": "Kelowna",
+        "phone": "250-718-1922",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.471606",
+          "49.891621"
+        ]
+      },
+      "properties": {
+        "id": "1950",
+        "name": "Bankhead Elementary School",
+        "address": "1280 Wilson Ave",
+        "city": "Kelowna",
+        "phone": "250-870-5114",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.384186",
+          "49.905643"
+        ]
+      },
+      "properties": {
+        "id": "1966",
+        "name": "Tnt Family Child Care",
+        "address": "220 Wallace Rd",
+        "city": "Kelowna",
+        "phone": "250-808-3633",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.484558",
+          "49.856319"
+        ]
+      },
+      "properties": {
+        "id": "2019",
+        "name": "Playhouse",
+        "address": "3501 Casorso Rd",
+        "city": "Kelowna",
+        "phone": "778-363-9343",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.379465",
+          "49.888089"
+        ]
+      },
+      "properties": {
+        "id": "2021",
+        "name": "Sparkling Stars Daycare",
+        "address": "171 Molnar Rd",
+        "city": "Kelowna",
+        "phone": "236-795-2498",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.424481",
+          "49.884659"
+        ]
+      },
+      "properties": {
+        "id": "2074",
+        "name": "Dynamic After School Care",
+        "address": "1880A Baron Rd",
+        "city": "Kelowna",
+        "phone": "250-763-8584",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.492024",
+          "49.884526"
+        ]
+      },
+      "properties": {
+        "id": "2087",
+        "name": "Produckidvity Academy - Leon",
+        "address": "538 Leon Ave",
+        "city": "Kelowna",
+        "phone": "778-214-7406",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.512033",
+          "49.794345"
+        ]
+      },
+      "properties": {
+        "id": "2094",
+        "name": "Elowyn - Kettle Valley",
+        "address": "103-5309 Main St",
+        "city": "Kelowna",
+        "phone": "778-477-3095",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.375892",
+          "49.904319"
+        ]
+      },
+      "properties": {
+        "id": "2106",
+        "name": "Discovery Years Childcare",
+        "address": "585 Patrick Rd",
+        "city": "Kelowna",
+        "phone": "250-878-5715",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.44763",
+          "49.915723"
+        ]
+      },
+      "properties": {
+        "id": "2115",
+        "name": "Coronation Montessori Preschool",
+        "address": "422 Ballou Pl",
+        "city": "Kelowna",
+        "phone": "778-484-3121",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.444233",
+          "49.876824"
+        ]
+      },
+      "properties": {
+        "id": "2120",
+        "name": "Ohana Academy Inc.",
+        "address": "2091 Springfield Rd",
+        "city": "Kelowna",
+        "phone": "250-317-6406",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.397316",
+          "49.873374"
+        ]
+      },
+      "properties": {
+        "id": "2128",
+        "name": "Starseeds",
+        "address": "580 Peck Rd",
+        "city": "Kelowna",
+        "phone": "250-584-4961",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.415973",
+          "49.886684"
+        ]
+      },
+      "properties": {
+        "id": "2157",
+        "name": "Little Leaps And Bounds Day Center",
+        "address": "265 Terai Court",
+        "city": "Kelowna",
+        "phone": "250-575-4492",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.45191",
+          "49.86049"
+        ]
+      },
+      "properties": {
+        "id": "2379",
+        "name": "Village Childcare",
+        "address": "1959 K. L. O. Rd",
+        "city": "Kelowna",
+        "phone": "250-300-5498",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.394222",
+          "49.875255"
+        ]
+      },
+      "properties": {
+        "id": "2385",
+        "name": "Icando Child Care Centre",
+        "address": "435 Monterey Rd",
+        "city": "Kelowna",
+        "phone": "604-600-2784",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.48135",
+          "49.898732"
+        ]
+      },
+      "properties": {
+        "id": "2533",
+        "name": "Grasshoppers Childcare Centre",
+        "address": "907 Ethel St",
+        "city": "Kelowna",
+        "phone": "250-717-7631",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.475833",
+          "49.877308"
+        ]
+      },
+      "properties": {
+        "id": "2581",
+        "name": "Precious Jewels Childcare Infant Toddler Program",
+        "address": "1130 Springfield Rd",
+        "city": "Kelowna",
+        "phone": "250-899-7671",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.400416",
+          "49.941961"
+        ]
+      },
+      "properties": {
+        "id": "2594",
+        "name": "ubc Okanagan Campus Child Care - Heritage Site",
+        "address": "1262 Discovery Ave",
+        "city": "Kelowna",
+        "phone": "250-807-9703",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.475046",
+          "49.864546"
+        ]
+      },
+      "properties": {
+        "id": "2609",
+        "name": "Creative Play And Pre K Raymer",
+        "address": "1195 Raymer Ave",
+        "city": "Kelowna",
+        "phone": "778-484-3400",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.477485",
+          "49.803301"
+        ]
+      },
+      "properties": {
+        "id": "2639",
+        "name": "Babies 'N' Tots Daycare",
+        "address": "5031 Windsong Cres",
+        "city": "Kelowna",
+        "phone": "306-502-5222",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.483957",
+          "49.818851"
+        ]
+      },
+      "properties": {
+        "id": "2662",
+        "name": "Okanagan Mission ymca Child Care",
+        "address": "4548 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "250-491-8674",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.476317",
+          "49.891415"
+        ]
+      },
+      "properties": {
+        "id": "2789",
+        "name": "Thrive Out Of School Care - Glenmore",
+        "address": "1305 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "250-826-5436",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.404531",
+          "49.890536"
+        ]
+      },
+      "properties": {
+        "id": "2795",
+        "name": "Flex Academy Early Learning Center",
+        "address": "905 Badke Rd",
+        "city": "Kelowna",
+        "phone": "250-862-2377",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.384717",
+          "49.954305"
+        ]
+      },
+      "properties": {
+        "id": "2849",
+        "name": "Kelowna Airport ymca Child Care Centre",
+        "address": "190 Convair Pl",
+        "city": "Kelowna",
+        "phone": "250-491-8674",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.483507",
+          "49.824351"
+        ]
+      },
+      "properties": {
+        "id": "2965",
+        "name": "Jungle Explorers",
+        "address": "4372 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "250-575-8070",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.399941",
+          "49.852905"
+        ]
+      },
+      "properties": {
+        "id": "3019",
+        "name": "Mama Bear Family Daycare",
+        "address": "3680 Reekie Rd",
+        "city": "Kelowna",
+        "phone": "778-598-8689",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.364143",
+          "49.905321"
+        ]
+      },
+      "properties": {
+        "id": "3044",
+        "name": "Mother's Care",
+        "address": "1290 Gibson Rd",
+        "city": "Kelowna",
+        "phone": "250-801-6380",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.436812",
+          "49.860231"
+        ]
+      },
+      "properties": {
+        "id": "3077",
+        "name": "Creative Play And Pre K Hall Rd",
+        "address": "3466 Hall Rd",
+        "city": "Kelowna",
+        "phone": "250-681-7116",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.432071",
+          "49.900169"
+        ]
+      },
+      "properties": {
+        "id": "3079",
+        "name": "Garderie Les Petits Dauphins",
+        "address": "2305 Lillooet Cres",
+        "city": "Kelowna",
+        "phone": "250-864-1510",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.351163",
+          "49.860973"
+        ]
+      },
+      "properties": {
+        "id": "3100",
+        "name": "Capable Kids Preschool",
+        "address": "2151 Verde Vista Rd",
+        "city": "Kelowna",
+        "phone": "604-441-4419",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.390014",
+          "49.877782"
+        ]
+      },
+      "properties": {
+        "id": "3112",
+        "name": "Little Treasures Daycare",
+        "address": "3048 Springfield Rd",
+        "city": "Kelowna",
+        "phone": "250-317-3671",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.492536",
+          "49.817981"
+        ]
+      },
+      "properties": {
+        "id": "3116",
+        "name": "Bloom Early Learning",
+        "address": "559 Mcclure Rd",
+        "city": "Kelowna",
+        "phone": "587-580-8044",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.467551",
+          "49.878077"
+        ]
+      },
+      "properties": {
+        "id": "3125",
+        "name": "Occa Child Care Centre",
+        "address": "1460 Inkar Rd",
+        "city": "Kelowna",
+        "phone": "778-484-6222",
+        "services": [
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.357814",
+          "49.870165"
+        ]
+      },
+      "properties": {
+        "id": "3130",
+        "name": "Little Explorer's Learning Centre",
+        "address": "1470 Feedham Ave",
+        "city": "Kelowna",
+        "phone": "778-220-8000",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.432903",
+          "49.886339"
+        ]
+      },
+      "properties": {
+        "id": "3151",
+        "name": "Vista Academy",
+        "address": "201-2333 Hunter Rd",
+        "city": "Kelowna",
+        "phone": "250-300-0763",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.364994",
+          "49.9575"
+        ]
+      },
+      "properties": {
+        "id": "3153",
+        "name": "Willow Acre Daycare",
+        "address": "5191 Whelan Rd",
+        "city": "Kelowna",
+        "phone": "250-808-0037",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.489996",
+          "49.861754"
+        ]
+      },
+      "properties": {
+        "id": "3194",
+        "name": "Coast To Coast Educare - Klo Campus",
+        "address": "205-595 K.L.O. Rd",
+        "city": "Kelowna",
+        "phone": "250-808-5007",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.379898",
+          "49.900705"
+        ]
+      },
+      "properties": {
+        "id": "3210",
+        "name": "Jumping Jack Childcare Limited",
+        "address": "399 Fizet Ave",
+        "city": "Kelowna",
+        "phone": "236-338-0451",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.403675",
+          "49.884659"
+        ]
+      },
+      "properties": {
+        "id": "3218",
+        "name": "The Gathering Place Early Years Center Ltd.",
+        "address": "875 Hollydell Rd",
+        "city": "Kelowna",
+        "phone": "250-863-6565",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.35965",
+          "49.860451"
+        ]
+      },
+      "properties": {
+        "id": "3274",
+        "name": "Young Stars Childcare (Kelowna)",
+        "address": "2-2180 Cortina Dr",
+        "city": "Kelowna",
+        "phone": "604-889-0795",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.491656",
+          "49.88665"
+        ]
+      },
+      "properties": {
+        "id": "3288",
+        "name": "Produckidvity Academy - Bernard",
+        "address": "1499 St. Paul St",
+        "city": "Kelowna",
+        "phone": "778-214-7406",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.490613",
+          "49.821687"
+        ]
+      },
+      "properties": {
+        "id": "3296",
+        "name": "Jasmine Early Learning",
+        "address": "4456 Lakeshore Rd",
+        "city": "Kelowna",
+        "phone": "780-340-5805",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.435154",
+          "49.831169"
+        ]
+      },
+      "properties": {
+        "id": "3316",
+        "name": "The Farmhouse Family Childcare",
+        "address": "2500 Saucier Rd",
+        "city": "Kelowna",
+        "phone": "604-721-4794",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.464784",
+          "49.906351"
+        ]
+      },
+      "properties": {
+        "id": "3373",
+        "name": "Little Jungle Child Care",
+        "address": "11 Caramillo Rd",
+        "city": "Kelowna",
+        "phone": "416-886-1466",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.497101",
+          "49.821974"
+        ]
+      },
+      "properties": {
+        "id": "3399",
+        "name": "Kidzz Early Learning Center-Kelc",
+        "address": "454 Eldorado Rd",
+        "city": "Kelowna",
+        "phone": "778-215-8940",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.493352",
+          "49.864564"
+        ]
+      },
+      "properties": {
+        "id": "3409",
+        "name": "Kelowna Kids Co.",
+        "address": "439 West Ave",
+        "city": "Kelowna",
+        "phone": "778-392-8432",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.442047",
+          "49.876774"
+        ]
+      },
+      "properties": {
+        "id": "3435",
+        "name": "Coast To Coast Educare Springfield Ltd.",
+        "address": "2139 Springfield Rd",
+        "city": "Kelowna",
+        "phone": "778-940-3040",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.44251",
+          "49.876757"
+        ]
+      },
+      "properties": {
+        "id": "3459",
+        "name": "Ohana Academy Inc. Springfield East",
+        "address": "3-2121 Springfield Road",
+        "city": "Kelowna",
+        "phone": "250-317-6406",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.353247",
+          "49.937199"
+        ]
+      },
+      "properties": {
+        "id": "3460",
+        "name": "The Clubhouse At Ellison - Esquire",
+        "address": "3601 Esquire Rd",
+        "city": "Kelowna",
+        "phone": "250-863-1488",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.477593",
+          "49.892268"
+        ]
+      },
+      "properties": {
+        "id": "3496",
+        "name": "Happy Place After-School Care",
+        "address": "1091 Coronation Ave",
+        "city": "Kelowna",
+        "phone": "250-258-1018",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.38158",
+          "49.88544"
+        ]
+      },
+      "properties": {
+        "id": "3502",
+        "name": "All About Kids Childcare",
+        "address": "346 Holbrook Rd E",
+        "city": "Kelowna",
+        "phone": "250-469-4866",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.376876",
+          "49.88609"
+        ]
+      },
+      "properties": {
+        "id": "3507",
+        "name": "Fun And Learn Daycare",
+        "address": "509 Harrop Ave",
+        "city": "Kelowna",
+        "phone": "778-960-7264",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.470955",
+          "49.893244"
+        ]
+      },
+      "properties": {
+        "id": "3530",
+        "name": "Babies 'N' Tots Daycare Inc.",
+        "address": "1236 Cerise Dr",
+        "city": "Kelowna",
+        "phone": "306-502-5222",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.471606",
+          "49.891621"
+        ]
+      },
+      "properties": {
+        "id": "3633",
+        "name": "Bankhead Out Of School Care Program",
+        "address": "1280 Wilson Ave",
+        "city": "Kelowna",
+        "phone": "250-762-0766",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.375501",
+          "49.898641"
+        ]
+      },
+      "properties": {
+        "id": "3748",
+        "name": "Rutland Community School Children's Centre",
+        "address": "620 Webster Rd",
+        "city": "Kelowna",
+        "phone": "250-765-4052",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.369065",
+          "49.894738"
+        ]
+      },
+      "properties": {
+        "id": "3791",
+        "name": "Green Gables Glenmore",
+        "address": "510 El Camino Rd",
+        "city": "Kelowna",
+        "phone": "250-863-8931",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.499192",
+          "49.817186"
+        ]
+      },
+      "properties": {
+        "id": "3824",
+        "name": "Lakeside Kinderhaus",
+        "address": "429 Collett Rd",
+        "city": "Kelowna",
+        "phone": "250-764-4130",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.387558",
+          "49.906724"
+        ]
+      },
+      "properties": {
+        "id": "3836",
+        "name": "Big Dreamers Daycare Limited",
+        "address": "1370 Rutland Rd North",
+        "city": "Kelowna",
+        "phone": "250-765-5777",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.400019",
+          "49.880756"
+        ]
+      },
+      "properties": {
+        "id": "3837",
+        "name": "ymca - Quigley",
+        "address": "705 Kitch Rd",
+        "city": "Kelowna",
+        "phone": "250-764-9621",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.405507",
+          "49.866742"
+        ]
+      },
+      "properties": {
+        "id": "3870",
+        "name": "Okanagan Montessori East Kelowna",
+        "address": "3439 Kelowna Rd E",
+        "city": "Kelowna",
+        "phone": "250-860-1165",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.572731",
+          "49.876864"
+        ]
+      },
+      "properties": {
+        "id": "3912",
+        "name": "T.L.C. For Kids",
+        "address": "2081 mcdougal Rd Room 104",
+        "city": "Kelowna",
+        "phone": "250-769-4855",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.50243",
+          "49.795985"
+        ]
+      },
+      "properties": {
+        "id": "3999",
+        "name": "Okanagan Boys And Girls Clubs - Cedar Creek",
+        "address": "5160 Chute Lake Rd",
+        "city": "Kelowna",
+        "phone": "250-762-3914",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.418344",
+          "49.88381"
+        ]
+      },
+      "properties": {
+        "id": "4034",
+        "name": "Springvalley Elementary Out Of School Care",
+        "address": "470 Ziprick Rd",
+        "city": "Kelowna",
+        "phone": "250-762-3914",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.488975",
+          "49.864371"
+        ]
+      },
+      "properties": {
+        "id": "4092",
+        "name": "Luna Park Preschool",
+        "address": "657 Raymer Rd",
+        "city": "Kelowna",
+        "phone": "250-762-7505",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.355188",
+          "49.871159"
+        ]
+      },
+      "properties": {
+        "id": "4116",
+        "name": "Mountain View Modified Montessori Preschool",
+        "address": "1375 Loseth Dr",
+        "city": "Kelowna",
+        "phone": "250-765-7791",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.477172",
+          "49.875364"
+        ]
+      },
+      "properties": {
+        "id": "4151",
+        "name": "Bridge Kids",
+        "address": "2100 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "778-214-3949",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.433659",
+          "49.925324"
+        ]
+      },
+      "properties": {
+        "id": "4162",
+        "name": "Miss Melissa's Preschool",
+        "address": "108 Naito Crt",
+        "city": "Kelowna",
+        "phone": "250-763-5909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.564777",
+          "49.866348"
+        ]
+      },
+      "properties": {
+        "id": "4201",
+        "name": "Sunridge Out Of School Care",
+        "address": "1190 Stevens Rd",
+        "city": "Kelowna",
+        "phone": "604-853-6959",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.489033",
+          "49.865183"
+        ]
+      },
+      "properties": {
+        "id": "4264",
+        "name": "The Clubhouse At Raymer",
+        "address": "657 Raymer Ave",
+        "city": "Kelowna",
+        "phone": "250-860-4393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.381847",
+          "49.887466"
+        ]
+      },
+      "properties": {
+        "id": "4289",
+        "name": "South Rutland Afterschool Program",
+        "address": "200 Mallach Rd",
+        "city": "Kelowna",
+        "phone": "250-762-3914",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.449375",
+          "49.912658"
+        ]
+      },
+      "properties": {
+        "id": "4307",
+        "name": "Watson Road Licensed Care",
+        "address": "475 Yates Rd",
+        "city": "Kelowna",
+        "phone": "250-762-4495",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.482952",
+          "49.828783"
+        ]
+      },
+      "properties": {
+        "id": "4315",
+        "name": "Little Gems Daycare",
+        "address": "700 Young Rd",
+        "city": "Kelowna",
+        "phone": "250-764-3031",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.408161",
+          "49.92725"
+        ]
+      },
+      "properties": {
+        "id": "4380",
+        "name": "Aberdeen Hall Preparatory School",
+        "address": "950 Academy Way",
+        "city": "Kelowna",
+        "phone": "250-491-1270",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.480773",
+          "49.811614"
+        ]
+      },
+      "properties": {
+        "id": "4401",
+        "name": "Stepping Stones Early Learning Centre",
+        "address": "4713 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "604-317-7084",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.565692",
+          "49.862468"
+        ]
+      },
+      "properties": {
+        "id": "4431",
+        "name": "Okanagan Boys And Girls Clubs - Hudson Road",
+        "address": "1221 Hudson Rd",
+        "city": "Kelowna",
+        "phone": "250-762-3914",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.349879",
+          "49.867289"
+        ]
+      },
+      "properties": {
+        "id": "4486",
+        "name": "ymca - Black Mountain",
+        "address": "1650 Gallagher Rd",
+        "city": "Kelowna",
+        "phone": "250-764-9621",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.479296",
+          "49.817129"
+        ]
+      },
+      "properties": {
+        "id": "4528",
+        "name": "The Clubhouse At Bellevue Creek",
+        "address": "4574 Raymer Rd",
+        "city": "Kelowna",
+        "phone": "250-860-4393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.481557",
+          "49.874498"
+        ]
+      },
+      "properties": {
+        "id": "4535",
+        "name": "The Clubhouse At Cottonwoods",
+        "address": "2255 Ethel St",
+        "city": "Kelowna",
+        "phone": "250-860-4393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.381399",
+          "49.902538"
+        ]
+      },
+      "properties": {
+        "id": "4576",
+        "name": "Cat & Mouse Playhouse",
+        "address": "395 Phipps Cres",
+        "city": "Kelowna",
+        "phone": "250-870-3486",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.511865",
+          "49.794539"
+        ]
+      },
+      "properties": {
+        "id": "4624",
+        "name": "Little Owl Academy",
+        "address": "205 5315 Main St",
+        "city": "Kelowna",
+        "phone": "250-764-0122",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.483638",
+          "49.828399"
+        ]
+      },
+      "properties": {
+        "id": "4625",
+        "name": "Ruki's Day Care",
+        "address": "4330 Gordon Dr",
+        "city": "Kelowna",
+        "phone": "250-764-3664",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.453877",
+          "49.876293"
+        ]
+      },
+      "properties": {
+        "id": "4691",
+        "name": "Grins And Giggles Child Care Centre",
+        "address": "1905 Springfield Rd",
+        "city": "Kelowna",
+        "phone": "250-860-8685",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.464731",
+          "49.880408"
+        ]
+      },
+      "properties": {
+        "id": "4737",
+        "name": "Produckidvity Academy - Sutherland",
+        "address": "1521 Sutherland Ave",
+        "city": "Kelowna",
+        "phone": "778-214-7406",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.379765",
+          "49.899861"
+        ]
+      },
+      "properties": {
+        "id": "4748",
+        "name": "ymca Preschool & Out Of School Care Program",
+        "address": "375 Hartman Rd",
+        "city": "Kelowna",
+        "phone": "250-764-9621",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.468571",
+          "49.885588"
+        ]
+      },
+      "properties": {
+        "id": "4784",
+        "name": "Brightpath Lawrence Avenue",
+        "address": "1370 Lawrence Ave",
+        "city": "Kelowna",
+        "phone": "250-860-9788",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.382065",
+          "49.891263"
+        ]
+      },
+      "properties": {
+        "id": "4809",
+        "name": "Mamma Bears Cub House Daycare Ltd.",
+        "address": "250 Gibbs Road W",
+        "city": "Kelowna",
+        "phone": "250-681-4845",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.456201",
+          "49.861683"
+        ]
+      },
+      "properties": {
+        "id": "4865",
+        "name": "Kelowna Creative Advantage Childcare",
+        "address": "3070 Benvoulin Rd",
+        "city": "Kelowna",
+        "phone": "778-484-3400",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.454858",
+          "49.898641"
+        ]
+      },
+      "properties": {
+        "id": "4875",
+        "name": "Lil' Dancing Owls Educational Daycare",
+        "address": "1896 Tronson Dr",
+        "city": "Kelowna",
+        "phone": "250-868-6018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.378934",
+          "49.882781"
+        ]
+      },
+      "properties": {
+        "id": "4917",
+        "name": "Echo Early Learning Center",
+        "address": "535 Molnar Rd",
+        "city": "Kelowna",
+        "phone": "250-765-8685",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.397215",
+          "49.877261"
+        ]
+      },
+      "properties": {
+        "id": "4971",
+        "name": "Okanagan Christian School Preschool",
+        "address": "1035 Hollywood Rd S",
+        "city": "Kelowna",
+        "phone": "604-853-5451",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.402036",
+          "49.886075"
+        ]
+      },
+      "properties": {
+        "id": "4994",
+        "name": "Little Bunny",
+        "address": "800 Dundee Rd",
+        "city": "Kelowna",
+        "phone": "250-212-1870",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.437893",
+          "49.928784"
+        ]
+      },
+      "properties": {
+        "id": "5015",
+        "name": "Adventure Junction Early Learning Centre",
+        "address": "102 Snowsell St N",
+        "city": "Kelowna",
+        "phone": "250-878-2326",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.441833",
+          "49.921522"
+        ]
+      },
+      "properties": {
+        "id": "5026",
+        "name": "Thrive Out Of School Care - Mountainview",
+        "address": "271 Snowsell St",
+        "city": "Kelowna",
+        "phone": "250-826-5436",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.39769",
+          "49.874842"
+        ]
+      },
+      "properties": {
+        "id": "5083",
+        "name": "Precious Jewels Childcare Center",
+        "address": "1097 Hollywood Rd",
+        "city": "Kelowna",
+        "phone": "250-899-7671",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.400019",
+          "49.880756"
+        ]
+      },
+      "properties": {
+        "id": "5193",
+        "name": "Rutland Parent Participation Preschool",
+        "address": "705 Kitch Rd",
+        "city": "Kelowna",
+        "phone": "250-448-1758",
+        "services": [
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.400489",
+          "49.875062"
+        ]
+      },
+      "properties": {
+        "id": "5249",
+        "name": "Lil Wildlings Daycare",
+        "address": "725 Wayne Rd",
+        "city": "Kelowna",
+        "phone": "778-581-7228",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.455683",
+          "49.90365"
+        ]
+      },
+      "properties": {
+        "id": "5339",
+        "name": "Glenmore Educational Daycare",
+        "address": "1823 Ivans Ave",
+        "city": "Kelowna",
+        "phone": "250-801-9586",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.354043",
+          "49.938532"
+        ]
+      },
+      "properties": {
+        "id": "5356",
+        "name": "The Clubhouse At Ellison - Parkdale",
+        "address": "3735 Parkdale Rd",
+        "city": "Kelowna",
+        "phone": "250-860-4393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.490197",
+          "49.8668"
+        ]
+      },
+      "properties": {
+        "id": "5410",
+        "name": "Cefa Early Learning mckay Ave",
+        "address": "100-590 mckay Ave",
+        "city": "Kelowna",
+        "phone": "236-420-3868",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.48813",
+          "49.822344"
+        ]
+      },
+      "properties": {
+        "id": "5470",
+        "name": "Lakeshore Out Of School Care",
+        "address": "4409 Lakeshore Rd",
+        "city": "Kelowna",
+        "phone": "250-808-1780",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.46302",
+          "49.881328"
+        ]
+      },
+      "properties": {
+        "id": "5506",
+        "name": "Echo Academy",
+        "address": "1605 Sutherland Ave",
+        "city": "Kelowna",
+        "phone": "778-581-3246",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.411382",
+          "49.892449"
+        ]
+      },
+      "properties": {
+        "id": "5533",
+        "name": "Blossoming Butterflies Day School",
+        "address": "1270 Houghton Rd",
+        "city": "Kelowna",
+        "phone": "778-484-4116",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2877 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.966663",
+          "49.15716"
+        ]
+      },
+      "properties": {
+        "id": "61",
+        "name": "Malaspina Child Care Centre",
+        "address": "900 Fifth St",
+        "city": "Nanaimo",
+        "phone": "250-753-6931",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.956672",
+          "49.165609"
+        ]
+      },
+      "properties": {
+        "id": "62",
+        "name": "Malaspina Preschool",
+        "address": "205 Howard Ave",
+        "city": "Nanaimo",
+        "phone": "250-753-6931",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.93945",
+          "49.155477"
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "name": "Bgccvi - Fifth Street Child And Family Centre",
+        "address": "20 Fifth St",
+        "city": "Nanaimo",
+        "phone": "250-754-3215",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.964993",
+          "49.185205"
+        ]
+      },
+      "properties": {
+        "id": "250",
+        "name": "Kid's Place Child Care Center",
+        "address": "1085 Moyse Crescent",
+        "city": "Nanaimo",
+        "phone": "250-754-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.033913",
+          "49.24122"
+        ]
+      },
+      "properties": {
+        "id": "255",
+        "name": "Woodgrove Tot's Town Children's Centre",
+        "address": "6183 Dover Rd",
+        "city": "Nanaimo",
+        "phone": "250-758-2525",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.957578",
+          "49.191442"
+        ]
+      },
+      "properties": {
+        "id": "259",
+        "name": "Bright Beginnings Early Childhood Centre",
+        "address": "22 Cortez Place",
+        "city": "Nanaimo",
+        "phone": "250-754-2499",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.986179",
+          "49.210281"
+        ]
+      },
+      "properties": {
+        "id": "288",
+        "name": "Sonlight Christian Childcare Centre",
+        "address": "3510 Departure Bay Rd",
+        "city": "Nanaimo",
+        "phone": "250-751-0049",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.95522",
+          "49.177894"
+        ]
+      },
+      "properties": {
+        "id": "309",
+        "name": "Katie's Korner Childcare Center",
+        "address": "617 Millstone Ave",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.041585",
+          "49.228755"
+        ]
+      },
+      "properties": {
+        "id": "328",
+        "name": "Teachable Moments Daycare",
+        "address": "6234 Spartan Rd",
+        "city": "Nanaimo",
+        "phone": "250-390-4641",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.965788",
+          "49.192473"
+        ]
+      },
+      "properties": {
+        "id": "348",
+        "name": "Little Legacies - Cilaire",
+        "address": "25 Cilaire Dr",
+        "city": "Nanaimo",
+        "phone": "250-667-2882",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.943282",
+          "49.169055"
+        ]
+      },
+      "properties": {
+        "id": "349",
+        "name": "Little Legacies - Pauline Haarer",
+        "address": "400 Campbell St",
+        "city": "Nanaimo",
+        "phone": "250-667-2882",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.990936",
+          "49.234811"
+        ]
+      },
+      "properties": {
+        "id": "350",
+        "name": "Little Legacies - Frank J Ney",
+        "address": "5301 Williamson Rd",
+        "city": "Nanaimo",
+        "phone": "250-667-2882",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.974981",
+          "49.207958"
+        ]
+      },
+      "properties": {
+        "id": "351",
+        "name": "Little Legacies - Departure Bay",
+        "address": "3004 Departure Bay Rd",
+        "city": "Nanaimo",
+        "phone": "250-667-2882",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.959948",
+          "49.177911"
+        ]
+      },
+      "properties": {
+        "id": "357",
+        "name": "Katie's Korner Infant/Toddler Center",
+        "address": "840 Townsite Rd",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.968838",
+          "49.184815"
+        ]
+      },
+      "properties": {
+        "id": "363",
+        "name": "The Enchanted Woodland Childcare Centre",
+        "address": "1243 Nelson St",
+        "city": "Nanaimo",
+        "phone": "250-741-1243",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.008472",
+          "49.194514"
+        ]
+      },
+      "properties": {
+        "id": "418",
+        "name": "Jolly Giant Childcare Ltd. - Nadely Location",
+        "address": "2521 Nadely Cres",
+        "city": "Nanaimo",
+        "phone": "250-751-8841",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.991576",
+          "49.196591"
+        ]
+      },
+      "properties": {
+        "id": "426",
+        "name": "After School Kids Klub - Beban Park",
+        "address": "2300 Bowen Rd",
+        "city": "Nanaimo",
+        "phone": "250-758-8974",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.98009",
+          "49.177645"
+        ]
+      },
+      "properties": {
+        "id": "442",
+        "name": "Quarterway Childcare Centre",
+        "address": "1601 Creekside Dr",
+        "city": "Nanaimo",
+        "phone": "250-740-2599",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.951786",
+          "49.142578"
+        ]
+      },
+      "properties": {
+        "id": "510",
+        "name": "All Aboard Family Child Care",
+        "address": "544 Weber St",
+        "city": "Nanaimo",
+        "phone": "250-754-4704",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.97688",
+          "49.209065"
+        ]
+      },
+      "properties": {
+        "id": "512",
+        "name": "Shan's Family Child Care",
+        "address": "1680 Bowstring Close",
+        "city": "Nanaimo",
+        "phone": "250-756-1906",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.01959",
+          "49.200368"
+        ]
+      },
+      "properties": {
+        "id": "515",
+        "name": "Beaver Creek Family Child Care",
+        "address": "2665 Beaver Creek Cres",
+        "city": "Nanaimo",
+        "phone": "250-619-5164",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.013594",
+          "49.198341"
+        ]
+      },
+      "properties": {
+        "id": "518",
+        "name": "Casa Bambini Family Child Care",
+        "address": "2354 Pheasant Terr",
+        "city": "Nanaimo",
+        "phone": "250-751-4182",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.051106",
+          "49.177177"
+        ]
+      },
+      "properties": {
+        "id": "521",
+        "name": "Tiny Friends Family Child Care",
+        "address": "3171 Meadow Dr",
+        "city": "Nanaimo",
+        "phone": "250-619-6472",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.940774",
+          "49.154845"
+        ]
+      },
+      "properties": {
+        "id": "522",
+        "name": "Betty's Family Child Care",
+        "address": "55 Fifth St",
+        "city": "Nanaimo",
+        "phone": "250-754-1495",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.953851",
+          "49.147279"
+        ]
+      },
+      "properties": {
+        "id": "523",
+        "name": "Monica's Family Child Care",
+        "address": "581 Seventh St",
+        "city": "Nanaimo",
+        "phone": "250-741-1614",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.985923",
+          "49.1914"
+        ]
+      },
+      "properties": {
+        "id": "526",
+        "name": "Never Never Land Family Child Care Home",
+        "address": "2171 Spencer Rd",
+        "city": "Nanaimo",
+        "phone": "250-756-0202",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.038259",
+          "49.242592"
+        ]
+      },
+      "properties": {
+        "id": "528",
+        "name": "The Tot Spot",
+        "address": "130 Newdale Pl",
+        "city": "Nanaimo",
+        "phone": "250-667-1751",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.979847",
+          "49.214763"
+        ]
+      },
+      "properties": {
+        "id": "571",
+        "name": "Barb's Adventure Playhouse",
+        "address": "3900 Rock City Rd",
+        "city": "Nanaimo",
+        "phone": "250-758-8909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.010165",
+          "49.222583"
+        ]
+      },
+      "properties": {
+        "id": "609",
+        "name": "Piglets Playschool Early Years Centre",
+        "address": "5288 Colbourne Dr",
+        "city": "Nanaimo",
+        "phone": "778-674-0324",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.010417",
+          "49.220815"
+        ]
+      },
+      "properties": {
+        "id": "779",
+        "name": "Brookwood Family Child Care",
+        "address": "5676 Brookwood Dr",
+        "city": "Nanaimo",
+        "phone": "250-756-9440",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.939199",
+          "49.15712"
+        ]
+      },
+      "properties": {
+        "id": "791",
+        "name": "Nanaimo Innovation Academy",
+        "address": "905 Hecate St",
+        "city": "Nanaimo",
+        "phone": "250-591-7700",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.010763",
+          "49.212412"
+        ]
+      },
+      "properties": {
+        "id": "799",
+        "name": "Snuggle Bugs Childcare Centre",
+        "address": "56 Squirrel Lane",
+        "city": "Nanaimo",
+        "phone": "250-729-9848",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.98249",
+          "49.190051"
+        ]
+      },
+      "properties": {
+        "id": "892",
+        "name": "Katies Korner Latimer Road",
+        "address": "1852 Latimer Rd",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.99367",
+          "49.205801"
+        ]
+      },
+      "properties": {
+        "id": "925",
+        "name": "A Place To Play",
+        "address": "933 Capilano Pl",
+        "city": "Nanaimo",
+        "phone": "250-585-3742",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.038847",
+          "49.218122"
+        ]
+      },
+      "properties": {
+        "id": "1081",
+        "name": "Ready Spaghetti! Child Care",
+        "address": "5523 Fernandez Pl",
+        "city": "Nanaimo",
+        "phone": "250-619-7052",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.846623",
+          "49.102317"
+        ]
+      },
+      "properties": {
+        "id": "1143",
+        "name": "Barefoot Beginnings Preschool",
+        "address": "2338 Morland Rd",
+        "city": "Nanaimo",
+        "phone": "250-713-4356",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.986495",
+          "49.206784"
+        ]
+      },
+      "properties": {
+        "id": "1154",
+        "name": "Alphabet Playhouse Childcare Centre",
+        "address": "2025 Berkshire Pl",
+        "city": "Nanaimo",
+        "phone": "250-758-5889",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.990244",
+          "49.204459"
+        ]
+      },
+      "properties": {
+        "id": "1157",
+        "name": "Cometas Childcare Centre",
+        "address": "2707 Neyland Rd",
+        "city": "Nanaimo",
+        "phone": "250-739-1324",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.99223",
+          "49.209907"
+        ]
+      },
+      "properties": {
+        "id": "1174",
+        "name": "Sprouting Tigers Out Of School Care Ltd.",
+        "address": "3741 Departure Bay Rd",
+        "city": "Nanaimo",
+        "phone": "250-802-6050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.010232",
+          "49.218093"
+        ]
+      },
+      "properties": {
+        "id": "1180",
+        "name": "Uplands Park Before And After Care Ltd.",
+        "address": "3821 Stronach Dr",
+        "city": "Nanaimo",
+        "phone": "250-713-7826",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.961595",
+          "49.18882"
+        ]
+      },
+      "properties": {
+        "id": "1183",
+        "name": "Garderie Les Etoiles De Mer",
+        "address": "1951 Estevan Rd",
+        "city": "Nanaimo",
+        "phone": "604-736-5056",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.000553",
+          "49.169721"
+        ]
+      },
+      "properties": {
+        "id": "1233",
+        "name": "Monkey Tree Learning Centre",
+        "address": "2312 Towerview Cres",
+        "city": "Nanaimo",
+        "phone": "250-668-3330",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.981702",
+          "49.182931"
+        ]
+      },
+      "properties": {
+        "id": "1327",
+        "name": "Cefa (Core Education And Fine Arts)",
+        "address": "1815 Bowen Rd",
+        "city": "Nanaimo",
+        "phone": "778-322-4685",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.030764",
+          "49.232759"
+        ]
+      },
+      "properties": {
+        "id": "1341",
+        "name": "Cedar Tree Child Care",
+        "address": "5996 Tweedsmuir Cres",
+        "city": "Nanaimo",
+        "phone": "250-667-3337",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.048281",
+          "49.192433"
+        ]
+      },
+      "properties": {
+        "id": "1383",
+        "name": "Galactic 1",
+        "address": "3606 Allsop Rd",
+        "city": "Nanaimo",
+        "phone": "250-618-2401",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.472169",
+          "49.351677"
+        ]
+      },
+      "properties": {
+        "id": "1403",
+        "name": "Children's Discovery Centre",
+        "address": "699 Claymore Rd",
+        "city": "Nanaimo",
+        "phone": "250-752-4343",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.016792",
+          "49.235699"
+        ]
+      },
+      "properties": {
+        "id": "1442",
+        "name": "Cub Club Childcare",
+        "address": "5861 Parkway Dr",
+        "city": "Nanaimo",
+        "phone": "250-668-9984",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.996463",
+          "49.190312"
+        ]
+      },
+      "properties": {
+        "id": "1448",
+        "name": "Keep Smiling Childcare",
+        "address": "2120 Boxwood Rd",
+        "city": "Nanaimo",
+        "phone": "250-616-2923",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.971111",
+          "49.174952"
+        ]
+      },
+      "properties": {
+        "id": "1584",
+        "name": "Explore To The Core Preschool",
+        "address": "116 June Ave",
+        "city": "Nanaimo",
+        "phone": "250-729-1552",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.943434",
+          "49.155859"
+        ]
+      },
+      "properties": {
+        "id": "1599",
+        "name": "Abels Adventures Childcare",
+        "address": "484 Park Ave",
+        "city": "Nanaimo",
+        "phone": "250-716-6814",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.037593",
+          "49.212733"
+        ]
+      },
+      "properties": {
+        "id": "1636",
+        "name": "Hidamari Exploration Studio & Child Care",
+        "address": "5178 Maureen Way",
+        "city": "Nanaimo",
+        "phone": "250-739-0926",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.023505",
+          "49.218229"
+        ]
+      },
+      "properties": {
+        "id": "1704",
+        "name": "Big Adventures Childcare",
+        "address": "4951 Rutherford Rd",
+        "city": "Nanaimo",
+        "phone": "250-751-8550",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.964359",
+          "49.170142"
+        ]
+      },
+      "properties": {
+        "id": "1708",
+        "name": "Hanazono Daycare",
+        "address": "587 Ravenswood Dr",
+        "city": "Nanaimo",
+        "phone": "778-585-3173",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.997156",
+          "49.190153"
+        ]
+      },
+      "properties": {
+        "id": "1744",
+        "name": "Kids & Company Nanaimo",
+        "address": "2129 Boxwood Rd",
+        "city": "Nanaimo",
+        "phone": "250-585-6058",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.022792",
+          "49.23725"
+        ]
+      },
+      "properties": {
+        "id": "1778",
+        "name": "Tiny Miracles On Broadway",
+        "address": "5933 Broadway Rd",
+        "city": "Nanaimo",
+        "phone": "250-802-3916",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.979211",
+          "49.233309"
+        ]
+      },
+      "properties": {
+        "id": "1845",
+        "name": "Young Explorers Preschool And Childcare",
+        "address": "4871 Logan's Run",
+        "city": "Nanaimo",
+        "phone": "778-772-9588",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.938581",
+          "49.159314"
+        ]
+      },
+      "properties": {
+        "id": "1912",
+        "name": "Elm Childcare Center",
+        "address": "572 Milton St",
+        "city": "Nanaimo",
+        "phone": "647-222-7479",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.973019",
+          "49.188099"
+        ]
+      },
+      "properties": {
+        "id": "1915",
+        "name": "Happy Hummingbirds Childcare",
+        "address": "1609 Meredith Rd",
+        "city": "Nanaimo",
+        "phone": "250-533-9284",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.978919",
+          "49.231512"
+        ]
+      },
+      "properties": {
+        "id": "1986",
+        "name": "Ilm - Pipers",
+        "address": "100-4750 Hammond Bay Rd",
+        "city": "Nanaimo",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.959875",
+          "49.151777"
+        ]
+      },
+      "properties": {
+        "id": "1995",
+        "name": "Joyful Day Care",
+        "address": "641 Hillcrest Ave",
+        "city": "Nanaimo",
+        "phone": "778-677-3332",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.027305",
+          "49.216624"
+        ]
+      },
+      "properties": {
+        "id": "2063",
+        "name": "Encompass Language And Learning Centre",
+        "address": "243-4750 Rutherford Rd",
+        "city": "Nanaimo",
+        "phone": "250-802-6051",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.981269",
+          "49.205849"
+        ]
+      },
+      "properties": {
+        "id": "2064",
+        "name": "Magic Hill Family Child Care",
+        "address": "1860 Bay St",
+        "city": "Nanaimo",
+        "phone": "250-818-2496",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.023488",
+          "49.201553"
+        ]
+      },
+      "properties": {
+        "id": "2077",
+        "name": "Mini Marvels Family Child Care Centre",
+        "address": "2736 Goldfinch Cres",
+        "city": "Nanaimo",
+        "phone": "250-585-2503",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.977059",
+          "49.180647"
+        ]
+      },
+      "properties": {
+        "id": "2089",
+        "name": "Les Grands Amis De Celine",
+        "address": "1632 Bowen Rd",
+        "city": "Nanaimo",
+        "phone": "250-667-5982",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.057778",
+          "49.226991"
+        ]
+      },
+      "properties": {
+        "id": "2169",
+        "name": "Acorn Studio",
+        "address": "6037 Wardun Dr",
+        "city": "Nanaimo",
+        "phone": "250-667-6632",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.970985",
+          "49.188223"
+        ]
+      },
+      "properties": {
+        "id": "2251",
+        "name": "Green Trails Montessori Daycare",
+        "address": "1270 Strathmore St",
+        "city": "Nanaimo",
+        "phone": "250-616-4780",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.014806",
+          "49.220212"
+        ]
+      },
+      "properties": {
+        "id": "2288",
+        "name": "Ilm - Little Tots",
+        "address": "3507 Littleford Rd",
+        "city": "Nanaimo",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.045855",
+          "49.226659"
+        ]
+      },
+      "properties": {
+        "id": "2314",
+        "name": "Pleasant Valley Seamless Day Care",
+        "address": "6201 Dunbar Rd",
+        "city": "Nanaimo",
+        "phone": "250-713-4257",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.872905",
+          "49.123455"
+        ]
+      },
+      "properties": {
+        "id": "2347",
+        "name": "Qwam Qwum Stuwixwulh Early Learning Centre",
+        "address": "1390 Stuywut St",
+        "city": "Nanaimo",
+        "phone": "250-713-4257",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.036951",
+          "49.216557"
+        ]
+      },
+      "properties": {
+        "id": "2356",
+        "name": "Cheerful Minds Childcare",
+        "address": "5373 Somerset Dr",
+        "city": "Nanaimo",
+        "phone": "250-816-1713",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.005597",
+          "49.195677"
+        ]
+      },
+      "properties": {
+        "id": "2360",
+        "name": "Carebears Child Care",
+        "address": "2325A Rosstown Rd",
+        "city": "Nanaimo",
+        "phone": "250-618-5929",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.018185",
+          "49.234248"
+        ]
+      },
+      "properties": {
+        "id": "2456",
+        "name": "Annette\u2019S Family Childcare",
+        "address": "5830 Hammond Bay Rd",
+        "city": "Nanaimo",
+        "phone": "604-816-9792",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.012079",
+          "49.227815"
+        ]
+      },
+      "properties": {
+        "id": "2470",
+        "name": "Care & Love Family Child Care",
+        "address": "5485 Altavista Dr",
+        "city": "Nanaimo",
+        "phone": "604-724-7841",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.987859",
+          "49.189854"
+        ]
+      },
+      "properties": {
+        "id": "2493",
+        "name": "Playtime Childcare Society - Forest Park Location",
+        "address": "2050 Latimer Rd",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.917163",
+          "49.073707"
+        ]
+      },
+      "properties": {
+        "id": "2522",
+        "name": "Riverside Family Childcare",
+        "address": "80 River Terr",
+        "city": "Nanaimo",
+        "phone": "250-802-2372",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.008568",
+          "49.194822"
+        ]
+      },
+      "properties": {
+        "id": "2536",
+        "name": "Jolly Giant Childcare - 2522 Nadely",
+        "address": "2522 Nadely Cres",
+        "city": "Nanaimo",
+        "phone": "250-585-8890",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.054267",
+          "49.237426"
+        ]
+      },
+      "properties": {
+        "id": "2548",
+        "name": "Tiny Hoppers Nanaimo",
+        "address": "6660 Mary Ellen Dr",
+        "city": "Nanaimo",
+        "phone": "250-739-6999",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.044574",
+          "49.241438"
+        ]
+      },
+      "properties": {
+        "id": "2622",
+        "name": "Cheeky Monkeys",
+        "address": "6425 Dover Rd",
+        "city": "Nanaimo",
+        "phone": "250-607-3001",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.937963",
+          "49.161221"
+        ]
+      },
+      "properties": {
+        "id": "2648",
+        "name": "All Little Bears Child Care Ltd. - Selby",
+        "address": "546 Selby St",
+        "city": "Nanaimo",
+        "phone": "250-667-2461",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.009948",
+          "49.233034"
+        ]
+      },
+      "properties": {
+        "id": "2714",
+        "name": "Enchanted Moments",
+        "address": "5581 Norton Rd",
+        "city": "Nanaimo",
+        "phone": "250-758-3521",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.948542",
+          "49.164304"
+        ]
+      },
+      "properties": {
+        "id": "2716",
+        "name": "All Little Bears Child Care Ltd. - Machleary",
+        "address": "292 Machleary St",
+        "city": "Nanaimo",
+        "phone": "250-667-2461",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.0435",
+          "49.187763"
+        ]
+      },
+      "properties": {
+        "id": "2720",
+        "name": "Discover Montessori School",
+        "address": "3460 Jingle Pot Rd",
+        "city": "Nanaimo",
+        "phone": "250-591-4450",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.966672",
+          "49.231957"
+        ]
+      },
+      "properties": {
+        "id": "2735",
+        "name": "Hammond Bay Before And After School Care",
+        "address": "1025 Morningside Dr",
+        "city": "Nanaimo",
+        "phone": "250-713-4257",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.937908",
+          "49.152872"
+        ]
+      },
+      "properties": {
+        "id": "2860",
+        "name": "Playtime Childcare Society - View St. Location",
+        "address": "140 View St",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.998625",
+          "49.192018"
+        ]
+      },
+      "properties": {
+        "id": "2864",
+        "name": "All Little Bears Childcare Ltd. - It Northfield",
+        "address": "101&102-2310 Northfield Rd",
+        "city": "Nanaimo",
+        "phone": "250-667-2461",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.999103",
+          "49.192044"
+        ]
+      },
+      "properties": {
+        "id": "2865",
+        "name": "All Little Bears Childcare Ltd. - 3 To 5 Northfield",
+        "address": "102-2320 Northfield Rd",
+        "city": "Nanaimo",
+        "phone": "250-667-2461",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.953643",
+          "49.211559"
+        ]
+      },
+      "properties": {
+        "id": "2931",
+        "name": "Galactic 2",
+        "address": "3255 Stephenson Point Rd",
+        "city": "Nanaimo",
+        "phone": "250-797-2471",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.99223",
+          "49.209907"
+        ]
+      },
+      "properties": {
+        "id": "2995",
+        "name": "Ilm - Rock City",
+        "address": "3741 Departure Bay Rd",
+        "city": "Nanaimo",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.939494",
+          "49.156963"
+        ]
+      },
+      "properties": {
+        "id": "3007",
+        "name": "Nanaimo Innovation Academy",
+        "address": "929 Hecate St",
+        "city": "Nanaimo",
+        "phone": "250-591-7700",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.991304",
+          "49.173602"
+        ]
+      },
+      "properties": {
+        "id": "3022",
+        "name": "Happy Hoppers Daycare",
+        "address": "2064 Cathers Dr",
+        "city": "Nanaimo",
+        "phone": "250-713-4320",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.992707",
+          "49.192844"
+        ]
+      },
+      "properties": {
+        "id": "3033",
+        "name": "Little Legacies - Grins And Giggles",
+        "address": "2221 Bowen Rd",
+        "city": "Nanaimo",
+        "phone": "250-667-2882",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.92",
+          "49.121307"
+        ]
+      },
+      "properties": {
+        "id": "3054",
+        "name": "Playtime Childcare Society - Chase River Location",
+        "address": "1525 Cranberry Ave",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.049172",
+          "49.237172"
+        ]
+      },
+      "properties": {
+        "id": "3073",
+        "name": "Flyoland Children's Centre",
+        "address": "110-6631 Island Hwy N",
+        "city": "Nanaimo",
+        "phone": "250-619-9906",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.923895",
+          "49.119066"
+        ]
+      },
+      "properties": {
+        "id": "3106",
+        "name": "Hoggar Childcare",
+        "address": "1604 Hosanna Way",
+        "city": "Nanaimo",
+        "phone": "250-937-1824",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.871969",
+          "49.113971"
+        ]
+      },
+      "properties": {
+        "id": "3140",
+        "name": "Little Happy Faces Daycare",
+        "address": "1644 Cedar Rd",
+        "city": "Nanaimo",
+        "phone": "250-713-6903",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.034291",
+          "49.229834"
+        ]
+      },
+      "properties": {
+        "id": "3223",
+        "name": "Tiger Ma - Baby Fox",
+        "address": "6177 Parkwood Dr",
+        "city": "Nanaimo",
+        "phone": "250-797-7688",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.850706",
+          "49.108442"
+        ]
+      },
+      "properties": {
+        "id": "3297",
+        "name": "Ilm - Cedar Sprouts",
+        "address": "1791 Woobank Rd",
+        "city": "Nanaimo",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.976667",
+          "49.160361"
+        ]
+      },
+      "properties": {
+        "id": "3299",
+        "name": "Where The Wild Things Grow",
+        "address": "1305 Thalia Pl",
+        "city": "Nanaimo",
+        "phone": "613-282-1080",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.984472",
+          "49.161723"
+        ]
+      },
+      "properties": {
+        "id": "3326",
+        "name": "Big Steps... Little Feet",
+        "address": "1340 Langara Dr",
+        "city": "Nanaimo",
+        "phone": "250-755-9791",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.926114",
+          "49.122107"
+        ]
+      },
+      "properties": {
+        "id": "3334",
+        "name": "Lil' Dreamers",
+        "address": "2278 Kingsford Pl",
+        "city": "Nanaimo",
+        "phone": "250-327-2629",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.977174",
+          "49.212345"
+        ]
+      },
+      "properties": {
+        "id": "3370",
+        "name": "Creative Playspace Childcare",
+        "address": "3342 Smugglers Hill Dr",
+        "city": "Nanaimo",
+        "phone": "604-970-1496",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.956209",
+          "49.166314"
+        ]
+      },
+      "properties": {
+        "id": "3389",
+        "name": "Fairview Before And After School Care",
+        "address": "205 Howard Ave",
+        "city": "Nanaimo",
+        "phone": "250-713-4257",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.850805",
+          "49.110155"
+        ]
+      },
+      "properties": {
+        "id": "3412",
+        "name": "Cedarlings",
+        "address": "1745 Woobank Rd",
+        "city": "Nanaimo",
+        "phone": "250-857-4323",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.965698",
+          "49.228517"
+        ]
+      },
+      "properties": {
+        "id": "3430",
+        "name": "The Learning Seed Childcare",
+        "address": "3986 Gulfview Dr",
+        "city": "Nanaimo",
+        "phone": "250-751-4156",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.033885",
+          "49.202463"
+        ]
+      },
+      "properties": {
+        "id": "3524",
+        "name": "Muddy Boots Child Care",
+        "address": "3787 Avonlea Dr",
+        "city": "Nanaimo",
+        "phone": "250-732-2369",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.993604",
+          "49.170151"
+        ]
+      },
+      "properties": {
+        "id": "3546",
+        "name": "Peach And Nini Family Child Care",
+        "address": "2243 Ashlee Rd",
+        "city": "Nanaimo",
+        "phone": "778-990-1209",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.927166",
+          "49.117238"
+        ]
+      },
+      "properties": {
+        "id": "3571",
+        "name": "Pocket Tots Childcare",
+        "address": "1660  Centennary Dr",
+        "city": "Nanaimo",
+        "phone": "250-755-6001",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.027287",
+          "49.236204"
+        ]
+      },
+      "properties": {
+        "id": "3590",
+        "name": "Small Wonders Early Childhood Centre",
+        "address": "6054 Montgomery Way",
+        "city": "Nanaimo",
+        "phone": "250-756-9777",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.988999",
+          "49.232285"
+        ]
+      },
+      "properties": {
+        "id": "3658",
+        "name": "Four Seasons Montessori",
+        "address": "4960 Hammond Bay Rd",
+        "city": "Nanaimo",
+        "phone": "250-758-8979",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.971276",
+          "49.203399"
+        ]
+      },
+      "properties": {
+        "id": "3670",
+        "name": "Departure Bay Children's Centre",
+        "address": "2725 Departure Bay Rd",
+        "city": "Nanaimo",
+        "phone": "250-667-6384",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.971309",
+          "49.192483"
+        ]
+      },
+      "properties": {
+        "id": "3673",
+        "name": "Zigwids Family Child Care",
+        "address": "2230 Highland Blvd",
+        "city": "Nanaimo",
+        "phone": "250-751-8681",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.987856",
+          "49.190137"
+        ]
+      },
+      "properties": {
+        "id": "3708",
+        "name": "Bgccvi - Forest Park Club",
+        "address": "2050 Latimer Rd",
+        "city": "Nanaimo",
+        "phone": "250-751-8937",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.954863",
+          "49.177599"
+        ]
+      },
+      "properties": {
+        "id": "3805",
+        "name": "Katies Korner After School Program",
+        "address": "510 Millstone Ave",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.927992",
+          "49.111159"
+        ]
+      },
+      "properties": {
+        "id": "3815",
+        "name": "Cinnabar Kids Childcare",
+        "address": "1818 Richardson Rd",
+        "city": "Nanaimo",
+        "phone": "250-753-7152",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.95576",
+          "49.156439"
+        ]
+      },
+      "properties": {
+        "id": "3832",
+        "name": "Trillium Montessori",
+        "address": "495 Howard Ave",
+        "city": "Nanaimo",
+        "phone": "250-716-7844",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.954117",
+          "49.166191"
+        ]
+      },
+      "properties": {
+        "id": "3891",
+        "name": "Jelly Beans Family Child Care",
+        "address": "515 Second St",
+        "city": "Nanaimo",
+        "phone": "250-754-2299",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.033669",
+          "49.241718"
+        ]
+      },
+      "properties": {
+        "id": "3950",
+        "name": "Wee Play And Learn Family Child Care",
+        "address": "6170 Dover Rd",
+        "city": "Nanaimo",
+        "phone": "250-751-0955",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.921639",
+          "49.110601"
+        ]
+      },
+      "properties": {
+        "id": "3993",
+        "name": "Maple Tree Montessori",
+        "address": "1922 Kells Bay",
+        "city": "Nanaimo",
+        "phone": "250-668-5228",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.966672",
+          "49.231957"
+        ]
+      },
+      "properties": {
+        "id": "4025",
+        "name": "Kidz Kompany - Hammond Bay",
+        "address": "1025 Morningside Dr",
+        "city": "Nanaimo",
+        "phone": "250-729-4142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.965938",
+          "49.191388"
+        ]
+      },
+      "properties": {
+        "id": "4026",
+        "name": "Kidz Kompany - Harbourside",
+        "address": "2150 Departure Bay Rd",
+        "city": "Nanaimo",
+        "phone": "250-729-4142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.953909",
+          "49.1533"
+        ]
+      },
+      "properties": {
+        "id": "4041",
+        "name": "Georgia Avenue Before & After School Care",
+        "address": "625 Georgia Ave",
+        "city": "Nanaimo",
+        "phone": "807-934-8448",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.955829",
+          "49.152735"
+        ]
+      },
+      "properties": {
+        "id": "4054",
+        "name": "Little Garden Family Child Care",
+        "address": "649 Howard Ave",
+        "city": "Nanaimo",
+        "phone": "250-716-8991",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.927325",
+          "49.111198"
+        ]
+      },
+      "properties": {
+        "id": "4064",
+        "name": "Bgccvi - Richardson Road Club",
+        "address": "100 Ohio Way",
+        "city": "Nanaimo",
+        "phone": "250-753-2464",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.99919",
+          "49.172821"
+        ]
+      },
+      "properties": {
+        "id": "4084",
+        "name": "Nanaimo Christian School Early Care And Learning",
+        "address": "198 Holland Rd",
+        "city": "Nanaimo",
+        "phone": "250-754-4512",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.045855",
+          "49.226659"
+        ]
+      },
+      "properties": {
+        "id": "4144",
+        "name": "Kidz Kompany - Pleasant Valley",
+        "address": "6201 Dunbar Rd",
+        "city": "Nanaimo",
+        "phone": "270-751-4018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.0153",
+          "49.17832"
+        ]
+      },
+      "properties": {
+        "id": "4145",
+        "name": "Kidz Kompany - Mt. View",
+        "address": "2480 Wellington Rd East",
+        "city": "Nanaimo",
+        "phone": "250-729-4142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.942385",
+          "49.142728"
+        ]
+      },
+      "properties": {
+        "id": "4183",
+        "name": "Little Legacies - Park Ave.",
+        "address": "395 Eighth St",
+        "city": "Nanaimo",
+        "phone": "250-667-2882",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.97433",
+          "49.185787"
+        ]
+      },
+      "properties": {
+        "id": "4219",
+        "name": "We Do Care Family Child Care",
+        "address": "1109 Thunderbird Dr",
+        "city": "Nanaimo",
+        "phone": "250-668-5934",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.027234",
+          "49.225908"
+        ]
+      },
+      "properties": {
+        "id": "4266",
+        "name": "Kidz Kompany - Randerson Ridge",
+        "address": "6021 Nelson Rd",
+        "city": "Nanaimo",
+        "phone": "250-729-4142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.984493",
+          "49.189548"
+        ]
+      },
+      "properties": {
+        "id": "4403",
+        "name": "Hillside Montessori Childcare",
+        "address": "1905 Latimer Rd",
+        "city": "Nanaimo",
+        "phone": "250-729-7265",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.977868",
+          "49.204958"
+        ]
+      },
+      "properties": {
+        "id": "4415",
+        "name": "Bouncy Ball Family Daycare",
+        "address": "2820 Haliday Cres",
+        "city": "Nanaimo",
+        "phone": "250-585-3558",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.002018",
+          "49.197952"
+        ]
+      },
+      "properties": {
+        "id": "4509",
+        "name": "Brackenwood Children's Centre",
+        "address": "2375 Brackenwood Pl",
+        "city": "Nanaimo",
+        "phone": "250-713-2500",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.940136",
+          "49.162577"
+        ]
+      },
+      "properties": {
+        "id": "4540",
+        "name": "Jolly Giant Childcare Ltd. - Selby Location",
+        "address": "436 Selby St",
+        "city": "Nanaimo",
+        "phone": "250-754-8833",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.006599",
+          "49.193417"
+        ]
+      },
+      "properties": {
+        "id": "4542",
+        "name": "Bgccvi - Syuwentct Club",
+        "address": "2280 Sun Valley Dr",
+        "city": "Nanaimo",
+        "phone": "250-616-7681",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.99603",
+          "49.191614"
+        ]
+      },
+      "properties": {
+        "id": "4599",
+        "name": "Katies Korner Northfield",
+        "address": "2249 Northfield Rd",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.999086",
+          "49.235164"
+        ]
+      },
+      "properties": {
+        "id": "4797",
+        "name": "Westhaven Kids Corner",
+        "address": "5358 Westhaven Pl",
+        "city": "Nanaimo",
+        "phone": "250-585-3300",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.053251",
+          "49.22771"
+        ]
+      },
+      "properties": {
+        "id": "4851",
+        "name": "Here We Grow Child Care",
+        "address": "6610 Everest Dr",
+        "city": "Nanaimo",
+        "phone": "250-616-9273",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.986676",
+          "49.188488"
+        ]
+      },
+      "properties": {
+        "id": "4963",
+        "name": "Nana's Playroom Family Child Care",
+        "address": "2102A Robbie Pl",
+        "city": "Nanaimo",
+        "phone": "250-758-0850",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.940861",
+          "49.164281"
+        ]
+      },
+      "properties": {
+        "id": "5099",
+        "name": "Katies Korner Old Quarter",
+        "address": "357 Wesley St",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.032907",
+          "49.24031"
+        ]
+      },
+      "properties": {
+        "id": "5117",
+        "name": "Little Legacies - Mcgirr",
+        "address": "6199 Mcgirr Rd",
+        "city": "Nanaimo",
+        "phone": "250-667-2882",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.988366",
+          "49.166788"
+        ]
+      },
+      "properties": {
+        "id": "5141",
+        "name": "Hillside Scampers Family Child Care",
+        "address": "2230 Arbot Rd",
+        "city": "Nanaimo",
+        "phone": "250-716-8757",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.016157",
+          "49.217778"
+        ]
+      },
+      "properties": {
+        "id": "5187",
+        "name": "Mama Duck's Daycare",
+        "address": "4162 Orchard Cir",
+        "city": "Nanaimo",
+        "phone": "250-751-2111",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.960153",
+          "49.178118"
+        ]
+      },
+      "properties": {
+        "id": "5210",
+        "name": "Katies Korner Infant/Toddler 2",
+        "address": "850 Townsite Rd",
+        "city": "Nanaimo",
+        "phone": "250-714-4555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.007937",
+          "49.194958"
+        ]
+      },
+      "properties": {
+        "id": "5211",
+        "name": "Jolly Giant Childcare Ltd. - Nadely It Location",
+        "address": "2510 Nadely Cres",
+        "city": "Nanaimo",
+        "phone": "250-585-8828",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.934837",
+          "49.153153"
+        ]
+      },
+      "properties": {
+        "id": "5246",
+        "name": "Jolly Giant Childcare Ltd. - Strickland Location",
+        "address": "10 Strickland St",
+        "city": "Nanaimo",
+        "phone": "250-753-8845",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.047425",
+          "49.238882"
+        ]
+      },
+      "properties": {
+        "id": "5247",
+        "name": "Jolly Giant Childcare Ltd. - Portsmouth Location",
+        "address": "6553 Portsmouth Rd",
+        "city": "Nanaimo",
+        "phone": "250-933-3321",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.982533",
+          "49.215339"
+        ]
+      },
+      "properties": {
+        "id": "5265",
+        "name": "Alphabetz",
+        "address": "3342 Barrington Rd",
+        "city": "Nanaimo",
+        "phone": "250-751-4464",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.019561",
+          "49.220032"
+        ]
+      },
+      "properties": {
+        "id": "5293",
+        "name": "Sweet Peas Infant & Toddler Centre",
+        "address": "4213 Early Dr",
+        "city": "Nanaimo",
+        "phone": "250-585-3178",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.991576",
+          "49.196591"
+        ]
+      },
+      "properties": {
+        "id": "5303",
+        "name": "Bgccvi - Beban House Club",
+        "address": "1-2290 Bowen Rd",
+        "city": "Nanaimo",
+        "phone": "250-585-2480",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.959248",
+          "49.193387"
+        ]
+      },
+      "properties": {
+        "id": "5328",
+        "name": "Kory's Family Child Care",
+        "address": "20 White Eagle Terr",
+        "city": "Nanaimo",
+        "phone": "250-756-9100",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.940268",
+          "49.159369"
+        ]
+      },
+      "properties": {
+        "id": "5346",
+        "name": "Little Haven Childcare",
+        "address": "527 Milton St",
+        "city": "Nanaimo",
+        "phone": "250-327-9526",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.94875",
+          "49.178361"
+        ]
+      },
+      "properties": {
+        "id": "5401",
+        "name": "Kidz Kompany - Small Fries",
+        "address": "102-679 Terminal Ave N",
+        "city": "Nanaimo",
+        "phone": "250-619-9755",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.928792",
+          "49.120318"
+        ]
+      },
+      "properties": {
+        "id": "5452",
+        "name": "Woodland Kidz Childcare",
+        "address": "139 Roberta Rd W",
+        "city": "Nanaimo",
+        "phone": "250-755-5036",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.944662",
+          "49.158395"
+        ]
+      },
+      "properties": {
+        "id": "5490",
+        "name": "Tenderfoot",
+        "address": "484 Pine St",
+        "city": "Nanaimo",
+        "phone": "250-667-7099",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.853512",
+          "49.094466"
+        ]
+      },
+      "properties": {
+        "id": "5516",
+        "name": "Happy Faces Before And After School Care",
+        "address": "2215 Gould Rd",
+        "city": "Nanaimo",
+        "phone": "250-734-3609",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.953077",
+          "49.146867"
+        ]
+      },
+      "properties": {
+        "id": "5551",
+        "name": "Lil Ones Early Learning Center",
+        "address": "552 Nova St",
+        "city": "Nanaimo",
+        "phone": "250-716-2736",
+        "services": []
+      }
+    }
+  ]
+}

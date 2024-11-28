@@ -1,0 +1,3005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.381674",
+          "49.115834"
+        ]
+      },
+      "properties": {
+        "id": "10",
+        "name": "Eco Kids Care Inc.",
+        "address": "6256 Mt Lehman Rd",
+        "city": "Abbotsford",
+        "phone": "778-549-0766",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.316711",
+          "49.058963"
+        ]
+      },
+      "properties": {
+        "id": "106",
+        "name": "Gladwin Child Care Centre",
+        "address": "3145 Gladwin Rd",
+        "city": "Abbotsford",
+        "phone": "604-853-9084",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.337824",
+          "49.058796"
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "name": "Hand In Hand - Early Learning Centre",
+        "address": "3154 Clearbrook Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-3830",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.406489",
+          "49.017709"
+        ]
+      },
+      "properties": {
+        "id": "231",
+        "name": "Peardonville House Day Care",
+        "address": "825 Peardonville Rd",
+        "city": "Abbotsford",
+        "phone": "604-864-0039",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.290378",
+          "49.039575"
+        ]
+      },
+      "properties": {
+        "id": "248",
+        "name": "Abbotsford Childcare",
+        "address": "2054 Cherry St",
+        "city": "Abbotsford",
+        "phone": "604-612-0439",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.3171",
+          "49.071394"
+        ]
+      },
+      "properties": {
+        "id": "265",
+        "name": "Kids Club Child Care Centre Ltd. (Gladwin)",
+        "address": "3845 Gladwin Rd",
+        "city": "Abbotsford",
+        "phone": "604-852-2822",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.259887",
+          "49.059279"
+        ]
+      },
+      "properties": {
+        "id": "266",
+        "name": "Kids Club Child Care Centre Ltd. (Mcmillan Rd)",
+        "address": "3130 mcmillan Rd",
+        "city": "Abbotsford",
+        "phone": "604-852-6606",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.24943",
+          "49.034374"
+        ]
+      },
+      "properties": {
+        "id": "267",
+        "name": "Kids Club Child Care Centre Ltd. (Delair Road)",
+        "address": "35190 Delair Rd",
+        "city": "Abbotsford",
+        "phone": "604-556-7355",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.247573",
+          "49.071933"
+        ]
+      },
+      "properties": {
+        "id": "278",
+        "name": "Fraser Valley Montessori Preschool Sandy Hill Campus",
+        "address": "3836 Old Clayburn Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-5061",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.301963",
+          "49.057742"
+        ]
+      },
+      "properties": {
+        "id": "319",
+        "name": "Hand In Hand - Terry Fox Elementary",
+        "address": "3071 Babich St",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.367282",
+          "49.058186"
+        ]
+      },
+      "properties": {
+        "id": "320",
+        "name": "Hand In Hand - Blue Jay Elementary",
+        "address": "30995 Southern Dr",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.316749",
+          "49.047948"
+        ]
+      },
+      "properties": {
+        "id": "321",
+        "name": "Hand In Hand - Centennial Park Elementary",
+        "address": "2527 Gladwin Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.247573",
+          "49.071933"
+        ]
+      },
+      "properties": {
+        "id": "322",
+        "name": "Hand In Hand - Sandy Hill Elementary",
+        "address": "3836 Old Clayburn Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.335878",
+          "49.038836"
+        ]
+      },
+      "properties": {
+        "id": "323",
+        "name": "Hand In Hand - North Poplar Elementary",
+        "address": "32041 Marshall Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.242934",
+          "49.064392"
+        ]
+      },
+      "properties": {
+        "id": "324",
+        "name": "Hand In Hand - Prince Charles Elementary",
+        "address": "35410 mckee Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.306584",
+          "49.041016"
+        ]
+      },
+      "properties": {
+        "id": "325",
+        "name": "Hand In Hand - Godson Elementary",
+        "address": "33130 Bevan Ave",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.319307",
+          "49.056257"
+        ]
+      },
+      "properties": {
+        "id": "326",
+        "name": "Hand In Hand - John Maclure Elementary",
+        "address": "2990 Oriole Cres",
+        "city": "Abbotsford",
+        "phone": "604-852-1622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.323492",
+          "49.039532"
+        ]
+      },
+      "properties": {
+        "id": "329",
+        "name": "Braun-Tasaurus Preschool",
+        "address": "2087 Majestic Cres",
+        "city": "Abbotsford",
+        "phone": "604-854-5963",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.323498",
+          "49.041587"
+        ]
+      },
+      "properties": {
+        "id": "482",
+        "name": "Leanne's Place Family Daycare",
+        "address": "2065 Majestic Cres",
+        "city": "Abbotsford",
+        "phone": "604-852-2060",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.352547",
+          "49.065478"
+        ]
+      },
+      "properties": {
+        "id": "728",
+        "name": "Sehaj Childcare Centre",
+        "address": "31475 Ridgeview Dr",
+        "city": "Abbotsford",
+        "phone": "778-245-8277",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.297759",
+          "49.049296"
+        ]
+      },
+      "properties": {
+        "id": "747",
+        "name": "New Leaf Learning And Childcare Centre Inc.",
+        "address": "33442 South Fraser Way",
+        "city": "Abbotsford",
+        "phone": "604-613-1919",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.276559",
+          "49.059823"
+        ]
+      },
+      "properties": {
+        "id": "811",
+        "name": "Cutefeet Childcare",
+        "address": "3185 Lukiv Terrace",
+        "city": "Abbotsford",
+        "phone": "604-859-3561",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.403151",
+          "49.050139"
+        ]
+      },
+      "properties": {
+        "id": "931",
+        "name": "Little Hands Learning Center",
+        "address": "2626 Ross Rd",
+        "city": "Abbotsford",
+        "phone": "604-302-1091",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.427207",
+          "49.056152"
+        ]
+      },
+      "properties": {
+        "id": "945",
+        "name": "Hand In Hand - Aberdeen Elementary",
+        "address": "2975 Bradner Rd",
+        "city": "Abbotsford",
+        "phone": "778-369-0114",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.25205",
+          "49.044172"
+        ]
+      },
+      "properties": {
+        "id": "952",
+        "name": "Steph's Little Sprouts Child Care",
+        "address": "2343 Harper Dr",
+        "city": "Abbotsford",
+        "phone": "604-219-1447",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.26822",
+          "49.047579"
+        ]
+      },
+      "properties": {
+        "id": "985",
+        "name": "Symmetry Early Learning Center",
+        "address": "109-2526 Yale Crt",
+        "city": "Abbotsford",
+        "phone": "778-386-3173",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.294295",
+          "49.04795"
+        ]
+      },
+      "properties": {
+        "id": "1101",
+        "name": "Learn N' Play Abbotsford",
+        "address": "100-2525 mccallum Rd",
+        "city": "Abbotsford",
+        "phone": "604-288-8271",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.328741",
+          "49.044005"
+        ]
+      },
+      "properties": {
+        "id": "1123",
+        "name": "Qt Daycare Ltd.",
+        "address": "2316 Beaver St",
+        "city": "Abbotsford",
+        "phone": "778-551-3099",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.36249",
+          "49.05873"
+        ]
+      },
+      "properties": {
+        "id": "1158",
+        "name": "Smiles 4 Miles",
+        "address": "31105 Heron Ave",
+        "city": "Abbotsford",
+        "phone": "778-551-3260",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.237484",
+          "49.039469"
+        ]
+      },
+      "properties": {
+        "id": "1220",
+        "name": "Kat And Kids",
+        "address": "35653 Zanatta Pl",
+        "city": "Abbotsford",
+        "phone": "604-617-1544",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.361634",
+          "49.066706"
+        ]
+      },
+      "properties": {
+        "id": "1223",
+        "name": "Little Dreamers",
+        "address": "31150 Blueridge Dr",
+        "city": "Abbotsford",
+        "phone": "604-614-5308",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.403968",
+          "49.04746"
+        ]
+      },
+      "properties": {
+        "id": "1232",
+        "name": "Tiger Stripes Learning Center",
+        "address": "2451 Ross Rd",
+        "city": "Abbotsford",
+        "phone": "778-772-6289",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.244567",
+          "49.063838"
+        ]
+      },
+      "properties": {
+        "id": "1259",
+        "name": "Smile 'N' Play Daycare Centre Inc.",
+        "address": "3411 Mckinley Dr",
+        "city": "Abbotsford",
+        "phone": "604-655-5040",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.241139",
+          "49.061203"
+        ]
+      },
+      "properties": {
+        "id": "1264",
+        "name": "Enchanted Forest Childcare Center Inc.",
+        "address": "3266 Rathtrevor Crt",
+        "city": "Abbotsford",
+        "phone": "604-789-1368",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.448037",
+          "49.057334"
+        ]
+      },
+      "properties": {
+        "id": "1329",
+        "name": "Learn N' Play Childcare Centre",
+        "address": "110-28040 Fraser Hwy",
+        "city": "Abbotsford",
+        "phone": "604-561-0444",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.331996",
+          "49.065049"
+        ]
+      },
+      "properties": {
+        "id": "1361",
+        "name": "Golden Rainbow Childcare Centre",
+        "address": "32225 Golden Ave",
+        "city": "Abbotsford",
+        "phone": "778-344-2642",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.243599",
+          "49.065662"
+        ]
+      },
+      "properties": {
+        "id": "1402",
+        "name": "Grand Kids Care The (Tgk)",
+        "address": "35431 mckee Rd",
+        "city": "Abbotsford",
+        "phone": "778-536-5423",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.290369",
+          "49.049548"
+        ]
+      },
+      "properties": {
+        "id": "1407",
+        "name": "Contemporary Kids Learning Centre Inc.",
+        "address": "2621 Montrose Ave",
+        "city": "Abbotsford",
+        "phone": "604-839-0511",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.29386",
+          "49.107785"
+        ]
+      },
+      "properties": {
+        "id": "1424",
+        "name": "Pure Play Child Care",
+        "address": "5824 Riverside St",
+        "city": "Abbotsford",
+        "phone": "604-226-3714",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.261002",
+          "49.063871"
+        ]
+      },
+      "properties": {
+        "id": "1471",
+        "name": "Stars Of The Sky Child Care Ltd.",
+        "address": "34790 Laburnum Ave",
+        "city": "Abbotsford",
+        "phone": "604-854-8007",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.304764",
+          "49.03688"
+        ]
+      },
+      "properties": {
+        "id": "1482",
+        "name": "Little Ducklings Home Daycare",
+        "address": "1920 Eagle St",
+        "city": "Abbotsford",
+        "phone": "778-201-2630",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.292409",
+          "49.030729"
+        ]
+      },
+      "properties": {
+        "id": "1488",
+        "name": "Little Leaders Childcare Centre",
+        "address": "1528 mccallum Rd",
+        "city": "Abbotsford",
+        "phone": "604-217-1404",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.193287",
+          "49.05652"
+        ]
+      },
+      "properties": {
+        "id": "1496",
+        "name": "Busy Bear Club Preschool The",
+        "address": "37290 Kilgard",
+        "city": "Abbotsford",
+        "phone": "604-852-1260",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.427207",
+          "49.056152"
+        ]
+      },
+      "properties": {
+        "id": "1518",
+        "name": "Small Beginnings Preschool - Little Leaders Childcare",
+        "address": "2975 Bradner Rd",
+        "city": "Abbotsford",
+        "phone": "604-217-1404",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.253538",
+          "49.057462"
+        ]
+      },
+      "properties": {
+        "id": "1574",
+        "name": "Building Blocks Daycare",
+        "address": "3071 Mccrae St",
+        "city": "Abbotsford",
+        "phone": "778-235-3699",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.249779",
+          "49.071864"
+        ]
+      },
+      "properties": {
+        "id": "1653",
+        "name": "Grandma's House Day Care Ltd.",
+        "address": "3855 Old Clayburn Rd",
+        "city": "Abbotsford",
+        "phone": "778-666-7394",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.289874",
+          "49.05107"
+        ]
+      },
+      "properties": {
+        "id": "1657",
+        "name": "Next Level Childcare Fraser Valley Inc.",
+        "address": "2699 West Railway St",
+        "city": "Abbotsford",
+        "phone": "604-380-4060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.340256",
+          "49.059903"
+        ]
+      },
+      "properties": {
+        "id": "1686",
+        "name": "Shreya Academic Centre Ltd.",
+        "address": "3180 Crown Crt",
+        "city": "Abbotsford",
+        "phone": "604-832-1880",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.292956",
+          "49.110188"
+        ]
+      },
+      "properties": {
+        "id": "1701",
+        "name": "Little Dreamers Childcare Ltd.",
+        "address": "5930 Riverside St",
+        "city": "Abbotsford",
+        "phone": "604-614-5308",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.337779",
+          "49.040752"
+        ]
+      },
+      "properties": {
+        "id": "1718",
+        "name": "Tiny Scholars Inc.",
+        "address": "100-2121 Clearbrook Rd",
+        "city": "Abbotsford",
+        "phone": "604-744-0362",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.318274",
+          "49.070348"
+        ]
+      },
+      "properties": {
+        "id": "1719",
+        "name": "Fun Times Child Care",
+        "address": "3795 Nanaimo Cres",
+        "city": "Abbotsford",
+        "phone": "604-996-0923",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.360076",
+          "49.052576"
+        ]
+      },
+      "properties": {
+        "id": "1733",
+        "name": "St James ymca Kids Club",
+        "address": "2777 Townline Rd",
+        "city": "Abbotsford",
+        "phone": "604-320-5828",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.341679",
+          "49.047367"
+        ]
+      },
+      "properties": {
+        "id": "1742",
+        "name": "New Leaf Learning And Childcare Centre",
+        "address": "#100 - 31838 South Fraser Way",
+        "city": "Abbotsford",
+        "phone": "604-613-1919",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.264989",
+          "49.051695"
+        ]
+      },
+      "properties": {
+        "id": "1799",
+        "name": "Abby Good Beginnings",
+        "address": "34641 Sandon Dr",
+        "city": "Abbotsford",
+        "phone": "778-798-4450",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.378506",
+          "49.057946"
+        ]
+      },
+      "properties": {
+        "id": "1855",
+        "name": "Cefa Early Learning Abbotsford \u2013 Highstreet",
+        "address": "3122 Mt Lehman Rd",
+        "city": "Abbotsford",
+        "phone": "604-425-3800",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.359086",
+          "49.066042"
+        ]
+      },
+      "properties": {
+        "id": "1863",
+        "name": "Wagner Childcare & Learning Centre Ltd.",
+        "address": "3511 Wagner Dr",
+        "city": "Abbotsford",
+        "phone": "778-989-3930",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.243145",
+          "49.066529"
+        ]
+      },
+      "properties": {
+        "id": "1886",
+        "name": "Smile 'N' Play Daycare Centre Inc.",
+        "address": "3558 Mckinley Dr",
+        "city": "Abbotsford",
+        "phone": "604-655-5040",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.300731",
+          "49.040978"
+        ]
+      },
+      "properties": {
+        "id": "1930",
+        "name": "St. Ann's Parish Daycare",
+        "address": "33333 Mayfair Ave",
+        "city": "Abbotsford",
+        "phone": "604-852-5602",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.346319",
+          "49.056414"
+        ]
+      },
+      "properties": {
+        "id": "1961",
+        "name": "The Backyard Daycare",
+        "address": "2983 Palm Cres",
+        "city": "Abbotsford",
+        "phone": "604-897-6927",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.288236",
+          "49.046894"
+        ]
+      },
+      "properties": {
+        "id": "1977",
+        "name": "Valley Pine Learning Centre Inc",
+        "address": "100-2485 West Railway St",
+        "city": "Abbotsford",
+        "phone": "604-864-6424",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.363159",
+          "49.057346"
+        ]
+      },
+      "properties": {
+        "id": "1978",
+        "name": "Smart Steps Daycare",
+        "address": "31079 Southern Dr",
+        "city": "Abbotsford",
+        "phone": "604-363-7339",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.427941",
+          "49.098155"
+        ]
+      },
+      "properties": {
+        "id": "2009",
+        "name": "Kids Zone Child Care Centre - Bradner Elementary",
+        "address": "5291 Bradner Rd",
+        "city": "Abbotsford",
+        "phone": "778-239-2075",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.260831",
+          "49.051171"
+        ]
+      },
+      "properties": {
+        "id": "2015",
+        "name": "Sinoah's Ark",
+        "address": "2748 Sandon Dr",
+        "city": "Abbotsford",
+        "phone": "604-615-1529",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.327722",
+          "49.037839"
+        ]
+      },
+      "properties": {
+        "id": "2097",
+        "name": "Red Apple Day Care Centre",
+        "address": "32354 Marshall Rd",
+        "city": "Abbotsford",
+        "phone": "778-669-0268",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.300608",
+          "49.048916"
+        ]
+      },
+      "properties": {
+        "id": "2098",
+        "name": "Joyful Christian Childcare Abbotsford",
+        "address": "2597 Bourquin Cres E",
+        "city": "Abbotsford",
+        "phone": "778-952-3870",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.272052",
+          "49.055429"
+        ]
+      },
+      "properties": {
+        "id": "2105",
+        "name": "Little Lions Childcare",
+        "address": "103-2955 Immel St",
+        "city": "Abbotsford",
+        "phone": "778-347-0553",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.240465",
+          "49.064128"
+        ]
+      },
+      "properties": {
+        "id": "2110",
+        "name": "Angel Pines Daycare",
+        "address": "8-3457 Whatcom Rd",
+        "city": "Abbotsford",
+        "phone": "778-929-0213",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.336474",
+          "49.043611"
+        ]
+      },
+      "properties": {
+        "id": "2111",
+        "name": "Kids Kingdom Early Learning Centre Ltd",
+        "address": "106-2276 Clearbrook Rd",
+        "city": "Abbotsford",
+        "phone": "778-956-9707",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.286933",
+          "49.044009"
+        ]
+      },
+      "properties": {
+        "id": "2118",
+        "name": "Peek 'N' Play Child Care Centre Inc",
+        "address": "2317 Mouldstade Rd",
+        "city": "Abbotsford",
+        "phone": "604-721-9626",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.332581",
+          "49.044578"
+        ]
+      },
+      "properties": {
+        "id": "2175",
+        "name": "Just B4 Dormick Park Elementary",
+        "address": "32161 Dormick Ave",
+        "city": "Abbotsford",
+        "phone": "604-864-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.267694",
+          "49.064392"
+        ]
+      },
+      "properties": {
+        "id": "2185",
+        "name": "Sweet Pea's Daycare",
+        "address": "3441 Eton Cres",
+        "city": "Abbotsford",
+        "phone": "604-961-9606",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.224773",
+          "49.051541"
+        ]
+      },
+      "properties": {
+        "id": "2250",
+        "name": "Beautiful Minds",
+        "address": "36120 Walter Rd",
+        "city": "Abbotsford",
+        "phone": "604-729-9538",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.306649",
+          "49.041056"
+        ]
+      },
+      "properties": {
+        "id": "2258",
+        "name": "Godson Early Learning Program",
+        "address": "33130 Bevan Ave",
+        "city": "Abbotsford",
+        "phone": "604-864-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.096306",
+          "49.095643"
+        ]
+      },
+      "properties": {
+        "id": "2308",
+        "name": "Little Caterpillars Childcare & Preschool Inc",
+        "address": "5137 Tolmie Rd",
+        "city": "Abbotsford",
+        "phone": "604-799-7749",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.214052",
+          "49.055157"
+        ]
+      },
+      "properties": {
+        "id": "2354",
+        "name": "All Day Smiles Child Care Centre",
+        "address": "36517 Carnarvon Crt",
+        "city": "Abbotsford",
+        "phone": "778-680-4200",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.329506",
+          "49.040722"
+        ]
+      },
+      "properties": {
+        "id": "2383",
+        "name": "Wibble Wobble Childcare - Clearbrook",
+        "address": "2137 Beaver St",
+        "city": "Abbotsford",
+        "phone": "778-955-3030",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.324592",
+          "49.054293"
+        ]
+      },
+      "properties": {
+        "id": "2410",
+        "name": "Quality Time Childcare Centre Inc.",
+        "address": "2865 Cruickshank St",
+        "city": "Abbotsford",
+        "phone": "778-551-3099",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.358912",
+          "49.069309"
+        ]
+      },
+      "properties": {
+        "id": "2423",
+        "name": "Little Dreamers Childcare Ltd.",
+        "address": "#140 - #150 - 3720 Townline Rd",
+        "city": "Abbotsford",
+        "phone": "604-614-5308",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.317751",
+          "49.052201"
+        ]
+      },
+      "properties": {
+        "id": "2451",
+        "name": "Little Leaders Childcare Centre",
+        "address": "2760 Emerson St",
+        "city": "Abbotsford",
+        "phone": "604-217-1404",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.351688",
+          "49.05931"
+        ]
+      },
+      "properties": {
+        "id": "2504",
+        "name": "Kids & I Daycare Ltd",
+        "address": "31505 Southern Dr",
+        "city": "Abbotsford",
+        "phone": "604-679-9035",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.346389",
+          "49.050629"
+        ]
+      },
+      "properties": {
+        "id": "2521",
+        "name": "Little Sunshine Day Care",
+        "address": "2660 Albert Way",
+        "city": "Abbotsford",
+        "phone": "604-584-3536",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.333822",
+          "49.043583"
+        ]
+      },
+      "properties": {
+        "id": "2580",
+        "name": "Brilliant Family Daycare",
+        "address": "32118 Dormick Ave",
+        "city": "Abbotsford",
+        "phone": "604-746-9140",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.322371",
+          "49.040478"
+        ]
+      },
+      "properties": {
+        "id": "2588",
+        "name": "Little Champs Childcare",
+        "address": "2124 Broadway St",
+        "city": "Abbotsford",
+        "phone": "778-552-0006",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.355118",
+          "49.061996"
+        ]
+      },
+      "properties": {
+        "id": "2637",
+        "name": "Abby Junior Childcare Centre Inc.",
+        "address": "3290 Wagner Dr",
+        "city": "Abbotsford",
+        "phone": "778-345-9202",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.383644",
+          "49.118153"
+        ]
+      },
+      "properties": {
+        "id": "2642",
+        "name": "Eco Kids Care Inc.",
+        "address": "6381 Mt Lehman Rd",
+        "city": "Abbotsford",
+        "phone": "778-549-6766",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.218531",
+          "49.017503"
+        ]
+      },
+      "properties": {
+        "id": "2684",
+        "name": "Kids Zone-Sema:Th",
+        "address": "36321 Vye Rd",
+        "city": "Abbotsford",
+        "phone": "778-239-2075",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.339203",
+          "49.065123"
+        ]
+      },
+      "properties": {
+        "id": "2696",
+        "name": "New Creation Christian Childcare Center Inc",
+        "address": "3471 Clearbrook Rd",
+        "city": "Abbotsford",
+        "phone": "778-751-6395",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.296948",
+          "49.030922"
+        ]
+      },
+      "properties": {
+        "id": "2825",
+        "name": "Tiny Toddlers Daycare",
+        "address": "33472 King Rd",
+        "city": "Abbotsford",
+        "phone": "236-788-0008",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.294607",
+          "49.040929"
+        ]
+      },
+      "properties": {
+        "id": "2863",
+        "name": "Learning Circle mccallum Tower The",
+        "address": "2151 mccallum Rd",
+        "city": "Abbotsford",
+        "phone": "604-546-2873",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.302797",
+          "49.050813"
+        ]
+      },
+      "properties": {
+        "id": "2884",
+        "name": "Valley Pine Learning Centre",
+        "address": "33264 Old Yale Rd",
+        "city": "Abbotsford",
+        "phone": "604-866-9909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.348161",
+          "49.050193"
+        ]
+      },
+      "properties": {
+        "id": "2911",
+        "name": "Diversity Childcare Centre",
+        "address": "31606 Clearview Cres",
+        "city": "Abbotsford",
+        "phone": "778-347-9620",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.365021",
+          "49.057328"
+        ]
+      },
+      "properties": {
+        "id": "2919",
+        "name": "Junior Adventures Childcare Academy",
+        "address": "3031 Sandpiper Dr",
+        "city": "Abbotsford",
+        "phone": "778-982-4530",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.282662",
+          "49.064461"
+        ]
+      },
+      "properties": {
+        "id": "2930",
+        "name": "Smalls & Smiles Childcare Centre Ltd.",
+        "address": "3444 Hazelwood Pl",
+        "city": "Abbotsford",
+        "phone": "204-906-1313",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.331637",
+          "49.067173"
+        ]
+      },
+      "properties": {
+        "id": "2935",
+        "name": "Meadowland Childcare Ltd",
+        "address": "32241 Clinton Ave",
+        "city": "Abbotsford",
+        "phone": "604-771-8532",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.374238",
+          "49.063202"
+        ]
+      },
+      "properties": {
+        "id": "2989",
+        "name": "Little Oreos Daycare Ltd.",
+        "address": "3347 Siskin Dr",
+        "city": "Abbotsford",
+        "phone": "778-344-5123",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.333264",
+          "49.06181"
+        ]
+      },
+      "properties": {
+        "id": "3030",
+        "name": "Bright Life Childcare Ltd",
+        "address": "32177 Austin Ave",
+        "city": "Abbotsford",
+        "phone": "604-712-1170",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.365782",
+          "49.054595"
+        ]
+      },
+      "properties": {
+        "id": "3060",
+        "name": "Seven Colours Daycare",
+        "address": "2858 Gardner Crt",
+        "city": "Abbotsford",
+        "phone": "778-982-8814",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.301025",
+          "49.057099"
+        ]
+      },
+      "properties": {
+        "id": "3094",
+        "name": "Terry Fox Childcare",
+        "address": "33341 Terry Fox Ave",
+        "city": "Abbotsford",
+        "phone": "604-441-7111",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.359556",
+          "49.030774"
+        ]
+      },
+      "properties": {
+        "id": "3158",
+        "name": "Country Bears Child Care Centre Inc",
+        "address": "31216 King Rd",
+        "city": "Abbotsford",
+        "phone": "778-871-5608",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.341144",
+          "49.063413"
+        ]
+      },
+      "properties": {
+        "id": "3190",
+        "name": "Care And Fun Childcare",
+        "address": "31883 Mayne Ave",
+        "city": "Abbotsford",
+        "phone": "604-832-0375",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.379399",
+          "49.061077"
+        ]
+      },
+      "properties": {
+        "id": "3207",
+        "name": "Smile 'N' Play Daycare Centre",
+        "address": "110-30475 Cardinal Ave",
+        "city": "Abbotsford",
+        "phone": "604-765-6215",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.3042",
+          "49.040016"
+        ]
+      },
+      "properties": {
+        "id": "3263",
+        "name": "Whimsical Wonders Childcare",
+        "address": "2090 Ware St",
+        "city": "Abbotsford",
+        "phone": "778-246-1530",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.318448",
+          "49.066757"
+        ]
+      },
+      "properties": {
+        "id": "3283",
+        "name": "Abby Twinkle Stars Daycare Inc",
+        "address": "32708 Haida Dr",
+        "city": "Abbotsford",
+        "phone": "604-751-5765",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.374197",
+          "49.069366"
+        ]
+      },
+      "properties": {
+        "id": "3286",
+        "name": "Fun Square Childcare Limited",
+        "address": "30675 Crestview Ave",
+        "city": "Abbotsford",
+        "phone": "778-344-3834",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.254241",
+          "49.034082"
+        ]
+      },
+      "properties": {
+        "id": "3323",
+        "name": "Bright Zone Childcare",
+        "address": "1730 Everett Rd",
+        "city": "Abbotsford",
+        "phone": "778-536-8510",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.247841",
+          "49.034571"
+        ]
+      },
+      "properties": {
+        "id": "3350",
+        "name": "Taylin Child Care Delair Rd",
+        "address": "35270 Delair Rd",
+        "city": "Abbotsford",
+        "phone": "604-349-4066",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.32214",
+          "49.052938"
+        ]
+      },
+      "properties": {
+        "id": "3385",
+        "name": "Sandbox Early Learning (Abbotsford)",
+        "address": "32560 Simon Ave",
+        "city": "Abbotsford",
+        "phone": "604-868-7121",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.375782",
+          "49.063587"
+        ]
+      },
+      "properties": {
+        "id": "3427",
+        "name": "Sunlight Fraser Valley Daycare",
+        "address": "3366 Goldfinch Pl",
+        "city": "Abbotsford",
+        "phone": "639-916-0322",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.329807",
+          "49.050793"
+        ]
+      },
+      "properties": {
+        "id": "3458",
+        "name": "Abby Childcare Centre",
+        "address": "2663 James St",
+        "city": "Abbotsford",
+        "phone": "604-612-0439",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.279929",
+          "49.053268"
+        ]
+      },
+      "properties": {
+        "id": "3488",
+        "name": "Angel Pines Center",
+        "address": "2826 Cambridge St",
+        "city": "Abbotsford",
+        "phone": "778-929-0213",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.326735",
+          "49.051329"
+        ]
+      },
+      "properties": {
+        "id": "3560",
+        "name": "Next Level Childcare Society - Clearbrook",
+        "address": "112-2653 Trethewey St",
+        "city": "Abbotsford",
+        "phone": "604-380-4060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.318504",
+          "49.050298"
+        ]
+      },
+      "properties": {
+        "id": "3562",
+        "name": "Kiddie Club Childcare Center",
+        "address": "22-32700 South Fraser Way",
+        "city": "Abbotsford",
+        "phone": "778-963-8811",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.316749",
+          "49.047948"
+        ]
+      },
+      "properties": {
+        "id": "3629",
+        "name": "Li'l Acorn Childcare",
+        "address": "2527 Gladwin Rd",
+        "city": "Abbotsford",
+        "phone": "604-853-9376",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.259054",
+          "49.045177"
+        ]
+      },
+      "properties": {
+        "id": "3648",
+        "name": "The Open Door",
+        "address": "2390 mcmillan Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-8406",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.337322",
+          "49.066948"
+        ]
+      },
+      "properties": {
+        "id": "3727",
+        "name": "Maranatha Kids Care",
+        "address": "3580 Clearbrook Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-8405",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.379707",
+          "49.066994"
+        ]
+      },
+      "properties": {
+        "id": "3740",
+        "name": "Little Twinkle Preschool/Out Of School Care (Mount Lehman)",
+        "address": "3551 Crestview Ave",
+        "city": "Abbotsford",
+        "phone": "604-614-5562",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.377313",
+          "49.064925"
+        ]
+      },
+      "properties": {
+        "id": "3758",
+        "name": "Blueridge Childcare",
+        "address": "3459 Goldfinch St",
+        "city": "Abbotsford",
+        "phone": "604-870-8878",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.284832",
+          "49.055156"
+        ]
+      },
+      "properties": {
+        "id": "3834",
+        "name": "Little Wonders Montessori Childcare Centre & Preschool Ltd",
+        "address": "2884 Gladys Ave",
+        "city": "Abbotsford",
+        "phone": "604-853-9998",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.31304",
+          "49.074573"
+        ]
+      },
+      "properties": {
+        "id": "3902",
+        "name": "Cornerstone Junior Kindergarten",
+        "address": "32860 Downes Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-7867",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.251149",
+          "49.073426"
+        ]
+      },
+      "properties": {
+        "id": "3920",
+        "name": "Abbotsford Christian School Childcare Preschool & Seamless D",
+        "address": "3939 Old Clayburn Rd",
+        "city": "Abbotsford",
+        "phone": "604-755-8106",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.347627",
+          "49.075743"
+        ]
+      },
+      "properties": {
+        "id": "4008",
+        "name": "Mei Elementary Preschool",
+        "address": "31655 Downes Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-3700",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.234666",
+          "49.042946"
+        ]
+      },
+      "properties": {
+        "id": "4039",
+        "name": "Hand In Hand - Mountain Elementary",
+        "address": "2299 Mountain Dr",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.310642",
+          "49.04037"
+        ]
+      },
+      "properties": {
+        "id": "4117",
+        "name": "Growing Together Children's Centre",
+        "address": "32981 Brundidge Ave",
+        "city": "Abbotsford",
+        "phone": "604-853-5618",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.315426",
+          "49.065288"
+        ]
+      },
+      "properties": {
+        "id": "4153",
+        "name": "Wind And Tide Preschool - Gladwin",
+        "address": "3474 Gladwin Rd",
+        "city": "Abbotsford",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.259646",
+          "49.066408"
+        ]
+      },
+      "properties": {
+        "id": "4160",
+        "name": "Hand In Hand - Dr. Thomas Swift Elementary",
+        "address": "34800 Mierau Ave",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.255995",
+          "49.053734"
+        ]
+      },
+      "properties": {
+        "id": "4181",
+        "name": "Gingerbread House Preschool",
+        "address": "2859 Glenavon Crt",
+        "city": "Abbotsford",
+        "phone": "604-807-3066",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.333877",
+          "49.047724"
+        ]
+      },
+      "properties": {
+        "id": "4239",
+        "name": "Mr. Moose's Childcare Learning Centre Ltd.",
+        "address": "32130 Hillcrest Ave",
+        "city": "Abbotsford",
+        "phone": "604-853-2769",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.300739",
+          "49.040977"
+        ]
+      },
+      "properties": {
+        "id": "4364",
+        "name": "St. Ann's Preschool",
+        "address": "33333 Mayfair Ave",
+        "city": "Abbotsford",
+        "phone": "604-581-3154",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.244882",
+          "49.063475"
+        ]
+      },
+      "properties": {
+        "id": "4393",
+        "name": "Blossom Childcare Centre",
+        "address": "35366 mckee Rd",
+        "city": "Abbotsford",
+        "phone": "604-850-2231",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.291858",
+          "49.106986"
+        ]
+      },
+      "properties": {
+        "id": "4413",
+        "name": "Msa Montessori Preschool",
+        "address": "33676 St. Olaf Ave",
+        "city": "Abbotsford",
+        "phone": "604-820-4987",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.34526",
+          "49.049888"
+        ]
+      },
+      "properties": {
+        "id": "4423",
+        "name": "Hand In Hand - Ten Broeck Elementary",
+        "address": "2580 Stanley St",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.356438",
+          "49.068683"
+        ]
+      },
+      "properties": {
+        "id": "4445",
+        "name": "Little Dreamers Childcare Ltd.",
+        "address": "31321 Blueridge Dr",
+        "city": "Abbotsford",
+        "phone": "604-614-5308",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.336754",
+          "49.047884"
+        ]
+      },
+      "properties": {
+        "id": "4524",
+        "name": "Qt Daycare #1",
+        "address": "2518 Clearbrook Rd",
+        "city": "Abbotsford",
+        "phone": "604-556-6458",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.318733",
+          "49.070569"
+        ]
+      },
+      "properties": {
+        "id": "4532",
+        "name": "Honey Bee Academy Family Daycare",
+        "address": "3772 Nicola St",
+        "city": "Abbotsford",
+        "phone": "604-744-9109",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.374949",
+          "49.064794"
+        ]
+      },
+      "properties": {
+        "id": "4539",
+        "name": "Khalsa Child Care Centre",
+        "address": "30640 Blueridge Dr",
+        "city": "Abbotsford",
+        "phone": "604-594-0553",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.344067",
+          "49.067202"
+        ]
+      },
+      "properties": {
+        "id": "4562",
+        "name": "Ladybug Landing Preschool",
+        "address": "31789 Thornhill Pl",
+        "city": "Abbotsford",
+        "phone": "604-850-2474",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.354005",
+          "49.048445"
+        ]
+      },
+      "properties": {
+        "id": "4584",
+        "name": "Toor's Daycare Center",
+        "address": "31406 Springhill Crt",
+        "city": "Abbotsford",
+        "phone": "604-614-3828",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.336193",
+          "49.047712"
+        ]
+      },
+      "properties": {
+        "id": "4665",
+        "name": "Qt Daycare #2",
+        "address": "32034 Hillcrest Ave",
+        "city": "Abbotsford",
+        "phone": "604-556-6458",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.337701",
+          "49.034332"
+        ]
+      },
+      "properties": {
+        "id": "4685",
+        "name": "Redwood Early Childhood Education",
+        "address": "107-1785 Clearbrook Rd",
+        "city": "Abbotsford",
+        "phone": "778-288-8855",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.319654",
+          "49.071851"
+        ]
+      },
+      "properties": {
+        "id": "4732",
+        "name": "Fraser Valley Montessori Preschool & School Age Care",
+        "address": "32717 Chilcotin Dr",
+        "city": "Abbotsford",
+        "phone": "604-859-5061",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.269171",
+          "49.057618"
+        ]
+      },
+      "properties": {
+        "id": "4805",
+        "name": "Fraser Valley Montessori School Age Care",
+        "address": "3060 Old Clayburn Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-5061",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.259434",
+          "49.045838"
+        ]
+      },
+      "properties": {
+        "id": "4861",
+        "name": "Puddlejumpers Childcare Centre",
+        "address": "34824 Orchard Dr",
+        "city": "Abbotsford",
+        "phone": "778-809-1416",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.279223",
+          "49.04"
+        ]
+      },
+      "properties": {
+        "id": "4864",
+        "name": "Sun Hang Do Martial Arts Kids Life Skills Club (Abbotsford)",
+        "address": "6-34100 South Fraser Way",
+        "city": "Abbotsford",
+        "phone": "604-852-4222",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.330432",
+          "49.050242"
+        ]
+      },
+      "properties": {
+        "id": "4929",
+        "name": "Wings Of Life Fine Arts Child Care",
+        "address": "2630 Langdon St",
+        "city": "Abbotsford",
+        "phone": "604-302-2666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.287653",
+          "49.042415"
+        ]
+      },
+      "properties": {
+        "id": "4938",
+        "name": "Hand In Hand - Alexander Elementary",
+        "address": "2250 Lobban Rd",
+        "city": "Abbotsford",
+        "phone": "604-859-1843",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.273476",
+          "49.046015"
+        ]
+      },
+      "properties": {
+        "id": "4977",
+        "name": "Tiny Turtles Daycare",
+        "address": "34324 Old Yale Rd",
+        "city": "Abbotsford",
+        "phone": "778-835-0149",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.273425",
+          "49.057177"
+        ]
+      },
+      "properties": {
+        "id": "5066",
+        "name": "Creative Edge School Of Arts Ltd.",
+        "address": "300-3033 Immel St",
+        "city": "Abbotsford",
+        "phone": "604-855-3343",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.293907",
+          "49.040445"
+        ]
+      },
+      "properties": {
+        "id": "5093",
+        "name": "Little Leaders Childcare Centre Inc.",
+        "address": "4-33575 Mayfair Ave",
+        "city": "Abbotsford",
+        "phone": "604-217-1404",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.328778",
+          "49.058304"
+        ]
+      },
+      "properties": {
+        "id": "5167",
+        "name": "Abc Childcare Centre",
+        "address": "32340 Mouat Dr",
+        "city": "Abbotsford",
+        "phone": "604-300-1179",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.233071",
+          "49.064446"
+        ]
+      },
+      "properties": {
+        "id": "5182",
+        "name": "Gentle Touch Daycare",
+        "address": "3429 Blueberry Crt",
+        "city": "Abbotsford",
+        "phone": "604-859-0170",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.235862",
+          "49.06995"
+        ]
+      },
+      "properties": {
+        "id": "5230",
+        "name": "Little Red Wagon Childcare",
+        "address": "35694 mckee Rd",
+        "city": "Abbotsford",
+        "phone": "604-831-2018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.35848",
+          "49.068352"
+        ]
+      },
+      "properties": {
+        "id": "5238",
+        "name": "Global West Montessori",
+        "address": "101-3600 Townline Rd",
+        "city": "Abbotsford",
+        "phone": "604-763-4439",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.218174",
+          "49.083134"
+        ]
+      },
+      "properties": {
+        "id": "5251",
+        "name": "Little Wonders Montessori Childcare & Preschool Ltd.",
+        "address": "115 36363 Auguston Pky S",
+        "city": "Abbotsford",
+        "phone": "604-853-9998",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.356832",
+          "49.06519"
+        ]
+      },
+      "properties": {
+        "id": "5261",
+        "name": "Ridgeview Daycare Ltd.",
+        "address": "31311 Ridgeview Dr",
+        "city": "Abbotsford",
+        "phone": "604-744-9412",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.338423",
+          "49.064382"
+        ]
+      },
+      "properties": {
+        "id": "5336",
+        "name": "Praise Daycare",
+        "address": "3427 Clearbrook Rd",
+        "city": "Abbotsford",
+        "phone": "778-856-1718",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.362732",
+          "49.055493"
+        ]
+      },
+      "properties": {
+        "id": "5351",
+        "name": "Fun-N-Learn Childcare Centre",
+        "address": "31094 Edgehill Ave",
+        "city": "Abbotsford",
+        "phone": "604-755-0738",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.36163",
+          "49.066695"
+        ]
+      },
+      "properties": {
+        "id": "5355",
+        "name": "Little Dreamers Childcare Ltd",
+        "address": "31150 Blueridge Dr",
+        "city": "Abbotsford",
+        "phone": "604-614-5308",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.293884",
+          "49.044338"
+        ]
+      },
+      "properties": {
+        "id": "5450",
+        "name": "Little Koala Montessi Academy - Abbotsford",
+        "address": "2335 mccallum Rd",
+        "city": "Abbotsford",
+        "phone": "778-856-1281",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.2792",
+          "49.04"
+        ]
+      },
+      "properties": {
+        "id": "5504",
+        "name": "Xtreme Performing Arts/Xplor Fine Arts Preschool",
+        "address": "11-34100 South Fraser Way",
+        "city": "Abbotsford",
+        "phone": "778-808-8827",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.285357",
+          "49.064529"
+        ]
+      },
+      "properties": {
+        "id": "5509",
+        "name": "Little Wonders Montessori Childcare & Preschool Ltd.",
+        "address": "33911 Hazelwood Ave",
+        "city": "Abbotsford",
+        "phone": "604-621-5116",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.246089",
+          "49.074169"
+        ]
+      },
+      "properties": {
+        "id": "5529",
+        "name": "Precious Treasures Child Care",
+        "address": "3941 Waterton Cres",
+        "city": "Abbotsford",
+        "phone": "778-552-8501",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.305323",
+          "49.031544"
+        ]
+      },
+      "properties": {
+        "id": "5562",
+        "name": "Little Dreamers Preschool Ltd.",
+        "address": "33165 King Rd",
+        "city": "Abbotsford",
+        "phone": "604-614-5308",
+        "services": []
+      }
+    }
+  ]
+}

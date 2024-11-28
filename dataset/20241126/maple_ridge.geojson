@@ -1,0 +1,2644 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.620264",
+          "49.22031"
+        ]
+      },
+      "properties": {
+        "id": "177",
+        "name": "Maple Ridge Adventure Preschool",
+        "address": "21698 Dewdney Trunk Road",
+        "city": "Maple Ridge",
+        "phone": "604-463-4903",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.623077",
+          "49.220912"
+        ]
+      },
+      "properties": {
+        "id": "252",
+        "name": "Brightpath Maple Ridge",
+        "address": "21593 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-463-2188",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.649966",
+          "49.209264"
+        ]
+      },
+      "properties": {
+        "id": "290",
+        "name": "Meadow Montessori School Society",
+        "address": "11391 Dartford St",
+        "city": "Maple Ridge",
+        "phone": "604-465-3492",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.569936",
+          "49.219926"
+        ]
+      },
+      "properties": {
+        "id": "341",
+        "name": "Little Willows Dewdney Church",
+        "address": "23500 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-463-4882",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.569249",
+          "49.220132"
+        ]
+      },
+      "properties": {
+        "id": "342",
+        "name": "Little Willows Dewdney House",
+        "address": "23550 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-463-4919",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.602939",
+          "49.213772"
+        ]
+      },
+      "properties": {
+        "id": "385",
+        "name": "3 Wishes Childcare Centre",
+        "address": "22365 Callighan Ave",
+        "city": "Maple Ridge",
+        "phone": "604-467-2941",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.660382",
+          "49.222244"
+        ]
+      },
+      "properties": {
+        "id": "390",
+        "name": "Wind And Tide Child Development Centre - Sw Maple Ridge",
+        "address": "20245 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.624796",
+          "49.23225"
+        ]
+      },
+      "properties": {
+        "id": "493",
+        "name": "Mee Wee's Corner Family Daycare",
+        "address": "12628 215Th St",
+        "city": "Maple Ridge",
+        "phone": "604-463-5438",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.651904",
+          "49.22684"
+        ]
+      },
+      "properties": {
+        "id": "494",
+        "name": "Joanne's House",
+        "address": "20516 123B Ave",
+        "city": "Maple Ridge",
+        "phone": "604-465-9759",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.59588",
+          "49.233781"
+        ]
+      },
+      "properties": {
+        "id": "495",
+        "name": "Hilda's Daycare",
+        "address": "12741 226Th St",
+        "city": "Maple Ridge",
+        "phone": "604-463-7889",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.57651",
+          "49.220732"
+        ]
+      },
+      "properties": {
+        "id": "497",
+        "name": "Circle Time Family Daycare",
+        "address": "12030 232B St",
+        "city": "Maple Ridge",
+        "phone": "604-908-2773",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.645969",
+          "49.226966"
+        ]
+      },
+      "properties": {
+        "id": "502",
+        "name": "Little Crayons Daycare",
+        "address": "20770 123B Ave",
+        "city": "Maple Ridge",
+        "phone": "604-467-2249",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.572836",
+          "49.209502"
+        ]
+      },
+      "properties": {
+        "id": "505",
+        "name": "Nana's Angels",
+        "address": "11440 234A St",
+        "city": "Maple Ridge",
+        "phone": "604-463-9643",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.558338",
+          "49.212249"
+        ]
+      },
+      "properties": {
+        "id": "508",
+        "name": "It's A Small World Daycare",
+        "address": "11555 239A St",
+        "city": "Maple Ridge",
+        "phone": "604-463-1778",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.599189",
+          "49.216239"
+        ]
+      },
+      "properties": {
+        "id": "649",
+        "name": "Wonder World Play School",
+        "address": "Unit B 11767 225 St",
+        "city": "Maple Ridge",
+        "phone": "604-779-2273",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.57329",
+          "49.203867"
+        ]
+      },
+      "properties": {
+        "id": "651",
+        "name": "Kanaka Creek Childcare",
+        "address": "23422 Griffen Rd",
+        "city": "Maple Ridge",
+        "phone": "604-780-8872",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.604109",
+          "49.229866"
+        ]
+      },
+      "properties": {
+        "id": "720",
+        "name": "Basket Of Joy",
+        "address": "12510 223 St",
+        "city": "Maple Ridge",
+        "phone": "604-467-2053",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.561388",
+          "49.215761"
+        ]
+      },
+      "properties": {
+        "id": "727",
+        "name": "Bright Beginnings Childcare",
+        "address": "23850 117B Ave",
+        "city": "Maple Ridge",
+        "phone": "604-313-9417",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.532789",
+          "49.196488"
+        ]
+      },
+      "properties": {
+        "id": "731",
+        "name": "Sandy's Daycare",
+        "address": "24859 106B Ave",
+        "city": "Maple Ridge",
+        "phone": "604-209-0165",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.633804",
+          "49.225229"
+        ]
+      },
+      "properties": {
+        "id": "748",
+        "name": "Little Star",
+        "address": "21180 Stonehouse Ave",
+        "city": "Maple Ridge",
+        "phone": "604-781-6741",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.551462",
+          "49.186931"
+        ]
+      },
+      "properties": {
+        "id": "769",
+        "name": "Junior Achievers Academy",
+        "address": "24195 101A Ave",
+        "city": "Maple Ridge",
+        "phone": "604-724-0513",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.567183",
+          "49.218721"
+        ]
+      },
+      "properties": {
+        "id": "797",
+        "name": "First Choice Daycare",
+        "address": "23635 119 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-780-5527",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.56251",
+          "49.212102"
+        ]
+      },
+      "properties": {
+        "id": "812",
+        "name": "Hearts & Smiles Montessori Childcare",
+        "address": "23779 115A Ave",
+        "city": "Maple Ridge",
+        "phone": "604-760-9815",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.663202",
+          "49.219673"
+        ]
+      },
+      "properties": {
+        "id": "825",
+        "name": "Little Bright Learners",
+        "address": "20145 119A Ave",
+        "city": "Maple Ridge",
+        "phone": "604-356-9412",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.592854",
+          "49.219689"
+        ]
+      },
+      "properties": {
+        "id": "835",
+        "name": "After School Warriors Child Care Inc",
+        "address": "22712 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-477-1717",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.567449",
+          "49.203419"
+        ]
+      },
+      "properties": {
+        "id": "837",
+        "name": "Kanaka Creek Daycare",
+        "address": "11079 236A St",
+        "city": "Maple Ridge",
+        "phone": "604-477-1125",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.596564",
+          "49.220013"
+        ]
+      },
+      "properties": {
+        "id": "849",
+        "name": "Little Willows Edge",
+        "address": "201-22590 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-477-1100",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.654427",
+          "49.218383"
+        ]
+      },
+      "properties": {
+        "id": "882",
+        "name": "The Learning Ladder Children's Centre",
+        "address": "5-20468 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "604-460-0601",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.534242",
+          "49.220604"
+        ]
+      },
+      "properties": {
+        "id": "926",
+        "name": "Fundamentals Childcare Centre Inc",
+        "address": "12038 248 St",
+        "city": "Maple Ridge",
+        "phone": "604-380-2455",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.604536",
+          "49.219566"
+        ]
+      },
+      "properties": {
+        "id": "956",
+        "name": "Happy Hearts Childcare Centre Inc",
+        "address": "22315 Mcintosh Ave",
+        "city": "Maple Ridge",
+        "phone": "604-479-2273",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.638967",
+          "49.238689"
+        ]
+      },
+      "properties": {
+        "id": "982",
+        "name": "Sunrise Family Daycare",
+        "address": "12221 210 St",
+        "city": "Maple Ridge",
+        "phone": "778-886-6525",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.566794",
+          "49.20393"
+        ]
+      },
+      "properties": {
+        "id": "1078",
+        "name": "Home Sweet Home",
+        "address": "23668 Kanaka Way",
+        "city": "Maple Ridge",
+        "phone": "778-927-4425",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.647834",
+          "49.21945"
+        ]
+      },
+      "properties": {
+        "id": "1202",
+        "name": "Brightpath Maple Ridge Meadows",
+        "address": "11918 207Th St",
+        "city": "Maple Ridge",
+        "phone": "604-380-0336",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.583198",
+          "49.225339"
+        ]
+      },
+      "properties": {
+        "id": "1218",
+        "name": "Little Willows Harry Hooge",
+        "address": "12280 230Th St",
+        "city": "Maple Ridge",
+        "phone": "778-245-8742",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.608956",
+          "49.229676"
+        ]
+      },
+      "properties": {
+        "id": "1219",
+        "name": "Little Willows Alouette",
+        "address": "22155 Issac Cres",
+        "city": "Maple Ridge",
+        "phone": "778-245-8743",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.5459",
+          "49.186878"
+        ]
+      },
+      "properties": {
+        "id": "1235",
+        "name": "Wilkinson Learning Tree",
+        "address": "10172 244 St",
+        "city": "Maple Ridge",
+        "phone": "604-537-2396",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.618997",
+          "49.216415"
+        ]
+      },
+      "properties": {
+        "id": "1242",
+        "name": "Montessori Beginnings Preschool And Kindergarten",
+        "address": "21746 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "604-466-3184",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.618339",
+          "49.218878"
+        ]
+      },
+      "properties": {
+        "id": "1275",
+        "name": "Tender Blossoms Childcare Ltd",
+        "address": "21756 Donovan Ave",
+        "city": "Maple Ridge",
+        "phone": "778-552-7073",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.55",
+          "49.188696"
+        ]
+      },
+      "properties": {
+        "id": "1308",
+        "name": "The Place To Grow",
+        "address": "24272 102B Ave",
+        "city": "Maple Ridge",
+        "phone": "778-927-4204",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.591941",
+          "49.217542"
+        ]
+      },
+      "properties": {
+        "id": "1316",
+        "name": "Next Level Childcare Valley Fair",
+        "address": "200-22709 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "604-380-4060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.650928",
+          "49.214364"
+        ]
+      },
+      "properties": {
+        "id": "1367",
+        "name": "Happy Sky Daycare Centre",
+        "address": "11670 Miller St",
+        "city": "Maple Ridge",
+        "phone": "778-822-5228",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.596772",
+          "49.216803"
+        ]
+      },
+      "properties": {
+        "id": "1377",
+        "name": "Bluebirds Early Learning Childcare Inc",
+        "address": "22580 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "604-479-2255",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.6189",
+          "49.2174"
+        ]
+      },
+      "properties": {
+        "id": "1507",
+        "name": "Happy Ridge Early Learning Academy",
+        "address": "101-21755 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "604-783-3066",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.554244",
+          "49.192157"
+        ]
+      },
+      "properties": {
+        "id": "1513",
+        "name": "Fundamentals Childcare Centre Inc",
+        "address": "24093 104 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-786-4615",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.649823",
+          "49.226052"
+        ]
+      },
+      "properties": {
+        "id": "1556",
+        "name": "Inventive Minds Childcare",
+        "address": "20622 123 Ave",
+        "city": "Maple Ridge",
+        "phone": "778-929-9776",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.551471",
+          "49.190879"
+        ]
+      },
+      "properties": {
+        "id": "1565",
+        "name": "Creative Discovery Early Learning",
+        "address": "24189 103A Ave",
+        "city": "Maple Ridge",
+        "phone": "604-790-9488",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.548295",
+          "49.191525"
+        ]
+      },
+      "properties": {
+        "id": "1577",
+        "name": "Kiddo & Co. Child Care",
+        "address": "24331 104 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-218-8586",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.641844",
+          "49.215063"
+        ]
+      },
+      "properties": {
+        "id": "1588",
+        "name": "Ultimate Care Nest Family Child Care",
+        "address": "11724 209 St",
+        "city": "Maple Ridge",
+        "phone": "604-812-2482",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.644993",
+          "49.213476"
+        ]
+      },
+      "properties": {
+        "id": "1643",
+        "name": "New Look Daycare",
+        "address": "20816 Stoney Ave",
+        "city": "Maple Ridge",
+        "phone": "778-988-2007",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.51837",
+          "49.236908"
+        ]
+      },
+      "properties": {
+        "id": "1644",
+        "name": "Mini Mingos Child Care Centre",
+        "address": "25374 130 Ave",
+        "city": "Maple Ridge",
+        "phone": "672-513-2522",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.556439",
+          "49.196418"
+        ]
+      },
+      "properties": {
+        "id": "1750",
+        "name": "Junior Explorers Academy",
+        "address": "24002 Mcclure Dr",
+        "city": "Maple Ridge",
+        "phone": "778-986-6283",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.563323",
+          "49.195376"
+        ]
+      },
+      "properties": {
+        "id": "1815",
+        "name": "Enjoy Learning Childcare",
+        "address": "10454 Tamarack Cres",
+        "city": "Maple Ridge",
+        "phone": "604-380-1906",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.585894",
+          "49.208097"
+        ]
+      },
+      "properties": {
+        "id": "1839",
+        "name": "Rainbow Montessori",
+        "address": "11345 230 St",
+        "city": "Maple Ridge",
+        "phone": "604-724-9950",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.665207",
+          "49.223105"
+        ]
+      },
+      "properties": {
+        "id": "1916",
+        "name": "Maple Treasure Children's Learning Centre Ltd",
+        "address": "12081 201 St",
+        "city": "Maple Ridge",
+        "phone": "778-839-6757",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.578814",
+          "49.251665"
+        ]
+      },
+      "properties": {
+        "id": "2145",
+        "name": "Little Creations Childcare Centre",
+        "address": "13716 232A St",
+        "city": "Maple Ridge",
+        "phone": "604-314-9266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.579966",
+          "49.251873"
+        ]
+      },
+      "properties": {
+        "id": "2158",
+        "name": "Little Willows Silver Valley",
+        "address": "100-13730 232 St",
+        "city": "Maple Ridge",
+        "phone": "604-380-4000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.658653",
+          "49.222226"
+        ]
+      },
+      "properties": {
+        "id": "2163",
+        "name": "Creative Trails Preschool",
+        "address": "20285 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-861-9198",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.450601",
+          "49.20851"
+        ]
+      },
+      "properties": {
+        "id": "2174",
+        "name": "Kidsfirst Early Childhood Centre",
+        "address": "27871 113 Ave",
+        "city": "Maple Ridge",
+        "phone": "778-919-3558",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.440489",
+          "49.178526"
+        ]
+      },
+      "properties": {
+        "id": "2179",
+        "name": "Little Willows Whonnock",
+        "address": "28209 96 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-462-0786",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.532915",
+          "49.221463"
+        ]
+      },
+      "properties": {
+        "id": "2184",
+        "name": "Little Rainbows Childcare",
+        "address": "24877 Smith Ave",
+        "city": "Maple Ridge",
+        "phone": "604-315-3441",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.556263",
+          "49.202864"
+        ]
+      },
+      "properties": {
+        "id": "2268",
+        "name": "Little Learners Palace Family Daycare",
+        "address": "11046 240 St",
+        "city": "Maple Ridge",
+        "phone": "778-984-2273",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.592854",
+          "49.219689"
+        ]
+      },
+      "properties": {
+        "id": "2306",
+        "name": "The Preschool Next Door",
+        "address": "201-22712 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "778-908-6931",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.597695",
+          "49.229123"
+        ]
+      },
+      "properties": {
+        "id": "2390",
+        "name": "Lil Monkeys Family Daycare",
+        "address": "12505 Izon Crt",
+        "city": "Maple Ridge",
+        "phone": "604-463-6691",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.654122",
+          "49.226041"
+        ]
+      },
+      "properties": {
+        "id": "2404",
+        "name": "Avin Child Care",
+        "address": "20472 123 Ave",
+        "city": "Maple Ridge",
+        "phone": "236-883-1592",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.566379",
+          "49.208053"
+        ]
+      },
+      "properties": {
+        "id": "2420",
+        "name": "Giggleberries Early Education Centre",
+        "address": "23658 113A Ave",
+        "city": "Maple Ridge",
+        "phone": "778-345-7134",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.62629",
+          "49.221128"
+        ]
+      },
+      "properties": {
+        "id": "2554",
+        "name": "H&S Daycare Ltd",
+        "address": "21467 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-561-9615",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.643443",
+          "49.214221"
+        ]
+      },
+      "properties": {
+        "id": "2596",
+        "name": "Image And Reggio (I&R) Child Care Centre",
+        "address": "20844 117 Ave",
+        "city": "Maple Ridge",
+        "phone": "778-896-4512",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.604242",
+          "49.21885"
+        ]
+      },
+      "properties": {
+        "id": "2615",
+        "name": "Blessed Generations Academy - Maple Ridge",
+        "address": "22311 119 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-618-4767",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.6254",
+          "49.220334"
+        ]
+      },
+      "properties": {
+        "id": "2627",
+        "name": "Petals Child Care",
+        "address": "21516 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "778-863-4151",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.57883",
+          "49.228715"
+        ]
+      },
+      "properties": {
+        "id": "2786",
+        "name": "My Sunshine Childcare",
+        "address": "12450 232 St",
+        "city": "Maple Ridge",
+        "phone": "778-928-8548",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.649814",
+          "49.219906"
+        ]
+      },
+      "properties": {
+        "id": "2807",
+        "name": "Just Kiddies Childcare",
+        "address": "20644 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-618-9876",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.545002",
+          "49.206838"
+        ]
+      },
+      "properties": {
+        "id": "2835",
+        "name": "Sweet Smile Montessori Childcare",
+        "address": "24453 112A Ave",
+        "city": "Maple Ridge",
+        "phone": "778-251-3825",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.571594",
+          "49.204155"
+        ]
+      },
+      "properties": {
+        "id": "2843",
+        "name": "Kanaka Active Kids Club",
+        "address": "11120 234A St",
+        "city": "Maple Ridge",
+        "phone": "604-467-7478",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.604128",
+          "49.217784"
+        ]
+      },
+      "properties": {
+        "id": "2890",
+        "name": "Little Garden Montessori Center",
+        "address": "22315 Selkirk Ave",
+        "city": "Maple Ridge",
+        "phone": "604-466-5728",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.632166",
+          "49.223591"
+        ]
+      },
+      "properties": {
+        "id": "2897",
+        "name": "Lighthouse Childcare Center",
+        "address": "12161 Laity St",
+        "city": "Maple Ridge",
+        "phone": "778-862-9996",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.560474",
+          "49.21939"
+        ]
+      },
+      "properties": {
+        "id": "2941",
+        "name": "Maple Corner Daycare",
+        "address": "23856 119B Ave",
+        "city": "Maple Ridge",
+        "phone": "778-859-3546",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.584635",
+          "49.229323"
+        ]
+      },
+      "properties": {
+        "id": "2955",
+        "name": "Wundoroo Academy Maple Ridge",
+        "address": "12512 230Th St",
+        "city": "Maple Ridge",
+        "phone": "778-886-0393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.616102",
+          "49.218114"
+        ]
+      },
+      "properties": {
+        "id": "2961",
+        "name": "Dover Learning Center",
+        "address": "21816 Dover Rd",
+        "city": "Maple Ridge",
+        "phone": "604-551-3401",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.527241",
+          "49.206646"
+        ]
+      },
+      "properties": {
+        "id": "3040",
+        "name": "Miss Mandy's Play And Learn",
+        "address": "11238 250B St",
+        "city": "Maple Ridge",
+        "phone": "604-418-4417",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.585469",
+          "49.215373"
+        ]
+      },
+      "properties": {
+        "id": "3098",
+        "name": "Boomgaard Early Learning & Child Care",
+        "address": "22983 117 Ave",
+        "city": "Maple Ridge",
+        "phone": "672-551-5509",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.588011",
+          "49.222437"
+        ]
+      },
+      "properties": {
+        "id": "3121",
+        "name": "Adventure Explorer Childcare Centre",
+        "address": "12125 229 St",
+        "city": "Maple Ridge",
+        "phone": "604-401-7849",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.629042",
+          "49.221412"
+        ]
+      },
+      "properties": {
+        "id": "3122",
+        "name": "Kindercube Daycare Limited",
+        "address": "12083 Mcintyre Crt",
+        "city": "Maple Ridge",
+        "phone": "778-513-4888",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.586439",
+          "49.217494"
+        ]
+      },
+      "properties": {
+        "id": "3123",
+        "name": "Happy Kiddos Childcare Ltd",
+        "address": "11841 Gee St",
+        "city": "Maple Ridge",
+        "phone": "604-719-2762",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.579874",
+          "49.228343"
+        ]
+      },
+      "properties": {
+        "id": "3135",
+        "name": "A-Z Little World Family Daycare",
+        "address": "23193 124A Ave",
+        "city": "Maple Ridge",
+        "phone": "778-682-9102",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.580328",
+          "49.226086"
+        ]
+      },
+      "properties": {
+        "id": "3208",
+        "name": "Happy Days Family Daycare",
+        "address": "12323 231B St",
+        "city": "Maple Ridge",
+        "phone": "604-704-5331",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.634322",
+          "49.214864"
+        ]
+      },
+      "properties": {
+        "id": "3242",
+        "name": "Maple Treasure Children's Learning Centre",
+        "address": "21176 117 Ave",
+        "city": "Maple Ridge",
+        "phone": "778-839-6757",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.566739",
+          "49.245334"
+        ]
+      },
+      "properties": {
+        "id": "3287",
+        "name": "Dream Catchers Family Childcare",
+        "address": "23686 Rock Ridge Dr",
+        "city": "Maple Ridge",
+        "phone": "604-753-7256",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.595009",
+          "49.21745"
+        ]
+      },
+      "properties": {
+        "id": "3319",
+        "name": "Puddle Hoppers Childcare",
+        "address": "22641 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "778-318-4055",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.662392",
+          "49.228082"
+        ]
+      },
+      "properties": {
+        "id": "3340",
+        "name": "Tiny Tots",
+        "address": "12401 Allison St",
+        "city": "Maple Ridge",
+        "phone": "778-240-3495",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.584891",
+          "49.254777"
+        ]
+      },
+      "properties": {
+        "id": "3402",
+        "name": "A.Y Childcare Centre",
+        "address": "22963 139 Ave",
+        "city": "Maple Ridge",
+        "phone": "778-723-7241",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.561546",
+          "49.194175"
+        ]
+      },
+      "properties": {
+        "id": "3403",
+        "name": "Wonder World Play School",
+        "address": "10554 238 St",
+        "city": "Maple Ridge",
+        "phone": "778-683-7398",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.608957",
+          "49.217457"
+        ]
+      },
+      "properties": {
+        "id": "3426",
+        "name": "Dover Learning Center - Ridge",
+        "address": "22155 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "604-551-3401",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.593339",
+          "49.230103"
+        ]
+      },
+      "properties": {
+        "id": "3455",
+        "name": "Cheerful Tots Daycare",
+        "address": "22713 125A Ave",
+        "city": "Maple Ridge",
+        "phone": "778-873-9501",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.651502",
+          "49.223716"
+        ]
+      },
+      "properties": {
+        "id": "3527",
+        "name": "Ilm-Fairview",
+        "address": "12209 206 St",
+        "city": "Maple Ridge",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.52644",
+          "49.220101"
+        ]
+      },
+      "properties": {
+        "id": "3566",
+        "name": "Rosemary Child Center",
+        "address": "25102 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-404-8510",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.627699",
+          "49.217604"
+        ]
+      },
+      "properties": {
+        "id": "3698",
+        "name": "Meadow Ridge Centre For Child Care",
+        "address": "4-21409 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "604-466-1045",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.568326",
+          "49.193119"
+        ]
+      },
+      "properties": {
+        "id": "3777",
+        "name": "Cottonwoods Child Care Centre",
+        "address": "23588 Jim Robson Way",
+        "city": "Maple Ridge",
+        "phone": "604-463-4003",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.575974",
+          "49.235599"
+        ]
+      },
+      "properties": {
+        "id": "3802",
+        "name": "Yennadon Active Kids Club",
+        "address": "23347 128 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-466-4339",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.595858",
+          "49.223658"
+        ]
+      },
+      "properties": {
+        "id": "3803",
+        "name": "Curious Minds Learning Centre - Eric Langton",
+        "address": "12138 Edge St",
+        "city": "Maple Ridge",
+        "phone": "604-690-2273",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.578891",
+          "49.213345"
+        ]
+      },
+      "properties": {
+        "id": "3847",
+        "name": "Abc Daycare",
+        "address": "11633 232A St",
+        "city": "Maple Ridge",
+        "phone": "604-466-2866",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.632541",
+          "49.213478"
+        ]
+      },
+      "properties": {
+        "id": "3849",
+        "name": "Kids Zone Pre-Kindergarten-Childcare-Out Of School",
+        "address": "11601 Laity St",
+        "city": "Maple Ridge",
+        "phone": "604-466-5704",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.558692",
+          "49.211634"
+        ]
+      },
+      "properties": {
+        "id": "3875",
+        "name": "Stepping Stone Daycare",
+        "address": "23924 115A Ave",
+        "city": "Maple Ridge",
+        "phone": "604-916-3230",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.605323",
+          "49.225724"
+        ]
+      },
+      "properties": {
+        "id": "3914",
+        "name": "Smiles N' Hugs Family Child Care",
+        "address": "12294 Hillside St",
+        "city": "Maple Ridge",
+        "phone": "604-466-7393",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.57134",
+          "49.219537"
+        ]
+      },
+      "properties": {
+        "id": "3936",
+        "name": "Bubbles And Dreams Family Daycare",
+        "address": "11982 Meadowlark Dr",
+        "city": "Maple Ridge",
+        "phone": "604-466-9725",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.596957",
+          "49.224476"
+        ]
+      },
+      "properties": {
+        "id": "3945",
+        "name": "Explorers Corner Daycare",
+        "address": "22552 122 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-463-7538",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.63609",
+          "49.212069"
+        ]
+      },
+      "properties": {
+        "id": "4107",
+        "name": "Sammy's Daycare",
+        "address": "11567 Fraserview St",
+        "city": "Maple Ridge",
+        "phone": "604-467-0505",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.607966",
+          "49.220982"
+        ]
+      },
+      "properties": {
+        "id": "4135",
+        "name": "Small Steps Childcare Inc.",
+        "address": "22165 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-467-6014",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.567677",
+          "49.218018"
+        ]
+      },
+      "properties": {
+        "id": "4138",
+        "name": "Doodle's Daycare",
+        "address": "11870 236Th St",
+        "city": "Maple Ridge",
+        "phone": "604-466-2705",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.54815",
+          "49.189544"
+        ]
+      },
+      "properties": {
+        "id": "4149",
+        "name": "Country Lane Learning Centre",
+        "address": "10291 243A St",
+        "city": "Maple Ridge",
+        "phone": "604-463-3454",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.595867",
+          "49.22001"
+        ]
+      },
+      "properties": {
+        "id": "4199",
+        "name": "Start Smart Childcare Centre",
+        "address": "22610 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-463-4439",
+        "services": [
+          "Preschool",
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.595496",
+          "49.20976"
+        ]
+      },
+      "properties": {
+        "id": "4204",
+        "name": "Imagination Station Childcare Centre-Fraserview",
+        "address": "11485 227 St",
+        "city": "Maple Ridge",
+        "phone": "604-614-6856",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.604852",
+          "49.23013"
+        ]
+      },
+      "properties": {
+        "id": "4251",
+        "name": "Hugs And Cuddles Daycare",
+        "address": "12545 223Rd St",
+        "city": "Maple Ridge",
+        "phone": "604-817-5361",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.513822",
+          "49.219819"
+        ]
+      },
+      "properties": {
+        "id": "4269",
+        "name": "Little Willows Webster's Corner",
+        "address": "25554 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "778-245-8741",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.557117",
+          "49.224745"
+        ]
+      },
+      "properties": {
+        "id": "4298",
+        "name": "Meadowridge School - Junior Kindergarten & School Age Care",
+        "address": "12224 240 St",
+        "city": "Maple Ridge",
+        "phone": "604-467-4444",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.626402",
+          "49.222029"
+        ]
+      },
+      "properties": {
+        "id": "4321",
+        "name": "Curious Minds Learning Centre Ltd",
+        "address": "21410 Glenwood Ave",
+        "city": "Maple Ridge",
+        "phone": "604-463-2002",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.558349",
+          "49.185102"
+        ]
+      },
+      "properties": {
+        "id": "4428",
+        "name": "Albion Active Kids Club",
+        "address": "10031 240Th St",
+        "city": "Maple Ridge",
+        "phone": "604-467-7453",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.644278",
+          "49.211976"
+        ]
+      },
+      "properties": {
+        "id": "4649",
+        "name": "Curious Minds Learning Centre Ltd",
+        "address": "20820 River Rd",
+        "city": "Maple Ridge",
+        "phone": "604-315-3240",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.648637",
+          "49.227268"
+        ]
+      },
+      "properties": {
+        "id": "4668",
+        "name": "Wind And Tide - Maple Ridge",
+        "address": "20639 123 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.655991",
+          "49.215981"
+        ]
+      },
+      "properties": {
+        "id": "4773",
+        "name": "Little Angel's Children Centre Ltd.",
+        "address": "20387 Dale Dr",
+        "city": "Maple Ridge",
+        "phone": "604-368-5527",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.598067",
+          "49.220174"
+        ]
+      },
+      "properties": {
+        "id": "4776",
+        "name": "Little Saints Learning Ctr Inc",
+        "address": "200 22530 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-771-0423",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.591272",
+          "49.216285"
+        ]
+      },
+      "properties": {
+        "id": "4778",
+        "name": "Laugh And Learn Daycare",
+        "address": "22762 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "604-479-5815",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.637708",
+          "49.227211"
+        ]
+      },
+      "properties": {
+        "id": "4803",
+        "name": "Laity View Active Kids Club",
+        "address": "21023 123Rd Ave",
+        "city": "Maple Ridge",
+        "phone": "604-466-4339",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.614463",
+          "49.225722"
+        ]
+      },
+      "properties": {
+        "id": "4818",
+        "name": "Curious Minds Learning Centre Ltd - Mrss",
+        "address": "21911 122 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-476-0232",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.65111",
+          "49.211666"
+        ]
+      },
+      "properties": {
+        "id": "4820",
+        "name": "Fundamentals Childcare Centre Inc",
+        "address": "20601 Westfield Ave",
+        "city": "Maple Ridge",
+        "phone": "604-465-8515",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.578446",
+          "49.253163"
+        ]
+      },
+      "properties": {
+        "id": "4949",
+        "name": "Lil Charlie Browns Daycare",
+        "address": "13822 232A St",
+        "city": "Maple Ridge",
+        "phone": "604-710-6540",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.55273",
+          "49.187727"
+        ]
+      },
+      "properties": {
+        "id": "5003",
+        "name": "Imagination Station Childcare Centre-Albion",
+        "address": "24133 102 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-476-7529",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.595421",
+          "49.217357"
+        ]
+      },
+      "properties": {
+        "id": "5078",
+        "name": "Maple Meadows Out Of School Care",
+        "address": "22-22621 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "778-241-7678",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.594675",
+          "49.221124"
+        ]
+      },
+      "properties": {
+        "id": "5081",
+        "name": "Tree House Multi-Age Child Care",
+        "address": "22670 Brown Ave",
+        "city": "Maple Ridge",
+        "phone": "778-558-8009",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.577831",
+          "49.215863"
+        ]
+      },
+      "properties": {
+        "id": "5102",
+        "name": "Kids By Design Preschool Inc.",
+        "address": "11756 232Nd St",
+        "city": "Maple Ridge",
+        "phone": "604-466-8856",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.606731",
+          "49.218866"
+        ]
+      },
+      "properties": {
+        "id": "5116",
+        "name": "Sunshine Children's Centre - Campus Ii",
+        "address": "11916 222 St",
+        "city": "Maple Ridge",
+        "phone": "604-580-2060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.537725",
+          "49.18538"
+        ]
+      },
+      "properties": {
+        "id": "5218",
+        "name": "Jackson Ridge Kids Daycare",
+        "address": "10074 246B St",
+        "city": "Maple Ridge",
+        "phone": "604-345-6582",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.564405",
+          "49.196967"
+        ]
+      },
+      "properties": {
+        "id": "5281",
+        "name": "Magical Beginnings",
+        "address": "23711 106 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-808-3073",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.557228",
+          "49.205576"
+        ]
+      },
+      "properties": {
+        "id": "5307",
+        "name": "Imagination Station Childcare Centre-Kanaka",
+        "address": "23980 Kanaka Way",
+        "city": "Maple Ridge",
+        "phone": "604-614-6856",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.6034",
+          "49.220213"
+        ]
+      },
+      "properties": {
+        "id": "5386",
+        "name": "Happy Hearts Childcare Centre",
+        "address": "22336 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-479-2273",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.560423",
+          "49.219111"
+        ]
+      },
+      "properties": {
+        "id": "5411",
+        "name": "Blue Bell Daycare",
+        "address": "23843 119A Ave",
+        "city": "Maple Ridge",
+        "phone": "604-379-4758",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.603604",
+          "49.218561"
+        ]
+      },
+      "properties": {
+        "id": "5432",
+        "name": "Little Willows Early Learning Childcare Centre (119) Inc.",
+        "address": "22328 119 Ave",
+        "city": "Maple Ridge",
+        "phone": "604-477-8771",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.655648",
+          "49.219718"
+        ]
+      },
+      "properties": {
+        "id": "5524",
+        "name": "Conscious Kids Care",
+        "address": "202-20395 Lougheed Hwy",
+        "city": "Maple Ridge",
+        "phone": "604-783-3066",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.584509",
+          "49.224137"
+        ]
+      },
+      "properties": {
+        "id": "5548",
+        "name": "Magical Memories Daycare",
+        "address": "12200 230 St",
+        "city": "Maple Ridge",
+        "phone": "778-223-7664",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.648842",
+          "49.222724"
+        ]
+      },
+      "properties": {
+        "id": "5558",
+        "name": "Lily Of The Valley Montessori Center",
+        "address": "20645 120B Cres",
+        "city": "Maple Ridge",
+        "phone": "778-938-9046",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.603557",
+          "49.220427"
+        ]
+      },
+      "properties": {
+        "id": "5570",
+        "name": "Happy Hearts Childcare Centre",
+        "address": "22330 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "phone": "604-479-2273",
+        "services": []
+      }
+    }
+  ]
+}

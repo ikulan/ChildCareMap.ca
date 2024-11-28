@@ -1,0 +1,2806 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.748834",
+          "53.916107"
+        ]
+      },
+      "properties": {
+        "id": "69",
+        "name": "Tyke Town Early Learning",
+        "address": "1448 - 5Th Ave",
+        "city": "Prince George",
+        "phone": "250-899-4546",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.783626",
+          "53.903804"
+        ]
+      },
+      "properties": {
+        "id": "287",
+        "name": "Caledonia Early Care And Learning Centre",
+        "address": "3330 22Nd Avenue",
+        "city": "Prince George",
+        "phone": "250-561-5834",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.755565",
+          "53.898233"
+        ]
+      },
+      "properties": {
+        "id": "306",
+        "name": "Carney Hill Neighbourhood Centre",
+        "address": "2579 Victoria St",
+        "city": "Prince George",
+        "phone": "250-563-0858",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.632331",
+          "53.841907"
+        ]
+      },
+      "properties": {
+        "id": "318",
+        "name": "Teddy Bear Preschool",
+        "address": "6355 Bendixon Rd",
+        "city": "Prince George",
+        "phone": "250-963-8214",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.813939",
+          "53.887586"
+        ]
+      },
+      "properties": {
+        "id": "333",
+        "name": "U.N.B.C. Child Care",
+        "address": "3333 University Way",
+        "city": "Prince George",
+        "phone": "250-960-5720",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.76746",
+          "53.860541"
+        ]
+      },
+      "properties": {
+        "id": "367",
+        "name": "Teeter Tots Early Learning Centre",
+        "address": "7201 Domano Blvd",
+        "city": "Prince George",
+        "phone": "250-964-2744",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.741323",
+          "53.912065"
+        ]
+      },
+      "properties": {
+        "id": "410",
+        "name": "Children's Choice Daycare",
+        "address": "933 Patricia Blvd.",
+        "city": "Prince George",
+        "phone": "250-961-1435",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.802405",
+          "53.914864"
+        ]
+      },
+      "properties": {
+        "id": "430",
+        "name": "Sunny Day",
+        "address": "4191 Davie Ave",
+        "city": "Prince George",
+        "phone": "250-562-0402",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.835975",
+          "53.960254"
+        ]
+      },
+      "properties": {
+        "id": "539",
+        "name": "Anna's Day Care",
+        "address": "6353 Bench Dr",
+        "city": "Prince George",
+        "phone": "250-563-6955",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.786417",
+          "53.915008"
+        ]
+      },
+      "properties": {
+        "id": "540",
+        "name": "Little Tykes Day Care",
+        "address": "1036 Babine Cres",
+        "city": "Prince George",
+        "phone": "250-564-1751",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.80901",
+          "53.918767"
+        ]
+      },
+      "properties": {
+        "id": "541",
+        "name": "Happy Tots Day Care",
+        "address": "634 Faulkner Cres",
+        "city": "Prince George",
+        "phone": "250-562-6563",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.795107",
+          "53.894334"
+        ]
+      },
+      "properties": {
+        "id": "542",
+        "name": "Tykes 'N Tots",
+        "address": "3851 Grace Cres",
+        "city": "Prince George",
+        "phone": "250-563-2496",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.777675",
+          "53.860669"
+        ]
+      },
+      "properties": {
+        "id": "543",
+        "name": "Goldilocks Family Day Care",
+        "address": "2967 Parent Rd",
+        "city": "Prince George",
+        "phone": "250-964-1544",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.787241",
+          "53.917963"
+        ]
+      },
+      "properties": {
+        "id": "545",
+        "name": "Sherwood Forest",
+        "address": "856 Warren Ave",
+        "city": "Prince George",
+        "phone": "250-562-5536",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.782122",
+          "53.887224"
+        ]
+      },
+      "properties": {
+        "id": "546",
+        "name": "Eeyore's Daycare",
+        "address": "106-3308 Underhill Rd",
+        "city": "Prince George",
+        "phone": "250-561-0639",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.778118",
+          "53.855035"
+        ]
+      },
+      "properties": {
+        "id": "547",
+        "name": "Little Angels Day Care",
+        "address": "7538 Southridge Ave",
+        "city": "Prince George",
+        "phone": "250-964-9275",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.782952",
+          "53.893137"
+        ]
+      },
+      "properties": {
+        "id": "654",
+        "name": "Amazing Kids Center",
+        "address": "2742 Michener Cres",
+        "city": "Prince George",
+        "phone": "250-981-9322",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.786855",
+          "53.889061"
+        ]
+      },
+      "properties": {
+        "id": "696",
+        "name": "Little Bits Of Joy Daycare",
+        "address": "3194 Ospika Blvd S",
+        "city": "Prince George",
+        "phone": "250-961-1889",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.757765",
+          "53.915011"
+        ]
+      },
+      "properties": {
+        "id": "711",
+        "name": "Duchess Early Learning Centre",
+        "address": "810 Winnipeg St",
+        "city": "Prince George",
+        "phone": "250-596-1319",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.75897",
+          "53.9021"
+        ]
+      },
+      "properties": {
+        "id": "717",
+        "name": "Story Book Preschool",
+        "address": "1687 Strathcona Ave",
+        "city": "Prince George",
+        "phone": "250-961-6183",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.632063",
+          "53.899282"
+        ]
+      },
+      "properties": {
+        "id": "722",
+        "name": "Little Bam Bam's Licensed Daycare Facility",
+        "address": "2108 Bittner Rd E",
+        "city": "Prince George",
+        "phone": "250-640-9592",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.807039",
+          "53.936329"
+        ]
+      },
+      "properties": {
+        "id": "729",
+        "name": "Natural Beginnings Child Care Centre",
+        "address": "995 Heritage Cres",
+        "city": "Prince George",
+        "phone": "250-564-4751",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.805408",
+          "54.015331"
+        ]
+      },
+      "properties": {
+        "id": "754",
+        "name": "ymca Springwood School Age Care",
+        "address": "4600 Zral Rd",
+        "city": "Prince George",
+        "phone": "250-961-7046",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.766492",
+          "53.850574"
+        ]
+      },
+      "properties": {
+        "id": "764",
+        "name": "Abc's & 123 Daycare",
+        "address": "8036 Princeton Cres",
+        "city": "Prince George",
+        "phone": "250-613-7101",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.762582",
+          "53.858883"
+        ]
+      },
+      "properties": {
+        "id": "783",
+        "name": "Castle Court Child Care (C.C.C.C)",
+        "address": "6877 Simon Fraser Ave",
+        "city": "Prince George",
+        "phone": "250-964-1199",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.777675",
+          "53.854274"
+        ]
+      },
+      "properties": {
+        "id": "817",
+        "name": "Kidz Corner",
+        "address": "7598 Southridge Ave",
+        "city": "Prince George",
+        "phone": "250-961-5212",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.758865",
+          "53.951421"
+        ]
+      },
+      "properties": {
+        "id": "893",
+        "name": "Fairytale Daycare",
+        "address": "1820 Hegert Rd",
+        "city": "Prince George",
+        "phone": "250-565-1018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.822581",
+          "53.850867"
+        ]
+      },
+      "properties": {
+        "id": "973",
+        "name": "Busy B's Clubhouse",
+        "address": "4637 Highway 16 W",
+        "city": "Prince George",
+        "phone": "250-640-7071",
+        "services": [
+          "Preschool",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.771486",
+          "53.906706"
+        ]
+      },
+      "properties": {
+        "id": "984",
+        "name": "Service De Garde Franco-Amis",
+        "address": "2641 Ellison Dr",
+        "city": "Prince George",
+        "phone": "250-640-0143",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.801556",
+          "53.917832"
+        ]
+      },
+      "properties": {
+        "id": "1024",
+        "name": "Robyn's Nest Daycare",
+        "address": "755 Kerry St",
+        "city": "Prince George",
+        "phone": "778-349-0815",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.769724",
+          "53.916606"
+        ]
+      },
+      "properties": {
+        "id": "1032",
+        "name": "Always Home Childcare",
+        "address": "887 Carney St",
+        "city": "Prince George",
+        "phone": "250-301-6432",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.808961",
+          "53.994832"
+        ]
+      },
+      "properties": {
+        "id": "1044",
+        "name": "Heart To Hart Preschool & After School Care",
+        "address": "7151 Heather Park Rd",
+        "city": "Prince George",
+        "phone": "250-649-5845",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.762399",
+          "53.856339"
+        ]
+      },
+      "properties": {
+        "id": "1166",
+        "name": "Candy's Kiddie Korner",
+        "address": "7652 Moncton Cres",
+        "city": "Prince George",
+        "phone": "250-617-3081",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.793425",
+          "53.893147"
+        ]
+      },
+      "properties": {
+        "id": "1250",
+        "name": "Shine Star Family Daycare",
+        "address": "3794 Shane Cres",
+        "city": "Prince George",
+        "phone": "250-981-7433",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.794503",
+          "53.920945"
+        ]
+      },
+      "properties": {
+        "id": "1267",
+        "name": "ymca 5Th Avenue After School Care",
+        "address": "497 Ospika Blvd S",
+        "city": "Prince George",
+        "phone": "250-961-7046",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.776356",
+          "53.987821"
+        ]
+      },
+      "properties": {
+        "id": "1302",
+        "name": "A Loving Hart Daycare",
+        "address": "6386 Dawson Rd",
+        "city": "Prince George",
+        "phone": "250-981-2716",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.795418",
+          "53.892644"
+        ]
+      },
+      "properties": {
+        "id": "1312",
+        "name": "Ishwar Family Child Care",
+        "address": "3807 Grace Cres",
+        "city": "Prince George",
+        "phone": "250-649-3488",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.779784",
+          "53.978369"
+        ]
+      },
+      "properties": {
+        "id": "1326",
+        "name": "Mystic Kids Daycare",
+        "address": "5473 Cook Cres",
+        "city": "Prince George",
+        "phone": "250-962-7149",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.801567",
+          "53.98712"
+        ]
+      },
+      "properties": {
+        "id": "1356",
+        "name": "Play And Learn Family Childcare",
+        "address": "6357 Kelly Rd S",
+        "city": "Prince George",
+        "phone": "250-981-0391",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.75244",
+          "53.908284"
+        ]
+      },
+      "properties": {
+        "id": "1392",
+        "name": "ymca Ron Brent After School Care",
+        "address": "1401 17Th Ave",
+        "city": "Prince George",
+        "phone": "250-961-7046",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.80213",
+          "53.994104"
+        ]
+      },
+      "properties": {
+        "id": "1417",
+        "name": "Kidlogic Daycare",
+        "address": "4529 Gray Dr",
+        "city": "Prince George",
+        "phone": "250-981-9851",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.814219",
+          "53.847139"
+        ]
+      },
+      "properties": {
+        "id": "1445",
+        "name": "Parkridge Early Learning Centre",
+        "address": "5264 Park Dr",
+        "city": "Prince George",
+        "phone": "250-565-7543",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.792048",
+          "53.925427"
+        ]
+      },
+      "properties": {
+        "id": "1568",
+        "name": "Thimbleberry Children's Centre",
+        "address": "109 Riley Dr",
+        "city": "Prince George",
+        "phone": "250-617-6886",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.762041",
+          "53.858187"
+        ]
+      },
+      "properties": {
+        "id": "1572",
+        "name": "Kool Cats Kid Care And Kool Cats Preschool",
+        "address": "6989 Gladstone Dr",
+        "city": "Prince George",
+        "phone": "250-964-2668",
+        "services": [
+          "Preschool",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.80538",
+          "54.01489"
+        ]
+      },
+      "properties": {
+        "id": "1598",
+        "name": "Exploring The North Childcare",
+        "address": "4651 Zral Rd",
+        "city": "Prince George",
+        "phone": "250-613-6116",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.808308",
+          "53.926379"
+        ]
+      },
+      "properties": {
+        "id": "1668",
+        "name": "Building Blocks Childcare",
+        "address": "261 Bellos St",
+        "city": "Prince George",
+        "phone": "250-961-1341",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.816791",
+          "53.960229"
+        ]
+      },
+      "properties": {
+        "id": "1677",
+        "name": "Sunshine Learning Centre",
+        "address": "5100 N Nechako Rd",
+        "city": "Prince George",
+        "phone": "250-640-6977",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.767518",
+          "53.973602"
+        ]
+      },
+      "properties": {
+        "id": "1716",
+        "name": "Adventure Time Childcare",
+        "address": "14-5164 Hart Hwy",
+        "city": "Prince George",
+        "phone": "250-614-6991",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.766159",
+          "53.859139"
+        ]
+      },
+      "properties": {
+        "id": "1749",
+        "name": "Precious Stars Daycare",
+        "address": "7092 Domano Boulevard",
+        "city": "Prince George",
+        "phone": "250-964-0377",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.781924",
+          "53.992194"
+        ]
+      },
+      "properties": {
+        "id": "1754",
+        "name": "Moonlight Daycare",
+        "address": "6896 Helm Dr",
+        "city": "Prince George",
+        "phone": "250-900-8815",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.761664",
+          "53.896342"
+        ]
+      },
+      "properties": {
+        "id": "1758",
+        "name": "Young Pup Child Care",
+        "address": "2685 Abbott Cres",
+        "city": "Prince George",
+        "phone": "250-983-9881",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.785079",
+          "53.852221"
+        ]
+      },
+      "properties": {
+        "id": "1797",
+        "name": "Little Star Daycare",
+        "address": "2821 Vista Ridge Crt",
+        "city": "Prince George",
+        "phone": "250-563-5349",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.788991",
+          "53.923274"
+        ]
+      },
+      "properties": {
+        "id": "1834",
+        "name": "Bbbs Nbc Asc Quinson",
+        "address": "251 Ogilvie St S",
+        "city": "Prince George",
+        "phone": "250-563-7410",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.831391",
+          "54.01475"
+        ]
+      },
+      "properties": {
+        "id": "1876",
+        "name": "Tena's Family Daycare",
+        "address": "9059 Fox Dr",
+        "city": "Prince George",
+        "phone": "250-981-5373",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.762966",
+          "53.849636"
+        ]
+      },
+      "properties": {
+        "id": "1899",
+        "name": "ymca Malaspina School Age Care",
+        "address": "7900 Malaspina Ave",
+        "city": "Prince George",
+        "phone": "250-961-7046",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.874723",
+          "53.83059"
+        ]
+      },
+      "properties": {
+        "id": "1967",
+        "name": "Bbbs Childcare - Beaverly",
+        "address": "101-9777 Western Rd",
+        "city": "Prince George",
+        "phone": "250-563-7410",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.797584",
+          "53.982225"
+        ]
+      },
+      "properties": {
+        "id": "1975",
+        "name": "Hart Highlands Childcare",
+        "address": "5963 Teresa Pl",
+        "city": "Prince George",
+        "phone": "250-552-5467",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.797773",
+          "53.900322"
+        ]
+      },
+      "properties": {
+        "id": "1976",
+        "name": "Lariah's Little Learners Childcare",
+        "address": "4110 Campbell Ave",
+        "city": "Prince George",
+        "phone": "250-562-9639",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.779405",
+          "53.909752"
+        ]
+      },
+      "properties": {
+        "id": "2003",
+        "name": "Costumes & Crayons Daycare Center",
+        "address": "1600 Johnson St",
+        "city": "Prince George",
+        "phone": "236-423-0132",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.743958",
+          "53.913419"
+        ]
+      },
+      "properties": {
+        "id": "2008",
+        "name": "ymca Park House Care And Learning Centre",
+        "address": "1075 6Th Ave",
+        "city": "Prince George",
+        "phone": "250-961-7046",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.791498",
+          "53.925816"
+        ]
+      },
+      "properties": {
+        "id": "2085",
+        "name": "Chiddlers Daycare",
+        "address": "210 Quinn St N",
+        "city": "Prince George",
+        "phone": "236-423-4241",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.751629",
+          "53.915913"
+        ]
+      },
+      "properties": {
+        "id": "2130",
+        "name": "Kiki Awasis Learning Centre",
+        "address": "1546 6Th Ave",
+        "city": "Prince George",
+        "phone": "250-563-1661",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.805425",
+          "53.993653"
+        ]
+      },
+      "properties": {
+        "id": "2262",
+        "name": "Bumby's Family Childcare",
+        "address": "4682 Heather Rd",
+        "city": "Prince George",
+        "phone": "250-981-3734",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.806052",
+          "53.854196"
+        ]
+      },
+      "properties": {
+        "id": "2382",
+        "name": "Little Tots Childcare",
+        "address": "7312 Aldeen Rd",
+        "city": "Prince George",
+        "phone": "778-823-1716",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.797412",
+          "53.874498"
+        ]
+      },
+      "properties": {
+        "id": "2444",
+        "name": "Sweet Pumpkins Day Care Inc",
+        "address": "2501 Chancellor Blvd",
+        "city": "Prince George",
+        "phone": "647-642-1112",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.775058",
+          "53.855962"
+        ]
+      },
+      "properties": {
+        "id": "2458",
+        "name": "The Creative Zone",
+        "address": "7937 St John Cres",
+        "city": "Prince George",
+        "phone": "250-964-9585",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.79841",
+          "53.94497"
+        ]
+      },
+      "properties": {
+        "id": "2528",
+        "name": "Megans Nature Childcare",
+        "address": "4236 Churchill Rd",
+        "city": "Prince George",
+        "phone": "250-640-4076",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.758591",
+          "53.899139"
+        ]
+      },
+      "properties": {
+        "id": "2562",
+        "name": "Bigs Nbc Early Learning Centre",
+        "address": "1788 Diefenbaker Dr",
+        "city": "Prince George",
+        "phone": "250-563-7410",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.757964",
+          "53.94632"
+        ]
+      },
+      "properties": {
+        "id": "2567",
+        "name": "Sky's The Limit Childcare",
+        "address": "2319 mcmillan Dr",
+        "city": "Prince George",
+        "phone": "250-617-6370",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.809109",
+          "53.937836"
+        ]
+      },
+      "properties": {
+        "id": "2597",
+        "name": "Tracey\u2019S Place Daycare",
+        "address": "4634 Ryser Crt",
+        "city": "Prince George",
+        "phone": "250-961-9098",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.788562",
+          "53.898982"
+        ]
+      },
+      "properties": {
+        "id": "2634",
+        "name": "Precious Gems Daycare",
+        "address": "10-2440 Nicholson St S",
+        "city": "Prince George",
+        "phone": "250-562-9881",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.934533",
+          "54.009906"
+        ]
+      },
+      "properties": {
+        "id": "2644",
+        "name": "Circle Z Childcare",
+        "address": "12785 Chief Lake Rd",
+        "city": "Prince George",
+        "phone": "250-613-3726",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.769548",
+          "53.91278"
+        ]
+      },
+      "properties": {
+        "id": "2686",
+        "name": "Little Peanuts Early Learning",
+        "address": "1257 Carney St",
+        "city": "Prince George",
+        "phone": "250-552-6192",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.783673",
+          "53.870409"
+        ]
+      },
+      "properties": {
+        "id": "2700",
+        "name": "Seven Tiny Toes Childcare",
+        "address": "4427 Wheeler Rd",
+        "city": "Prince George",
+        "phone": "778-675-9893",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.765245",
+          "53.849357"
+        ]
+      },
+      "properties": {
+        "id": "2723",
+        "name": "Kool Cats Family Care",
+        "address": "8008 Malaspina Ave",
+        "city": "Prince George",
+        "phone": "250-964-2668",
+        "services": [
+          "Preschool",
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.796696",
+          "53.859222"
+        ]
+      },
+      "properties": {
+        "id": "2731",
+        "name": "Immaculate Conception School",
+        "address": "3285 Cathedral Ave",
+        "city": "Prince George",
+        "phone": "250-964-4362",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.79086",
+          "53.975409"
+        ]
+      },
+      "properties": {
+        "id": "2766",
+        "name": "Junior Trekkers",
+        "address": "2850 Sussex Pl",
+        "city": "Prince George",
+        "phone": "250-617-0102",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.817201",
+          "53.857978"
+        ]
+      },
+      "properties": {
+        "id": "2791",
+        "name": "ymca Vanway School Age Child Care",
+        "address": "4509 Highway 16 W",
+        "city": "Prince George",
+        "phone": "250-961-7046",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.785824",
+          "53.991043"
+        ]
+      },
+      "properties": {
+        "id": "2852",
+        "name": "Tsulh Cho (Huckleberry) Early Learning And Care Centre",
+        "address": "6776 Dagg Rd",
+        "city": "Prince George",
+        "phone": "778-764-2429",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.797375",
+          "53.948082"
+        ]
+      },
+      "properties": {
+        "id": "2882",
+        "name": "The Hundred Acre Wood Early Learning Centre",
+        "address": "2578 North Nechako Rd",
+        "city": "Prince George",
+        "phone": "778-983-1324",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.773482",
+          "53.913253"
+        ]
+      },
+      "properties": {
+        "id": "2916",
+        "name": "St. Mary's Daycare",
+        "address": "1206 Freeman St",
+        "city": "Prince George",
+        "phone": "250-563-7502",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.776308",
+          "53.978214"
+        ]
+      },
+      "properties": {
+        "id": "2975",
+        "name": "Munchkins Family Daycare",
+        "address": "5494 Lehman St",
+        "city": "Prince George",
+        "phone": "250-640-4070",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.797787",
+          "54.007146"
+        ]
+      },
+      "properties": {
+        "id": "3067",
+        "name": "Baby Duck's Early Learning Centre",
+        "address": "4247 Estavilla Dr",
+        "city": "Prince George",
+        "phone": "250-552-4909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.760885",
+          "53.903596"
+        ]
+      },
+      "properties": {
+        "id": "3101",
+        "name": "Doodlebugs Daycare",
+        "address": "30A-2131 Upland St",
+        "city": "Prince George",
+        "phone": "250-640-8897",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.791408",
+          "53.919078"
+        ]
+      },
+      "properties": {
+        "id": "3137",
+        "name": "First Steps Daycare",
+        "address": "681 Tay Cres",
+        "city": "Prince George",
+        "phone": "250-981-2249",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.80794",
+          "53.920244"
+        ]
+      },
+      "properties": {
+        "id": "3162",
+        "name": "Hopes And Dreams Out Of School Childcare",
+        "address": "511 Tabor Blvd S",
+        "city": "Prince George",
+        "phone": "250-617-4331",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.77403",
+          "53.91399"
+        ]
+      },
+      "properties": {
+        "id": "3272",
+        "name": "St. Mary's After School Care",
+        "address": "1125 Freeman Street",
+        "city": "Prince George",
+        "phone": "250-563-7502",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.80366",
+          "54.00597"
+        ]
+      },
+      "properties": {
+        "id": "3273",
+        "name": "Little Bambinos Child Care",
+        "address": "8263 Peter Rd",
+        "city": "Prince George",
+        "phone": "778-267-0197",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.813294",
+          "53.919748"
+        ]
+      },
+      "properties": {
+        "id": "3300",
+        "name": "Costumes & Crayons It Centre Urquhart",
+        "address": "4480 Urquhart Crescent",
+        "city": "Prince George",
+        "phone": "778-983-0806",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.799733",
+          "53.993834"
+        ]
+      },
+      "properties": {
+        "id": "3379",
+        "name": "Mini Marvels Daycare",
+        "address": "4369 Turner Rd",
+        "city": "Prince George",
+        "phone": "250-613-5897",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.775471",
+          "53.920886"
+        ]
+      },
+      "properties": {
+        "id": "3471",
+        "name": "ymca Gillett School Age Care",
+        "address": "483 Gillett St",
+        "city": "Prince George",
+        "phone": "250-960-9336",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.796893",
+          "54.003257"
+        ]
+      },
+      "properties": {
+        "id": "3478",
+        "name": "Sonya's Family Daycare",
+        "address": "4089 Jade Dr",
+        "city": "Prince George",
+        "phone": "250-552-2139",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.740603",
+          "53.906726"
+        ]
+      },
+      "properties": {
+        "id": "3492",
+        "name": "Lena's Daycare",
+        "address": "1858 Ingledew St",
+        "city": "Prince George",
+        "phone": "250-613-7318",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.793706",
+          "53.894455"
+        ]
+      },
+      "properties": {
+        "id": "3516",
+        "name": "Stepping Stones Family Day Care",
+        "address": "3785 Goheen Pl",
+        "city": "Prince George",
+        "phone": "250-552-9304",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.81499",
+          "53.911972"
+        ]
+      },
+      "properties": {
+        "id": "3573",
+        "name": "Happy Home Day Care",
+        "address": "4545 Cascade Ave",
+        "city": "Prince George",
+        "phone": "250-777-3204",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.779937",
+          "53.931266"
+        ]
+      },
+      "properties": {
+        "id": "3579",
+        "name": "Lil Hoppers Play Cafe",
+        "address": "140-556 North Nechako Rd",
+        "city": "Prince George",
+        "phone": "250-613-3335",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.805025",
+          "53.922118"
+        ]
+      },
+      "properties": {
+        "id": "3660",
+        "name": "Playhouse",
+        "address": "4242 Carrier Ave",
+        "city": "Prince George",
+        "phone": "250-614-2303",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.815843",
+          "53.916121"
+        ]
+      },
+      "properties": {
+        "id": "3689",
+        "name": "L'il Monsters Daycare",
+        "address": "921 Ochakwin Cres",
+        "city": "Prince George",
+        "phone": "250-561-9409",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.800401",
+          "53.855196"
+        ]
+      },
+      "properties": {
+        "id": "3690",
+        "name": "Always Sunshine",
+        "address": "3219 Embree Pl",
+        "city": "Prince George",
+        "phone": "250-964-1704",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.81863",
+          "53.84766"
+        ]
+      },
+      "properties": {
+        "id": "3694",
+        "name": "Huggabug",
+        "address": "5570 Heyer Rd",
+        "city": "Prince George",
+        "phone": "250-964-1971",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.786204",
+          "53.920396"
+        ]
+      },
+      "properties": {
+        "id": "3725",
+        "name": "Edge Meadows Preschool",
+        "address": "3555 5Th Ave",
+        "city": "Prince George",
+        "phone": "250-649-9681",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.805178",
+          "53.981993"
+        ]
+      },
+      "properties": {
+        "id": "3760",
+        "name": "Rainbow Kids Daycare",
+        "address": "4521 Stauble Rd",
+        "city": "Prince George",
+        "phone": "250-962-9719",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.807946",
+          "53.920246"
+        ]
+      },
+      "properties": {
+        "id": "3821",
+        "name": "Prince George Cornerstone Learning Centre",
+        "address": "511 South Tabor Blvd",
+        "city": "Prince George",
+        "phone": "250-552-1098",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.779001",
+          "53.989421"
+        ]
+      },
+      "properties": {
+        "id": "3858",
+        "name": "Wee Care Day Care",
+        "address": "3111 Austin Rd E",
+        "city": "Prince George",
+        "phone": "250-962-2217",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.800309",
+          "53.898049"
+        ]
+      },
+      "properties": {
+        "id": "3859",
+        "name": "The Friendship Garden Family Day Care",
+        "address": "4150 Morgan Cres",
+        "city": "Prince George",
+        "phone": "250-564-9350",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.797945",
+          "53.898498"
+        ]
+      },
+      "properties": {
+        "id": "3865",
+        "name": "Grizzly Den Daycare",
+        "address": "4118 Guest Cres",
+        "city": "Prince George",
+        "phone": "250-617-6494",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.763427",
+          "53.955812"
+        ]
+      },
+      "properties": {
+        "id": "3949",
+        "name": "Dandilions & Daisies Family Day Care",
+        "address": "3473 Clearwood Cres",
+        "city": "Prince George",
+        "phone": "250-962-6498",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.804689",
+          "53.92179"
+        ]
+      },
+      "properties": {
+        "id": "4010",
+        "name": "Clarke's Candyland",
+        "address": "4231 Carrier Ave",
+        "city": "Prince George",
+        "phone": "250-614-9563",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.79671",
+          "53.979349"
+        ]
+      },
+      "properties": {
+        "id": "4022",
+        "name": "Little Shooting Stars Family Day Care",
+        "address": "3049 Poyner Cres",
+        "city": "Prince George",
+        "phone": "250-613-5152",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.988115",
+          "54.085229"
+        ]
+      },
+      "properties": {
+        "id": "4028",
+        "name": "Nukko Lake Child Care",
+        "address": "23955 Chief Lake Rd",
+        "city": "Prince George",
+        "phone": "250-981-4886",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.828646",
+          "54.032146"
+        ]
+      },
+      "properties": {
+        "id": "4053",
+        "name": "Teddy Bear Junction",
+        "address": "5963 Ferguson Lake Rd",
+        "city": "Prince George",
+        "phone": "250-962-5705",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.809656",
+          "53.927899"
+        ]
+      },
+      "properties": {
+        "id": "4057",
+        "name": "Power Of Friendship Aboriginal Head Start Program",
+        "address": "110 Anderson St",
+        "city": "Prince George",
+        "phone": "250-564-3568",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.757616",
+          "53.919996"
+        ]
+      },
+      "properties": {
+        "id": "4058",
+        "name": "Pg Aboriginal Head Start",
+        "address": "1945 3Rd Ave",
+        "city": "Prince George",
+        "phone": "250-564-3568",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.781838",
+          "53.853446"
+        ]
+      },
+      "properties": {
+        "id": "4074",
+        "name": "Little Blessings Daycare",
+        "address": "8454 St Lawrence Ave",
+        "city": "Prince George",
+        "phone": "250-961-6173",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.78511",
+          "53.990656"
+        ]
+      },
+      "properties": {
+        "id": "4091",
+        "name": "Abra-Kid-Abra Out Of School Daycare",
+        "address": "6742 Dagg Rd",
+        "city": "Prince George",
+        "phone": "250-962-9398",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.812072",
+          "53.91385"
+        ]
+      },
+      "properties": {
+        "id": "4098",
+        "name": "Kitty's Korner",
+        "address": "1117 Limestone Cres",
+        "city": "Prince George",
+        "phone": "250-564-1535",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.815619",
+          "53.920905"
+        ]
+      },
+      "properties": {
+        "id": "4100",
+        "name": "Cedars Christian School Pre-School",
+        "address": "4590 5Th Ave",
+        "city": "Prince George",
+        "phone": "250-564-0707",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.798001",
+          "53.946227"
+        ]
+      },
+      "properties": {
+        "id": "4105",
+        "name": "Little Achievers Day Care",
+        "address": "4188 Craig Dr",
+        "city": "Prince George",
+        "phone": "250-563-3315",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.792448",
+          "53.915895"
+        ]
+      },
+      "properties": {
+        "id": "4150",
+        "name": "Bbbs Nbc Asc Spruceland",
+        "address": "3805 Rainbow Dr",
+        "city": "Prince George",
+        "phone": "250-563-7410",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.818823",
+          "53.93334"
+        ]
+      },
+      "properties": {
+        "id": "4212",
+        "name": "Jelly Bean Bunch Childcare",
+        "address": "183 Van Somer St",
+        "city": "Prince George",
+        "phone": "250-961-1463",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.74263",
+          "53.899863"
+        ]
+      },
+      "properties": {
+        "id": "4226",
+        "name": "Little Monkey's Day Care",
+        "address": "2384 Jasper St",
+        "city": "Prince George",
+        "phone": "250-561-1902",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.783481",
+          "53.991529"
+        ]
+      },
+      "properties": {
+        "id": "4297",
+        "name": "Giggles And Stickers Daycare",
+        "address": "6824 Glenview Dr",
+        "city": "Prince George",
+        "phone": "250-612-1519",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.780439",
+          "53.858258"
+        ]
+      },
+      "properties": {
+        "id": "4341",
+        "name": "Peanuts Lifetime Pals Club",
+        "address": "7148 Southridge Ave",
+        "city": "Prince George",
+        "phone": "250-964-3326",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.780739",
+          "53.89579"
+        ]
+      },
+      "properties": {
+        "id": "4421",
+        "name": "Solid Foundations Family Daycare",
+        "address": "2626 Tweedsmuir Ave",
+        "city": "Prince George",
+        "phone": "250-614-9226",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.784961",
+          "53.8952"
+        ]
+      },
+      "properties": {
+        "id": "4440",
+        "name": "ymca Westwood After School Care",
+        "address": "2633 Vanier Dr",
+        "city": "Prince George",
+        "phone": "250-961-7046",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.78967",
+          "53.895907"
+        ]
+      },
+      "properties": {
+        "id": "4489",
+        "name": "Gentle Rain Family Child Care",
+        "address": "3618 Forest Ave",
+        "city": "Prince George",
+        "phone": "250-561-7015",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.781163",
+          "53.891176"
+        ]
+      },
+      "properties": {
+        "id": "4502",
+        "name": "Cherished Treasures",
+        "address": "143 Fern Cres",
+        "city": "Prince George",
+        "phone": "250-649-8762",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.809214",
+          "53.915506"
+        ]
+      },
+      "properties": {
+        "id": "4515",
+        "name": "Little Niblets Family Daycare",
+        "address": "853 Faulkner Cres",
+        "city": "Prince George",
+        "phone": "250-562-4419",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.64316",
+          "53.89867"
+        ]
+      },
+      "properties": {
+        "id": "4541",
+        "name": "Amanda's Angels",
+        "address": "5428 Giscome Rd",
+        "city": "Prince George",
+        "phone": "250-963-0044",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.736563",
+          "53.907998"
+        ]
+      },
+      "properties": {
+        "id": "4677",
+        "name": "Le Coin Des Petits",
+        "address": "1752 Fir St",
+        "city": "Prince George",
+        "phone": "250-561-2565",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.805339",
+          "53.9173"
+        ]
+      },
+      "properties": {
+        "id": "4751",
+        "name": "Lisa's Daycare",
+        "address": "4262 Merton Cres",
+        "city": "Prince George",
+        "phone": "250-564-5411",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.78405",
+          "53.92999"
+        ]
+      },
+      "properties": {
+        "id": "4802",
+        "name": "Cedars Child Care",
+        "address": "600 Preston Rd",
+        "city": "Prince George",
+        "phone": "250-564-0707",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.790317",
+          "53.891387"
+        ]
+      },
+      "properties": {
+        "id": "4914",
+        "name": "Precious Angels Family Daycare",
+        "address": "2920 Christopher Cres",
+        "city": "Prince George",
+        "phone": "250-960-0084",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.751284",
+          "53.918711"
+        ]
+      },
+      "properties": {
+        "id": "4960",
+        "name": "Little Friends Day Care",
+        "address": "1600 3Rd Ave",
+        "city": "Prince George",
+        "phone": "250-564-3568",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.810538",
+          "53.926326"
+        ]
+      },
+      "properties": {
+        "id": "4999",
+        "name": "Tinker Tots Daycare",
+        "address": "230 Anderson St",
+        "city": "Prince George",
+        "phone": "250-564-5689",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.771824",
+          "53.874863"
+        ]
+      },
+      "properties": {
+        "id": "5018",
+        "name": "Smiles 'N' Chuckles",
+        "address": "2657 mcgill Cres",
+        "city": "Prince George",
+        "phone": "250-964-8663",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.772486",
+          "53.91893"
+        ]
+      },
+      "properties": {
+        "id": "5031",
+        "name": "Tiny Treasures",
+        "address": "667 Ewert St",
+        "city": "Prince George",
+        "phone": "250-570-2733",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.803985",
+          "53.857883"
+        ]
+      },
+      "properties": {
+        "id": "5094",
+        "name": "Little Otters Daycare",
+        "address": "6864 Chartwell Cres",
+        "city": "Prince George",
+        "phone": "250-964-9478",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.781339",
+          "53.872329"
+        ]
+      },
+      "properties": {
+        "id": "5109",
+        "name": "Soaring Butterflies Family Day Care",
+        "address": "4467 Wheeler Rd",
+        "city": "Prince George",
+        "phone": "250-981-0829",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.792118",
+          "53.919925"
+        ]
+      },
+      "properties": {
+        "id": "5209",
+        "name": "Bbbs Pg Asc Clubhouse",
+        "address": "777 Kinsmen Pl",
+        "city": "Prince George",
+        "phone": "250-563-7410",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.798283",
+          "53.914179"
+        ]
+      },
+      "properties": {
+        "id": "5222",
+        "name": "Little Ladybugs Family Daycare",
+        "address": "1112 Cluculz Ave",
+        "city": "Prince George",
+        "phone": "250-614-0023",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.803664",
+          "53.985576"
+        ]
+      },
+      "properties": {
+        "id": "5276",
+        "name": "Growing Patch (The)",
+        "address": "6221 Tasa Pl",
+        "city": "Prince George",
+        "phone": "250-640-6517",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.805004",
+          "53.899433"
+        ]
+      },
+      "properties": {
+        "id": "5330",
+        "name": "Something Cool Family Daycare",
+        "address": "2387 Webber Cres",
+        "city": "Prince George",
+        "phone": "250-562-8861",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.779937",
+          "53.931266"
+        ]
+      },
+      "properties": {
+        "id": "5353",
+        "name": "Tadpole Ranch Daycare",
+        "address": "2-556 North Nechako Rd",
+        "city": "Prince George",
+        "phone": "250-612-2955",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.768924",
+          "53.910547"
+        ]
+      },
+      "properties": {
+        "id": "5444",
+        "name": "Finger Prints Learning Centre Ltd.",
+        "address": "2364 15Th Ave",
+        "city": "Prince George",
+        "phone": "778-349-1791",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.641281",
+          "53.895377"
+        ]
+      },
+      "properties": {
+        "id": "5484",
+        "name": "Bbbspg Li'l Rascals",
+        "address": "2455 Blackburn Rd S",
+        "city": "Prince George",
+        "phone": "250-563-7410",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.803551",
+          "53.899174"
+        ]
+      },
+      "properties": {
+        "id": "5503",
+        "name": "Adrianne's Little Critters Family Daycare",
+        "address": "4245 Paschal Pl",
+        "city": "Prince George",
+        "phone": "250-301-3969",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.741261",
+          "53.897018"
+        ]
+      },
+      "properties": {
+        "id": "5530",
+        "name": "Early Learning Preschool Of The North",
+        "address": "2588 Queensway",
+        "city": "Prince George",
+        "phone": "250-565-5262",
+        "services": [
+          "Preschool",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.774647",
+          "53.908872"
+        ]
+      },
+      "properties": {
+        "id": "5534",
+        "name": "Chez Naty",
+        "address": "1658 Gillett St",
+        "city": "Prince George",
+        "phone": "250-613-5254",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.759004",
+          "53.893257"
+        ]
+      },
+      "properties": {
+        "id": "5566",
+        "name": "Happy Beginnings Childcare",
+        "address": "2744 Lonsdale St",
+        "city": "Prince George",
+        "phone": "250-640-2340",
+        "services": []
+      }
+    }
+  ]
+}

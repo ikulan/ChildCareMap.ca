@@ -1,0 +1,2135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.891573",
+          "49.125949"
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "name": "Hilltop Christian Child Care",
+        "address": "6749 120 St",
+        "city": "Delta",
+        "phone": "604-594-0910",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.913146",
+          "49.125814"
+        ]
+      },
+      "properties": {
+        "id": "170",
+        "name": "Sunshine Hills Parent Participation",
+        "address": "6750 Carncross Cres",
+        "city": "Delta",
+        "phone": "604-596-2515",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.907757",
+          "49.132887"
+        ]
+      },
+      "properties": {
+        "id": "338",
+        "name": "Animal Crackers Children's Centre #5",
+        "address": "103 11364 72 Ave",
+        "city": "Delta",
+        "phone": "604-594-6622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.078878",
+          "49.074808"
+        ]
+      },
+      "properties": {
+        "id": "339",
+        "name": "Neverland Children's Centre",
+        "address": "3900 Arthur Dr",
+        "city": "Delta",
+        "phone": "604-940-4131",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.901181",
+          "49.172354"
+        ]
+      },
+      "properties": {
+        "id": "352",
+        "name": "Delta Funtime Out Of School Care",
+        "address": "9316 116 St",
+        "city": "Delta",
+        "phone": "604-584-5452",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069493",
+          "49.090931"
+        ]
+      },
+      "properties": {
+        "id": "402",
+        "name": "Creation Station Day Care",
+        "address": "5545 Ladner Trunk Rd",
+        "city": "Delta",
+        "phone": "604-940-8077",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072217",
+          "49.015977"
+        ]
+      },
+      "properties": {
+        "id": "434",
+        "name": "Kidzone Learning Centre South Ltd",
+        "address": "735 Gilchrist Dr",
+        "city": "Delta",
+        "phone": "778-701-8952",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.92003",
+          "49.148476"
+        ]
+      },
+      "properties": {
+        "id": "436",
+        "name": "Smiley Faces Childcare Centre #3",
+        "address": "10855 80 Ave",
+        "city": "Delta",
+        "phone": "604-543-1488",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.894328",
+          "49.157426"
+        ]
+      },
+      "properties": {
+        "id": "484",
+        "name": "Fe Fi Fo Fun Family Daycare",
+        "address": "8461 118A St",
+        "city": "Delta",
+        "phone": "604-219-8542",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.893702",
+          "49.158903"
+        ]
+      },
+      "properties": {
+        "id": "558",
+        "name": "Bear's Playhouse Family Daycare",
+        "address": "8572 118A St",
+        "city": "Delta",
+        "phone": "778-218-0976",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.899124",
+          "49.145255"
+        ]
+      },
+      "properties": {
+        "id": "597",
+        "name": "Sharon's Family Child Care",
+        "address": "7815 117 St",
+        "city": "Delta",
+        "phone": "604-765-7728",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.900401",
+          "49.156156"
+        ]
+      },
+      "properties": {
+        "id": "697",
+        "name": "New Children's Choice Daycare Inc",
+        "address": "11637 84 Ave",
+        "city": "Delta",
+        "phone": "604-715-0782",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.088024",
+          "49.010784"
+        ]
+      },
+      "properties": {
+        "id": "712",
+        "name": "Global Montessori Tsawwassen Childcare",
+        "address": "402 English Bluff Rd",
+        "city": "Delta",
+        "phone": "604-562-5588",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.900665",
+          "49.152604"
+        ]
+      },
+      "properties": {
+        "id": "770",
+        "name": "Caterpillar Fun House #2",
+        "address": "11601 82 Ave",
+        "city": "Delta",
+        "phone": "604-710-8451",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.085023",
+          "49.088287"
+        ]
+      },
+      "properties": {
+        "id": "773",
+        "name": "Reach Development Preschool South Delta",
+        "address": "5050 47 Ave",
+        "city": "Delta",
+        "phone": "604-946-6622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.896038",
+          "49.175519"
+        ]
+      },
+      "properties": {
+        "id": "821",
+        "name": "Hop To It Childcare",
+        "address": "9507 118Th St",
+        "city": "Delta",
+        "phone": "604-788-8876",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.893622",
+          "49.134309"
+        ]
+      },
+      "properties": {
+        "id": "848",
+        "name": "North Delta Daycare",
+        "address": "11881 72 Ave",
+        "city": "Delta",
+        "phone": "604-596-5747",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.920252",
+          "49.119478"
+        ]
+      },
+      "properties": {
+        "id": "869",
+        "name": "The Sunshine Hills Multi-Age Child Care",
+        "address": "6417 Lyon Rd",
+        "city": "Delta",
+        "phone": "604-723-9578",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.934458",
+          "49.155834"
+        ]
+      },
+      "properties": {
+        "id": "910",
+        "name": "1St Step Montessori Inc - Sunbury Hall",
+        "address": "10409 Dunlop Rd",
+        "city": "Delta",
+        "phone": "604-417-3290",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.930399",
+          "49.152123"
+        ]
+      },
+      "properties": {
+        "id": "933",
+        "name": "100 Acre Wood",
+        "address": "10567 Modesto Pl",
+        "city": "Delta",
+        "phone": "604-805-9043",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.895818",
+          "49.143037"
+        ]
+      },
+      "properties": {
+        "id": "974",
+        "name": "Tracy's Childcare Centre",
+        "address": "7692 118 St",
+        "city": "Delta",
+        "phone": "604-216-0266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.937767",
+          "49.157415"
+        ]
+      },
+      "properties": {
+        "id": "992",
+        "name": "Debbie's Daycare On Main",
+        "address": "10309 Main St",
+        "city": "Delta",
+        "phone": "604-250-7117",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.894946",
+          "49.162702"
+        ]
+      },
+      "properties": {
+        "id": "1012",
+        "name": "Little Footprints Daycare (Nordel)",
+        "address": "11838 88Th Ave",
+        "city": "Delta",
+        "phone": "604-328-2091",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.896291",
+          "49.115248"
+        ]
+      },
+      "properties": {
+        "id": "1031",
+        "name": "Pinewood Leisure Centre",
+        "address": "11777 Pinewood Dr",
+        "city": "Delta",
+        "phone": "604-952-3054",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.898249",
+          "49.177102"
+        ]
+      },
+      "properties": {
+        "id": "1139",
+        "name": "Brilliant Kids Montessori Childcare Centre",
+        "address": "11706 96Th Ave",
+        "city": "Delta",
+        "phone": "604-498-2128",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.080711",
+          "49.023056"
+        ]
+      },
+      "properties": {
+        "id": "1176",
+        "name": "Kids Zone Child Care Centre Ltd",
+        "address": "1115 51A St",
+        "city": "Delta",
+        "phone": "604-580-6151",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.901066",
+          "49.13856"
+        ]
+      },
+      "properties": {
+        "id": "1178",
+        "name": "Right Choice Daycare Centre",
+        "address": "7450 116 St",
+        "city": "Delta",
+        "phone": "604-813-0980",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.058439",
+          "49.035748"
+        ]
+      },
+      "properties": {
+        "id": "1320",
+        "name": "Sandpiper",
+        "address": "5955 17A Ave",
+        "city": "Delta",
+        "phone": "236-883-1234",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.078551",
+          "49.090297"
+        ]
+      },
+      "properties": {
+        "id": "1391",
+        "name": "Little Koala Montessori Academy Delta",
+        "address": "5267 Ladner Trunk Rd",
+        "city": "Delta",
+        "phone": "778-999-9229",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.906054",
+          "49.165346"
+        ]
+      },
+      "properties": {
+        "id": "1414",
+        "name": "Dudes & Dolls Daycare Ltd",
+        "address": "11419 89 Ave",
+        "city": "Delta",
+        "phone": "604-762-2244",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.073212",
+          "49.013183"
+        ]
+      },
+      "properties": {
+        "id": "1462",
+        "name": "Seven Senses Nature Learning School",
+        "address": "5431 5B Ave",
+        "city": "Delta",
+        "phone": "778-898-0103",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.891705",
+          "49.128334"
+        ]
+      },
+      "properties": {
+        "id": "1537",
+        "name": "Cloudberries",
+        "address": "6897 120Th St",
+        "city": "Delta",
+        "phone": "604-431-6072",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.905205",
+          "49.15688"
+        ]
+      },
+      "properties": {
+        "id": "1560",
+        "name": "North Delta Recreation Centre",
+        "address": "11415 84Th Ave",
+        "city": "Delta",
+        "phone": "604-952-3054",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.892911",
+          "49.169563"
+        ]
+      },
+      "properties": {
+        "id": "1591",
+        "name": "My Sky Childcare Ltd",
+        "address": "9142 Carver Cres",
+        "city": "Delta",
+        "phone": "778-710-4800",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.890471",
+          "49.147504"
+        ]
+      },
+      "properties": {
+        "id": "1756",
+        "name": "Alphabetz Daycare",
+        "address": "7929 120Th St",
+        "city": "Delta",
+        "phone": "604-597-0398",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097891",
+          "49.084568"
+        ]
+      },
+      "properties": {
+        "id": "1857",
+        "name": "Lasko Family Daycare",
+        "address": "4540 44B Ave",
+        "city": "Delta",
+        "phone": "604-946-7706",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069825",
+          "49.036438"
+        ]
+      },
+      "properties": {
+        "id": "1859",
+        "name": "Bright Horizons Children\u2019S Early Learning Center",
+        "address": "5-1835 56 St",
+        "city": "Delta",
+        "phone": "604-783-4462",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.900425",
+          "49.142632"
+        ]
+      },
+      "properties": {
+        "id": "1874",
+        "name": "Delta Daycare Inc",
+        "address": "7675 116A St",
+        "city": "Delta",
+        "phone": "778-558-8680",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.909819",
+          "49.162743"
+        ]
+      },
+      "properties": {
+        "id": "1896",
+        "name": "Tic Tac Toe Daycare",
+        "address": "11277 87A Ave",
+        "city": "Delta",
+        "phone": "778-898-4742",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.067346",
+          "49.038037"
+        ]
+      },
+      "properties": {
+        "id": "1902",
+        "name": "First Steps Preschool",
+        "address": "1988 56 St",
+        "city": "Delta",
+        "phone": "604-943-8244",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.076594",
+          "49.082648"
+        ]
+      },
+      "properties": {
+        "id": "1904",
+        "name": "Sprouts Early Learning",
+        "address": "5300 44Th Ave",
+        "city": "Delta",
+        "phone": "604-649-3675",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.905786",
+          "49.144237"
+        ]
+      },
+      "properties": {
+        "id": "2029",
+        "name": "Lee's Li'l Rascals Childcare",
+        "address": "7765 114A St",
+        "city": "Delta",
+        "phone": "778-885-3671",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.892899",
+          "49.128305"
+        ]
+      },
+      "properties": {
+        "id": "2078",
+        "name": "Christina's Creative Castle",
+        "address": "6889 Nicholson Rd",
+        "city": "Delta",
+        "phone": "778-241-7749",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.907107",
+          "49.156934"
+        ]
+      },
+      "properties": {
+        "id": "2084",
+        "name": "Reach Developmental Preschool North Delta",
+        "address": "11415 84Th Ave Delta",
+        "city": "Delta",
+        "phone": "604-946-6622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.890475",
+          "49.131016"
+        ]
+      },
+      "properties": {
+        "id": "2154",
+        "name": "Power House Junior Kindergarten Ltd",
+        "address": "A - 7035 120Th St",
+        "city": "Delta",
+        "phone": "604-417-0128",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.901037",
+          "49.141253"
+        ]
+      },
+      "properties": {
+        "id": "2162",
+        "name": "Playing Pebbles Daycare Inc.",
+        "address": "7600 116 St",
+        "city": "Delta",
+        "phone": "778-927-4411",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.082532",
+          "49.089092"
+        ]
+      },
+      "properties": {
+        "id": "2200",
+        "name": "Ladner Community Centre",
+        "address": "4734 51 St",
+        "city": "Delta",
+        "phone": "604-946-3307",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.892784",
+          "49.168181"
+        ]
+      },
+      "properties": {
+        "id": "2301",
+        "name": "Growing Steps Children Centre",
+        "address": "9061 119A St",
+        "city": "Delta",
+        "phone": "778-387-1787",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.048677",
+          "49.094094"
+        ]
+      },
+      "properties": {
+        "id": "2326",
+        "name": "Ladner Grown Daycare",
+        "address": "6307 Crescent Pl",
+        "city": "Delta",
+        "phone": "778-317-0457",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.926005",
+          "49.155063"
+        ]
+      },
+      "properties": {
+        "id": "2348",
+        "name": "Elfi First School",
+        "address": "10727 Delsom Cres",
+        "city": "Delta",
+        "phone": "604-998-7980",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.909415",
+          "49.170876"
+        ]
+      },
+      "properties": {
+        "id": "2442",
+        "name": "Leap Forward Out Of School Care",
+        "address": "9240 112Th St",
+        "city": "Delta",
+        "phone": "236-978-8141",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.897944",
+          "49.157229"
+        ]
+      },
+      "properties": {
+        "id": "2507",
+        "name": "Brainy Kids Montessori Daycare Inc",
+        "address": "8482 Hall Pl",
+        "city": "Delta",
+        "phone": "236-880-7136",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.894066",
+          "49.174849"
+        ]
+      },
+      "properties": {
+        "id": "2518",
+        "name": "Tiny Roots Daycare",
+        "address": "9468 119 St",
+        "city": "Delta",
+        "phone": "778-855-3736",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.910864",
+          "49.124732"
+        ]
+      },
+      "properties": {
+        "id": "2552",
+        "name": "Sunshine Hills Elementary Before & After School Care",
+        "address": "11285 Bond Blvd",
+        "city": "Delta",
+        "phone": "604-669-3754",
+        "services": [
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.890886",
+          "49.158837"
+        ]
+      },
+      "properties": {
+        "id": "2612",
+        "name": "Mamacare Daycare Ltd",
+        "address": "#2 - 8555 120Th St",
+        "city": "Delta",
+        "phone": "778-201-2110",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.092647",
+          "49.085696"
+        ]
+      },
+      "properties": {
+        "id": "2781",
+        "name": "Makannah's Daycare",
+        "address": "4706 45A Ave",
+        "city": "Delta",
+        "phone": "778-999-5249",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.904691",
+          "49.142773"
+        ]
+      },
+      "properties": {
+        "id": "2797",
+        "name": "Kids Galore Childcare Centre",
+        "address": "7679 115 St",
+        "city": "Delta",
+        "phone": "604-799-6938",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.071075",
+          "49.112744"
+        ]
+      },
+      "properties": {
+        "id": "2809",
+        "name": "Cefa Captain's Cove",
+        "address": "106-5519 Admiral Way",
+        "city": "Delta",
+        "phone": "604-716-2512",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069227",
+          "49.032682"
+        ]
+      },
+      "properties": {
+        "id": "2962",
+        "name": "Sunny Town Childcare North",
+        "address": "1631 56 St",
+        "city": "Delta",
+        "phone": "778-999-1015",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.06415",
+          "49.088571"
+        ]
+      },
+      "properties": {
+        "id": "2979",
+        "name": "South Delta Wee Childcare Inc",
+        "address": "4750 57 St",
+        "city": "Delta",
+        "phone": "778-995-5985",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.067077",
+          "49.08947"
+        ]
+      },
+      "properties": {
+        "id": "2981",
+        "name": "South Delta Wee Acorn Academy",
+        "address": "5624 Ladner Trunk Rd",
+        "city": "Delta",
+        "phone": "604-218-7607",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.065844",
+          "49.089067"
+        ]
+      },
+      "properties": {
+        "id": "2982",
+        "name": "South Delta Wee Clubhouse",
+        "address": "4737 57 St",
+        "city": "Delta",
+        "phone": "604-376-3443",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.912059",
+          "49.149031"
+        ]
+      },
+      "properties": {
+        "id": "3102",
+        "name": "Little Petals Childcare Centre",
+        "address": "8024 112 St",
+        "city": "Delta",
+        "phone": "778-241-1619",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.911049",
+          "49.146704"
+        ]
+      },
+      "properties": {
+        "id": "3113",
+        "name": "Believe'n U Child Centre",
+        "address": "7908 112A St",
+        "city": "Delta",
+        "phone": "604-725-3553",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.91199",
+          "49.15875"
+        ]
+      },
+      "properties": {
+        "id": "3181",
+        "name": "Sunshine Kids Childcare",
+        "address": "8552 112 St",
+        "city": "Delta",
+        "phone": "778-710-3737",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.086908",
+          "49.083153"
+        ]
+      },
+      "properties": {
+        "id": "3193",
+        "name": "Cromie Home Daycare",
+        "address": "4929 44 Ave",
+        "city": "Delta",
+        "phone": "778-836-0672",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.914521",
+          "49.170392"
+        ]
+      },
+      "properties": {
+        "id": "3201",
+        "name": "Aurostar Montessori Children Centre (Delta)",
+        "address": "11040 River Rd",
+        "city": "Delta",
+        "phone": "236-868-3450",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.917015",
+          "49.137739"
+        ]
+      },
+      "properties": {
+        "id": "3247",
+        "name": "Alia's Childcare Centre",
+        "address": "7412 Crawford Dr",
+        "city": "Delta",
+        "phone": "778-879-3735",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.0788",
+          "49.09034"
+        ]
+      },
+      "properties": {
+        "id": "3266",
+        "name": "Little Koala Montessori Academy Ladner",
+        "address": "C-5229 Ladner Trunk Road",
+        "city": "Delta",
+        "phone": "780-630-7878",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.068699",
+          "49.02281"
+        ]
+      },
+      "properties": {
+        "id": "3301",
+        "name": "Young Riders Childcare",
+        "address": "115-1077 56 St",
+        "city": "Delta",
+        "phone": "778-241-1619",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.906552",
+          "49.155585"
+        ]
+      },
+      "properties": {
+        "id": "3320",
+        "name": "Little Branches Learning Childcare Centre",
+        "address": "8378 114 St",
+        "city": "Delta",
+        "phone": "778-233-5500",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.918121",
+          "49.129328"
+        ]
+      },
+      "properties": {
+        "id": "3368",
+        "name": "Little Feet Childcare Centre",
+        "address": "11016 Westridge Pl",
+        "city": "Delta",
+        "phone": "604-355-9916",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.078694",
+          "49.021699"
+        ]
+      },
+      "properties": {
+        "id": "3597",
+        "name": "Wee Bairns",
+        "address": "1030 52A St",
+        "city": "Delta",
+        "phone": "604-943-4786",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.071431",
+          "49.096445"
+        ]
+      },
+      "properties": {
+        "id": "3635",
+        "name": "Ladner Animal Crackers",
+        "address": "5160 Central Ave",
+        "city": "Delta",
+        "phone": "604-940-0327",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.903278",
+          "49.149633"
+        ]
+      },
+      "properties": {
+        "id": "3666",
+        "name": "Animal Crackers Children's Centre #7",
+        "address": "707 11531 80Th Ave",
+        "city": "Delta",
+        "phone": "604-594-6622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.084461",
+          "49.025687"
+        ]
+      },
+      "properties": {
+        "id": "3706",
+        "name": "Aird's Kidzone Learning Centre Ltd",
+        "address": "5025 12 Ave",
+        "city": "Delta",
+        "phone": "604-943-9179",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.920761",
+          "49.119714"
+        ]
+      },
+      "properties": {
+        "id": "3747",
+        "name": "Ladybird Group Daycare",
+        "address": "6424 109 St",
+        "city": "Delta",
+        "phone": "604-572-1983",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.893927",
+          "49.142911"
+        ]
+      },
+      "properties": {
+        "id": "3886",
+        "name": "Animal Crackers Children's Centre #9",
+        "address": "A3 - 7670 118Th St",
+        "city": "Delta",
+        "phone": "604-594-6622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.052075",
+          "49.091899"
+        ]
+      },
+      "properties": {
+        "id": "3933",
+        "name": "Tina's Tiny Tots Daycare",
+        "address": "6147 49 Ave",
+        "city": "Delta",
+        "phone": "604-803-5020",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.019938",
+          "49.071513"
+        ]
+      },
+      "properties": {
+        "id": "3951",
+        "name": "Boundary Bay Montessori House",
+        "address": "3800 72 St",
+        "city": "Delta",
+        "phone": "604-946-9814",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.084817",
+          "49.086376"
+        ]
+      },
+      "properties": {
+        "id": "4014",
+        "name": "Bright Eyes Academy Inc",
+        "address": "4629 51 St",
+        "city": "Delta",
+        "phone": "604-946-0896",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.892868",
+          "49.135907"
+        ]
+      },
+      "properties": {
+        "id": "4027",
+        "name": "Little Prince & Princess",
+        "address": "11911 73 Ave",
+        "city": "Delta",
+        "phone": "604-507-6890",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069825",
+          "49.036438"
+        ]
+      },
+      "properties": {
+        "id": "4055",
+        "name": "Kids In Paradise",
+        "address": "25-1835 56 St",
+        "city": "Delta",
+        "phone": "604-948-5436",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.071437",
+          "49.086148"
+        ]
+      },
+      "properties": {
+        "id": "4154",
+        "name": "Wind And Tide - Ladner (Lcr)",
+        "address": "4594 54A St",
+        "city": "Delta",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.053169",
+          "49.087464"
+        ]
+      },
+      "properties": {
+        "id": "4209",
+        "name": "C&S Child Care",
+        "address": "4625 62Nd St",
+        "city": "Delta",
+        "phone": "604-946-4060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.914301",
+          "49.160922"
+        ]
+      },
+      "properties": {
+        "id": "4229",
+        "name": "Delta Christian Family Child Care",
+        "address": "11138 87 Ave",
+        "city": "Delta",
+        "phone": "604-418-0662",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.909907",
+          "49.172809"
+        ]
+      },
+      "properties": {
+        "id": "4245",
+        "name": "Bean Sprouts Childcare Centre",
+        "address": "11284 Kendale Way",
+        "city": "Delta",
+        "phone": "778-837-3356",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.052911",
+          "49.087749"
+        ]
+      },
+      "properties": {
+        "id": "4258",
+        "name": "Bright Eyes Academy Inc At Holly",
+        "address": "4669 62 St",
+        "city": "Delta",
+        "phone": "604-940-5999",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.076549",
+          "49.007176"
+        ]
+      },
+      "properties": {
+        "id": "4267",
+        "name": "The Rainbow Connection Children's Centre At Pebble Hill",
+        "address": "246 52A St",
+        "city": "Delta",
+        "phone": "604-250-3480",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.090234",
+          "49.081312"
+        ]
+      },
+      "properties": {
+        "id": "4320",
+        "name": "Hayley's House",
+        "address": "4295 48A St",
+        "city": "Delta",
+        "phone": "604-218-2515",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.084317",
+          "49.025713"
+        ]
+      },
+      "properties": {
+        "id": "4372",
+        "name": "Tsawwassen Lf Preschool Ltd",
+        "address": "5025 12 Ave",
+        "city": "Delta",
+        "phone": "604-202-4711",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.899526",
+          "49.173147"
+        ]
+      },
+      "properties": {
+        "id": "4379",
+        "name": "Tracy's Tots",
+        "address": "11662 94 Ave",
+        "city": "Delta",
+        "phone": "604-588-0699",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.098141",
+          "49.083179"
+        ]
+      },
+      "properties": {
+        "id": "4397",
+        "name": "Tree Of Life Childcare",
+        "address": "4381 46A St",
+        "city": "Delta",
+        "phone": "604-446-6171",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.909308",
+          "49.140324"
+        ]
+      },
+      "properties": {
+        "id": "4399",
+        "name": "Sapphire Montessori Academia Inc",
+        "address": "11315 75 Ave",
+        "city": "Delta",
+        "phone": "604-999-8162",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.905382",
+          "49.166928"
+        ]
+      },
+      "properties": {
+        "id": "4429",
+        "name": "Little Bright Minds Preschool Ltd.",
+        "address": "11451 90 Ave",
+        "city": "Delta",
+        "phone": "778-387-0061",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.895595",
+          "49.164812"
+        ]
+      },
+      "properties": {
+        "id": "4451",
+        "name": "Kids Corner Daycare",
+        "address": "8886 118 St",
+        "city": "Delta",
+        "phone": "604-518-6450",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.895262",
+          "49.125336"
+        ]
+      },
+      "properties": {
+        "id": "4505",
+        "name": "Sunshine Hills Family Daycare",
+        "address": "6733 Nicholson Rd",
+        "city": "Delta",
+        "phone": "604-908-2549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.901992",
+          "49.156846"
+        ]
+      },
+      "properties": {
+        "id": "4673",
+        "name": "Learning Ladder Childcare",
+        "address": "8455 116 St",
+        "city": "Delta",
+        "phone": "604-594-0596",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.925088",
+          "49.162953"
+        ]
+      },
+      "properties": {
+        "id": "4683",
+        "name": "Bright Eyes Academy Inc @ Brooke",
+        "address": "8718 Delwood Dr",
+        "city": "Delta",
+        "phone": "604-583-8950",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.078879",
+          "49.074811"
+        ]
+      },
+      "properties": {
+        "id": "4722",
+        "name": "Lil' Saints Early Learning Centre",
+        "address": "3900 Arthur Dr",
+        "city": "Delta",
+        "phone": "604-683-0281",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.05547",
+          "49.090971"
+        ]
+      },
+      "properties": {
+        "id": "4731",
+        "name": "The Yellow Door Daycare",
+        "address": "6053 48A Ave",
+        "city": "Delta",
+        "phone": "604-813-5224",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.913992",
+          "49.127075"
+        ]
+      },
+      "properties": {
+        "id": "4749",
+        "name": "Kim's Daycare",
+        "address": "11157 Huff Blvd",
+        "city": "Delta",
+        "phone": "604-591-7364",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.891158",
+          "49.142473"
+        ]
+      },
+      "properties": {
+        "id": "4770",
+        "name": "One World Childcare Center",
+        "address": "7655 120Th St",
+        "city": "Delta",
+        "phone": "604-726-0404",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.090225",
+          "49.082414"
+        ]
+      },
+      "properties": {
+        "id": "4771",
+        "name": "Lynne's Daycare",
+        "address": "4363 48A St",
+        "city": "Delta",
+        "phone": "604-220-4007",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069329",
+          "49.014095"
+        ]
+      },
+      "properties": {
+        "id": "4825",
+        "name": "Wind And Tide - Tsawwassen",
+        "address": "5575 6 Ave",
+        "city": "Delta",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.900336",
+          "49.146183"
+        ]
+      },
+      "properties": {
+        "id": "4844",
+        "name": "Aristo-Kids Children's Centre",
+        "address": "11643 78A Ave",
+        "city": "Delta",
+        "phone": "604-591-7222",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.899668",
+          "49.160559"
+        ]
+      },
+      "properties": {
+        "id": "4863",
+        "name": "Brilliant Butterflies Children's Learning Centre",
+        "address": "11655 86 Ave",
+        "city": "Delta",
+        "phone": "604-961-6934",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.066829",
+          "49.035905"
+        ]
+      },
+      "properties": {
+        "id": "4991",
+        "name": "Awesome Afterschool - South Delta",
+        "address": "1720 56 St",
+        "city": "Delta",
+        "phone": "604-952-3054",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.895392",
+          "49.151267"
+        ]
+      },
+      "properties": {
+        "id": "5106",
+        "name": "Young Explorers Childcare",
+        "address": "8141 118A St",
+        "city": "Delta",
+        "phone": "604-767-6949",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.902388",
+          "49.153171"
+        ]
+      },
+      "properties": {
+        "id": "5114",
+        "name": "Animal Crackers Children's Centre #3",
+        "address": "116 11590 83Rd Ave",
+        "city": "Delta",
+        "phone": "604-594-6622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.076956",
+          "49.01536"
+        ]
+      },
+      "properties": {
+        "id": "5236",
+        "name": "Sunny Town Learn And Play Childcare Centre",
+        "address": "693 53 St",
+        "city": "Delta",
+        "phone": "778-999-1015",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.900409",
+          "49.139862"
+        ]
+      },
+      "properties": {
+        "id": "5419",
+        "name": "Valuable Kidz Daycare",
+        "address": "11638 75A Ave",
+        "city": "Delta",
+        "phone": "604-807-4900",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.932104",
+          "49.150042"
+        ]
+      },
+      "properties": {
+        "id": "5515",
+        "name": "Learning Treehouse Daycare",
+        "address": "10481 Santa Monica Dr",
+        "city": "Delta",
+        "phone": "778-839-4850",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.908172",
+          "49.159884"
+        ]
+      },
+      "properties": {
+        "id": "5536",
+        "name": "Little Toes Daycare",
+        "address": "11355 86 Ave",
+        "city": "Delta",
+        "phone": "604-722-3650",
+        "services": []
+      }
+    }
+  ]
+}

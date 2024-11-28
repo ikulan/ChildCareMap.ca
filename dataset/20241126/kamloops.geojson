@@ -1,0 +1,2308 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.32746",
+          "50.672937"
+        ]
+      },
+      "properties": {
+        "id": "20",
+        "name": "6Th Avenue Childcare",
+        "address": "520 6Th Ave",
+        "city": "Kamloops",
+        "phone": "250-828-6675",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.327839",
+          "50.672974"
+        ]
+      },
+      "properties": {
+        "id": "21",
+        "name": "Gingerbread House",
+        "address": "559 Battle St",
+        "city": "Kamloops",
+        "phone": "250-828-6675",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.338601",
+          "50.657927"
+        ]
+      },
+      "properties": {
+        "id": "22",
+        "name": "Summit Childcare",
+        "address": "1565 Summit Dr",
+        "city": "Kamloops",
+        "phone": "250-828-6675",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.352419",
+          "50.670089"
+        ]
+      },
+      "properties": {
+        "id": "36",
+        "name": "Boys & Girls Club Of Kamloops - L S Neighbourhood Club -",
+        "address": "492 mcgill Rd",
+        "city": "Kamloops",
+        "phone": "250-554-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.369904",
+          "50.697406"
+        ]
+      },
+      "properties": {
+        "id": "37",
+        "name": "First Steps Childcare Centre",
+        "address": "480 Kenora Rd",
+        "city": "Kamloops",
+        "phone": "250-554-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.39801",
+          "50.704451"
+        ]
+      },
+      "properties": {
+        "id": "38",
+        "name": "Brocklehurst Neighbourhood Club",
+        "address": "950 Southill St",
+        "city": "Kamloops",
+        "phone": "250-554-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.257728",
+          "50.67779"
+        ]
+      },
+      "properties": {
+        "id": "77",
+        "name": "Kiddies Korner Daycare",
+        "address": "2250 Park Dr",
+        "city": "Kamloops",
+        "phone": "250-828-0877",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.331441",
+          "50.67388"
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "name": "Kamloops United Church Preschool",
+        "address": "421 St Paul Street",
+        "city": "Kamloops",
+        "phone": "250-372-1043",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.349391",
+          "50.68955"
+        ]
+      },
+      "properties": {
+        "id": "303",
+        "name": "Association Francophone De Kamloops",
+        "address": "348 Fortune Dr",
+        "city": "Kamloops",
+        "phone": "250-376-6060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.338602",
+          "50.657923"
+        ]
+      },
+      "properties": {
+        "id": "435",
+        "name": "Between Friends Out Of School",
+        "address": "1565 Summit Dr",
+        "city": "Kamloops",
+        "phone": "250-828-0038",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.364063",
+          "50.642859"
+        ]
+      },
+      "properties": {
+        "id": "448",
+        "name": "Kamloops Montessori Academy/Full Day Care",
+        "address": "920 Greystone Cres",
+        "city": "Kamloops",
+        "phone": "778-220-9457",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.307878",
+          "50.669396"
+        ]
+      },
+      "properties": {
+        "id": "472",
+        "name": "Sheila's Family Day Care",
+        "address": "1341 Pine Cres",
+        "city": "Kamloops",
+        "phone": "250-374-5181",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.354839",
+          "50.691584"
+        ]
+      },
+      "properties": {
+        "id": "473",
+        "name": "Bonnie's Daycare",
+        "address": "471 Linden Ave",
+        "city": "Kamloops",
+        "phone": "250-376-3566",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.394644",
+          "50.707307"
+        ]
+      },
+      "properties": {
+        "id": "474",
+        "name": "Brock Kids Care",
+        "address": "1080 Oxford St",
+        "city": "Kamloops",
+        "phone": "250-376-3677",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.3223",
+          "50.799609"
+        ]
+      },
+      "properties": {
+        "id": "475",
+        "name": "Kiddy Cottage Daycare",
+        "address": "175 Cahilty Cres",
+        "city": "Kamloops",
+        "phone": "250-578-8539",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.35558",
+          "50.651167"
+        ]
+      },
+      "properties": {
+        "id": "476",
+        "name": "Gleneagles - Sahali Daycare",
+        "address": "656 Gleneagles Dr",
+        "city": "Kamloops",
+        "phone": "250-371-7201",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.346761",
+          "50.649823"
+        ]
+      },
+      "properties": {
+        "id": "477",
+        "name": "Treasure Island Family Childcare",
+        "address": "381 Robson Dr",
+        "city": "Kamloops",
+        "phone": "250-571-5359",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.250959",
+          "50.660303"
+        ]
+      },
+      "properties": {
+        "id": "478",
+        "name": "Juniper Joyce's Home Away From Home",
+        "address": "2373 Omineca Dr",
+        "city": "Kamloops",
+        "phone": "250-374-2199",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.361878",
+          "50.705751"
+        ]
+      },
+      "properties": {
+        "id": "599",
+        "name": "Building Blocks Childcare",
+        "address": "1127 Belmont Cres",
+        "city": "Kamloops",
+        "phone": "250-376-9720",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.371121",
+          "50.639612"
+        ]
+      },
+      "properties": {
+        "id": "600",
+        "name": "Little Munchkins Family Daycare",
+        "address": "2267 Nairn Pl",
+        "city": "Kamloops",
+        "phone": "778-586-9586",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.361834",
+          "50.648899"
+        ]
+      },
+      "properties": {
+        "id": "601",
+        "name": "Magical Moments Childcare",
+        "address": "943 Laurel Pl",
+        "city": "Kamloops",
+        "phone": "250-372-9673",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.340876",
+          "50.697297"
+        ]
+      },
+      "properties": {
+        "id": "602",
+        "name": "Puss N' Boots",
+        "address": "855 Kamloopa Rd",
+        "city": "Kamloops",
+        "phone": "250-828-9429",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.181316",
+          "50.651117"
+        ]
+      },
+      "properties": {
+        "id": "603",
+        "name": "Barnhartvale Multi-Age Childcare",
+        "address": "1350 Crestwood Dr",
+        "city": "Kamloops",
+        "phone": "250-573-4862",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.340187",
+          "50.700989"
+        ]
+      },
+      "properties": {
+        "id": "814",
+        "name": "Little Jewels Daycare",
+        "address": "120 West Shuswap Rd",
+        "city": "Kamloops",
+        "phone": "250-819-7358",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.33295",
+          "50.675127"
+        ]
+      },
+      "properties": {
+        "id": "902",
+        "name": "Parasol - Early Years Learning",
+        "address": "350 Seymour St",
+        "city": "Kamloops",
+        "phone": "236-425-4545",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.358668",
+          "50.700313"
+        ]
+      },
+      "properties": {
+        "id": "917",
+        "name": "Hugs & Giggles",
+        "address": "673 Regina Ave",
+        "city": "Kamloops",
+        "phone": "778-257-0027",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.320294",
+          "50.672445"
+        ]
+      },
+      "properties": {
+        "id": "939",
+        "name": "The Nest Early Learning Centre",
+        "address": "838 Nicola St",
+        "city": "Kamloops",
+        "phone": "250-574-4434",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.357491",
+          "50.69499"
+        ]
+      },
+      "properties": {
+        "id": "979",
+        "name": "Jd Childcare",
+        "address": "161 Chestnut Ave",
+        "city": "Kamloops",
+        "phone": "250-319-1981",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.3528",
+          "50.763542"
+        ]
+      },
+      "properties": {
+        "id": "1027",
+        "name": "Caterpillar Clubhouse",
+        "address": "889 Serle Rd",
+        "city": "Kamloops",
+        "phone": "250-819-6653",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.409219",
+          "50.707663"
+        ]
+      },
+      "properties": {
+        "id": "1030",
+        "name": "Chris' Child Care",
+        "address": "2241 Parkcrest Ave",
+        "city": "Kamloops",
+        "phone": "250-554-1398",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.226633",
+          "50.671061"
+        ]
+      },
+      "properties": {
+        "id": "1042",
+        "name": "Kamloops Kidz (Orchards Walk)",
+        "address": "201-3200 Valleyview Dr",
+        "city": "Kamloops",
+        "phone": "250-319-9044",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.332879",
+          "50.675123"
+        ]
+      },
+      "properties": {
+        "id": "1159",
+        "name": "Parasol - Early Years Learning 2",
+        "address": "352 Seymour St",
+        "city": "Kamloops",
+        "phone": "236-425-4545",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.353258",
+          "50.69611"
+        ]
+      },
+      "properties": {
+        "id": "1170",
+        "name": "Cozy Days Childcare",
+        "address": "282 Holly Ave",
+        "city": "Kamloops",
+        "phone": "250-457-1272",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.363967",
+          "50.712971"
+        ]
+      },
+      "properties": {
+        "id": "1193",
+        "name": "Colour My World Childcare",
+        "address": "1579 Collingwood Dr",
+        "city": "Kamloops",
+        "phone": "250-554-4333",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.377",
+          "50.6388"
+        ]
+      },
+      "properties": {
+        "id": "1210",
+        "name": "Sprouts And Blossoms",
+        "address": "1304 Dunbar Dr",
+        "city": "Kamloops",
+        "phone": "250-851-6633",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.341316",
+          "50.773889"
+        ]
+      },
+      "properties": {
+        "id": "1226",
+        "name": "Bumble And Bean Out Of School Program",
+        "address": "3550 Westsyde Rd",
+        "city": "Kamloops",
+        "phone": "250-319-2013",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.34136",
+          "50.770954"
+        ]
+      },
+      "properties": {
+        "id": "1227",
+        "name": "Bumble And Bean Out-Of-School Program",
+        "address": "3255 Overlander Dr",
+        "city": "Kamloops",
+        "phone": "250-319-2013",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.327489",
+          "50.667549"
+        ]
+      },
+      "properties": {
+        "id": "1247",
+        "name": "ymca 6Th Avenue School Age Child Care",
+        "address": "1136 6Th Ave",
+        "city": "Kamloops",
+        "phone": "250-376-4771",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.312596",
+          "50.672449"
+        ]
+      },
+      "properties": {
+        "id": "1279",
+        "name": "Little Saplings Child Care",
+        "address": "1152 Nicola St",
+        "city": "Kamloops",
+        "phone": "778-694-0733",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.343497",
+          "50.773072"
+        ]
+      },
+      "properties": {
+        "id": "1289",
+        "name": "Sycamore Child Care Centre",
+        "address": "824 Sicamore Dr",
+        "city": "Kamloops",
+        "phone": "604-819-7646",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.368694",
+          "50.696747"
+        ]
+      },
+      "properties": {
+        "id": "1292",
+        "name": "Lil Scholars Childcare",
+        "address": "750 Cottonwood Ave",
+        "city": "Kamloops",
+        "phone": "250-320-8391",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.368694",
+          "50.696747"
+        ]
+      },
+      "properties": {
+        "id": "1295",
+        "name": "Happy Honeybees Child Care",
+        "address": "750 Cottonwood Ave",
+        "city": "Kamloops",
+        "phone": "250-319-2240",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.352218",
+          "50.66795"
+        ]
+      },
+      "properties": {
+        "id": "1337",
+        "name": "River City Early Learning Centre",
+        "address": "30-945 Columbia St W",
+        "city": "Kamloops",
+        "phone": "778-471-1011",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.351025",
+          "50.763055"
+        ]
+      },
+      "properties": {
+        "id": "1390",
+        "name": "Bumble And Bean Daycare",
+        "address": "3125 Serle Ct",
+        "city": "Kamloops",
+        "phone": "250-319-2013",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.342139",
+          "50.772778"
+        ]
+      },
+      "properties": {
+        "id": "1418",
+        "name": "Creative Corner Early Childhood Learning Centre",
+        "address": "810 Sicamore Dr",
+        "city": "Kamloops",
+        "phone": "250-819-5444",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.326219",
+          "50.672982"
+        ]
+      },
+      "properties": {
+        "id": "1444",
+        "name": "Casa Mia Childcare",
+        "address": "629 Battle St",
+        "city": "Kamloops",
+        "phone": "250-828-6675",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.360081",
+          "50.699807"
+        ]
+      },
+      "properties": {
+        "id": "1466",
+        "name": "Bloom & Grow Early Learning",
+        "address": "24-750 Fortune Dr",
+        "city": "Kamloops",
+        "phone": "250-376-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.353541",
+          "50.751018"
+        ]
+      },
+      "properties": {
+        "id": "1479",
+        "name": "Bumble And Bean Daycare And Out-Of-School Program",
+        "address": "779 Franklin Rd",
+        "city": "Kamloops",
+        "phone": "250-319-2013",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.343013",
+          "50.766776"
+        ]
+      },
+      "properties": {
+        "id": "1495",
+        "name": "Holding Hands Childcare",
+        "address": "3230 Bank Rd",
+        "city": "Kamloops",
+        "phone": "250-377-5707",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.336373",
+          "50.675121"
+        ]
+      },
+      "properties": {
+        "id": "1499",
+        "name": "Parasol - Early Years Learning - 4",
+        "address": "110-206 Seymour St",
+        "city": "Kamloops",
+        "phone": "250-819-1390",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.362988",
+          "50.63628"
+        ]
+      },
+      "properties": {
+        "id": "1509",
+        "name": "Kool Kidz",
+        "address": "817 Regent Cres",
+        "city": "Kamloops",
+        "phone": "250-309-6804",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.353695",
+          "50.668512"
+        ]
+      },
+      "properties": {
+        "id": "1519",
+        "name": "River City Early Learning Centre (2)",
+        "address": "40-945 Columbia St W",
+        "city": "Kamloops",
+        "phone": "778-929-2596",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.403621",
+          "50.701057"
+        ]
+      },
+      "properties": {
+        "id": "1632",
+        "name": "Learning Tree Family Dayhome",
+        "address": "838 Lolo St",
+        "city": "Kamloops",
+        "phone": "403-703-6229",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.322305",
+          "50.674729"
+        ]
+      },
+      "properties": {
+        "id": "1723",
+        "name": "Montessori Infant/Toddler's Cottage",
+        "address": "767 Seymour St",
+        "city": "Kamloops",
+        "phone": "778-220-9457",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.262448",
+          "50.66189"
+        ]
+      },
+      "properties": {
+        "id": "1735",
+        "name": "Children's Casa Early Learning Center",
+        "address": "101-2049 Highland Pl",
+        "city": "Kamloops",
+        "phone": "250-377-5342",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.378214",
+          "50.638772"
+        ]
+      },
+      "properties": {
+        "id": "1769",
+        "name": "Pacific Way After School Care",
+        "address": "1351 Dunbar Dr",
+        "city": "Kamloops",
+        "phone": "250-574-4140",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.335039",
+          "50.67444"
+        ]
+      },
+      "properties": {
+        "id": "1847",
+        "name": "Sunny Hills Montessori Ltd.",
+        "address": "259 Seymour St",
+        "city": "Kamloops",
+        "phone": "250-851-1764",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.27197",
+          "50.678053"
+        ]
+      },
+      "properties": {
+        "id": "1852",
+        "name": "Gateway Children's Centre",
+        "address": "163 Oriole Rd",
+        "city": "Kamloops",
+        "phone": "250-371-0519",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.351587",
+          "50.694934"
+        ]
+      },
+      "properties": {
+        "id": "1962",
+        "name": "Arthur Hatton Elementary",
+        "address": "315 Chestnut Ave",
+        "city": "Kamloops",
+        "phone": "250-376-7217",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.423904",
+          "50.704894"
+        ]
+      },
+      "properties": {
+        "id": "1965",
+        "name": "Kamloops Lollipop Kids Centre",
+        "address": "2632 Young Pl",
+        "city": "Kamloops",
+        "phone": "250-819-7893",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.320354",
+          "50.663337"
+        ]
+      },
+      "properties": {
+        "id": "2023",
+        "name": "Early Learning Society Of Kamloops - Main Campus",
+        "address": "1500 9 Ave",
+        "city": "Kamloops",
+        "phone": "778-471-9321",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.3585",
+          "50.70198"
+        ]
+      },
+      "properties": {
+        "id": "2044",
+        "name": "T.J.'S Daycare",
+        "address": "646 Duncan Ave",
+        "city": "Kamloops",
+        "phone": "250-371-2625",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.247658",
+          "50.67479"
+        ]
+      },
+      "properties": {
+        "id": "2080",
+        "name": "Fun And Learning Out Of School",
+        "address": "2481 Sunset Dr",
+        "city": "Kamloops",
+        "phone": "250-571-5464",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.353788",
+          "50.647592"
+        ]
+      },
+      "properties": {
+        "id": "2119",
+        "name": "Toddler World Early Learning Centre",
+        "address": "664 Robson Dr",
+        "city": "Kamloops",
+        "phone": "250-879-1436",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.359842",
+          "50.694488"
+        ]
+      },
+      "properties": {
+        "id": "2131",
+        "name": "Parasol - Early Years Learning - 5",
+        "address": "604 Tranquille Rd",
+        "city": "Kamloops",
+        "phone": "250-819-1390",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.385629",
+          "50.70345"
+        ]
+      },
+      "properties": {
+        "id": "2149",
+        "name": "Mighty Learners Day Home",
+        "address": "1631 Spartan Pl",
+        "city": "Kamloops",
+        "phone": "780-446-5729",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.185807",
+          "50.668575"
+        ]
+      },
+      "properties": {
+        "id": "2171",
+        "name": "Wonderful Beginnings Early Years",
+        "address": "101-5170 Dallas Dr",
+        "city": "Kamloops",
+        "phone": "306-471-4567",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.373103",
+          "50.671036"
+        ]
+      },
+      "properties": {
+        "id": "2206",
+        "name": "Cariboo Child Care",
+        "address": "1274 mcgill Rd",
+        "city": "Kamloops",
+        "phone": "250-828-5160",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.322532",
+          "50.674731"
+        ]
+      },
+      "properties": {
+        "id": "2209",
+        "name": "Montessori Children's Centre",
+        "address": "759 Seymour St",
+        "city": "Kamloops",
+        "phone": "778-220-9457",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.345832",
+          "50.767216"
+        ]
+      },
+      "properties": {
+        "id": "2321",
+        "name": "Bear Bears",
+        "address": "3262 Westsyde Rd",
+        "city": "Kamloops",
+        "phone": "250-879-1651",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.184249",
+          "50.667782"
+        ]
+      },
+      "properties": {
+        "id": "2336",
+        "name": "Little Mangos Childcare Centre",
+        "address": "5201 Dallas Dr",
+        "city": "Kamloops",
+        "phone": "250-634-8219",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.370472",
+          "50.65105"
+        ]
+      },
+      "properties": {
+        "id": "2337",
+        "name": "Hillside Montessori",
+        "address": "1205 Rogers Way",
+        "city": "Kamloops",
+        "phone": "250-299-1324",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.381716",
+          "50.702468"
+        ]
+      },
+      "properties": {
+        "id": "2429",
+        "name": "Noah's Ark Daycare",
+        "address": "1550 Tranquille Rd",
+        "city": "Kamloops",
+        "phone": "250-571-2414",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.409889",
+          "50.708445"
+        ]
+      },
+      "properties": {
+        "id": "2591",
+        "name": "Toddler Town Family Daycare",
+        "address": "2265 Bonnie Pl",
+        "city": "Kamloops",
+        "phone": "604-360-5643",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.313184",
+          "50.800563"
+        ]
+      },
+      "properties": {
+        "id": "2690",
+        "name": "Strawberry Lane Family Childcare",
+        "address": "4697 Strawberry Lane",
+        "city": "Kamloops",
+        "phone": "780-394-1329",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.33389",
+          "50.773855"
+        ]
+      },
+      "properties": {
+        "id": "2704",
+        "name": "Blooming Butterflies",
+        "address": "628 Sun Valley Dr",
+        "city": "Kamloops",
+        "phone": "250-572-6853",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.355559",
+          "50.7534"
+        ]
+      },
+      "properties": {
+        "id": "2817",
+        "name": "Inside Outside Upside Down Before And After School Care",
+        "address": "886 Morven Pl",
+        "city": "Kamloops",
+        "phone": "250-299-7730",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.312429",
+          "50.805039"
+        ]
+      },
+      "properties": {
+        "id": "2873",
+        "name": "Tiny Stars Early Learning",
+        "address": "4960 Pinantan Pl",
+        "city": "Kamloops",
+        "phone": "250-320-9803",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.287934",
+          "50.675503"
+        ]
+      },
+      "properties": {
+        "id": "2876",
+        "name": "Ilm - Ralph Bell",
+        "address": "1780 Valleyview Dr",
+        "city": "Kamloops",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.35474",
+          "50.637213"
+        ]
+      },
+      "properties": {
+        "id": "2926",
+        "name": "Ideal Learning Centre - Ideal Kids",
+        "address": "2329 Drummond Court",
+        "city": "Kamloops",
+        "phone": "250-879-3001",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.352417",
+          "50.670087"
+        ]
+      },
+      "properties": {
+        "id": "2957",
+        "name": "Beattie Just B4 Preschool",
+        "address": "492 mcgill Rd",
+        "city": "Kamloops",
+        "phone": "250-376-2266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.256406",
+          "50.676134"
+        ]
+      },
+      "properties": {
+        "id": "2958",
+        "name": "Marion Schilling Childcare",
+        "address": "2200 Park Dr",
+        "city": "Kamloops",
+        "phone": "250-376-2266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.386288",
+          "50.698762"
+        ]
+      },
+      "properties": {
+        "id": "3163",
+        "name": "Ilm - Happyvale",
+        "address": "1640A & 1640B Happyvale Ave",
+        "city": "Kamloops",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.403074",
+          "50.699858"
+        ]
+      },
+      "properties": {
+        "id": "3164",
+        "name": "Ilm - Windbreakers",
+        "address": "2060 Pala Mesa Pl",
+        "city": "Kamloops",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.39474",
+          "50.700142"
+        ]
+      },
+      "properties": {
+        "id": "3196",
+        "name": "Parasol - Early Years Learning - 6",
+        "address": "1800 Tranquille Rd",
+        "city": "Kamloops",
+        "phone": "250-299-3682",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.335465",
+          "50.674444"
+        ]
+      },
+      "properties": {
+        "id": "3237",
+        "name": "Sunny Hills Montessori Infant And Toddlers",
+        "address": "249 Seymour Street",
+        "city": "Kamloops",
+        "phone": "250-377-0775",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.191449",
+          "50.662083"
+        ]
+      },
+      "properties": {
+        "id": "3245",
+        "name": "Dynamic Kids Centre School Age",
+        "address": "715 Uplands Crt",
+        "city": "Kamloops",
+        "phone": "236-313-4746",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.34836",
+          "50.68912"
+        ]
+      },
+      "properties": {
+        "id": "3276",
+        "name": "Little Desert Dinos Early Learning Centre",
+        "address": "225 Cypress Ave",
+        "city": "Kamloops",
+        "phone": "778-257-9604",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.322745",
+          "50.674733"
+        ]
+      },
+      "properties": {
+        "id": "3345",
+        "name": "Seymour Montessori Academy",
+        "address": "753 Seymour St",
+        "city": "Kamloops",
+        "phone": "778-220-9457",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.376426",
+          "50.70431"
+        ]
+      },
+      "properties": {
+        "id": "3425",
+        "name": "Ae Perry Childcare",
+        "address": "1380 Sherbrooke Ave",
+        "city": "Kamloops",
+        "phone": "250-376-2266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.407041",
+          "50.708032"
+        ]
+      },
+      "properties": {
+        "id": "3452",
+        "name": "Parkcrest Elementary Childcare",
+        "address": "2170 Parkcrest Ave",
+        "city": "Kamloops",
+        "phone": "250-376-2266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.368946",
+          "50.727072"
+        ]
+      },
+      "properties": {
+        "id": "3456",
+        "name": "Bloom & Grow Early Learning - Batchelor",
+        "address": "2055 Saddleback Dr",
+        "city": "Kamloops",
+        "phone": "778-220-2636",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.374535",
+          "50.699457"
+        ]
+      },
+      "properties": {
+        "id": "3475",
+        "name": "Amy's Growing Garden Daycare",
+        "address": "1265 Barrie Dr",
+        "city": "Kamloops",
+        "phone": "778-257-1800",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.315101",
+          "50.669377"
+        ]
+      },
+      "properties": {
+        "id": "3477",
+        "name": "Bumble And Bean Out-Of-School Program-Dt",
+        "address": "1051 Pine Spring Road",
+        "city": "Kamloops",
+        "phone": "250-319-2013",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.359824",
+          "50.64208"
+        ]
+      },
+      "properties": {
+        "id": "3614",
+        "name": "Aberdeen Hills Montessori Preschool / Kindergarten",
+        "address": "2191 Van Horne Dr",
+        "city": "Kamloops",
+        "phone": "250-372-9940",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.345613",
+          "50.652903"
+        ]
+      },
+      "properties": {
+        "id": "3753",
+        "name": "Puddles And Mud Childcare",
+        "address": "319 Gleneagles Dr",
+        "city": "Kamloops",
+        "phone": "250-851-2999",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.359959",
+          "50.709234"
+        ]
+      },
+      "properties": {
+        "id": "3788",
+        "name": "Pitter Patter Daycare",
+        "address": "1317 Sitka St",
+        "city": "Kamloops",
+        "phone": "250-554-1064",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.358035",
+          "50.713924"
+        ]
+      },
+      "properties": {
+        "id": "3953",
+        "name": "Small Blessings Family Childcare",
+        "address": "529 Collingwood Dr",
+        "city": "Kamloops",
+        "phone": "250-376-4676",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.361707",
+          "50.694785"
+        ]
+      },
+      "properties": {
+        "id": "3964",
+        "name": "Our Lady Of Perpetual Help Childcare Centre",
+        "address": "235 Poplar St",
+        "city": "Kamloops",
+        "phone": "250-376-2343",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.368065",
+          "50.64403"
+        ]
+      },
+      "properties": {
+        "id": "4020",
+        "name": "Parasol (Aberdeen)",
+        "address": "2090 Pacific Way",
+        "city": "Kamloops",
+        "phone": "250-828-6603",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.353099",
+          "50.645701"
+        ]
+      },
+      "properties": {
+        "id": "4029",
+        "name": "Sa-Hali Early Care And Learning Center",
+        "address": "720 Robson Dr",
+        "city": "Kamloops",
+        "phone": "250-372-1637",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.358674",
+          "50.659385"
+        ]
+      },
+      "properties": {
+        "id": "4268",
+        "name": "Lil' Foot Childcare",
+        "address": "1642 Springhaven Plc",
+        "city": "Kamloops",
+        "phone": "250-828-2955",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.394039",
+          "50.706935"
+        ]
+      },
+      "properties": {
+        "id": "4483",
+        "name": "Cuddle Bear Family Daycare",
+        "address": "1055 Oxford St",
+        "city": "Kamloops",
+        "phone": "250-319-0625",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.165866",
+          "50.649153"
+        ]
+      },
+      "properties": {
+        "id": "4487",
+        "name": "Barnhartvale Neighbourhood Boys & Girls Club",
+        "address": "5990 Todd Rd",
+        "city": "Kamloops",
+        "phone": "250-554-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.106174",
+          "50.65619"
+        ]
+      },
+      "properties": {
+        "id": "4530",
+        "name": "Parasol - Early Years Learning 3",
+        "address": "8205 Dallas Dr",
+        "city": "Kamloops",
+        "phone": "236-996-4545",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.349202",
+          "50.759362"
+        ]
+      },
+      "properties": {
+        "id": "4531",
+        "name": "Westsyde Country Day Montessori Preschool & Kindergarten",
+        "address": "2990 Westsyde Rd",
+        "city": "Kamloops",
+        "phone": "250-579-2465",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.377866",
+          "50.651853"
+        ]
+      },
+      "properties": {
+        "id": "4533",
+        "name": "Creative Beginnings Preschool",
+        "address": "C - 1440 Hugh Allan Drive",
+        "city": "Kamloops",
+        "phone": "250-319-8586",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.370355",
+          "50.718953"
+        ]
+      },
+      "properties": {
+        "id": "4608",
+        "name": "Leandra's Lil' Explorers",
+        "address": "1883 Grouse Crt",
+        "city": "Kamloops",
+        "phone": "250-320-9392",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.357178",
+          "50.646259"
+        ]
+      },
+      "properties": {
+        "id": "4643",
+        "name": "Kamloops Village Garden Montessori Early Learning Center",
+        "address": "700 Hugh Allan Dr",
+        "city": "Kamloops",
+        "phone": "250-299-6644",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.339261",
+          "50.656758"
+        ]
+      },
+      "properties": {
+        "id": "4733",
+        "name": "Kamloops Kidz Early Learning Center (Sahali Campus)",
+        "address": "1585 Summit Dr",
+        "city": "Kamloops",
+        "phone": "250-319-9044",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.398084",
+          "50.653633"
+        ]
+      },
+      "properties": {
+        "id": "4804",
+        "name": "Kamloops Kidz Early Learning Center (Pineview Campus)",
+        "address": "1711 Copperhead Dr",
+        "city": "Kamloops",
+        "phone": "250-319-9044",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.365898",
+          "50.726918"
+        ]
+      },
+      "properties": {
+        "id": "4841",
+        "name": "Bright Beginnings Learning Centre",
+        "address": "2006 Stagecoach Dr",
+        "city": "Kamloops",
+        "phone": "778-220-0949",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.301201",
+          "50.674839"
+        ]
+      },
+      "properties": {
+        "id": "4880",
+        "name": "Little Fawn Nursery - Head Start Program",
+        "address": "360 Chief Alex Thomas Way",
+        "city": "Kamloops",
+        "phone": "250-828-9700",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.358166",
+          "50.707897"
+        ]
+      },
+      "properties": {
+        "id": "4909",
+        "name": "A World Of Wonder Preschool",
+        "address": "645 Clearwater Ave",
+        "city": "Kamloops",
+        "phone": "250-571-7101",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.401469",
+          "50.706358"
+        ]
+      },
+      "properties": {
+        "id": "4923",
+        "name": "Little Bear Licensed Child Care",
+        "address": "1076 Calmar Pl",
+        "city": "Kamloops",
+        "phone": "250-572-0381",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.366741",
+          "50.652591"
+        ]
+      },
+      "properties": {
+        "id": "5046",
+        "name": "Kids And Company Kamloops",
+        "address": "702 1801 Princeton Kamloops Hwy",
+        "city": "Kamloops",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.34863",
+          "50.757956"
+        ]
+      },
+      "properties": {
+        "id": "5089",
+        "name": "Curious Minds Montessori Daycare",
+        "address": "2955 Westsyde Rd",
+        "city": "Kamloops",
+        "phone": "604-720-2694",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.347724",
+          "50.754363"
+        ]
+      },
+      "properties": {
+        "id": "5125",
+        "name": "The Growing Tree Early Learning Centre",
+        "address": "2826 Bank Rd",
+        "city": "Kamloops",
+        "phone": "778-472-3303",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.316222",
+          "50.79751"
+        ]
+      },
+      "properties": {
+        "id": "5127",
+        "name": "ymca Rayleigh Elementary School Age Child Care",
+        "address": "306 Puette Ranch Rd",
+        "city": "Kamloops",
+        "phone": "250-376-4771",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.34028",
+          "50.657335"
+        ]
+      },
+      "properties": {
+        "id": "5130",
+        "name": "Beyond The Bell Out Of School Care",
+        "address": "34-1580 Summit Dr",
+        "city": "Kamloops",
+        "phone": "250-828-5160",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.355132",
+          "50.690062"
+        ]
+      },
+      "properties": {
+        "id": "5174",
+        "name": "Boys & Girls Club John Tod Centre",
+        "address": "150 Wood St",
+        "city": "Kamloops",
+        "phone": "250-554-5437",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.376229",
+          "50.637509"
+        ]
+      },
+      "properties": {
+        "id": "5417",
+        "name": "All Aboard Childcare Ltd.",
+        "address": "3-1325 Aberdeen Dr",
+        "city": "Kamloops",
+        "phone": "250-851-0205",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.337643",
+          "50.671179"
+        ]
+      },
+      "properties": {
+        "id": "5451",
+        "name": "St. Ann's Academy Childcare",
+        "address": "205 Columbia St",
+        "city": "Kamloops",
+        "phone": "250-372-5452",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.263159",
+          "50.661414"
+        ]
+      },
+      "properties": {
+        "id": "5465",
+        "name": "Juniper Early Learning Center",
+        "address": "2049 Highland Pl",
+        "city": "Kamloops",
+        "phone": "250-374-9565",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-120.356279",
+          "50.634041"
+        ]
+      },
+      "properties": {
+        "id": "5520",
+        "name": "Desert Palms",
+        "address": "2623 Willowbrae Dr",
+        "city": "Kamloops",
+        "phone": "250-372-0673",
+        "services": []
+      }
+    }
+  ]
+}

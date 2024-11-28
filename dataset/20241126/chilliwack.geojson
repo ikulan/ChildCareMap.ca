@@ -1,0 +1,2810 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.962297",
+          "49.100184"
+        ]
+      },
+      "properties": {
+        "id": "11",
+        "name": "Laugh And Learn Children Centre Branch",
+        "address": "5412 Vedder Rd",
+        "city": "Chilliwack",
+        "phone": "604-824-8984",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.965953",
+          "49.164731"
+        ]
+      },
+      "properties": {
+        "id": "27",
+        "name": "Northside ymca Child Care",
+        "address": "45465 Bernard Ave",
+        "city": "Chilliwack",
+        "phone": "604-792-8010",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.929289",
+          "49.181666"
+        ]
+      },
+      "properties": {
+        "id": "28",
+        "name": "Little Mountain ymca Kids Club",
+        "address": "9900 Carleton St",
+        "city": "Chilliwack",
+        "phone": "604-819-3338",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.943165",
+          "49.186544"
+        ]
+      },
+      "properties": {
+        "id": "340",
+        "name": "Wibble Wobble Childcare - Fairfield",
+        "address": "46326 Strathcona Rd",
+        "city": "Chilliwack",
+        "phone": "604-793-9300",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.958093",
+          "49.129874"
+        ]
+      },
+      "properties": {
+        "id": "345",
+        "name": "Sardis Children's Centre Society",
+        "address": "45795 Manuel Rd",
+        "city": "Chilliwack",
+        "phone": "604-858-3922",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.95984",
+          "49.130397"
+        ]
+      },
+      "properties": {
+        "id": "347",
+        "name": "The Briar Patch Child Care Centre",
+        "address": "7012 Vedder Rd",
+        "city": "Chilliwack",
+        "phone": "604-858-2307",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.970334",
+          "49.176774"
+        ]
+      },
+      "properties": {
+        "id": "373",
+        "name": "Chilliwack Landing Preschool",
+        "address": "620 Wellington Ave",
+        "city": "Chilliwack",
+        "phone": "604-792-5337",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.971299",
+          "49.134046"
+        ]
+      },
+      "properties": {
+        "id": "389",
+        "name": "Once Upon A Time... Child Care Centre Inc.",
+        "address": "7256 Richardson Ave",
+        "city": "Chilliwack",
+        "phone": "604-858-0148",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.933825",
+          "49.166014"
+        ]
+      },
+      "properties": {
+        "id": "480",
+        "name": "Wee Care Family Daycare",
+        "address": "46622 Arbutus Ave",
+        "city": "Chilliwack",
+        "phone": "604-795-4642",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.9407",
+          "49.166887"
+        ]
+      },
+      "properties": {
+        "id": "481",
+        "name": "Scribbles & Dribbles Family Childcare",
+        "address": "9070 Garden Dr",
+        "city": "Chilliwack",
+        "phone": "604-793-9328",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.956275",
+          "49.181423"
+        ]
+      },
+      "properties": {
+        "id": "483",
+        "name": "Rainbow's End Daycare",
+        "address": "45834 Berkeley Ave",
+        "city": "Chilliwack",
+        "phone": "604-795-7526",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.969484",
+          "49.137639"
+        ]
+      },
+      "properties": {
+        "id": "595",
+        "name": "Play And Learn Family Child Care",
+        "address": "7472 Leary Cres",
+        "city": "Chilliwack",
+        "phone": "604-845-8458",
+        "services": [
+          "Under 36 months",
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.974433",
+          "49.112244"
+        ]
+      },
+      "properties": {
+        "id": "596",
+        "name": "Charlene's Family Child Care",
+        "address": "45173 Oliver Cres",
+        "city": "Chilliwack",
+        "phone": "604-858-6105",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.988512",
+          "49.102501"
+        ]
+      },
+      "properties": {
+        "id": "744",
+        "name": "The Beanstalk Daycare",
+        "address": "44699 Riverwood Cres",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.968424",
+          "49.177332"
+        ]
+      },
+      "properties": {
+        "id": "757",
+        "name": "Little Mountain Child Care Center",
+        "address": "9601 Hamilton St",
+        "city": "Chilliwack",
+        "phone": "604-997-8446",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.933703",
+          "49.179065"
+        ]
+      },
+      "properties": {
+        "id": "944",
+        "name": "Cream Of The Crop Enriched Learning & Childcare Centre Ltd.",
+        "address": "1-9718 Menzies St",
+        "city": "Chilliwack",
+        "phone": "604-402-2273",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.946303",
+          "49.09584"
+        ]
+      },
+      "properties": {
+        "id": "968",
+        "name": "Promontory Heights Christian Daycare",
+        "address": "5108 Cecil Ridge Pl",
+        "city": "Chilliwack",
+        "phone": "604-760-6348",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.957614",
+          "49.158679"
+        ]
+      },
+      "properties": {
+        "id": "1034",
+        "name": "Autumn Childcare Centre",
+        "address": "45768 Hocking Ave",
+        "city": "Chilliwack",
+        "phone": "778-552-8012",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.961183",
+          "49.171904"
+        ]
+      },
+      "properties": {
+        "id": "1099",
+        "name": "Mother Nature's Daycare",
+        "address": "45647 Kipp Ave",
+        "city": "Chilliwack",
+        "phone": "604-799-6002",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.972191",
+          "49.116624"
+        ]
+      },
+      "properties": {
+        "id": "1111",
+        "name": "Ton Of Love Family Daycare",
+        "address": "6305 Lanark St",
+        "city": "Chilliwack",
+        "phone": "778-938-3166",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.935564",
+          "49.1614"
+        ]
+      },
+      "properties": {
+        "id": "1134",
+        "name": "Broadway Childcare Centre",
+        "address": "8781 Broadway",
+        "city": "Chilliwack",
+        "phone": "778-847-3898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.959052",
+          "49.123831"
+        ]
+      },
+      "properties": {
+        "id": "1144",
+        "name": "Creative Kids Learning Centers - Chilliwack",
+        "address": "200 6640 Vedder Rd",
+        "city": "Chilliwack",
+        "phone": "604-560-5002",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.99545",
+          "49.102922"
+        ]
+      },
+      "properties": {
+        "id": "1149",
+        "name": "Beanstalk Daycare The",
+        "address": "44411 Sherry Dr",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.990254",
+          "49.100727"
+        ]
+      },
+      "properties": {
+        "id": "1163",
+        "name": "Beanstalk Daycare (The)",
+        "address": "44545 Bayshore Ave",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.829392",
+          "49.074528"
+        ]
+      },
+      "properties": {
+        "id": "1182",
+        "name": "Slesse Child Care Facility",
+        "address": "50501 O'byrne Rd",
+        "city": "Chilliwack",
+        "phone": "778-539-5019",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.949173",
+          "49.12499"
+        ]
+      },
+      "properties": {
+        "id": "1229",
+        "name": "Wind And Tide Preschool - Sardis",
+        "address": "46078 Higginson Rd",
+        "city": "Chilliwack",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.948299",
+          "49.17096"
+        ]
+      },
+      "properties": {
+        "id": "1251",
+        "name": "Kids Club Child Care Centre Ltd.",
+        "address": "46129 Princess Ave",
+        "city": "Chilliwack",
+        "phone": "604-795-2322",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.952952",
+          "49.173623"
+        ]
+      },
+      "properties": {
+        "id": "1255",
+        "name": "Central Sockeye Preschool",
+        "address": "9435 Young Rd",
+        "city": "Chilliwack",
+        "phone": "604-792-8539",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.93228",
+          "49.165694"
+        ]
+      },
+      "properties": {
+        "id": "1300",
+        "name": "Little Blessings Early Learning Centre",
+        "address": "46685 Ramona Dr",
+        "city": "Chilliwack",
+        "phone": "604-845-9954",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.917043",
+          "49.108312"
+        ]
+      },
+      "properties": {
+        "id": "1413",
+        "name": "Precious Miracles Childcare",
+        "address": "47247 Vista Pl",
+        "city": "Chilliwack",
+        "phone": "604-307-3427",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.993376",
+          "49.103295"
+        ]
+      },
+      "properties": {
+        "id": "1435",
+        "name": "Beanstalk Daycare The",
+        "address": "44490 Keith Wilson Rd",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.834882",
+          "49.131184"
+        ]
+      },
+      "properties": {
+        "id": "1436",
+        "name": "Marble Hill Childcare",
+        "address": "7105B Tahoma Pl",
+        "city": "Chilliwack",
+        "phone": "778-240-1578",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.932173",
+          "49.193089"
+        ]
+      },
+      "properties": {
+        "id": "1477",
+        "name": "Shining Stars Family Daycare",
+        "address": "46706 Teton Ave",
+        "city": "Chilliwack",
+        "phone": "604-845-1538",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.966128",
+          "49.123005"
+        ]
+      },
+      "properties": {
+        "id": "1514",
+        "name": "Little Peeps Learning Centre",
+        "address": "45467 Stevenson Rd",
+        "city": "Chilliwack",
+        "phone": "604-798-7996",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.838321",
+          "49.134743"
+        ]
+      },
+      "properties": {
+        "id": "1522",
+        "name": "Mountain Bear Daycare",
+        "address": "7240 Bryant Pl",
+        "city": "Chilliwack",
+        "phone": "604-745-2221",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.993575",
+          "49.100986"
+        ]
+      },
+      "properties": {
+        "id": "1551",
+        "name": "Beanstalk Daycare The",
+        "address": "44458 Freshwater Dr",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.93777",
+          "49.190154"
+        ]
+      },
+      "properties": {
+        "id": "1563",
+        "name": "Second Home Multi-Age Childcare",
+        "address": "46504 Gilbert Ave",
+        "city": "Chilliwack",
+        "phone": "604-799-1238",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.940357",
+          "49.161031"
+        ]
+      },
+      "properties": {
+        "id": "1579",
+        "name": "Just For Fun",
+        "address": "8759 Cornwall Cres",
+        "city": "Chilliwack",
+        "phone": "604-701-5805",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.970187",
+          "49.115548"
+        ]
+      },
+      "properties": {
+        "id": "1600",
+        "name": "Prickly Pear Child Care",
+        "address": "6250 Reid Rd",
+        "city": "Chilliwack",
+        "phone": "604-339-7162",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.96556",
+          "49.17791"
+        ]
+      },
+      "properties": {
+        "id": "1603",
+        "name": "Sleepy Cloud Daycare",
+        "address": "45499 Lewis Ave",
+        "city": "Chilliwack",
+        "phone": "604-845-8631",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.863619",
+          "49.161417"
+        ]
+      },
+      "properties": {
+        "id": "1631",
+        "name": "Little Valley 123 Childcare Centre Ltd",
+        "address": "49190 Chilliwack Central Rd",
+        "city": "Chilliwack",
+        "phone": "778-882-1360",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.971156",
+          "49.161657"
+        ]
+      },
+      "properties": {
+        "id": "1691",
+        "name": "Little Steps Childcare Centre",
+        "address": "8776 Bellevue Dr",
+        "city": "Chilliwack",
+        "phone": "778-317-9445",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.976673",
+          "49.119163"
+        ]
+      },
+      "properties": {
+        "id": "1699",
+        "name": "Momma Maia's Daycare Center",
+        "address": "6447 Tyson Rd",
+        "city": "Chilliwack",
+        "phone": "604-703-9223",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.988875",
+          "49.102262"
+        ]
+      },
+      "properties": {
+        "id": "1730",
+        "name": "Beanstalk Daycare The",
+        "address": "44687 Riverwood Cres",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.988437",
+          "49.102741"
+        ]
+      },
+      "properties": {
+        "id": "1731",
+        "name": "The Beanstalk Daycare Ltd.",
+        "address": "9-5545 Peach Rd",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.964457",
+          "49.158223"
+        ]
+      },
+      "properties": {
+        "id": "1864",
+        "name": "Midtown Childcare & Learning Center",
+        "address": "45564 Meadowbrook Dr",
+        "city": "Chilliwack",
+        "phone": "604-832-2895",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.961926",
+          "49.105094"
+        ]
+      },
+      "properties": {
+        "id": "1870",
+        "name": "Chilliwack Childrens Academy",
+        "address": "101-5658 Vedder Rd",
+        "city": "Chilliwack",
+        "phone": "778-882-1360",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.93746",
+          "49.17926"
+        ]
+      },
+      "properties": {
+        "id": "1871",
+        "name": "Cozy Bear Childcare",
+        "address": "46527 Portage Ave",
+        "city": "Chilliwack",
+        "phone": "604-793-8197",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.956069",
+          "49.171865"
+        ]
+      },
+      "properties": {
+        "id": "1909",
+        "name": "Young Academics Club Early Learning Ltd",
+        "address": "45846 Wellington Ave",
+        "city": "Chilliwack",
+        "phone": "604-354-8797",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.989243",
+          "49.100373"
+        ]
+      },
+      "properties": {
+        "id": "1917",
+        "name": "Beanstalk Daycare The",
+        "address": "5416 Chinook St",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.969673",
+          "49.111525"
+        ]
+      },
+      "properties": {
+        "id": "1922",
+        "name": "Watson Childcare Centre",
+        "address": "45345 Watson Rd",
+        "city": "Chilliwack",
+        "phone": "604-613-1148",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.950278",
+          "49.17281"
+        ]
+      },
+      "properties": {
+        "id": "1937",
+        "name": "Aristokids Center",
+        "address": "46077 Victoria Ave",
+        "city": "Chilliwack",
+        "phone": "604-283-4117",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.005725",
+          "49.122239"
+        ]
+      },
+      "properties": {
+        "id": "2004",
+        "name": "Garderie Les Castors",
+        "address": "6610 Lickman Rd",
+        "city": "Chilliwack",
+        "phone": "604-736-5056",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.969404",
+          "49.139619"
+        ]
+      },
+      "properties": {
+        "id": "2049",
+        "name": "Scallywags Childcare",
+        "address": "7561 Sapphire Dr",
+        "city": "Chilliwack",
+        "phone": "604-793-8855",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.925809",
+          "49.179722"
+        ]
+      },
+      "properties": {
+        "id": "2060",
+        "name": "Thrive Childcare Inc.",
+        "address": "9800 mcnaught Rd",
+        "city": "Chilliwack",
+        "phone": "604-819-0708",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.975889",
+          "49.120296"
+        ]
+      },
+      "properties": {
+        "id": "2066",
+        "name": "Little Cherry Buds Daycare",
+        "address": "6508 Tyson Rd",
+        "city": "Chilliwack",
+        "phone": "604-997-1142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.944412",
+          "49.101197"
+        ]
+      },
+      "properties": {
+        "id": "2165",
+        "name": "Dandelion Fields Outdoor Preschool",
+        "address": "46200 Stoneview Dr",
+        "city": "Chilliwack",
+        "phone": "604-703-8417",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.941652",
+          "49.179662"
+        ]
+      },
+      "properties": {
+        "id": "2177",
+        "name": "A Little Moore Love",
+        "address": "9766 Linwood St",
+        "city": "Chilliwack",
+        "phone": "604-866-0959",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.977311",
+          "49.136985"
+        ]
+      },
+      "properties": {
+        "id": "2188",
+        "name": "Evans Childcare Center",
+        "address": "7434 Evans Rd",
+        "city": "Chilliwack",
+        "phone": "778-323-3100",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.952197",
+          "49.09801"
+        ]
+      },
+      "properties": {
+        "id": "2202",
+        "name": "Kids Place Daycare",
+        "address": "5264 Weeden Pl",
+        "city": "Chilliwack",
+        "phone": "778-773-2015",
+        "services": [
+          "Under 36 months",
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.989859",
+          "49.099107"
+        ]
+      },
+      "properties": {
+        "id": "2208",
+        "name": "Beanstalk Daycare The",
+        "address": "5361 Chinook St",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.952952",
+          "49.173614"
+        ]
+      },
+      "properties": {
+        "id": "2239",
+        "name": "Central Elementary Seamless Day",
+        "address": "9435 Young Rd",
+        "city": "Chilliwack",
+        "phone": "604-614-6263",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.933684",
+          "49.102613"
+        ]
+      },
+      "properties": {
+        "id": "2243",
+        "name": "Trails Of Wonder Preschool Centre",
+        "address": "5479 Dellview St",
+        "city": "Chilliwack",
+        "phone": "778-688-7350",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.931104",
+          "49.173016"
+        ]
+      },
+      "properties": {
+        "id": "2247",
+        "name": "1 Step 2 Steps Child Care",
+        "address": "9422 Coote St",
+        "city": "Chilliwack",
+        "phone": "604-885-8439",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.951134",
+          "49.095274"
+        ]
+      },
+      "properties": {
+        "id": "2248",
+        "name": "Chilliwack Child Care",
+        "address": "45983 Bridle Ridge Cres",
+        "city": "Chilliwack",
+        "phone": "778-345-8800",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.978837",
+          "49.09856"
+        ]
+      },
+      "properties": {
+        "id": "2280",
+        "name": "Stitos ymca Kids Club",
+        "address": "5337 Tyson Rd",
+        "city": "Chilliwack",
+        "phone": "604-307-4872",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.970378",
+          "49.112552"
+        ]
+      },
+      "properties": {
+        "id": "2281",
+        "name": "Watson ymca Kids Club",
+        "address": "45305 Watson Rd",
+        "city": "Chilliwack",
+        "phone": "604-307-4865",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.966635",
+          "49.111943"
+        ]
+      },
+      "properties": {
+        "id": "2284",
+        "name": "Kidspace Learning Centres Chilliwack Inc",
+        "address": "6058 Glengarry Dr",
+        "city": "Chilliwack",
+        "phone": "604-786-5990",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.833012",
+          "49.145935"
+        ]
+      },
+      "properties": {
+        "id": "2285",
+        "name": "Pacific Wynd Montessori All Day Learning Centre Inc.",
+        "address": "7956 Brookwood Pl",
+        "city": "Chilliwack",
+        "phone": "604-339-8054",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.934799",
+          "49.102394"
+        ]
+      },
+      "properties": {
+        "id": "2286",
+        "name": "Cailey Anne's Child Care",
+        "address": "5471 Alpine Cres",
+        "city": "Chilliwack",
+        "phone": "604-703-9826",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.911741",
+          "49.184877"
+        ]
+      },
+      "properties": {
+        "id": "2380",
+        "name": "Hill Top Daycare",
+        "address": "47425 Swallow Cres",
+        "city": "Chilliwack",
+        "phone": "604-353-8705",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.958481",
+          "49.164959"
+        ]
+      },
+      "properties": {
+        "id": "2466",
+        "name": "Little Beginners Childcare Centre Ltd",
+        "address": "45840 Yale Rd",
+        "city": "Chilliwack",
+        "phone": "604-751-0973",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.989247",
+          "49.102393"
+        ]
+      },
+      "properties": {
+        "id": "2473",
+        "name": "The Beanstalk Daycare",
+        "address": "5500 Chinook St",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.836529",
+          "49.134604"
+        ]
+      },
+      "properties": {
+        "id": "2499",
+        "name": "3 Bee's Marble Hill Daycare",
+        "address": "7267 Marble Hill Rd",
+        "city": "Chilliwack",
+        "phone": "604-440-5923",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.949094",
+          "49.159161"
+        ]
+      },
+      "properties": {
+        "id": "2501",
+        "name": "Tiny Tykes Family Childcare",
+        "address": "46095 Brooks Ave",
+        "city": "Chilliwack",
+        "phone": "778-955-7987",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.944302",
+          "49.13584"
+        ]
+      },
+      "properties": {
+        "id": "2565",
+        "name": "Skowkale S'iwesa:Ylhem Childcare Centre",
+        "address": "46337 Smokehouse Rd",
+        "city": "Chilliwack",
+        "phone": "604-703-3766",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.935395",
+          "49.184195"
+        ]
+      },
+      "properties": {
+        "id": "2570",
+        "name": "Cubs On Kent Daycare Ltd",
+        "address": "10033 Kent Rd",
+        "city": "Chilliwack",
+        "phone": "778-552-7713",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.955083",
+          "49.123447"
+        ]
+      },
+      "properties": {
+        "id": "2592",
+        "name": "Green Valley Child Care",
+        "address": "6675 School Lane",
+        "city": "Chilliwack",
+        "phone": "604-795-0151",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.992058",
+          "49.100307"
+        ]
+      },
+      "properties": {
+        "id": "2607",
+        "name": "Beanstalk Daycare The",
+        "address": "44490 Bayshore Ave",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.944798",
+          "49.182296"
+        ]
+      },
+      "properties": {
+        "id": "2636",
+        "name": "Fairfield Island Daycare",
+        "address": "46265 Hope River Rd",
+        "city": "Chilliwack",
+        "phone": "604-798-6826",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.936849",
+          "49.192058"
+        ]
+      },
+      "properties": {
+        "id": "2638",
+        "name": "Fairfield Island Little Bear Academy",
+        "address": "46530 Elgin Dr",
+        "city": "Chilliwack",
+        "phone": "604-838-5032",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.948628",
+          "49.157317"
+        ]
+      },
+      "properties": {
+        "id": "2654",
+        "name": "Robertson Elementary Just B4 Preschool & School Age Care",
+        "address": "46106 Southlands Cres",
+        "city": "Chilliwack",
+        "phone": "604-614-6263",
+        "services": [
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.954843",
+          "49.110445"
+        ]
+      },
+      "properties": {
+        "id": "2655",
+        "name": "Vedder Elementary Just B4 Preschool & School Age Care",
+        "address": "45850 Promontory Rd",
+        "city": "Chilliwack",
+        "phone": "604-614-6263",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.932004",
+          "49.176061"
+        ]
+      },
+      "properties": {
+        "id": "2736",
+        "name": "Petite Smile Daycare",
+        "address": "9583 Coote St",
+        "city": "Chilliwack",
+        "phone": "604-367-6061",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.972028",
+          "49.104265"
+        ]
+      },
+      "properties": {
+        "id": "2745",
+        "name": "Midtown Childcare & Learning Center - Sardis",
+        "address": "45255 Keith Wilson Rd",
+        "city": "Chilliwack",
+        "phone": "604-832-2895",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.959095",
+          "49.156787"
+        ]
+      },
+      "properties": {
+        "id": "2759",
+        "name": "Mamacare Daycare Ltd",
+        "address": "3-45676 Yale Rd",
+        "city": "Chilliwack",
+        "phone": "778-201-2110",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.934754",
+          "49.168781"
+        ]
+      },
+      "properties": {
+        "id": "2780",
+        "name": "Whole Child Childcare Mind Body Spirit",
+        "address": "46612 First Ave",
+        "city": "Chilliwack",
+        "phone": "604-869-6555",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.940512",
+          "49.187373"
+        ]
+      },
+      "properties": {
+        "id": "2793",
+        "name": "Strathcona ymca Kids Club",
+        "address": "46375 Strathcona Rd",
+        "city": "Chilliwack",
+        "phone": "236-880-9198",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.945359",
+          "49.172102"
+        ]
+      },
+      "properties": {
+        "id": "2847",
+        "name": "Laugh And Learn Children Branch Ii",
+        "address": "9362 William St",
+        "city": "Chilliwack",
+        "phone": "778-704-8407",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.966161",
+          "49.128479"
+        ]
+      },
+      "properties": {
+        "id": "2969",
+        "name": "Innocent Hearts Child Care",
+        "address": "6933 Coach Lamp Dr",
+        "city": "Chilliwack",
+        "phone": "778-222-1451",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.964697",
+          "49.112168"
+        ]
+      },
+      "properties": {
+        "id": "3012",
+        "name": "Watson Childcare Centre Ii",
+        "address": "6045 Miller Dr",
+        "city": "Chilliwack",
+        "phone": "604-613-1148",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.934412",
+          "49.158733"
+        ]
+      },
+      "properties": {
+        "id": "3013",
+        "name": "Little Einstein Day Care (Annex Ii) Ltd",
+        "address": "46610 Brooks Ave",
+        "city": "Chilliwack",
+        "phone": "778-512-9945",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.986214",
+          "49.101342"
+        ]
+      },
+      "properties": {
+        "id": "3026",
+        "name": "Bumble Jungle Daycare",
+        "address": "44739 Vandell Dr",
+        "city": "Chilliwack",
+        "phone": "604-226-6227",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.976237",
+          "49.110572"
+        ]
+      },
+      "properties": {
+        "id": "3085",
+        "name": "Discover Montessori Preschool",
+        "address": "202-5960 Tyson Rd",
+        "city": "Chilliwack",
+        "phone": "604-798-9237",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.954708",
+          "49.12208"
+        ]
+      },
+      "properties": {
+        "id": "3103",
+        "name": "Dreamy Days Childcare And Learning Centre Ltd",
+        "address": "45877 Verbena Dr",
+        "city": "Chilliwack",
+        "phone": "604-798-3889",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.934276",
+          "49.167816"
+        ]
+      },
+      "properties": {
+        "id": "3105",
+        "name": "Toddler Town Learning Centre Inc",
+        "address": "9127 Armitage St",
+        "city": "Chilliwack",
+        "phone": "437-223-0785",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.932852",
+          "49.191925"
+        ]
+      },
+      "properties": {
+        "id": "3134",
+        "name": "Little Orchard Family Care",
+        "address": "46751 Osborne Rd",
+        "city": "Chilliwack",
+        "phone": "604-997-2630",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.917401",
+          "49.111725"
+        ]
+      },
+      "properties": {
+        "id": "3136",
+        "name": "Maum Green Early Care & Learning Centre",
+        "address": "47240 Laughington Pl",
+        "city": "Chilliwack",
+        "phone": "672-355-3991",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.953394",
+          "49.120958"
+        ]
+      },
+      "properties": {
+        "id": "3188",
+        "name": "Beanstalk Daycare The",
+        "address": "6537 Iron St",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.95954",
+          "49.133361"
+        ]
+      },
+      "properties": {
+        "id": "3209",
+        "name": "Acklen Academy",
+        "address": "7194 Vedder Rd",
+        "city": "Chilliwack",
+        "phone": "604-846-6078",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.945369",
+          "49.172292"
+        ]
+      },
+      "properties": {
+        "id": "3212",
+        "name": "Growing Steps Children Centre Chilliwack",
+        "address": "46212 Maple Ave",
+        "city": "Chilliwack",
+        "phone": "778-387-1787",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.977062",
+          "49.122108"
+        ]
+      },
+      "properties": {
+        "id": "3222",
+        "name": "Laugh And Learn Children Centre Branch Iii",
+        "address": "6596 Evans Rd.",
+        "city": "Chilliwack",
+        "phone": "604-726-8295",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.949157",
+          "49.154979"
+        ]
+      },
+      "properties": {
+        "id": "3243",
+        "name": "Creator Childcare Learning Center Inc",
+        "address": "8408 Piper Cres",
+        "city": "Chilliwack",
+        "phone": "778-594-4449",
+        "services": [
+          "Under 36 months",
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.990227",
+          "49.100311"
+        ]
+      },
+      "properties": {
+        "id": "3267",
+        "name": "Beanstalk Daycare The",
+        "address": "44544 Bayshore Ave",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.935582",
+          "49.105976"
+        ]
+      },
+      "properties": {
+        "id": "3307",
+        "name": "Wonder Balloons Childcare Centre",
+        "address": "4-5697 Promontory Rd",
+        "city": "Chilliwack",
+        "phone": "250-899-3061",
+        "services": [
+          "Under 36 months",
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.950865",
+          "49.178675"
+        ]
+      },
+      "properties": {
+        "id": "3317",
+        "name": "Wibble Wobble Learning Centre",
+        "address": "46030 Bonny Ave",
+        "city": "Chilliwack",
+        "phone": "778-246-5513",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.958478",
+          "49.127752"
+        ]
+      },
+      "properties": {
+        "id": "3347",
+        "name": "Sardis Elementary School Age Care",
+        "address": "45775 Manuel Rd",
+        "city": "Chilliwack",
+        "phone": "604-614-6263",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.999478",
+          "49.105155"
+        ]
+      },
+      "properties": {
+        "id": "3348",
+        "name": "Unsworth Elementary School Age Care",
+        "address": "5685 Unsworth Rd",
+        "city": "Chilliwack",
+        "phone": "604-614-6263",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.047137",
+          "49.121858"
+        ]
+      },
+      "properties": {
+        "id": "3349",
+        "name": "Greendale Elementary School Age Care",
+        "address": "6621 Sumas Prairie Rd",
+        "city": "Chilliwack",
+        "phone": "604-614-6263",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.9739",
+          "49.135523"
+        ]
+      },
+      "properties": {
+        "id": "3362",
+        "name": "Mathieson After School Childcare Centre",
+        "address": "45195 Wells Rd",
+        "city": "Chilliwack",
+        "phone": "604-819-4117",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.974991",
+          "49.159774"
+        ]
+      },
+      "properties": {
+        "id": "3372",
+        "name": "Legendary Leaders And Explorers Childcare Centre Chilliwack",
+        "address": "45160 Deans Ave",
+        "city": "Chilliwack",
+        "phone": "604-763-2023",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.955488",
+          "49.1727"
+        ]
+      },
+      "properties": {
+        "id": "3378",
+        "name": "Central Village Childcare Society",
+        "address": "101-9391 College St",
+        "city": "Chilliwack",
+        "phone": "604-750-6365",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.91283",
+          "49.181547"
+        ]
+      },
+      "properties": {
+        "id": "3383",
+        "name": "Woodland Wonder Daycare",
+        "address": "47383 Yale Rd",
+        "city": "Chilliwack",
+        "phone": "604-819-5403",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.957158",
+          "49.106195"
+        ]
+      },
+      "properties": {
+        "id": "3387",
+        "name": "Puzzles Child Care Centre",
+        "address": "5639 Remington Cres",
+        "city": "Chilliwack",
+        "phone": "778-918-6343",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.951169",
+          "49.177857"
+        ]
+      },
+      "properties": {
+        "id": "3405",
+        "name": "Mossy Creek Childcare",
+        "address": "46017 Lewis Ave",
+        "city": "Chilliwack",
+        "phone": "236-975-8877",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.941568",
+          "49.098772"
+        ]
+      },
+      "properties": {
+        "id": "3447",
+        "name": "Beanstalk Daycare The",
+        "address": "46365 Valleyview Rd",
+        "city": "Chilliwack",
+        "phone": "604-845-1050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.942533",
+          "49.186547"
+        ]
+      },
+      "properties": {
+        "id": "3494",
+        "name": "Bright Early Learning Academy",
+        "address": "46340 Strathcona Rd",
+        "city": "Chilliwack",
+        "phone": "778-704-8822",
+        "services": [
+          "Under 36 months",
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.925852",
+          "49.173592"
+        ]
+      },
+      "properties": {
+        "id": "3523",
+        "name": "Little Einstein Day Care Ltd.",
+        "address": "9435 James St",
+        "city": "Chilliwack",
+        "phone": "778-512-9945",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.971649",
+          "49.113393"
+        ]
+      },
+      "properties": {
+        "id": "3526",
+        "name": "Explore Daycare",
+        "address": "6124 Arlington Dr",
+        "city": "Chilliwack",
+        "phone": "604-791-4117",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.972133",
+          "49.121734"
+        ]
+      },
+      "properties": {
+        "id": "3544",
+        "name": "Watson Childcare Center Iii",
+        "address": "6583 Dayton Dr",
+        "city": "Chilliwack",
+        "phone": "604-613-1148",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.964377",
+          "49.135923"
+        ]
+      },
+      "properties": {
+        "id": "3739",
+        "name": "A:Lmelhawtxw Early Education Centre",
+        "address": "9-7201 Vedder Rd",
+        "city": "Chilliwack",
+        "phone": "604-824-6505",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.971309",
+          "49.134245"
+        ]
+      },
+      "properties": {
+        "id": "3833",
+        "name": "Once Upon A Time Child Care Centre Inc",
+        "address": "7268 Richardson Ave",
+        "city": "Chilliwack",
+        "phone": "604-847-3017",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.961998",
+          "49.17332"
+        ]
+      },
+      "properties": {
+        "id": "3876",
+        "name": "Castle Childcare Centre",
+        "address": "45619 Princess Ave",
+        "city": "Chilliwack",
+        "phone": "604-795-4904",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.970378",
+          "49.112552"
+        ]
+      },
+      "properties": {
+        "id": "3885",
+        "name": "Watson Elementary - Just B4 Preschool",
+        "address": "45305 Watson Rd",
+        "city": "Chilliwack",
+        "phone": "604-614-6263",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.045149",
+          "49.120621"
+        ]
+      },
+      "properties": {
+        "id": "3894",
+        "name": "Sonshine Place Preschool",
+        "address": "6550 Sumas Prairie Rd",
+        "city": "Chilliwack",
+        "phone": "604-823-6364",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.969945",
+          "49.166032"
+        ]
+      },
+      "properties": {
+        "id": "3948",
+        "name": "Mes Amis Childcare",
+        "address": "45345 Westview Ave",
+        "city": "Chilliwack",
+        "phone": "604-819-4979",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.997334",
+          "49.105513"
+        ]
+      },
+      "properties": {
+        "id": "4012",
+        "name": "Tree House Children's Centre",
+        "address": "5696 Unsworth Rd",
+        "city": "Chilliwack",
+        "phone": "604-824-1234",
+        "services": [
+          "Under 36 months",
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.946136",
+          "49.101649"
+        ]
+      },
+      "properties": {
+        "id": "4062",
+        "name": "Promontory Hummingbird Child Care Centre",
+        "address": "2 46170 Stoneview Dr",
+        "city": "Chilliwack",
+        "phone": "604-824-9907",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.946136",
+          "49.101649"
+        ]
+      },
+      "properties": {
+        "id": "4115",
+        "name": "Promontory Hummingbird Child Care Centre",
+        "address": "1 46170 Stoneview Dr",
+        "city": "Chilliwack",
+        "phone": "604-824-9907",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.975915",
+          "49.141578"
+        ]
+      },
+      "properties": {
+        "id": "4155",
+        "name": "Wind And Tide - Evans Elementary",
+        "address": "7600 Evans Rd",
+        "city": "Chilliwack",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.962973",
+          "49.164273"
+        ]
+      },
+      "properties": {
+        "id": "4250",
+        "name": "St. Mary's School",
+        "address": "8909 Mary St",
+        "city": "Chilliwack",
+        "phone": "604-683-0281",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.937591",
+          "49.168129"
+        ]
+      },
+      "properties": {
+        "id": "4260",
+        "name": "Little Footsteps Child Care Centre Society",
+        "address": "46510 1St Ave",
+        "city": "Chilliwack",
+        "phone": "604-793-4452",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.945339",
+          "49.101649"
+        ]
+      },
+      "properties": {
+        "id": "4261",
+        "name": "The Panther Pen After School Care",
+        "address": "46200 Stoneview Dr",
+        "city": "Chilliwack",
+        "phone": "604-858-2999",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.928777",
+          "49.172224"
+        ]
+      },
+      "properties": {
+        "id": "4273",
+        "name": "Hopscotch Kids Daycare",
+        "address": "9365 Carleton St",
+        "city": "Chilliwack",
+        "phone": "604-795-5060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.950232",
+          "49.179634"
+        ]
+      },
+      "properties": {
+        "id": "4295",
+        "name": "Tadpole Academy Child Care Center",
+        "address": "9766 Oak St",
+        "city": "Chilliwack",
+        "phone": "604-751-5363",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.929818",
+          "49.103497"
+        ]
+      },
+      "properties": {
+        "id": "4337",
+        "name": "Hobby Hill Parent Participation Preschool",
+        "address": "5650 Teskey Way",
+        "city": "Chilliwack",
+        "phone": "604-858-5579",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.932959",
+          "49.164171"
+        ]
+      },
+      "properties": {
+        "id": "4378",
+        "name": "Bethel Children's Hour",
+        "address": "1-8920 Broadway",
+        "city": "Chilliwack",
+        "phone": "604-794-7114",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.997268",
+          "49.105328"
+        ]
+      },
+      "properties": {
+        "id": "4420",
+        "name": "Tree House Children's Centre",
+        "address": "5684 Unsworth Rd",
+        "city": "Chilliwack",
+        "phone": "604-824-1234",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.981395",
+          "49.10647"
+        ]
+      },
+      "properties": {
+        "id": "4444",
+        "name": "Happy Days Family Daycare",
+        "address": "5724 Janis St",
+        "city": "Chilliwack",
+        "phone": "604-798-5570",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.923077",
+          "49.186093"
+        ]
+      },
+      "properties": {
+        "id": "4516",
+        "name": "Little Mountain Daycare",
+        "address": "10148 Beaver Cres",
+        "city": "Chilliwack",
+        "phone": "604-793-9378",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.934556",
+          "49.163146"
+        ]
+      },
+      "properties": {
+        "id": "4527",
+        "name": "Highroad Children's Centre",
+        "address": "8860 Broadway",
+        "city": "Chilliwack",
+        "phone": "604-792-4680",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.817938",
+          "49.156022"
+        ]
+      },
+      "properties": {
+        "id": "4747",
+        "name": "Creekside Child Care",
+        "address": "8416 Bradshaw Pl",
+        "city": "Chilliwack",
+        "phone": "604-745-4697",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.959767",
+          "49.134418"
+        ]
+      },
+      "properties": {
+        "id": "4775",
+        "name": "Wibble Wobble Childcare - Vedder",
+        "address": "7258 Vedder Rd",
+        "city": "Chilliwack",
+        "phone": "604-392-9300",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.949731",
+          "49.18423"
+        ]
+      },
+      "properties": {
+        "id": "4810",
+        "name": "Sunny Fields Daycare",
+        "address": "46090 Avalon Ave",
+        "city": "Chilliwack",
+        "phone": "604-799-8131",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.937586",
+          "49.193116"
+        ]
+      },
+      "properties": {
+        "id": "4827",
+        "name": "Sunshine Academy Childcare And Learning Center",
+        "address": "46510 Teton Ave",
+        "city": "Chilliwack",
+        "phone": "604-702-0267",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.974842",
+          "49.105299"
+        ]
+      },
+      "properties": {
+        "id": "5108",
+        "name": "Snuggles' Family Child Care",
+        "address": "5682 Kathleen Dr",
+        "city": "Chilliwack",
+        "phone": "604-858-0153",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.814702",
+          "49.156786"
+        ]
+      },
+      "properties": {
+        "id": "5248",
+        "name": "Unity Christian Child Care Centre",
+        "address": "50950 Hack-Brown Rd",
+        "city": "Chilliwack",
+        "phone": "604-794-7797",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.920795",
+          "49.171603"
+        ]
+      },
+      "properties": {
+        "id": "5280",
+        "name": "Fg Leary ymca Kids Club",
+        "address": "9320 Walden St",
+        "city": "Chilliwack",
+        "phone": "604-306-7915",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.959551",
+          "49.133158"
+        ]
+      },
+      "properties": {
+        "id": "5348",
+        "name": "Excel Martial Arts Chilliwack",
+        "address": "7174 Vedder Rd",
+        "city": "Chilliwack",
+        "phone": "604-846-1888",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.965097",
+          "49.126963"
+        ]
+      },
+      "properties": {
+        "id": "5354",
+        "name": "Ready Set Grow",
+        "address": "6875 Wiltshire St",
+        "city": "Chilliwack",
+        "phone": "604-997-4314",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-121.938265",
+          "49.190615"
+        ]
+      },
+      "properties": {
+        "id": "5552",
+        "name": "Fairfield Island Childcare",
+        "address": "46491 Gilbert Ave",
+        "city": "Chilliwack",
+        "phone": "604-802-0397",
+        "services": []
+      }
+    }
+  ]
+}

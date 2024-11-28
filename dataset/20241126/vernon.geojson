@@ -1,0 +1,978 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.275795",
+          "50.26863"
+        ]
+      },
+      "properties": {
+        "id": "35",
+        "name": "Kids Club Child Care",
+        "address": "3300 37 Ave",
+        "city": "Vernon",
+        "phone": "250-762-3989",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.266027",
+          "50.265994"
+        ]
+      },
+      "properties": {
+        "id": "216",
+        "name": "Vernon & District Immigrant & Css Childcare Center",
+        "address": "3205 27 St",
+        "city": "Vernon",
+        "phone": "778-475-9228",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.273837",
+          "50.268798"
+        ]
+      },
+      "properties": {
+        "id": "235",
+        "name": "Tiny Tots Recreation",
+        "address": "3300 37Th Ave",
+        "city": "Vernon",
+        "phone": "250-550-3671",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.252228",
+          "50.276759"
+        ]
+      },
+      "properties": {
+        "id": "454",
+        "name": "Kids Corner Childcare Centre",
+        "address": "4401 Pleasant Valley Rd",
+        "city": "Vernon",
+        "phone": "250-545-7303",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.201473",
+          "50.296221"
+        ]
+      },
+      "properties": {
+        "id": "462",
+        "name": "Faerie Grove",
+        "address": "5936 Ranchview Rd",
+        "city": "Vernon",
+        "phone": "250-306-5936",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.279889",
+          "50.253167"
+        ]
+      },
+      "properties": {
+        "id": "463",
+        "name": "Mission Mountain Family Daycare",
+        "address": "1502 34A St",
+        "city": "Vernon",
+        "phone": "250-558-1009",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.308353",
+          "50.258082"
+        ]
+      },
+      "properties": {
+        "id": "464",
+        "name": "Mother's Touch Daycare",
+        "address": "2812 Lardeau Way",
+        "city": "Vernon",
+        "phone": "250-542-1877",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.279782",
+          "50.272027"
+        ]
+      },
+      "properties": {
+        "id": "465",
+        "name": "R.S.K. Playmates Family Day Care",
+        "address": "3510 41St Ave",
+        "city": "Vernon",
+        "phone": "250-542-5978",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.250283",
+          "50.256841"
+        ]
+      },
+      "properties": {
+        "id": "647",
+        "name": "Kids R Us Childcare",
+        "address": "1404 21 Ave",
+        "city": "Vernon",
+        "phone": "250-549-8809",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.271881",
+          "50.26311"
+        ]
+      },
+      "properties": {
+        "id": "877",
+        "name": "Little Miracles Preschool",
+        "address": "3075 29Th Ave",
+        "city": "Vernon",
+        "phone": "250-503-2220",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.258727",
+          "50.278078"
+        ]
+      },
+      "properties": {
+        "id": "907",
+        "name": "Harwood Montessori School",
+        "address": "2001 45 Ave",
+        "city": "Vernon",
+        "phone": "250-306-0454",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.287494",
+          "50.267484"
+        ]
+      },
+      "properties": {
+        "id": "923",
+        "name": "Harmonious Holistic Play Childcare",
+        "address": "3805 35 Ave",
+        "city": "Vernon",
+        "phone": "778-475-0876",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.249712",
+          "50.260025"
+        ]
+      },
+      "properties": {
+        "id": "957",
+        "name": "Little Sprouts Childcare",
+        "address": "2503 14 St",
+        "city": "Vernon",
+        "phone": "250-545-0026",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.247799",
+          "50.263469"
+        ]
+      },
+      "properties": {
+        "id": "1395",
+        "name": "Pl Appletree",
+        "address": "1204 30 Ave",
+        "city": "Vernon",
+        "phone": "250-550-4471",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.250358",
+          "50.270966"
+        ]
+      },
+      "properties": {
+        "id": "1510",
+        "name": "Little Cub Daycare",
+        "address": "3906 14 St",
+        "city": "Vernon",
+        "phone": "250-351-4868",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.2692",
+          "50.26055"
+        ]
+      },
+      "properties": {
+        "id": "1618",
+        "name": "Mighty Mouse Daycare",
+        "address": "8-2601 Highway 6",
+        "city": "Vernon",
+        "phone": "250-503-0851",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.262749",
+          "50.276067"
+        ]
+      },
+      "properties": {
+        "id": "1627",
+        "name": "Blue Door Out Of School Care",
+        "address": "2302 44 Ave",
+        "city": "Vernon",
+        "phone": "250-306-8040",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.344404",
+          "50.238042"
+        ]
+      },
+      "properties": {
+        "id": "1964",
+        "name": "Okanagan Landing Elementary School",
+        "address": "7322 Grant Rd",
+        "city": "Vernon",
+        "phone": "250-260-4490",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.260346",
+          "50.24368"
+        ]
+      },
+      "properties": {
+        "id": "1985",
+        "name": "Wild Childcare Early Learning Centre",
+        "address": "978 Mt Beaven Crt",
+        "city": "Vernon",
+        "phone": "250-870-2670",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.267494",
+          "50.264837"
+        ]
+      },
+      "properties": {
+        "id": "2058",
+        "name": "Cocomelon Learning Center",
+        "address": "3011 28 St",
+        "city": "Vernon",
+        "phone": "306-471-4567",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.267475",
+          "50.261848"
+        ]
+      },
+      "properties": {
+        "id": "2133",
+        "name": "St. James Early Learning Centre",
+        "address": "2700 28Th Ave",
+        "city": "Vernon",
+        "phone": "250-542-4081",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.15472",
+          "50.326698"
+        ]
+      },
+      "properties": {
+        "id": "2201",
+        "name": "Wild Roots Early Learning",
+        "address": "8263 Rogers Rd",
+        "city": "Vernon",
+        "phone": "604-309-6408",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.26336",
+          "50.267139"
+        ]
+      },
+      "properties": {
+        "id": "2244",
+        "name": "Raising Stars Preschool",
+        "address": "3404 24 St",
+        "city": "Vernon",
+        "phone": "250-938-7264",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.233453",
+          "50.302828"
+        ]
+      },
+      "properties": {
+        "id": "2362",
+        "name": "Little Arrows Vernon In-Home Multi-Age Child Care",
+        "address": "6650 L & A Rd",
+        "city": "Vernon",
+        "phone": "250-307-5636",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.238608",
+          "50.25868"
+        ]
+      },
+      "properties": {
+        "id": "2413",
+        "name": "Kinderfarm Daycare",
+        "address": "2220 Francis St",
+        "city": "Vernon",
+        "phone": "250-503-7775",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.263918",
+          "50.267273"
+        ]
+      },
+      "properties": {
+        "id": "2422",
+        "name": "Mi Otra Casa Family Daycare",
+        "address": "2-2404 35 Ave",
+        "city": "Vernon",
+        "phone": "250-540-2283",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.340336",
+          "50.242742"
+        ]
+      },
+      "properties": {
+        "id": "2487",
+        "name": "Okanagan Boys And Girls Club - Lakers Club",
+        "address": "6990 Cummins Rd",
+        "city": "Vernon",
+        "phone": "250-542-3121",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.299119",
+          "50.261123"
+        ]
+      },
+      "properties": {
+        "id": "2553",
+        "name": "Cocomelon Learning Centre 27Th Ave",
+        "address": "4405 27 Ave",
+        "city": "Vernon",
+        "phone": "306-471-4567",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.24778",
+          "50.273598"
+        ]
+      },
+      "properties": {
+        "id": "2656",
+        "name": "Happy Days Dayhome",
+        "address": "4105 12 St",
+        "city": "Vernon",
+        "phone": "250-549-0693",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.266865",
+          "50.266415"
+        ]
+      },
+      "properties": {
+        "id": "2666",
+        "name": "Ecole Bearisto Elementary",
+        "address": "3302 27 St",
+        "city": "Vernon",
+        "phone": "250-260-4490",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.264491",
+          "50.275821"
+        ]
+      },
+      "properties": {
+        "id": "2698",
+        "name": "Tiny Adventures Daycare Center",
+        "address": "4310 25 St",
+        "city": "Vernon",
+        "phone": "250-540-7990",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.222974",
+          "50.289374"
+        ]
+      },
+      "properties": {
+        "id": "2751",
+        "name": "Bx Elementary School",
+        "address": "5849 Silver Star Rd",
+        "city": "Vernon",
+        "phone": "250-260-4490",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.258687",
+          "50.276459"
+        ]
+      },
+      "properties": {
+        "id": "2830",
+        "name": "Harwood Elementary School",
+        "address": "4320 20 St",
+        "city": "Vernon",
+        "phone": "250-260-4490",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.31447",
+          "50.250599"
+        ]
+      },
+      "properties": {
+        "id": "2831",
+        "name": "Ellison Elementary School",
+        "address": "2400 Fulton Rd",
+        "city": "Vernon",
+        "phone": "250-260-4490",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.282755",
+          "50.253942"
+        ]
+      },
+      "properties": {
+        "id": "2832",
+        "name": "Mission Hill Elementary School",
+        "address": "1510 36 St",
+        "city": "Vernon",
+        "phone": "250-260-4490",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.279216",
+          "50.273967"
+        ]
+      },
+      "properties": {
+        "id": "2833",
+        "name": "Alexis Park Elementary",
+        "address": "4205 35 St",
+        "city": "Vernon",
+        "phone": "250-260-4490",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.279216",
+          "50.273967"
+        ]
+      },
+      "properties": {
+        "id": "2836",
+        "name": "Okanagan Boys And Girls Clubs- Alexis Park",
+        "address": "4205 35 St",
+        "city": "Vernon",
+        "phone": "250-542-3121",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.282755",
+          "50.253942"
+        ]
+      },
+      "properties": {
+        "id": "2837",
+        "name": "Okanagan Boys And Girls Clubs - Mission Hill",
+        "address": "1510 36 St",
+        "city": "Vernon",
+        "phone": "250-542-3121",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.258687",
+          "50.276459"
+        ]
+      },
+      "properties": {
+        "id": "2838",
+        "name": "Okanagan Boys And Girls Clubs - Harwood",
+        "address": "4320 20 St",
+        "city": "Vernon",
+        "phone": "250-542-3121",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.31447",
+          "50.250599"
+        ]
+      },
+      "properties": {
+        "id": "2840",
+        "name": "Okanagan Boys And Girls Clubs - Ellison",
+        "address": "2400 Fulton Rd",
+        "city": "Vernon",
+        "phone": "250-542-3121",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.291952",
+          "50.26223"
+        ]
+      },
+      "properties": {
+        "id": "3069",
+        "name": "Okanagan Sunshower Academy",
+        "address": "2702 41 St",
+        "city": "Vernon",
+        "phone": "250-540-3376",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.273354",
+          "50.240322"
+        ]
+      },
+      "properties": {
+        "id": "3249",
+        "name": "Country Estate Childcare",
+        "address": "246 Country Estate Pl",
+        "city": "Vernon",
+        "phone": "250-641-0421",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.266966",
+          "50.270354"
+        ]
+      },
+      "properties": {
+        "id": "4228",
+        "name": "Mis Amiguitos Family Daycare",
+        "address": "3900 27 St",
+        "city": "Vernon",
+        "phone": "250-542-5971",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.247584",
+          "50.309043"
+        ]
+      },
+      "properties": {
+        "id": "4452",
+        "name": "Vernon Christian Preschool",
+        "address": "6890 Pleasant Valley Rd",
+        "city": "Vernon",
+        "phone": "250-545-7345",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.250128",
+          "50.265123"
+        ]
+      },
+      "properties": {
+        "id": "4816",
+        "name": "Fb Appletree",
+        "address": "1406 32Nd Ave",
+        "city": "Vernon",
+        "phone": "250-550-4471",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.268109",
+          "50.270417"
+        ]
+      },
+      "properties": {
+        "id": "4839",
+        "name": "Angel Rhef Family Daycare",
+        "address": "2709 39 Ave",
+        "city": "Vernon",
+        "phone": "250-307-9253",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.265436",
+          "50.284618"
+        ]
+      },
+      "properties": {
+        "id": "4870",
+        "name": "House Of Dwarfs Daycare",
+        "address": "5145 26 St",
+        "city": "Vernon",
+        "phone": "250-542-3736",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.260012",
+          "50.262946"
+        ]
+      },
+      "properties": {
+        "id": "5131",
+        "name": "Elements Early Learning Centre",
+        "address": "2102 29Th Cres",
+        "city": "Vernon",
+        "phone": "250-351-9021",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.252171",
+          "50.270351"
+        ]
+      },
+      "properties": {
+        "id": "5150",
+        "name": "Small Wonders",
+        "address": "1507 39 Ave",
+        "city": "Vernon",
+        "phone": "250-540-4861",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.243972",
+          "50.245721"
+        ]
+      },
+      "properties": {
+        "id": "5199",
+        "name": "Gramma Loops Day Care",
+        "address": "182 Fenwick Rd",
+        "city": "Vernon",
+        "phone": "250-545-7215",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.235045",
+          "50.3078"
+        ]
+      },
+      "properties": {
+        "id": "5219",
+        "name": "Browne Bears",
+        "address": "6817 Bryden Rd",
+        "city": "Vernon",
+        "phone": "250-938-2396",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.246816",
+          "50.268544"
+        ]
+      },
+      "properties": {
+        "id": "5310",
+        "name": "East Hill Appletree",
+        "address": "3605 12 St",
+        "city": "Vernon",
+        "phone": "250-550-4471",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.319941",
+          "50.224029"
+        ]
+      },
+      "properties": {
+        "id": "5413",
+        "name": "Secret Garden Daycare",
+        "address": "651 Commonage Rd",
+        "city": "Vernon",
+        "phone": "778-212-1788",
+        "services": []
+      }
+    }
+  ]
+}

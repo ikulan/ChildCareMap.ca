@@ -16,18 +16,18 @@ I’m currently working on developing the website.💪 In the meantime, feel fre
 | [Burnaby](dataset/20241126/burnaby.geojson) | 278 |
 | [Coquitlam](dataset/20241126/coquitlam.geojson) | 196 |
 | [Langley](dataset/20241126/langley.geojson) | 162 |
-| Abbotsford | 162 |
-| Nanaimo | 156 |
-| Chilliwack | 151 |
-| Prince George | 150 |
-| Kelowna | 146 |
-| Maple Ridge | 140 |
-| Kamloops | 125 |
-| Delta | 114 |
+| [Abbotsford](dataset/20241126/abbotsford.geojson) | 162 |
+| [Nanaimo](dataset/20241126/nanaimo.geojson) | 156 |
+| [Chilliwack](dataset/20241126/chilliwack.geojson) | 151 |
+| [Prince George](dataset/20241126/prince_george.geojson) | 150 |
+| [Kelowna](dataset/20241126/kelowna.geojson) | 146 |
+| [Maple Ridge](dataset/20241126/maple_ridge.geojson) | 140 |
+| [Kamloops](dataset/20241126/kamloops.geojson) | 125 |
+| [Delta](dataset/20241126/delta.geojson) | 114 |
 | [Port Coquitlam](dataset/20241126/port_coquitlam.geojson) | 101 |
 | [New Westminster](dataset/20241126/new_westminster.geojson) | 101 |
-| West Vancouver | 73 |
-| Vernon | 53 |
+| [West Vancouver](dataset/20241126/west_vancouver.geojson) | 73 |
+| [Vernon](dataset/20241126/vernon.geojson) | 53 |
 
 
 ### Data Source:
