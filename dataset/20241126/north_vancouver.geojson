@@ -1,0 +1,5273 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112745",
+          "49.330395"
+        ]
+      },
+      "properties": {
+        "id": "1",
+        "name": "Bonnie Bairns Childcare Services",
+        "address": "2260 Philip Ave",
+        "city": "North Vancouver",
+        "phone": "604-983-2600",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.077103",
+          "49.328622"
+        ]
+      },
+      "properties": {
+        "id": "5",
+        "name": "Lonsdale Creek Day Care Centre  - Annex",
+        "address": "240 21St St W",
+        "city": "North Vancouver",
+        "phone": "604-988-5515",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.04267",
+          "49.324439"
+        ]
+      },
+      "properties": {
+        "id": "6",
+        "name": "Margaret Heights Day Care Centre",
+        "address": "21-1800 Rufus Drive",
+        "city": "North Vancouver",
+        "phone": "604-988-5515",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.085086",
+          "49.323475"
+        ]
+      },
+      "properties": {
+        "id": "7",
+        "name": "Mahon Park Childcare Centre",
+        "address": "1601 Forbes Ave",
+        "city": "North Vancouver",
+        "phone": "604-988-5515",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.086546",
+          "49.343297"
+        ]
+      },
+      "properties": {
+        "id": "32",
+        "name": "Delbrook Wonderland Academy",
+        "address": "#120 - 3721 Delbrook Ave",
+        "city": "North Vancouver",
+        "phone": "778-340-9595",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112718",
+          "49.330602"
+        ]
+      },
+      "properties": {
+        "id": "72",
+        "name": "Sunflower Preschool",
+        "address": "2260 Philip Ave",
+        "city": "North Vancouver",
+        "phone": "604-985-9622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.038796",
+          "49.339649"
+        ]
+      },
+      "properties": {
+        "id": "86",
+        "name": "Nsnh - Lynn Valley Kid's Club",
+        "address": "3361 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-987-8138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097063",
+          "49.338469"
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "name": "Highlands Out Of School Care",
+        "address": "3150 Colwood Dr",
+        "city": "North Vancouver",
+        "phone": "604-985-6958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.037197",
+          "49.338328"
+        ]
+      },
+      "properties": {
+        "id": "157",
+        "name": "Lynn Valley Parent Participation Preschool",
+        "address": "3220 Mountain Highway",
+        "city": "North Vancouver",
+        "phone": "604-985-5512",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.950569",
+          "49.318366"
+        ]
+      },
+      "properties": {
+        "id": "179",
+        "name": "Deep Cove Parent Participation Preschool",
+        "address": "1204 Caledonia Ave",
+        "city": "North Vancouver",
+        "phone": "778-834-3321",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953094",
+          "49.323896"
+        ]
+      },
+      "properties": {
+        "id": "239",
+        "name": "My Little School Daycare (1991) Inc.",
+        "address": "1890 Deep Cove Rd",
+        "city": "North Vancouver",
+        "phone": "604-728-7597",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.053207",
+          "49.334674"
+        ]
+      },
+      "properties": {
+        "id": "245",
+        "name": "Tempe Tots Daycare",
+        "address": "2870 Munday Pl",
+        "city": "North Vancouver",
+        "phone": "604-985-3783",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.035383",
+          "49.311692"
+        ]
+      },
+      "properties": {
+        "id": "253",
+        "name": "Dinosaur Daycare Ltd.",
+        "address": "625 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-988-1541",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.972553",
+          "49.313264"
+        ]
+      },
+      "properties": {
+        "id": "254",
+        "name": "Parkway Village Childcare Centre",
+        "address": "3601 Garibaldi Dr",
+        "city": "North Vancouver",
+        "phone": "604-929-5520",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.000439",
+          "49.314347"
+        ]
+      },
+      "properties": {
+        "id": "274",
+        "name": "Windridge Park Childcare",
+        "address": "931 Lytton St",
+        "city": "North Vancouver",
+        "phone": "604-983-6504",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.096285",
+          "49.352789"
+        ]
+      },
+      "properties": {
+        "id": "277",
+        "name": "All-Day Children's Workshop",
+        "address": "4501 Highland Blvd",
+        "city": "North Vancouver",
+        "phone": "604-986-5597",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069731",
+          "49.329915"
+        ]
+      },
+      "properties": {
+        "id": "284",
+        "name": "Lonsdale Preschool Harry Jerome Complex",
+        "address": "123 23Rd St E",
+        "city": "North Vancouver",
+        "phone": "604-983-6510",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.093165",
+          "49.33613"
+        ]
+      },
+      "properties": {
+        "id": "285",
+        "name": "Delbrook Preschool",
+        "address": "851 Queens Rd W",
+        "city": "North Vancouver",
+        "phone": "604-983-6510",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.03737",
+          "49.341281"
+        ]
+      },
+      "properties": {
+        "id": "286",
+        "name": "Sandpiper Preschool",
+        "address": "3590 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-983-6510",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.071489",
+          "49.339895"
+        ]
+      },
+      "properties": {
+        "id": "302",
+        "name": "Upper Lonsdale Preschool",
+        "address": "3380 Lonsdale Ave",
+        "city": "North Vancouver",
+        "phone": "604-988-8710",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.999172",
+          "49.316677"
+        ]
+      },
+      "properties": {
+        "id": "336",
+        "name": "Little Orchard Daycare",
+        "address": "2707 Violet St",
+        "city": "North Vancouver",
+        "phone": "416-759-2500",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.039729",
+          "49.309596"
+        ]
+      },
+      "properties": {
+        "id": "382",
+        "name": "Sweet Peas Cottage Creekside",
+        "address": "250  400 Brooksbank Ave",
+        "city": "North Vancouver",
+        "phone": "604-988-9989",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.024368",
+          "49.318783"
+        ]
+      },
+      "properties": {
+        "id": "452",
+        "name": "Lynnmour Creative Child Care Centre",
+        "address": "1251 Lillooet Rd",
+        "city": "North Vancouver",
+        "phone": "604-980-1212",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.087008",
+          "49.333733"
+        ]
+      },
+      "properties": {
+        "id": "567",
+        "name": "Evergreen Family Day Care",
+        "address": "703-555 28Th St W",
+        "city": "North Vancouver",
+        "phone": "",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.066938",
+          "49.333394"
+        ]
+      },
+      "properties": {
+        "id": "583",
+        "name": "Abc Family Daycare",
+        "address": "246 26Th St E",
+        "city": "North Vancouver",
+        "phone": "604-986-2617",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.084403",
+          "49.351096"
+        ]
+      },
+      "properties": {
+        "id": "584",
+        "name": "Mooshy Daycare",
+        "address": "4417 Valencia Ave",
+        "city": "North Vancouver",
+        "phone": "604-986-5272",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.092009",
+          "49.341695"
+        ]
+      },
+      "properties": {
+        "id": "585",
+        "name": "Nancy's House",
+        "address": "3525 Fairmont Rd",
+        "city": "North Vancouver",
+        "phone": "604-980-4244",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.049082",
+          "49.314873"
+        ]
+      },
+      "properties": {
+        "id": "586",
+        "name": "Calverhall Child Care",
+        "address": "844 Calverhall St",
+        "city": "North Vancouver",
+        "phone": "778-994-9576",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.088598",
+          "49.324548"
+        ]
+      },
+      "properties": {
+        "id": "587",
+        "name": "Zari's Family Child Care",
+        "address": "614 17Th St W",
+        "city": "North Vancouver",
+        "phone": "604-986-5569",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.041683",
+          "49.341919"
+        ]
+      },
+      "properties": {
+        "id": "593",
+        "name": "Forever Friends Daycare",
+        "address": "1170 Frederick Rd",
+        "city": "North Vancouver",
+        "phone": "778-338-4663",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.108361",
+          "49.324136"
+        ]
+      },
+      "properties": {
+        "id": "661",
+        "name": "Willowbrae Academy North Van",
+        "address": "201-1226 Marine Dr",
+        "city": "North Vancouver",
+        "phone": "604-817-9010",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.108361",
+          "49.324136"
+        ]
+      },
+      "properties": {
+        "id": "662",
+        "name": "Willowbrae Academy North Van",
+        "address": "201-1226 Marine Dr",
+        "city": "North Vancouver",
+        "phone": "604-817-9010",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.07127",
+          "49.322471"
+        ]
+      },
+      "properties": {
+        "id": "683",
+        "name": "Park Place Daycare (Central)",
+        "address": "124 15Th St E",
+        "city": "North Vancouver",
+        "phone": "604-990-5572",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.07127",
+          "49.322471"
+        ]
+      },
+      "properties": {
+        "id": "684",
+        "name": "Park Place Daycare (Central)",
+        "address": "124 15Th St E",
+        "city": "North Vancouver",
+        "phone": "604-990-5572",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.106699",
+          "49.32843"
+        ]
+      },
+      "properties": {
+        "id": "685",
+        "name": "Peach Blossom Childcare Centre",
+        "address": "1169 21St St W",
+        "city": "North Vancouver",
+        "phone": "604-990-1261",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.068926",
+          "49.317129"
+        ]
+      },
+      "properties": {
+        "id": "719",
+        "name": "Top Drawer Daycares Inc.",
+        "address": "1044 St. Georges Ave",
+        "city": "North Vancouver",
+        "phone": "604-828-2126",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.960581",
+          "49.304705"
+        ]
+      },
+      "properties": {
+        "id": "736",
+        "name": "Sunberries Before & After Care",
+        "address": "233 Roche Point Dr",
+        "city": "North Vancouver",
+        "phone": "604-250-7198",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.006141",
+          "49.307772"
+        ]
+      },
+      "properties": {
+        "id": "743",
+        "name": "Bee Haven - The Academy",
+        "address": "2420 Dollarton Hwy",
+        "city": "North Vancouver",
+        "phone": "604-987-7116",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.085021",
+          "49.331075"
+        ]
+      },
+      "properties": {
+        "id": "755",
+        "name": "Cribs And Crayons",
+        "address": "509 24Th St W",
+        "city": "North Vancouver",
+        "phone": "604-770-2274",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.005787",
+          "49.308723"
+        ]
+      },
+      "properties": {
+        "id": "758",
+        "name": "Bee Haven - The Academy",
+        "address": "2420 Dollarton Hwy",
+        "city": "North Vancouver",
+        "phone": "604-216-7616",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.005787",
+          "49.308723"
+        ]
+      },
+      "properties": {
+        "id": "759",
+        "name": "Bee Haven - The Academy",
+        "address": "2420 Dollarton Hwy",
+        "city": "North Vancouver",
+        "phone": "604-216-7616",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.006513",
+          "49.308761"
+        ]
+      },
+      "properties": {
+        "id": "785",
+        "name": "Sunshine Cove Preschool Inc.",
+        "address": "100-2420 Dollarton Hwy",
+        "city": "North Vancouver",
+        "phone": "604-770-2683",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.006513",
+          "49.308761"
+        ]
+      },
+      "properties": {
+        "id": "786",
+        "name": "Sunshine Cove Preschool Inc.",
+        "address": "100-2420 Dollarton Hwy",
+        "city": "North Vancouver",
+        "phone": "604-770-2683",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.002843",
+          "49.317874"
+        ]
+      },
+      "properties": {
+        "id": "816",
+        "name": "Happy Times Family Child Care",
+        "address": "2571 Carnation St",
+        "city": "North Vancouver",
+        "phone": "604-987-6559",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.081357",
+          "49.323941"
+        ]
+      },
+      "properties": {
+        "id": "818",
+        "name": "British Hills Montessori Daycare",
+        "address": "361 17Th St W",
+        "city": "North Vancouver",
+        "phone": "604-986-8888",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.107347",
+          "49.323199"
+        ]
+      },
+      "properties": {
+        "id": "830",
+        "name": "Smiling Stars Daycare",
+        "address": "1618 Pemberton Ave",
+        "city": "North Vancouver",
+        "phone": "604-986-3380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.107347",
+          "49.323199"
+        ]
+      },
+      "properties": {
+        "id": "831",
+        "name": "Smiling Stars Daycare",
+        "address": "1618 Pemberton Ave",
+        "city": "North Vancouver",
+        "phone": "604-986-3380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.094649",
+          "49.353481"
+        ]
+      },
+      "properties": {
+        "id": "863",
+        "name": "Mommy And Me Childcare",
+        "address": "4540 Highland Blvd",
+        "city": "North Vancouver",
+        "phone": "604-353-3830",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.99642",
+          "49.310012"
+        ]
+      },
+      "properties": {
+        "id": "868",
+        "name": "Willow Tree Family Day Care",
+        "address": "546 Bournemouth Cres",
+        "city": "North Vancouver",
+        "phone": "604-980-1815",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.03737",
+          "49.341281"
+        ]
+      },
+      "properties": {
+        "id": "876",
+        "name": "The Grove",
+        "address": "3592 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-984-9722",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.099624",
+          "49.348111"
+        ]
+      },
+      "properties": {
+        "id": "922",
+        "name": "Sweet House",
+        "address": "4122 Virginia Cres",
+        "city": "North Vancouver",
+        "phone": "604-770-0413",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.024237",
+          "49.340487"
+        ]
+      },
+      "properties": {
+        "id": "924",
+        "name": "Brockton School Junior Kindergarten",
+        "address": "3467 Duval Rd",
+        "city": "North Vancouver",
+        "phone": "604-929-9201",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.068267",
+          "49.329928"
+        ]
+      },
+      "properties": {
+        "id": "942",
+        "name": "Olive Tree Childcare",
+        "address": "201 23Rd St E",
+        "city": "North Vancouver",
+        "phone": "604-770-4133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.068267",
+          "49.329928"
+        ]
+      },
+      "properties": {
+        "id": "943",
+        "name": "Olive Tree Childcare Centre",
+        "address": "201 23Rd St E",
+        "city": "North Vancouver",
+        "phone": "604-770-4133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.978173",
+          "49.314061"
+        ]
+      },
+      "properties": {
+        "id": "951",
+        "name": "My Mommy Daycare",
+        "address": "852 Nairn Crt",
+        "city": "North Vancouver",
+        "phone": "",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.047555",
+          "49.317943"
+        ]
+      },
+      "properties": {
+        "id": "980",
+        "name": "Wildflower Childcare",
+        "address": "952 Drayton St",
+        "city": "North Vancouver",
+        "phone": "778-990-7168",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.083743",
+          "49.338921"
+        ]
+      },
+      "properties": {
+        "id": "1004",
+        "name": "Limelight Childcare",
+        "address": "547 St. James Rd W",
+        "city": "North Vancouver",
+        "phone": "778-788-4894",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103212",
+          "49.338057"
+        ]
+      },
+      "properties": {
+        "id": "1052",
+        "name": "Smiling Stars Daycare",
+        "address": "3171 Edgemont Blvd",
+        "city": "North Vancouver",
+        "phone": "604-986-3380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103212",
+          "49.338057"
+        ]
+      },
+      "properties": {
+        "id": "1053",
+        "name": "Smiling Stars Daycare",
+        "address": "3171 Edgemont Blvd",
+        "city": "North Vancouver",
+        "phone": "604-986-3380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.085376",
+          "49.344882"
+        ]
+      },
+      "properties": {
+        "id": "1055",
+        "name": "Little Einstein 2",
+        "address": "622 Croydon Pl",
+        "city": "North Vancouver",
+        "phone": "604-376-1276",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.048841",
+          "49.346341"
+        ]
+      },
+      "properties": {
+        "id": "1097",
+        "name": "Happy Pony House Daycare",
+        "address": "3988 Michener Crt",
+        "city": "North Vancouver",
+        "phone": "778-340-4333",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.107296",
+          "49.328863"
+        ]
+      },
+      "properties": {
+        "id": "1100",
+        "name": "Peach Blossom Childcare Centre",
+        "address": "1196 21St St W",
+        "city": "North Vancouver",
+        "phone": "778-885-9091",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.059716",
+          "49.322679"
+        ]
+      },
+      "properties": {
+        "id": "1104",
+        "name": "Blue Moon Child Care",
+        "address": "1548 Moody Ave",
+        "city": "North Vancouver",
+        "phone": "778-888-4930",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.997845",
+          "49.321347"
+        ]
+      },
+      "properties": {
+        "id": "1105",
+        "name": "Happy Foot",
+        "address": "2749 Walpole Cres",
+        "city": "North Vancouver",
+        "phone": "604-924-1466",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.083534",
+          "49.3123"
+        ]
+      },
+      "properties": {
+        "id": "1108",
+        "name": "Kids & Company North Vancouver Esplanade",
+        "address": "70-221 Esplanade W",
+        "city": "North Vancouver",
+        "phone": "604-770-4380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.083534",
+          "49.3123"
+        ]
+      },
+      "properties": {
+        "id": "1109",
+        "name": "Kids & Company North Vancouver Esplanade",
+        "address": "70-221 Esplanade W",
+        "city": "North Vancouver",
+        "phone": "604-770-4380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.055016",
+          "49.322173"
+        ]
+      },
+      "properties": {
+        "id": "1127",
+        "name": "Outdoor Adventurers",
+        "address": "628 15Th St E",
+        "city": "North Vancouver",
+        "phone": "778-340-1021",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103859",
+          "49.339597"
+        ]
+      },
+      "properties": {
+        "id": "1136",
+        "name": "Happy Angels Daycare",
+        "address": "1090 Ridgewood Dr",
+        "city": "North Vancouver",
+        "phone": "778-927-7024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.037751",
+          "49.344445"
+        ]
+      },
+      "properties": {
+        "id": "1222",
+        "name": "Doran Family Child Care",
+        "address": "3780 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-446-9464",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.332944",
+          "48.434748"
+        ]
+      },
+      "properties": {
+        "id": "1241",
+        "name": "Elderberries Child Care Centre",
+        "address": "1289 Emerson Way",
+        "city": "North Vancouver",
+        "phone": "604-929-5371",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.049615",
+          "49.323178"
+        ]
+      },
+      "properties": {
+        "id": "1252",
+        "name": "Sara's Family Daycare",
+        "address": "820 16Th St E",
+        "city": "North Vancouver",
+        "phone": "604-377-1637",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.064079",
+          "49.310269"
+        ]
+      },
+      "properties": {
+        "id": "1291",
+        "name": "Kidsland Childcare Centre",
+        "address": "443 5Th St E",
+        "city": "North Vancouver",
+        "phone": "604-338-7551",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.050929",
+          "49.320035"
+        ]
+      },
+      "properties": {
+        "id": "1314",
+        "name": "Fun Days",
+        "address": "826 13Th St E",
+        "city": "North Vancouver",
+        "phone": "604-338-6949",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.080496",
+          "49.312281"
+        ]
+      },
+      "properties": {
+        "id": "1353",
+        "name": "Nsnh - Jbcc Kids' Club",
+        "address": "145 1St St W",
+        "city": "North Vancouver",
+        "phone": "604-723-8880",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.056797",
+          "49.312764"
+        ]
+      },
+      "properties": {
+        "id": "1380",
+        "name": "Bee Haven Child Care - Kids Club",
+        "address": "700 7Th St E",
+        "city": "North Vancouver",
+        "phone": "778-996-2075",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112972",
+          "49.324088"
+        ]
+      },
+      "properties": {
+        "id": "1393",
+        "name": "Kuddles Early Infant Stimulation Centre Ltd.",
+        "address": "1396 Marine Dr",
+        "city": "North Vancouver",
+        "phone": "604-729-6538",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112972",
+          "49.324088"
+        ]
+      },
+      "properties": {
+        "id": "1394",
+        "name": "Kuddles Early Infant Stimulation Centre Ltd.",
+        "address": "1396 Marine Dr",
+        "city": "North Vancouver",
+        "phone": "604-729-6538",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.059026",
+          "49.316428"
+        ]
+      },
+      "properties": {
+        "id": "1409",
+        "name": "Children's Garden",
+        "address": "523 10Th St E",
+        "city": "North Vancouver",
+        "phone": "604-910-3471",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.950135",
+          "49.315345"
+        ]
+      },
+      "properties": {
+        "id": "1468",
+        "name": "Cosmic Educare",
+        "address": "969 Beachview Dr",
+        "city": "North Vancouver",
+        "phone": "778-960-0828",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.063924",
+          "49.344617"
+        ]
+      },
+      "properties": {
+        "id": "1478",
+        "name": "Little Steps Learning Centre",
+        "address": "438 Braemar Rd E",
+        "city": "North Vancouver",
+        "phone": "778-319-5951",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.071481",
+          "49.335896"
+        ]
+      },
+      "properties": {
+        "id": "1492",
+        "name": "Clever Cub Childcare",
+        "address": "2900 Lonsdale Ave",
+        "city": "North Vancouver",
+        "phone": "778-708-1165",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.071481",
+          "49.335896"
+        ]
+      },
+      "properties": {
+        "id": "1493",
+        "name": "Clever Cub Childcare",
+        "address": "2900 Lonsdale Ave",
+        "city": "North Vancouver",
+        "phone": "778-708-1165",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.071481",
+          "49.335896"
+        ]
+      },
+      "properties": {
+        "id": "1494",
+        "name": "Clever Cub Childcare",
+        "address": "2900 Lonsdale Ave",
+        "city": "North Vancouver",
+        "phone": "778-708-1165",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.085959",
+          "49.34415"
+        ]
+      },
+      "properties": {
+        "id": "1498",
+        "name": "Sepehr Child Care Services Co.",
+        "address": "634 Silverdale Pl",
+        "city": "North Vancouver",
+        "phone": "204-619-8156",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.951336",
+          "49.318"
+        ]
+      },
+      "properties": {
+        "id": "1528",
+        "name": "Deep Cove Out Of School Care",
+        "address": "1204 Caledonia Ave",
+        "city": "North Vancouver",
+        "phone": "604-780-2769",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.037102",
+          "49.311694"
+        ]
+      },
+      "properties": {
+        "id": "1548",
+        "name": "North Star Montessori",
+        "address": "1325 Keith Rd E",
+        "city": "North Vancouver",
+        "phone": "604-980-1205",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.030602",
+          "49.323216"
+        ]
+      },
+      "properties": {
+        "id": "1580",
+        "name": "Alphabet Childcare",
+        "address": "1664 Birchlynn Pl",
+        "city": "North Vancouver",
+        "phone": "604-960-0888",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.086497",
+          "49.343255"
+        ]
+      },
+      "properties": {
+        "id": "1586",
+        "name": "Delbrook Wonderland Academy",
+        "address": "120-3721 Delbrook Ave",
+        "city": "North Vancouver",
+        "phone": "778-340-9595",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.102361",
+          "49.35738"
+        ]
+      },
+      "properties": {
+        "id": "1625",
+        "name": "Honey Bunny Daycare",
+        "address": "1058 Canyon Blvd",
+        "city": "North Vancouver",
+        "phone": "604-218-7055",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.080962",
+          "49.347006"
+        ]
+      },
+      "properties": {
+        "id": "1634",
+        "name": "Blue Sky Daycare",
+        "address": "431 Vienna Cres",
+        "city": "North Vancouver",
+        "phone": "778-866-2028",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.095698",
+          "49.322058"
+        ]
+      },
+      "properties": {
+        "id": "1693",
+        "name": "Golden Star's Early Learning Centre",
+        "address": "829 15Th St W",
+        "city": "North Vancouver",
+        "phone": "778-384-3784",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.095698",
+          "49.322058"
+        ]
+      },
+      "properties": {
+        "id": "1694",
+        "name": "Golden Star's Early Learning Centre",
+        "address": "829 15Th St W",
+        "city": "North Vancouver",
+        "phone": "778-384-3784",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.121835",
+          "49.32645"
+        ]
+      },
+      "properties": {
+        "id": "1753",
+        "name": "Cefa Lions Gate",
+        "address": "1721 Lions Gate Lane",
+        "city": "North Vancouver",
+        "phone": "778-340-9525",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.114241",
+          "49.336173"
+        ]
+      },
+      "properties": {
+        "id": "1761",
+        "name": "Play On Paisley Pre-K Ltd.",
+        "address": "1481 Paisley Rd",
+        "city": "North Vancouver",
+        "phone": "778-908-4321",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.047336",
+          "49.319432"
+        ]
+      },
+      "properties": {
+        "id": "1784",
+        "name": "Flying Fish Childcare Centre Inc.",
+        "address": "953 13Th St E",
+        "city": "North Vancouver",
+        "phone": "604-880-3822",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069567",
+          "49.309598"
+        ]
+      },
+      "properties": {
+        "id": "1786",
+        "name": "Kinderbees Early Learning Centre",
+        "address": "350 2Nd St E",
+        "city": "North Vancouver",
+        "phone": "604-317-2464",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069567",
+          "49.309598"
+        ]
+      },
+      "properties": {
+        "id": "1787",
+        "name": "Kinderbees Early Learning Centre",
+        "address": "350 2Nd St E",
+        "city": "North Vancouver",
+        "phone": "604-317-2464",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.024619",
+          "49.341399"
+        ]
+      },
+      "properties": {
+        "id": "1814",
+        "name": "Star Shine Daycare",
+        "address": "1795 Peters Rd",
+        "city": "North Vancouver",
+        "phone": "604-379-6307",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.093453",
+          "49.314873"
+        ]
+      },
+      "properties": {
+        "id": "1838",
+        "name": "Olive Grove Oceanside",
+        "address": "300-758 Harbourside Dr",
+        "city": "North Vancouver",
+        "phone": "778-340-9330",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.039783",
+          "49.33388"
+        ]
+      },
+      "properties": {
+        "id": "1856",
+        "name": "Bee Haven- Town Centre",
+        "address": "101-2770 Valley Centre Ave",
+        "city": "North Vancouver",
+        "phone": "604-216-7616",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.026722",
+          "49.350436"
+        ]
+      },
+      "properties": {
+        "id": "1911",
+        "name": "New Sprout Child Care Centre",
+        "address": "1647 Coleman St",
+        "city": "North Vancouver",
+        "phone": "604-306-5301",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.998382",
+          "49.318786"
+        ]
+      },
+      "properties": {
+        "id": "1953",
+        "name": "Elderberries Child Care Centre",
+        "address": "1289 Emerson Way",
+        "city": "North Vancouver",
+        "phone": "604-783-5343",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.032556",
+          "49.309029"
+        ]
+      },
+      "properties": {
+        "id": "1954",
+        "name": "Kuddles Early Infant Stimulation Centre Ltd.",
+        "address": "407 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-729-6538",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.032556",
+          "49.309029"
+        ]
+      },
+      "properties": {
+        "id": "1955",
+        "name": "Kuddles Early Infant Stimulation Centre Ltd.",
+        "address": "407 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-729-6538",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.093579",
+          "49.357811"
+        ]
+      },
+      "properties": {
+        "id": "1960",
+        "name": "Lollypop Childcare",
+        "address": "4990 Cedarcrest Ave",
+        "city": "North Vancouver",
+        "phone": "778-968-0024",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069913",
+          "49.32174"
+        ]
+      },
+      "properties": {
+        "id": "1982",
+        "name": "Academics Prekindergarten North Vancouver",
+        "address": "163 15Th St E",
+        "city": "North Vancouver",
+        "phone": "778-318-9181",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069913",
+          "49.32174"
+        ]
+      },
+      "properties": {
+        "id": "1983",
+        "name": "Academics Prekindergarten North Vancouver",
+        "address": "163 15Th St E",
+        "city": "North Vancouver",
+        "phone": "778-318-9181",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.030963",
+          "49.31221"
+        ]
+      },
+      "properties": {
+        "id": "1991",
+        "name": "Smiling Stars Daycare",
+        "address": "150-650 Seylynn Cres",
+        "city": "North Vancouver",
+        "phone": "604-771-5791",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.031097",
+          "49.312259"
+        ]
+      },
+      "properties": {
+        "id": "1992",
+        "name": "Smiling Stars Daycare",
+        "address": "150-650 Seylynn Cres",
+        "city": "North Vancouver",
+        "phone": "604-771-5791",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.058732",
+          "49.319545"
+        ]
+      },
+      "properties": {
+        "id": "2016",
+        "name": "Garden House Infant And Toddlers Center Ltd.",
+        "address": "529 13Th St E",
+        "city": "North Vancouver",
+        "phone": "778-325-1016",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.087328",
+          "49.315905"
+        ]
+      },
+      "properties": {
+        "id": "2033",
+        "name": "Mother Bear Child Development Program",
+        "address": "427 1St St W",
+        "city": "North Vancouver",
+        "phone": "604-988-0667",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103966",
+          "49.354829"
+        ]
+      },
+      "properties": {
+        "id": "2067",
+        "name": "Spring Angels Childcare",
+        "address": "4644 Glenwood Ave",
+        "city": "North Vancouver",
+        "phone": "604-783-3172",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.079195",
+          "49.342076"
+        ]
+      },
+      "properties": {
+        "id": "2068",
+        "name": "Fun Planet Childcare And Learning Centre",
+        "address": "3540 Mahon Ave",
+        "city": "North Vancouver",
+        "phone": "604-767-3512",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.998365",
+          "49.319272"
+        ]
+      },
+      "properties": {
+        "id": "2113",
+        "name": "Elderberries Child Care Centre 2",
+        "address": "1321 Emerson Way",
+        "city": "North Vancouver",
+        "phone": "604-929-5371",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.113117",
+          "49.325083"
+        ]
+      },
+      "properties": {
+        "id": "2164",
+        "name": "R.S. Little Hands Family Centre",
+        "address": "1760 Philip Ave",
+        "city": "North Vancouver",
+        "phone": "778-836-7692",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112772",
+          "49.330396"
+        ]
+      },
+      "properties": {
+        "id": "2264",
+        "name": "Pemberton Heights Saplings",
+        "address": "1390 22Nd St W",
+        "city": "North Vancouver",
+        "phone": "778-838-0335",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112772",
+          "49.330396"
+        ]
+      },
+      "properties": {
+        "id": "2265",
+        "name": "Pemberton Heights Saplings",
+        "address": "1390 22Nd St W",
+        "city": "North Vancouver",
+        "phone": "778-838-0335",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112772",
+          "49.330396"
+        ]
+      },
+      "properties": {
+        "id": "2346",
+        "name": "Pemberton Heights Saplings",
+        "address": "1390 W 22Nd St",
+        "city": "North Vancouver",
+        "phone": "226-978-5527",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.100056",
+          "49.271665"
+        ]
+      },
+      "properties": {
+        "id": "2352",
+        "name": "Peach Blossom Childcare Centre",
+        "address": "1534 Main St",
+        "city": "North Vancouver",
+        "phone": "604-990-1261",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.031083",
+          "49.305188"
+        ]
+      },
+      "properties": {
+        "id": "2353",
+        "name": "Peach Blossom Childcare Centre",
+        "address": "1534 Main St",
+        "city": "North Vancouver",
+        "phone": "604-990-1261",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.119282",
+          "49.325707"
+        ]
+      },
+      "properties": {
+        "id": "2441",
+        "name": "Busy Bees Learning Centre Ltd",
+        "address": "1787 Garden Ave",
+        "city": "North Vancouver",
+        "phone": "778-957-0030",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097063",
+          "49.338469"
+        ]
+      },
+      "properties": {
+        "id": "2480",
+        "name": "Highlands Out Of School Care",
+        "address": "3150 Colwood Dr",
+        "city": "North Vancouver",
+        "phone": "604-985-6958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953263",
+          "49.3161"
+        ]
+      },
+      "properties": {
+        "id": "2481",
+        "name": "Bee Haven Childcare Centers- The Cove- Infant Toddler",
+        "address": "1018 Deep Cove Rd",
+        "city": "North Vancouver",
+        "phone": "778-996-2075",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953263",
+          "49.3161"
+        ]
+      },
+      "properties": {
+        "id": "2482",
+        "name": "Bee Haven Childcare Centers- The Cove- 3-5'S",
+        "address": "1026 Deep Cove Rd",
+        "city": "North Vancouver",
+        "phone": "778-996-2075",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953263",
+          "49.3161"
+        ]
+      },
+      "properties": {
+        "id": "2492",
+        "name": "Bee Haven Child Care - The Cove - School Age",
+        "address": "1018 Deep Cove Rd",
+        "city": "North Vancouver",
+        "phone": "778-996-2075",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.00529",
+          "49.320878"
+        ]
+      },
+      "properties": {
+        "id": "2525",
+        "name": "Cedar Early Learning Centre",
+        "address": "1491 Berkley Rd",
+        "city": "North Vancouver",
+        "phone": "604-987-3181",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.088493",
+          "49.338653"
+        ]
+      },
+      "properties": {
+        "id": "2535",
+        "name": "Glow And Grow Children's Centre",
+        "address": "705 Blythwood Dr",
+        "city": "North Vancouver",
+        "phone": "604-396-1851",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.046202",
+          "49.316078"
+        ]
+      },
+      "properties": {
+        "id": "2543",
+        "name": "Kids Clubhouse",
+        "address": "934 Calverhall St",
+        "city": "North Vancouver",
+        "phone": "778-340-0081",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.056244",
+          "49.323471"
+        ]
+      },
+      "properties": {
+        "id": "2563",
+        "name": "April Daycare",
+        "address": "1604 Grand Blvd E",
+        "city": "North Vancouver",
+        "phone": "778-999-9398",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.106957",
+          "49.352343"
+        ]
+      },
+      "properties": {
+        "id": "2587",
+        "name": "Dreamworks Daycare",
+        "address": "4474 Capilano Rd",
+        "city": "North Vancouver",
+        "phone": "778-829-2024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.005432",
+          "49.316766"
+        ]
+      },
+      "properties": {
+        "id": "2645",
+        "name": "Wise Beans Childcare Ltd.",
+        "address": "2439 Berton Pl",
+        "city": "North Vancouver",
+        "phone": "778-834-8951",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.063352",
+          "49.328903"
+        ]
+      },
+      "properties": {
+        "id": "2669",
+        "name": "Liliom Childcare",
+        "address": "361 22Nd St E",
+        "city": "North Vancouver",
+        "phone": "604-655-4143",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.105075",
+          "49.333568"
+        ]
+      },
+      "properties": {
+        "id": "2672",
+        "name": "First Step Centre Ltd",
+        "address": "1101 26Th St W",
+        "city": "North Vancouver",
+        "phone": "604-988-8160",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.041591",
+          "49.316357"
+        ]
+      },
+      "properties": {
+        "id": "2679",
+        "name": "Dreamland Family Childcare",
+        "address": "1237 Adderley St",
+        "city": "North Vancouver",
+        "phone": "778-668-3145",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.004531",
+          "49.321974"
+        ]
+      },
+      "properties": {
+        "id": "2769",
+        "name": "Jasmin\u2019S Childcare Center",
+        "address": "2504 Swinburne Ave",
+        "city": "North Vancouver",
+        "phone": "604-783-6229",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.065677",
+          "49.345412"
+        ]
+      },
+      "properties": {
+        "id": "2823",
+        "name": "Starseeds Childcare",
+        "address": "3904 St. Marys Ave",
+        "city": "North Vancouver",
+        "phone": "604-753-9901",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.961581",
+          "49.320559"
+        ]
+      },
+      "properties": {
+        "id": "2874",
+        "name": "Berry Family / Dorothy Lynas Elementary",
+        "address": "4000 Inlet Cres",
+        "city": "North Vancouver",
+        "phone": "604-929-5371",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.094199",
+          "49.346408"
+        ]
+      },
+      "properties": {
+        "id": "2878",
+        "name": "Wishtree Childcare Centre",
+        "address": "982 Wavertree Rd",
+        "city": "North Vancouver",
+        "phone": "604-719-5897",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.082236",
+          "49.347328"
+        ]
+      },
+      "properties": {
+        "id": "2903",
+        "name": "Love-Care Child Care Centre",
+        "address": "504 Saville Crescent",
+        "city": "North Vancouver",
+        "phone": "604-720-9009",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.11535",
+          "49.323449"
+        ]
+      },
+      "properties": {
+        "id": "2938",
+        "name": "Kinderhaus Learning Academy Inc.",
+        "address": "1585 Macgowan Ave",
+        "city": "North Vancouver",
+        "phone": "778-836-6035",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.11535",
+          "49.323449"
+        ]
+      },
+      "properties": {
+        "id": "2939",
+        "name": "Kinderhaus Learning Academy Inc.",
+        "address": "1585 Macgowan Ave",
+        "city": "North Vancouver",
+        "phone": "778-836-6035",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.000812",
+          "49.318655"
+        ]
+      },
+      "properties": {
+        "id": "2952",
+        "name": "The Heights ymca Kids Club",
+        "address": "2640 Carnation St",
+        "city": "North Vancouver",
+        "phone": "236-880-7605",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.061715",
+          "49.309818"
+        ]
+      },
+      "properties": {
+        "id": "3002",
+        "name": "Lifeways Childcare",
+        "address": "532 4Th St E",
+        "city": "North Vancouver",
+        "phone": "604-904-4198",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.061715",
+          "49.309818"
+        ]
+      },
+      "properties": {
+        "id": "3003",
+        "name": "Lifeways Childcare",
+        "address": "532 4Th St E",
+        "city": "North Vancouver",
+        "phone": "604-904-4198",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.961581",
+          "49.320559"
+        ]
+      },
+      "properties": {
+        "id": "3078",
+        "name": "Berry Family / Dorothy Lynas Elementary",
+        "address": "4000 Inlet Cres",
+        "city": "North Vancouver",
+        "phone": "604-250-7198",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.098517",
+          "49.36205"
+        ]
+      },
+      "properties": {
+        "id": "3086",
+        "name": "Montroyal Learning Academy And Child Care Center Ltd",
+        "address": "5390 Cliffridge Ave",
+        "city": "North Vancouver",
+        "phone": "604-440-0415",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.113717",
+          "49.324495"
+        ]
+      },
+      "properties": {
+        "id": "3131",
+        "name": "Starfish Child Center",
+        "address": "1657 Philip Ave",
+        "city": "North Vancouver",
+        "phone": "604-500-3049",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.046558",
+          "49.32323"
+        ]
+      },
+      "properties": {
+        "id": "3157",
+        "name": "Joyful Journey Daycare",
+        "address": "1621 Rufus Ave",
+        "city": "North Vancouver",
+        "phone": "778-325-1379",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.116992",
+          "49.318296"
+        ]
+      },
+      "properties": {
+        "id": "3189",
+        "name": "Little Diamonds Multi-Age Childcare",
+        "address": "1144 Maplewood Cres",
+        "city": "North Vancouver",
+        "phone": "778-929-0370",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953901",
+          "49.321243"
+        ]
+      },
+      "properties": {
+        "id": "3202",
+        "name": "Happy Foot Infant And Toddler Centre",
+        "address": "1621 Deep Cove Rd",
+        "city": "North Vancouver",
+        "phone": "604-969-1184",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.091959",
+          "49.355768"
+        ]
+      },
+      "properties": {
+        "id": "3205",
+        "name": "Playmates Childcare",
+        "address": "4755 Marineview Cres",
+        "city": "North Vancouver",
+        "phone": "604-780-1893",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.046388",
+          "49.32028"
+        ]
+      },
+      "properties": {
+        "id": "3239",
+        "name": "Sunshine Before & After School Care",
+        "address": "980 East 13Th Street",
+        "city": "North Vancouver",
+        "phone": "604-987-8229",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.102092",
+          "49.359264"
+        ]
+      },
+      "properties": {
+        "id": "3261",
+        "name": "Angels Land Academy",
+        "address": "1054 Prospect Ave",
+        "city": "North Vancouver",
+        "phone": "236-888-2363",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.031362",
+          "49.307267"
+        ]
+      },
+      "properties": {
+        "id": "3262",
+        "name": "Peach Blossom Childcare Centre",
+        "address": "1528 Bond St",
+        "city": "North Vancouver",
+        "phone": "604-990-1261",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.118797",
+          "49.320677"
+        ]
+      },
+      "properties": {
+        "id": "3282",
+        "name": "Mimi Kids Paradise",
+        "address": "1319 Oakwood Cres",
+        "city": "North Vancouver",
+        "phone": "604-671-1414",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.063331",
+          "49.329875"
+        ]
+      },
+      "properties": {
+        "id": "3339",
+        "name": "Shine & Grow Learning Centre",
+        "address": "359 23Rd St E",
+        "city": "North Vancouver",
+        "phone": "604-347-8825",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.11789",
+          "49.325516"
+        ]
+      },
+      "properties": {
+        "id": "3386",
+        "name": "Puzzles Child Care Centre",
+        "address": "1761 Tatlow Ave",
+        "city": "North Vancouver",
+        "phone": "778-918-6343",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.081938",
+          "49.336332"
+        ]
+      },
+      "properties": {
+        "id": "3395",
+        "name": "Angel Queens Daycare",
+        "address": "483 Queens Rd W",
+        "city": "North Vancouver",
+        "phone": "604-345-6617",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.049189",
+          "49.331588"
+        ]
+      },
+      "properties": {
+        "id": "3408",
+        "name": "Olive Grove Hillside",
+        "address": "870 Lynn Valley Rd",
+        "city": "North Vancouver",
+        "phone": "604-780-7137",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.958762",
+          "49.315516"
+        ]
+      },
+      "properties": {
+        "id": "3431",
+        "name": "Teddy Bear Academy",
+        "address": "4065 Mt Seymour Pky",
+        "city": "North Vancouver",
+        "phone": "604-721-6151",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.081142",
+          "49.326908"
+        ]
+      },
+      "properties": {
+        "id": "3484",
+        "name": "Lollipop Tree",
+        "address": "1932 Jones Ave",
+        "city": "North Vancouver",
+        "phone": "778-319-5150",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097508",
+          "49.36124"
+        ]
+      },
+      "properties": {
+        "id": "3485",
+        "name": "Twig + Owl / Montroyal Elementary",
+        "address": "133 - 5310 Sonora Dr",
+        "city": "North Vancouver",
+        "phone": "604-929-5371",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.063331",
+          "49.329875"
+        ]
+      },
+      "properties": {
+        "id": "3495",
+        "name": "Shine & Grow Learning Centre",
+        "address": "359 23Rd St E",
+        "city": "North Vancouver",
+        "phone": "604-347-6444",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.001475",
+          "49.329239"
+        ]
+      },
+      "properties": {
+        "id": "3548",
+        "name": "Berkley Kids Club",
+        "address": "2391 Berkley Ave",
+        "city": "North Vancouver",
+        "phone": "604-765-1727",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.078812",
+          "49.32961"
+        ]
+      },
+      "properties": {
+        "id": "3549",
+        "name": "Spring Daycare",
+        "address": "306 22Nd St W",
+        "city": "North Vancouver",
+        "phone": "604-779-1380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.075747",
+          "49.333913"
+        ]
+      },
+      "properties": {
+        "id": "3586",
+        "name": "Bee Haven Childcare - Chesterfield",
+        "address": "2641 Chesterfield Ave",
+        "city": "North Vancouver",
+        "phone": "604-785-9398",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.092009",
+          "49.341695"
+        ]
+      },
+      "properties": {
+        "id": "3652",
+        "name": "Nancy's House",
+        "address": "3525 Fairmont Rd",
+        "city": "North Vancouver",
+        "phone": "604-980-4244",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.031987",
+          "49.349939"
+        ]
+      },
+      "properties": {
+        "id": "3672",
+        "name": "Froggy Pad Group Day Care",
+        "address": "4367 Ruth Cres",
+        "city": "North Vancouver",
+        "phone": "604-985-3324",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.082873",
+          "49.338087"
+        ]
+      },
+      "properties": {
+        "id": "3684",
+        "name": "Bella Balloon Childcare Center (Under 36 Months)",
+        "address": "515 Windsor Rd W",
+        "city": "North Vancouver",
+        "phone": "604-354-2019",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.038378",
+          "49.343979"
+        ]
+      },
+      "properties": {
+        "id": "3687",
+        "name": "Kiwi Kare Family Daycare",
+        "address": "3763 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-986-6891",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.108451",
+          "49.346179"
+        ]
+      },
+      "properties": {
+        "id": "3726",
+        "name": "Nsnh - Cleveland Kids' Club",
+        "address": "1255 Eldon Rd",
+        "city": "North Vancouver",
+        "phone": "604-987-8138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.08535",
+          "49.337539"
+        ]
+      },
+      "properties": {
+        "id": "3730",
+        "name": "Little Rascals Daycare Ltd.",
+        "address": "3111 Stanley Ave",
+        "city": "North Vancouver",
+        "phone": "604-987-3168",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.088861",
+          "49.341396"
+        ]
+      },
+      "properties": {
+        "id": "3763",
+        "name": "Merryland Daycare",
+        "address": "776 Donegal Pl",
+        "city": "North Vancouver",
+        "phone": "604-984-4096",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.084749",
+          "49.332602"
+        ]
+      },
+      "properties": {
+        "id": "3772",
+        "name": "Garden Bunny Child Care",
+        "address": "2501 Larson Rd",
+        "city": "North Vancouver",
+        "phone": "604-985-3522",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103868",
+          "49.344425"
+        ]
+      },
+      "properties": {
+        "id": "3782",
+        "name": "Edgemont Village Daycare",
+        "address": "3902 Ruby Ave",
+        "city": "North Vancouver",
+        "phone": "604-780-8035",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.078135",
+          "49.33795"
+        ]
+      },
+      "properties": {
+        "id": "3800",
+        "name": "La Prematernelle Francophone Trottin-Trottinette",
+        "address": "380 Kings Rd W",
+        "city": "North Vancouver",
+        "phone": "778-340-1034",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.076145",
+          "49.319729"
+        ]
+      },
+      "properties": {
+        "id": "3812",
+        "name": "Back To Basics Daycare",
+        "address": "209 13Th St W",
+        "city": "North Vancouver",
+        "phone": "604-980-0456",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.076145",
+          "49.319729"
+        ]
+      },
+      "properties": {
+        "id": "3813",
+        "name": "Back To Basics Daycare",
+        "address": "209 13Th St W",
+        "city": "North Vancouver",
+        "phone": "604-980-0456",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.054874",
+          "49.309751"
+        ]
+      },
+      "properties": {
+        "id": "3820",
+        "name": "Ants In Your Pants",
+        "address": "752 4Th St E",
+        "city": "North Vancouver",
+        "phone": "604-985-1138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.094256",
+          "49.315559"
+        ]
+      },
+      "properties": {
+        "id": "3845",
+        "name": "Harbourside Children's Centre",
+        "address": "101 38 Fell Ave",
+        "city": "North Vancouver",
+        "phone": "604-986-2388",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.094256",
+          "49.315559"
+        ]
+      },
+      "properties": {
+        "id": "3846",
+        "name": "Harbourside Children's Centre",
+        "address": "101 38 Fell Ave",
+        "city": "North Vancouver",
+        "phone": "604-986-2388",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.024368",
+          "49.318783"
+        ]
+      },
+      "properties": {
+        "id": "3861",
+        "name": "Lynnmour Creative Childcare Centre",
+        "address": "1251 Lillooet Rd",
+        "city": "North Vancouver",
+        "phone": "604-980-1212",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.031984",
+          "49.349941"
+        ]
+      },
+      "properties": {
+        "id": "3862",
+        "name": "Froggy Pad Group Day Care",
+        "address": "4367 Ruth Cres",
+        "city": "North Vancouver",
+        "phone": "604-985-3324",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.036384",
+          "49.341868"
+        ]
+      },
+      "properties": {
+        "id": "3887",
+        "name": "Poet\u2019S Corner Academy Montessori Preschool",
+        "address": "1356 Frederick Rd",
+        "city": "North Vancouver",
+        "phone": "604-727-9445",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.08535",
+          "49.337539"
+        ]
+      },
+      "properties": {
+        "id": "3897",
+        "name": "Little Rascals Daycare Ltd.",
+        "address": "3111 Stanley Ave",
+        "city": "North Vancouver",
+        "phone": "604-987-3168",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.08535",
+          "49.337539"
+        ]
+      },
+      "properties": {
+        "id": "3898",
+        "name": "Little Rascals Daycare Ltd.",
+        "address": "3111 Stanley Ave",
+        "city": "North Vancouver",
+        "phone": "604-987-3168",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953094",
+          "49.323896"
+        ]
+      },
+      "properties": {
+        "id": "3905",
+        "name": "My Little School Daycare (1991) Inc.",
+        "address": "1890 Deep Cove Rd",
+        "city": "North Vancouver",
+        "phone": "604-728-7597",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953094",
+          "49.323896"
+        ]
+      },
+      "properties": {
+        "id": "3906",
+        "name": "My Little School Daycare (1991) Inc.",
+        "address": "1890 Deep Cove Rd",
+        "city": "North Vancouver",
+        "phone": "604-728-7597",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953094",
+          "49.323896"
+        ]
+      },
+      "properties": {
+        "id": "3907",
+        "name": "My Little School Daycare (1991) Inc.",
+        "address": "1890 Deep Cove Rd",
+        "city": "North Vancouver",
+        "phone": "604-728-7597",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.108889",
+          "49.328023"
+        ]
+      },
+      "properties": {
+        "id": "3911",
+        "name": "Nsnh - Capilano Kids' Club",
+        "address": "1230 20Th St W",
+        "city": "North Vancouver",
+        "phone": "604-987-8138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.078371",
+          "49.337976"
+        ]
+      },
+      "properties": {
+        "id": "3929",
+        "name": "La Prematernelle Francophone Trottin-Trottinette(School Age)",
+        "address": "380 Kings Rd W",
+        "city": "North Vancouver",
+        "phone": "778-340-1034",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.11365",
+          "49.334924"
+        ]
+      },
+      "properties": {
+        "id": "3941",
+        "name": "Bluebird Daycare Centre (Capilano) Inc.",
+        "address": "1434 Woods Dr",
+        "city": "North Vancouver",
+        "phone": "604-988-8117",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.037869",
+          "49.324545"
+        ]
+      },
+      "properties": {
+        "id": "3956",
+        "name": "Bee Haven - West Lynn",
+        "address": "1700 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-770-0051",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.085093",
+          "49.323473"
+        ]
+      },
+      "properties": {
+        "id": "3958",
+        "name": "Mahon Park Childcare Centre",
+        "address": "1601 Forbes Ave",
+        "city": "North Vancouver",
+        "phone": "604-988-5515",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.0771",
+          "49.328618"
+        ]
+      },
+      "properties": {
+        "id": "3959",
+        "name": "Lonsdale Creek Day Care Centre - Creekside",
+        "address": "230 21St St W",
+        "city": "North Vancouver",
+        "phone": "604-988-5515",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.039729",
+          "49.309596"
+        ]
+      },
+      "properties": {
+        "id": "3960",
+        "name": "Sweet Peas Cottage Creekside",
+        "address": "250 400 Brooksbank Ave",
+        "city": "North Vancouver",
+        "phone": "604-988-9989",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112745",
+          "49.330395"
+        ]
+      },
+      "properties": {
+        "id": "3962",
+        "name": "Bonnie Bairns Childcare Services Inc.",
+        "address": "2260 Philip Ave",
+        "city": "North Vancouver",
+        "phone": "604-983-2600",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.068291",
+          "49.31205"
+        ]
+      },
+      "properties": {
+        "id": "3963",
+        "name": "St. Edmund's Discovery Preschool & School Age Care",
+        "address": "324 East 5Th St",
+        "city": "North Vancouver",
+        "phone": "604-988-3141",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069731",
+          "49.329915"
+        ]
+      },
+      "properties": {
+        "id": "3965",
+        "name": "Little Paris Daycare",
+        "address": "123 East 23Rd St",
+        "city": "North Vancouver",
+        "phone": "604-418-0904",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.082873",
+          "49.338087"
+        ]
+      },
+      "properties": {
+        "id": "3966",
+        "name": "Bella Balloon Childcare Centre",
+        "address": "515 Windsor Rd W",
+        "city": "North Vancouver",
+        "phone": "604-354-2019",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.972553",
+          "49.313264"
+        ]
+      },
+      "properties": {
+        "id": "3969",
+        "name": "Parkway Village Childcare Centre",
+        "address": "3601 Garibaldi Dr",
+        "city": "North Vancouver",
+        "phone": "604-929-5520",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.037096",
+          "49.311694"
+        ]
+      },
+      "properties": {
+        "id": "3987",
+        "name": "North Star Montessori",
+        "address": "1325 East Keith Rd",
+        "city": "North Vancouver",
+        "phone": "604-980-1205",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.037096",
+          "49.311694"
+        ]
+      },
+      "properties": {
+        "id": "3988",
+        "name": "North Star Montessori",
+        "address": "1325 East Keith Rd",
+        "city": "North Vancouver",
+        "phone": "604-980-1205",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.046847",
+          "49.333803"
+        ]
+      },
+      "properties": {
+        "id": "4043",
+        "name": "Vancouver Waldorf School",
+        "address": "2725 St. Christophers Rd",
+        "city": "North Vancouver",
+        "phone": "604-985-7435",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097292",
+          "49.324401"
+        ]
+      },
+      "properties": {
+        "id": "4077",
+        "name": "Mandy's Family Daycare",
+        "address": "881 17Th St W",
+        "city": "North Vancouver",
+        "phone": "604-988-0891",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.051",
+          "49.327698"
+        ]
+      },
+      "properties": {
+        "id": "4081",
+        "name": "Westlynn Family Daycare",
+        "address": "2061 William Ave",
+        "city": "North Vancouver",
+        "phone": "604-985-1039",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097063",
+          "49.338469"
+        ]
+      },
+      "properties": {
+        "id": "4083",
+        "name": "Highlands Out Of School Care",
+        "address": "3150 Colwood Dr",
+        "city": "North Vancouver",
+        "phone": "604-985-6958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.048867",
+          "49.331852"
+        ]
+      },
+      "properties": {
+        "id": "4102",
+        "name": "Olive Grove Hillside",
+        "address": "870 Lynn Valley Rd",
+        "city": "North Vancouver",
+        "phone": "604-770-0621",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.005293",
+          "49.323817"
+        ]
+      },
+      "properties": {
+        "id": "4124",
+        "name": "Special Times Out Of School Care",
+        "address": "1819 Berkley Rd",
+        "city": "North Vancouver",
+        "phone": "604-812-4449",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.089523",
+          "49.323792"
+        ]
+      },
+      "properties": {
+        "id": "4139",
+        "name": "Nsnh - Westview Out Of School Care",
+        "address": "Flr-641 17Th St W",
+        "city": "North Vancouver",
+        "phone": "604-987-8138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.036287",
+          "49.339822"
+        ]
+      },
+      "properties": {
+        "id": "4152",
+        "name": "Bee Haven - St. Clements",
+        "address": "3400 Institute Rd",
+        "city": "North Vancouver",
+        "phone": "604-770-0051",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.967697",
+          "49.317488"
+        ]
+      },
+      "properties": {
+        "id": "4169",
+        "name": "Parkway Village Childcare Two",
+        "address": "1150 Mt Seymour Rd",
+        "city": "North Vancouver",
+        "phone": "604-929-5520",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.951318",
+          "49.32651"
+        ]
+      },
+      "properties": {
+        "id": "4185",
+        "name": "Mamalina's Primary Montessori Childcare Centre",
+        "address": "4317 Gallant Ave",
+        "city": "North Vancouver",
+        "phone": "604-924-1253",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.038944",
+          "49.336746"
+        ]
+      },
+      "properties": {
+        "id": "4203",
+        "name": "Little Star Montessori Preschool",
+        "address": "100-1260 Lynn Valley Rd",
+        "city": "North Vancouver",
+        "phone": "604-986-2305",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072488",
+          "49.334537"
+        ]
+      },
+      "properties": {
+        "id": "4205",
+        "name": "Mira's Happy House",
+        "address": "2705 Lonsdale Ave",
+        "city": "North Vancouver",
+        "phone": "604-723-1494",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.091465",
+          "49.323889"
+        ]
+      },
+      "properties": {
+        "id": "4206",
+        "name": "Apple Blossom Child Care Centre",
+        "address": "1645 Bewicke Ave",
+        "city": "North Vancouver",
+        "phone": "604-985-5393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.091465",
+          "49.323889"
+        ]
+      },
+      "properties": {
+        "id": "4207",
+        "name": "Apple Blossom Child Care Centre",
+        "address": "1645 Bewicke Ave",
+        "city": "North Vancouver",
+        "phone": "604-985-5393",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.025042",
+          "49.35346"
+        ]
+      },
+      "properties": {
+        "id": "4208",
+        "name": "Happy Child Daycare & Learning Centre",
+        "address": "4685 Underwood Pl",
+        "city": "North Vancouver",
+        "phone": "604-982-9121",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.087328",
+          "49.315905"
+        ]
+      },
+      "properties": {
+        "id": "4224",
+        "name": "Mother Bear Child Development Program",
+        "address": "427 1St St W",
+        "city": "North Vancouver",
+        "phone": "604-988-0667",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.046847",
+          "49.333803"
+        ]
+      },
+      "properties": {
+        "id": "4265",
+        "name": "Vancouver Waldorf School",
+        "address": "2725 St. Christophers Rd",
+        "city": "North Vancouver",
+        "phone": "604-985-7435",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.100312",
+          "49.321485"
+        ]
+      },
+      "properties": {
+        "id": "4270",
+        "name": "Core Education And Fine Arts",
+        "address": "402 935 Marine Dr",
+        "city": "North Vancouver",
+        "phone": "604-929-2332",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.100312",
+          "49.321485"
+        ]
+      },
+      "properties": {
+        "id": "4271",
+        "name": "Core Education And Fine Arts",
+        "address": "402 935 Marine Dr",
+        "city": "North Vancouver",
+        "phone": "604-929-2332",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.998216",
+          "49.315522"
+        ]
+      },
+      "properties": {
+        "id": "4308",
+        "name": "Huckleberries Childcare Centre",
+        "address": "2745 Mount Seymour Pky",
+        "city": "North Vancouver",
+        "phone": "604-250-7198",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.102702",
+          "49.339806"
+        ]
+      },
+      "properties": {
+        "id": "4336",
+        "name": "St. Catherine's Daycare",
+        "address": "1058 Ridgewood Dr",
+        "city": "North Vancouver",
+        "phone": "604-980-1326",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.036384",
+          "49.341868"
+        ]
+      },
+      "properties": {
+        "id": "4338",
+        "name": "Poet\u2019S Corner Academy",
+        "address": "1356 Frederick Rd",
+        "city": "North Vancouver",
+        "phone": "604-988-2438",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.068291",
+          "49.31205"
+        ]
+      },
+      "properties": {
+        "id": "4344",
+        "name": "St. Edmund's Discovery Preschool & School Age Care",
+        "address": "324 East 5Th St",
+        "city": "North Vancouver",
+        "phone": "604-988-3141",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.102702",
+          "49.339806"
+        ]
+      },
+      "properties": {
+        "id": "4346",
+        "name": "Cleveland Out Of School Care",
+        "address": "1058 Ridgewood Dr",
+        "city": "North Vancouver",
+        "phone": "604-928-4012",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.078371",
+          "49.337976"
+        ]
+      },
+      "properties": {
+        "id": "4360",
+        "name": "La Prematernelle Francophone Trottin-Trottinette(<36Months)",
+        "address": "380 Kings Rd W",
+        "city": "North Vancouver",
+        "phone": "778-340-1034",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.087648",
+          "49.3363"
+        ]
+      },
+      "properties": {
+        "id": "4402",
+        "name": "The Kids Castle Daycare Ltd.",
+        "address": "685 Queens Rd W",
+        "city": "North Vancouver",
+        "phone": "604-980-7871",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.958801",
+          "49.307798"
+        ]
+      },
+      "properties": {
+        "id": "4408",
+        "name": "North Shore Child Care Centre",
+        "address": "4085 Dollar Rd",
+        "city": "North Vancouver",
+        "phone": "604-315-6722",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.958801",
+          "49.307798"
+        ]
+      },
+      "properties": {
+        "id": "4409",
+        "name": "North Shore Child Care Centre",
+        "address": "4085 Dollar Rd",
+        "city": "North Vancouver",
+        "phone": "604-315-6722",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.037538",
+          "49.323069"
+        ]
+      },
+      "properties": {
+        "id": "4414",
+        "name": "Mountains Of Fun Daycare Inc",
+        "address": "1336 16Th St E",
+        "city": "North Vancouver",
+        "phone": "604-728-7757",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.000662",
+          "49.324371"
+        ]
+      },
+      "properties": {
+        "id": "4430",
+        "name": "Blueridge Out Of School Care",
+        "address": "2650 Bronte Dr",
+        "city": "North Vancouver",
+        "phone": "604-812-4449",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.109801",
+          "49.320467"
+        ]
+      },
+      "properties": {
+        "id": "4449",
+        "name": "Nsnh - Norgate Kids' Club",
+        "address": "1295 Sowden St",
+        "city": "North Vancouver",
+        "phone": "604-987-8138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.058651",
+          "49.319092"
+        ]
+      },
+      "properties": {
+        "id": "4464",
+        "name": "Mum's Montessori Child Care Center",
+        "address": "530 12Th St E",
+        "city": "North Vancouver",
+        "phone": "604-986-1016",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.08843",
+          "49.32874"
+        ]
+      },
+      "properties": {
+        "id": "4468",
+        "name": "Greenways Licensed Child Care Center",
+        "address": "570 21St St W",
+        "city": "North Vancouver",
+        "phone": "604-971-3638",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.044733",
+          "49.334151"
+        ]
+      },
+      "properties": {
+        "id": "4508",
+        "name": "Olive Grove Childcare",
+        "address": "1070 Lynn Valley Rd",
+        "city": "North Vancouver",
+        "phone": "604-982-5871",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.035383",
+          "49.311692"
+        ]
+      },
+      "properties": {
+        "id": "4526",
+        "name": "Dinosaur Daycare Ltd.",
+        "address": "625 Mountain Hwy",
+        "city": "North Vancouver",
+        "phone": "604-988-1541",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069024",
+          "49.337978"
+        ]
+      },
+      "properties": {
+        "id": "4593",
+        "name": "Lil Bloomers Childcare Centre",
+        "address": "195 Windsor Rd E",
+        "city": "North Vancouver",
+        "phone": "604-987-7673",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072123",
+          "49.334652"
+        ]
+      },
+      "properties": {
+        "id": "4596",
+        "name": "Mountain View Childcare",
+        "address": "2725 Lonsdale Ave",
+        "city": "North Vancouver",
+        "phone": "604-723-1494",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.044733",
+          "49.334151"
+        ]
+      },
+      "properties": {
+        "id": "4600",
+        "name": "Olive Grove Childcare",
+        "address": "1070 Lynn Valley Rd",
+        "city": "North Vancouver",
+        "phone": "604-982-5871",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097063",
+          "49.338469"
+        ]
+      },
+      "properties": {
+        "id": "4601",
+        "name": "Highlands Child Care",
+        "address": "3150 Colwood Dr",
+        "city": "North Vancouver",
+        "phone": "604-985-6958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.107344",
+          "49.323092"
+        ]
+      },
+      "properties": {
+        "id": "4602",
+        "name": "Smiling Stars Daycare",
+        "address": "1602 Pemberton Ave",
+        "city": "North Vancouver",
+        "phone": "604-986-3380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.107344",
+          "49.323092"
+        ]
+      },
+      "properties": {
+        "id": "4603",
+        "name": "Smiling Stars Daycare",
+        "address": "1602 Pemberton Ave",
+        "city": "North Vancouver",
+        "phone": "604-986-3380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.004659",
+          "49.316947"
+        ]
+      },
+      "properties": {
+        "id": "4605",
+        "name": "North Vancouver Child Development Centre (Under 36 Months)",
+        "address": "1090 Berkley Rd",
+        "city": "North Vancouver",
+        "phone": "604-924-0222",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.004659",
+          "49.316947"
+        ]
+      },
+      "properties": {
+        "id": "4606",
+        "name": "North Vancouver Child Development Centre (Multi-Age)",
+        "address": "1090 Berkley Rd",
+        "city": "North Vancouver",
+        "phone": "604-924-0222",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.064074",
+          "49.310272"
+        ]
+      },
+      "properties": {
+        "id": "4610",
+        "name": "Kidsland Childcare Centre",
+        "address": "443 5Th St E",
+        "city": "North Vancouver",
+        "phone": "604-338-7551",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.045235",
+          "49.342892"
+        ]
+      },
+      "properties": {
+        "id": "4616",
+        "name": "Cousteau L'ecole Francaise Internationale De Vancouver",
+        "address": "3657 Fromme Rd",
+        "city": "North Vancouver",
+        "phone": "604-924-2457",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.045235",
+          "49.342892"
+        ]
+      },
+      "properties": {
+        "id": "4617",
+        "name": "Cousteau L'ecole Francaise Internationale De Vancouver",
+        "address": "3657 Fromme Rd",
+        "city": "North Vancouver",
+        "phone": "604-924-2457",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.069024",
+          "49.337978"
+        ]
+      },
+      "properties": {
+        "id": "4634",
+        "name": "Lil Bloomers Childcare Centre",
+        "address": "195 East Windsor Rd",
+        "city": "North Vancouver",
+        "phone": "604-987-7673",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.077844",
+          "49.319433"
+        ]
+      },
+      "properties": {
+        "id": "4679",
+        "name": "Nsnh - Queen Mary Kid's Club",
+        "address": "230 Keith Rd W",
+        "city": "North Vancouver",
+        "phone": "604-987-8138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.11365",
+          "49.334924"
+        ]
+      },
+      "properties": {
+        "id": "4699",
+        "name": "Bluebird Daycare Centre (Capilano) Inc.",
+        "address": "1434 Woods Dr",
+        "city": "North Vancouver",
+        "phone": "604-988-8117",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.067652",
+          "49.308565"
+        ]
+      },
+      "properties": {
+        "id": "4700",
+        "name": "Nsnh - Ridgeway Kids' Club",
+        "address": "420 2Nd St E",
+        "city": "North Vancouver",
+        "phone": "604-987-8138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.087648",
+          "49.3363"
+        ]
+      },
+      "properties": {
+        "id": "4708",
+        "name": "The Kids Castle Daycare Ltd.",
+        "address": "685 Queens Rd W",
+        "city": "North Vancouver",
+        "phone": "604-980-7871",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.068995",
+          "49.317563"
+        ]
+      },
+      "properties": {
+        "id": "4717",
+        "name": "Montessori Mes Petits Academy 2010",
+        "address": "1046 St. Georges Ave",
+        "city": "North Vancouver",
+        "phone": "604-980-1102",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.039243",
+          "49.312636"
+        ]
+      },
+      "properties": {
+        "id": "4792",
+        "name": "Park Place Daycare Ltd.",
+        "address": "1225 Keith Rd E",
+        "city": "North Vancouver",
+        "phone": "604-990-5572",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.039243",
+          "49.312636"
+        ]
+      },
+      "properties": {
+        "id": "4793",
+        "name": "Park Place Daycare Ltd.",
+        "address": "1225 Keith Rd E",
+        "city": "North Vancouver",
+        "phone": "604-990-5572",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.039243",
+          "49.312636"
+        ]
+      },
+      "properties": {
+        "id": "4794",
+        "name": "Park Place Daycare Ltd.",
+        "address": "1225 Keith Rd E",
+        "city": "North Vancouver",
+        "phone": "604-990-5572",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.082113",
+          "49.337711"
+        ]
+      },
+      "properties": {
+        "id": "4838",
+        "name": "Little Bunnies Learning Center",
+        "address": "496 Kings Rd W",
+        "city": "North Vancouver",
+        "phone": "604-770-3148",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.070812",
+          "49.335894"
+        ]
+      },
+      "properties": {
+        "id": "4857",
+        "name": "Alma Queen Daycare",
+        "address": "125 East Queens Rd",
+        "city": "North Vancouver",
+        "phone": "778-235-0925",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.06022",
+          "49.327657"
+        ]
+      },
+      "properties": {
+        "id": "4889",
+        "name": "Akram's Daycare",
+        "address": "2021 Moody Ave",
+        "city": "North Vancouver",
+        "phone": "604-765-2154",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.073262",
+          "49.309888"
+        ]
+      },
+      "properties": {
+        "id": "4912",
+        "name": "Sweet Peas Cottage",
+        "address": "256 1St St E",
+        "city": "North Vancouver",
+        "phone": "604-988-9989",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.066906",
+          "49.326473"
+        ]
+      },
+      "properties": {
+        "id": "4913",
+        "name": "Golden Star Daycare Inc.",
+        "address": "248 19 St E",
+        "city": "North Vancouver",
+        "phone": "604-770-2570",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.066906",
+          "49.326473"
+        ]
+      },
+      "properties": {
+        "id": "4915",
+        "name": "Golden Star Daycare Inc.",
+        "address": "248 19 St E",
+        "city": "North Vancouver",
+        "phone": "604-770-2570",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103907",
+          "49.362855"
+        ]
+      },
+      "properties": {
+        "id": "4919",
+        "name": "Peek-A-Boo Childcare Inc.",
+        "address": "5439 Nancy Greene Way",
+        "city": "North Vancouver",
+        "phone": "604-984-6018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.073262",
+          "49.309888"
+        ]
+      },
+      "properties": {
+        "id": "4952",
+        "name": "Sweet Peas Cottage",
+        "address": "256 1St St E",
+        "city": "North Vancouver",
+        "phone": "604-988-9989",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.056797",
+          "49.312764"
+        ]
+      },
+      "properties": {
+        "id": "4981",
+        "name": "Bee Haven - The Hive",
+        "address": "706 7Th St E",
+        "city": "North Vancouver",
+        "phone": "604-770-0051",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.11654",
+          "49.324602"
+        ]
+      },
+      "properties": {
+        "id": "5023",
+        "name": "Mickey's Playhouse Family Child Care",
+        "address": "1657 Bowser Ave",
+        "city": "North Vancouver",
+        "phone": "604-984-7105",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.102915",
+          "49.323785"
+        ]
+      },
+      "properties": {
+        "id": "5037",
+        "name": "Kids & Company North Vancouver",
+        "address": "1035 Marine Dr",
+        "city": "North Vancouver",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.102915",
+          "49.323785"
+        ]
+      },
+      "properties": {
+        "id": "5038",
+        "name": "Kids And Company North Vancouver (30 Months To School Age)",
+        "address": "1035 Marine Dr",
+        "city": "North Vancouver",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.055164",
+          "49.345157"
+        ]
+      },
+      "properties": {
+        "id": "5065",
+        "name": "Braemar Daycare",
+        "address": "709 Braemar Rd E",
+        "city": "North Vancouver",
+        "phone": "604-783-0907",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.087342",
+          "49.330124"
+        ]
+      },
+      "properties": {
+        "id": "5123",
+        "name": "Stella Childcare Centre",
+        "address": "563 23Rd St W",
+        "city": "North Vancouver",
+        "phone": "604-986-0126",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.046188",
+          "49.319615"
+        ]
+      },
+      "properties": {
+        "id": "5138",
+        "name": "Sunshine Preschool",
+        "address": "980 13Th St E",
+        "city": "North Vancouver",
+        "phone": "604-987-8229",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.057064",
+          "49.312217"
+        ]
+      },
+      "properties": {
+        "id": "5178",
+        "name": "Bee Haven - The Haven",
+        "address": "648 Queensbury Ave",
+        "city": "North Vancouver",
+        "phone": "604-770-0051",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.048365",
+          "49.335774"
+        ]
+      },
+      "properties": {
+        "id": "5186",
+        "name": "Cedar Mill Childcare",
+        "address": "890 29Th St E",
+        "city": "North Vancouver",
+        "phone": "604-982-0439",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.051092",
+          "49.324685"
+        ]
+      },
+      "properties": {
+        "id": "5291",
+        "name": "Raincoast Childcare Centre",
+        "address": "781 18Th St E",
+        "city": "North Vancouver",
+        "phone": "604-986-9334",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.058673",
+          "49.327623"
+        ]
+      },
+      "properties": {
+        "id": "5304",
+        "name": "Rainforest Learning Centre Inc. - North Vancouver",
+        "address": "2020 Moody Ave",
+        "city": "North Vancouver",
+        "phone": "604-770-1955",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.058673",
+          "49.327623"
+        ]
+      },
+      "properties": {
+        "id": "5305",
+        "name": "Rainforest Learning Centre Inc. - North Vancouver",
+        "address": "2020 Moody Ave",
+        "city": "North Vancouver",
+        "phone": "604-770-1955",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.058673",
+          "49.327623"
+        ]
+      },
+      "properties": {
+        "id": "5306",
+        "name": "Rainforest Learning Centre Inc. - North Vancouver",
+        "address": "2020 Moody Ave",
+        "city": "North Vancouver",
+        "phone": "604-770-1955",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.081415",
+          "49.340553"
+        ]
+      },
+      "properties": {
+        "id": "5311",
+        "name": "Nsnh - Mountainside",
+        "address": "3365 Mahon Ave",
+        "city": "North Vancouver",
+        "phone": "604-987-8138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953027",
+          "49.315873"
+        ]
+      },
+      "properties": {
+        "id": "5312",
+        "name": "Bee Haven Child Care - The Cove",
+        "address": "4266 Mt Seymour Pky",
+        "city": "North Vancouver",
+        "phone": "604-216-7616",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.056738",
+          "49.312497"
+        ]
+      },
+      "properties": {
+        "id": "5383",
+        "name": "Bee Haven Child Care- The Baby Hive",
+        "address": "704 7Th St E",
+        "city": "North Vancouver",
+        "phone": "778-996-2075",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.027523",
+          "49.334093"
+        ]
+      },
+      "properties": {
+        "id": "5396",
+        "name": "Nature's Garden Childcare Centre",
+        "address": "2801 Hoskins Rd",
+        "city": "North Vancouver",
+        "phone": "604-356-0329",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.08468",
+          "49.335904"
+        ]
+      },
+      "properties": {
+        "id": "5398",
+        "name": "The Babies Castle Daycare Ltd.",
+        "address": "570 29Th St W",
+        "city": "North Vancouver",
+        "phone": "604-307-0076",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.059157",
+          "49.319553"
+        ]
+      },
+      "properties": {
+        "id": "5420",
+        "name": "Mybaby Daycare",
+        "address": "517 13Th St E",
+        "city": "North Vancouver",
+        "phone": "778-877-1801",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.024368",
+          "49.318783"
+        ]
+      },
+      "properties": {
+        "id": "5479",
+        "name": "Special Times After School Care",
+        "address": "1251 Lillooet Rd",
+        "city": "North Vancouver",
+        "phone": "604-812-4449",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112745",
+          "49.330395"
+        ]
+      },
+      "properties": {
+        "id": "5502",
+        "name": "Sunflower Before And After School Care",
+        "address": "2260 Philip Ave",
+        "city": "North Vancouver",
+        "phone": "604-985-9622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.050106",
+          "49.329243"
+        ]
+      },
+      "properties": {
+        "id": "5512",
+        "name": "Charito's Family Daycare",
+        "address": "2220 William Ave",
+        "city": "North Vancouver",
+        "phone": "604-924-6805",
+        "services": []
+      }
+    }
+  ]
+}

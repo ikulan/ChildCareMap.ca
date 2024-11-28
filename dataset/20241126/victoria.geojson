@@ -1,0 +1,6010 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.361025",
+          "48.428183"
+        ]
+      },
+      "properties": {
+        "id": "4",
+        "name": "Victoria Children's Centre",
+        "address": "1515 Blanshard St",
+        "city": "Victoria",
+        "phone": "250-380-2484",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.368938",
+          "48.452512"
+        ]
+      },
+      "properties": {
+        "id": "12",
+        "name": "Our Childrens Centre",
+        "address": "4001 Seymour Place",
+        "city": "Victoria",
+        "phone": "250-475-6227",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.343216",
+          "48.423331"
+        ]
+      },
+      "properties": {
+        "id": "16",
+        "name": "Castleview Child Care Centre",
+        "address": "1075 Joan Cres",
+        "city": "Victoria",
+        "phone": "250-595-5355",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.416365",
+          "48.491032"
+        ]
+      },
+      "properties": {
+        "id": "17",
+        "name": "Camosun College Child Care Services - Interurban",
+        "address": "4461 Interurban Rd",
+        "city": "Victoria",
+        "phone": "250-370-4880",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.325345",
+          "48.448484"
+        ]
+      },
+      "properties": {
+        "id": "18",
+        "name": "Camosun College Child Care Services - Lansdowne",
+        "address": "3211 Richmond Rd",
+        "city": "Victoria",
+        "phone": "250-370-4880",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.34878",
+          "48.430895"
+        ]
+      },
+      "properties": {
+        "id": "26",
+        "name": "Springridge Early Childhood Centre",
+        "address": "1222 Gladstone Ave",
+        "city": "Victoria",
+        "phone": "250-384-2132",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.314096",
+          "48.457596"
+        ]
+      },
+      "properties": {
+        "id": "42",
+        "name": "Emmanuel Baptist Church Child Care",
+        "address": "2121 Cedar Hill Cross Rd",
+        "city": "Victoria",
+        "phone": "250-598-0573",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.366291",
+          "48.417712"
+        ]
+      },
+      "properties": {
+        "id": "68",
+        "name": "South Park Family Out Of School Care",
+        "address": "508 Douglas St",
+        "city": "Victoria",
+        "phone": "250-361-5978",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.304487",
+          "48.422478"
+        ]
+      },
+      "properties": {
+        "id": "73",
+        "name": "St. Christopher's Montessori School",
+        "address": "2619 Currie Rd",
+        "city": "Victoria",
+        "phone": "250-595-3213",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.347935",
+          "48.415536"
+        ]
+      },
+      "properties": {
+        "id": "87",
+        "name": "Sir James Douglas Out Of School Club",
+        "address": "401 Moss St",
+        "city": "Victoria",
+        "phone": "250-389-0500",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.379714",
+          "48.416936"
+        ]
+      },
+      "properties": {
+        "id": "98",
+        "name": "James Bay Community School Day Care",
+        "address": "140 Oswego St",
+        "city": "Victoria",
+        "phone": "250-389-1470",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.326722",
+          "48.445426"
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "name": "Artemis Young Parent Program",
+        "address": "3020 Richmond Rd",
+        "city": "Victoria",
+        "phone": "250-598-5183",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.523263",
+          "48.389984"
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "name": "West-Mont School",
+        "address": "4075 Metchosin Rd",
+        "city": "Victoria",
+        "phone": "250-474-2626",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.338982",
+          "48.463406"
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "name": "Lakehill Preschool Co-Op",
+        "address": "3821 Cedar Hill X Rd",
+        "city": "Victoria",
+        "phone": "250-477-4141",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.507271",
+          "48.450263"
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "name": "Almosthome Gordon",
+        "address": "935 Goldstream Ave",
+        "city": "Victoria",
+        "phone": "250-590-7666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.368897",
+          "48.524931"
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "name": "Cordova Bay Preschool",
+        "address": "5182 Cordova Bay Rd",
+        "city": "Victoria",
+        "phone": "250-658-3441",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.329549",
+          "48.415898"
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "name": "Margaret Jenkins Osc",
+        "address": "1824 Fairfield Rd",
+        "city": "Victoria",
+        "phone": "250-382-4604",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.3285",
+          "48.42802"
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "name": "Sundance Out Of School Care",
+        "address": "1623 Bank St",
+        "city": "Victoria",
+        "phone": "778-677-8813",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.363159",
+          "48.424975"
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "name": "Freedom Childcare Centre",
+        "address": "A-749 View St",
+        "city": "Victoria",
+        "phone": "250-920-9933",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.39666",
+          "48.465013"
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "name": "Cedar Day Care Centre",
+        "address": "3950 Columbine Way",
+        "city": "Victoria",
+        "phone": "250-479-2032",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.370056",
+          "48.527419"
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "name": "Caboose Club",
+        "address": "5238 Cordova Bay Rd",
+        "city": "Victoria",
+        "phone": "250-658-0548",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.466189",
+          "48.437272"
+        ]
+      },
+      "properties": {
+        "id": "172",
+        "name": "Belmont Park Preschool",
+        "address": "301 Zealous Crescent",
+        "city": "Victoria",
+        "phone": "250-474-6678",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.436488",
+          "48.456841"
+        ]
+      },
+      "properties": {
+        "id": "180",
+        "name": "View Royal Out Of School Care Society",
+        "address": "218 Helmcken Rd",
+        "city": "Victoria",
+        "phone": "250-744-2718",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.324501",
+          "48.476435"
+        ]
+      },
+      "properties": {
+        "id": "183",
+        "name": "Wiseways Preschool And Daycare",
+        "address": "1780 Feltham Road",
+        "city": "Victoria",
+        "phone": "250-477-1312",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.359954",
+          "48.500509"
+        ]
+      },
+      "properties": {
+        "id": "185",
+        "name": "Lochside After School Program",
+        "address": "1145 Royal Oak Dr",
+        "city": "Victoria",
+        "phone": "250-658-1337",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.417242",
+          "48.478953"
+        ]
+      },
+      "properties": {
+        "id": "186",
+        "name": "Strawberry Vale Preschool",
+        "address": "4130 Rosedale Ave",
+        "city": "Victoria",
+        "phone": "250-479-4213",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.322099",
+          "48.465909"
+        ]
+      },
+      "properties": {
+        "id": "197",
+        "name": "Campus View Child Care Society",
+        "address": "3900 Gordon Head Rd",
+        "city": "Victoria",
+        "phone": "250-472-0881",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.392387",
+          "48.452302"
+        ]
+      },
+      "properties": {
+        "id": "198",
+        "name": "Tillicum Childcare Centre",
+        "address": "3155 Albina St",
+        "city": "Victoria",
+        "phone": "250-388-5251",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.378507",
+          "48.440894"
+        ]
+      },
+      "properties": {
+        "id": "199",
+        "name": "Selkirk Montessori School",
+        "address": "2970 Jutland Rd",
+        "city": "Victoria",
+        "phone": "250-384-3414",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.312921",
+          "48.484846"
+        ]
+      },
+      "properties": {
+        "id": "222",
+        "name": "Hillcrest Elementary Oosc & Ready Set Grow Preschool",
+        "address": "4421 Greentree Terr",
+        "city": "Victoria",
+        "phone": "250-472-1530",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.37448",
+          "48.419602"
+        ]
+      },
+      "properties": {
+        "id": "225",
+        "name": "Rainbow Express Day Care",
+        "address": "433 Kingston St",
+        "city": "Victoria",
+        "phone": "250-382-2314",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.4025",
+          "48.567667"
+        ]
+      },
+      "properties": {
+        "id": "232",
+        "name": "Keating Out-Of-School Care",
+        "address": "6843 Central Saanich Rd",
+        "city": "Victoria",
+        "phone": "250-652-5546",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.318823",
+          "48.428056"
+        ]
+      },
+      "properties": {
+        "id": "291",
+        "name": "Oak Bay Parent Owned Preschool",
+        "address": "1701 Elgin St",
+        "city": "Victoria",
+        "phone": "250-592-1922",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.399548",
+          "48.454528"
+        ]
+      },
+      "properties": {
+        "id": "301",
+        "name": "Tillicum Out Of School Care",
+        "address": "3100 Tillicum Rd",
+        "city": "Victoria",
+        "phone": "250-388-5251",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.358863",
+          "48.454019"
+        ]
+      },
+      "properties": {
+        "id": "313",
+        "name": "Cloverdale Child Care",
+        "address": "3427 Quadra St",
+        "city": "Victoria",
+        "phone": "250-995-1766",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.392367",
+          "48.447035"
+        ]
+      },
+      "properties": {
+        "id": "316",
+        "name": "New Kids On The Block Daycare - Obed",
+        "address": "121 Obed Ave",
+        "city": "Victoria",
+        "phone": "780-221-0810",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.377286",
+          "48.517412"
+        ]
+      },
+      "properties": {
+        "id": "346",
+        "name": "Carrot Seed Preschool Ltd.",
+        "address": "813 Claremont Ave",
+        "city": "Victoria",
+        "phone": "250-658-2331",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.438472",
+          "48.453859"
+        ]
+      },
+      "properties": {
+        "id": "355",
+        "name": "View Royal Childcare Ltd.",
+        "address": "279 Island Hwy",
+        "city": "Victoria",
+        "phone": "250-479-8067",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.358791",
+          "48.422046"
+        ]
+      },
+      "properties": {
+        "id": "398",
+        "name": "Lux Mundi-Osc",
+        "address": "912 Vancouver St",
+        "city": "Victoria",
+        "phone": "250-383-5125",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.495873",
+          "48.466097"
+        ]
+      },
+      "properties": {
+        "id": "422",
+        "name": "Bgc South Vancouver Island - Millstream Club",
+        "address": "626 Hoylake Ave",
+        "city": "Victoria",
+        "phone": "250-384-9133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.403049",
+          "48.422055"
+        ]
+      },
+      "properties": {
+        "id": "423",
+        "name": "Bgc South Vancouver Island - Harbourside Club",
+        "address": "410 Macaulay St",
+        "city": "Victoria",
+        "phone": "250-384-9133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.384139",
+          "48.472587"
+        ]
+      },
+      "properties": {
+        "id": "424",
+        "name": "His Kids Childcare",
+        "address": "661 Agnes St",
+        "city": "Victoria",
+        "phone": "250-658-8689",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.338099",
+          "48.440869"
+        ]
+      },
+      "properties": {
+        "id": "439",
+        "name": "Oaklands Out Of School Care",
+        "address": "1-2827 Belmont Ave",
+        "city": "Victoria",
+        "phone": "250-370-9101",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.383451",
+          "48.46665"
+        ]
+      },
+      "properties": {
+        "id": "443",
+        "name": "North Douglas Preschool",
+        "address": "675 Jolly Pl",
+        "city": "Victoria",
+        "phone": "250-744-3457",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.337874",
+          "48.456447"
+        ]
+      },
+      "properties": {
+        "id": "456",
+        "name": "Doncaster-Oakcrest Child Care",
+        "address": "1525 Rowan St",
+        "city": "Victoria",
+        "phone": "250-370-9110",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.501687",
+          "48.440824"
+        ]
+      },
+      "properties": {
+        "id": "527",
+        "name": "B And G Family Childcare",
+        "address": "2841 Pickford Rd",
+        "city": "Victoria",
+        "phone": "250-385-0197",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.49706",
+          "48.466158"
+        ]
+      },
+      "properties": {
+        "id": "568",
+        "name": "Sandra's Daycare",
+        "address": "655 Hoylake Ave",
+        "city": "Victoria",
+        "phone": "250-474-2693",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.342245",
+          "48.412858"
+        ]
+      },
+      "properties": {
+        "id": "569",
+        "name": "Penny's Friends & Family Daycare",
+        "address": "1464 Thurlow Rd",
+        "city": "Victoria",
+        "phone": "250-385-9376",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.389576",
+          "48.486579"
+        ]
+      },
+      "properties": {
+        "id": "570",
+        "name": "Kims Home Daycare",
+        "address": "858 Pepin Cres",
+        "city": "Victoria",
+        "phone": "250-727-6421",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.3205",
+          "48.429894"
+        ]
+      },
+      "properties": {
+        "id": "572",
+        "name": "Nicole's Daycare",
+        "address": "2072 Meadow Pl",
+        "city": "Victoria",
+        "phone": "250-882-7797",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.485094",
+          "48.450105"
+        ]
+      },
+      "properties": {
+        "id": "573",
+        "name": "Sherri's Place",
+        "address": "528 Atkins Rd",
+        "city": "Victoria",
+        "phone": "250-478-8666",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.390919",
+          "48.473773"
+        ]
+      },
+      "properties": {
+        "id": "574",
+        "name": "H.R. Puff N Stuff",
+        "address": "591 Baxter Ave",
+        "city": "Victoria",
+        "phone": "250-744-1581",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.403416",
+          "48.442796"
+        ]
+      },
+      "properties": {
+        "id": "576",
+        "name": "Precious Moments Day Care",
+        "address": "1026 Craigflower Rd",
+        "city": "Victoria",
+        "phone": "250-381-0177",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.396778",
+          "48.464522"
+        ]
+      },
+      "properties": {
+        "id": "577",
+        "name": "Ranger Station Daycare",
+        "address": "639 Coleos Pl",
+        "city": "Victoria",
+        "phone": "250-479-9413",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.335351",
+          "48.484559"
+        ]
+      },
+      "properties": {
+        "id": "578",
+        "name": "Parenteau Family Child Care",
+        "address": "1562 Kenmore Rd",
+        "city": "Victoria",
+        "phone": "250-477-0687",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.356043",
+          "48.449075"
+        ]
+      },
+      "properties": {
+        "id": "579",
+        "name": "Cownden Family Daycare",
+        "address": "3181 Stevenson Pl",
+        "city": "Victoria",
+        "phone": "250-213-7752",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.407306",
+          "48.484375"
+        ]
+      },
+      "properties": {
+        "id": "580",
+        "name": "Playcare Learning Centre",
+        "address": "1212 Loenholm Rd",
+        "city": "Victoria",
+        "phone": "250-479-1221",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.384025",
+          "48.434046"
+        ]
+      },
+      "properties": {
+        "id": "581",
+        "name": "Scooby-Doo's Family Daycare",
+        "address": "221 Edward St",
+        "city": "Victoria",
+        "phone": "250-383-0154",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.496285",
+          "48.436321"
+        ]
+      },
+      "properties": {
+        "id": "610",
+        "name": "Care Bear's Family Child Care",
+        "address": "646 B Kelly Rd",
+        "city": "Victoria",
+        "phone": "250-813-0833",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.317015",
+          "48.435897"
+        ]
+      },
+      "properties": {
+        "id": "611",
+        "name": "Dancing Bears Family Day Care",
+        "address": "2482 Eastdowne Rd",
+        "city": "Victoria",
+        "phone": "250-413-7384",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.488343",
+          "48.433124"
+        ]
+      },
+      "properties": {
+        "id": "612",
+        "name": "Snuggles And Cuddles Family Daycare",
+        "address": "520 Ridley Dr",
+        "city": "Victoria",
+        "phone": "250-589-0214",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.308738",
+          "48.456524"
+        ]
+      },
+      "properties": {
+        "id": "622",
+        "name": "Henderson Centre Licensed Childcare",
+        "address": "2291 Cedar Hill X Rd",
+        "city": "Victoria",
+        "phone": "250-370-7125",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.406389",
+          "48.486014"
+        ]
+      },
+      "properties": {
+        "id": "628",
+        "name": "Making Friends Daycare",
+        "address": "1222 Glyn Rd",
+        "city": "Victoria",
+        "phone": "250-532-0053",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.511623",
+          "48.446252"
+        ]
+      },
+      "properties": {
+        "id": "645",
+        "name": "Happy Campers Bray",
+        "address": "953 Bray Ave",
+        "city": "Victoria",
+        "phone": "",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.297491",
+          "48.470538"
+        ]
+      },
+      "properties": {
+        "id": "687",
+        "name": "Leaps And Bounds Family Child Care",
+        "address": "2430 Alpine Cres",
+        "city": "Victoria",
+        "phone": "250-920-8302",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.396287",
+          "48.480505"
+        ]
+      },
+      "properties": {
+        "id": "694",
+        "name": "Dragonfly Lane Childcare",
+        "address": "4160 Springridge Cres",
+        "city": "Victoria",
+        "phone": "250-213-7846",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.501699",
+          "48.44683"
+        ]
+      },
+      "properties": {
+        "id": "700",
+        "name": "Oak Tree Montessori Langford",
+        "address": "2865 Peatt Rd",
+        "city": "Victoria",
+        "phone": "778-679-7003",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.324212",
+          "48.442269"
+        ]
+      },
+      "properties": {
+        "id": "702",
+        "name": "Time To Grow Learning Centre",
+        "address": "1912 Neil St",
+        "city": "Victoria",
+        "phone": "250-514-0061",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.399301",
+          "48.448915"
+        ]
+      },
+      "properties": {
+        "id": "706",
+        "name": "Almosthome Mosaic",
+        "address": "2946 Tillicum Rd",
+        "city": "Victoria",
+        "phone": "250-590-7666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.342791",
+          "48.452972"
+        ]
+      },
+      "properties": {
+        "id": "726",
+        "name": "Little Bugs Daycare",
+        "address": "1435 Ocean View Pl",
+        "city": "Victoria",
+        "phone": "250-920-6802",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.517863",
+          "48.414977"
+        ]
+      },
+      "properties": {
+        "id": "732",
+        "name": "Coastline Montessori Childcare",
+        "address": "1105 Monica Terr",
+        "city": "Victoria",
+        "phone": "250-881-6318",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.497491",
+          "48.455362"
+        ]
+      },
+      "properties": {
+        "id": "742",
+        "name": "Eddi's House",
+        "address": "2616 Peatt Rd",
+        "city": "Victoria",
+        "phone": "250-888-9135",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.488707",
+          "48.450012"
+        ]
+      },
+      "properties": {
+        "id": "763",
+        "name": "Minnie Mouse And Friends",
+        "address": "539 Hoffman Ave",
+        "city": "Victoria",
+        "phone": "778-433-5989",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.327535",
+          "48.467053"
+        ]
+      },
+      "properties": {
+        "id": "784",
+        "name": "Simply Fun Mckenzie",
+        "address": "1715 Garnet Rd",
+        "city": "Victoria",
+        "phone": "250-881-3958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.328377",
+          "48.438754"
+        ]
+      },
+      "properties": {
+        "id": "798",
+        "name": "Gillybird Nature Academy 2",
+        "address": "1829 Newton St",
+        "city": "Victoria",
+        "phone": "250-704-6607",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.326174",
+          "48.473457"
+        ]
+      },
+      "properties": {
+        "id": "802",
+        "name": "Mi Alegria Daycare",
+        "address": "1732 Carnegie Cres",
+        "city": "Victoria",
+        "phone": "250-884-3091",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.35223",
+          "48.452451"
+        ]
+      },
+      "properties": {
+        "id": "834",
+        "name": "Stepping Stones",
+        "address": "1254 Oakmount Rd",
+        "city": "Victoria",
+        "phone": "250-881-0244",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.529326",
+          "48.442473"
+        ]
+      },
+      "properties": {
+        "id": "836",
+        "name": "Belmont Early Learning Centre",
+        "address": "3041 Langford Lake Rd",
+        "city": "Victoria",
+        "phone": "250-590-8067",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.352395",
+          "48.430703"
+        ]
+      },
+      "properties": {
+        "id": "840",
+        "name": "Friends Of Tigger's",
+        "address": "1110 Caledonia Ave",
+        "city": "Victoria",
+        "phone": "250-818-7677",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.363567",
+          "48.42733"
+        ]
+      },
+      "properties": {
+        "id": "855",
+        "name": "Willowbrae Academy Victoria",
+        "address": "301-722 Johnson St",
+        "city": "Victoria",
+        "phone": "250-415-9974",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.38199",
+          "48.45136"
+        ]
+      },
+      "properties": {
+        "id": "879",
+        "name": "Busy Bugs Child Care Centre",
+        "address": "3281 Harriet Rd",
+        "city": "Victoria",
+        "phone": "250-686-0232",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.394858",
+          "48.45009"
+        ]
+      },
+      "properties": {
+        "id": "914",
+        "name": "Cheeky Monkey Family Child Care",
+        "address": "3054 Orillia St",
+        "city": "Victoria",
+        "phone": "250-886-2791",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.390744",
+          "48.477907"
+        ]
+      },
+      "properties": {
+        "id": "929",
+        "name": "Little Lords And Ladies",
+        "address": "600 Judah St",
+        "city": "Victoria",
+        "phone": "250-589-8080",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.325753",
+          "48.466097"
+        ]
+      },
+      "properties": {
+        "id": "935",
+        "name": "Simply Fun Mckenzie 2",
+        "address": "3924 Onyx Pl",
+        "city": "Victoria",
+        "phone": "250-881-2958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.386367",
+          "48.532117"
+        ]
+      },
+      "properties": {
+        "id": "983",
+        "name": "Lakeview Christian Preschool/Daycare",
+        "address": "729 Cordova Bay Rd",
+        "city": "Victoria",
+        "phone": "250-658-5082",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.337574",
+          "48.44348"
+        ]
+      },
+      "properties": {
+        "id": "1029",
+        "name": "Shalom Daycare",
+        "address": "1537 Hillside Ave",
+        "city": "Victoria",
+        "phone": "778-977-2898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.385808",
+          "48.43579"
+        ]
+      },
+      "properties": {
+        "id": "1048",
+        "name": "Victoria Montessori Preschool And Childcare",
+        "address": "323 Skinner St",
+        "city": "Victoria",
+        "phone": "250-380-0534",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.495911",
+          "48.448298"
+        ]
+      },
+      "properties": {
+        "id": "1060",
+        "name": "Willowbrae Childcare Academy",
+        "address": "105-2780 Veterans Memorial Pky",
+        "city": "Victoria",
+        "phone": "604-966-8887",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.492961",
+          "48.450987"
+        ]
+      },
+      "properties": {
+        "id": "1064",
+        "name": "The House Of Littles",
+        "address": "648 Windman Crt",
+        "city": "Victoria",
+        "phone": "250-661-1927",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.536252",
+          "48.413427"
+        ]
+      },
+      "properties": {
+        "id": "1077",
+        "name": "Honey Bee's Playschool",
+        "address": "1043 Fashoda Pl",
+        "city": "Victoria",
+        "phone": "250-580-5996",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.538363",
+          "48.411213"
+        ]
+      },
+      "properties": {
+        "id": "1084",
+        "name": "The Learning Journey Child Care Centre",
+        "address": "3650 Happy Valley Rd",
+        "city": "Victoria",
+        "phone": "250-812-0865",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.477875",
+          "48.452911"
+        ]
+      },
+      "properties": {
+        "id": "1098",
+        "name": "Bgc South Vancouver Island - Crystal View Club",
+        "address": "2662 Silverstone Way",
+        "city": "Victoria",
+        "phone": "250-580-0695",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.381373",
+          "48.418636"
+        ]
+      },
+      "properties": {
+        "id": "1112",
+        "name": "Blue Heron Montessori Preschool Ltd.",
+        "address": "205 Simcoe St",
+        "city": "Victoria",
+        "phone": "250-667-2277",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.497147",
+          "48.412221"
+        ]
+      },
+      "properties": {
+        "id": "1126",
+        "name": "Buzzy Bee Child Care",
+        "address": "447 Regency Pl",
+        "city": "Victoria",
+        "phone": "250-818-5114",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.338107",
+          "48.447435"
+        ]
+      },
+      "properties": {
+        "id": "1156",
+        "name": "Gillybird Nature Academy 3",
+        "address": "1661 Burton Ave",
+        "city": "Victoria",
+        "phone": "250-704-6607",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.374148",
+          "48.41586"
+        ]
+      },
+      "properties": {
+        "id": "1160",
+        "name": "Little Wild Early Learning Inc.",
+        "address": "5-230 Menzies St",
+        "city": "Victoria",
+        "phone": "250-588-7360",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.511383",
+          "48.438312"
+        ]
+      },
+      "properties": {
+        "id": "1181",
+        "name": "Cefa Early Learning",
+        "address": "103-3030 Merchant Way",
+        "city": "Victoria",
+        "phone": "778-288-2466",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.388054",
+          "48.434457"
+        ]
+      },
+      "properties": {
+        "id": "1191",
+        "name": "Victoria West Community Association-Victoria West Elementary",
+        "address": "750 Front St",
+        "city": "Victoria",
+        "phone": "250-590-8922",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.508687",
+          "48.460204"
+        ]
+      },
+      "properties": {
+        "id": "1194",
+        "name": "Amy's Childcare",
+        "address": "2515 Martin Ridge",
+        "city": "Victoria",
+        "phone": "250-661-3258",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.513124",
+          "48.439533"
+        ]
+      },
+      "properties": {
+        "id": "1197",
+        "name": "Home Away From Home",
+        "address": "935 Avrill Rd",
+        "city": "Victoria",
+        "phone": "250-507-0477",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.353579",
+          "48.428167"
+        ]
+      },
+      "properties": {
+        "id": "1228",
+        "name": "Rioasis Childcare Ltd.",
+        "address": "1580 Cook St",
+        "city": "Victoria",
+        "phone": "250-580-4880",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.530772",
+          "48.418814"
+        ]
+      },
+      "properties": {
+        "id": "1234",
+        "name": "Giggles 'N Grins Early Childhood Centre",
+        "address": "3544 Honeycrisp Ave",
+        "city": "Victoria",
+        "phone": "250-888-3314",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.327711",
+          "48.467048"
+        ]
+      },
+      "properties": {
+        "id": "1285",
+        "name": "Simply Fun Mckenzie Twin",
+        "address": "1713 Garnet Rd",
+        "city": "Victoria",
+        "phone": "250-881-3958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.331551",
+          "48.453339"
+        ]
+      },
+      "properties": {
+        "id": "1286",
+        "name": "Simply Fun Hillside",
+        "address": "3365 Kingsley Pl",
+        "city": "Victoria",
+        "phone": "250-881-3958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.392361",
+          "48.461337"
+        ]
+      },
+      "properties": {
+        "id": "1293",
+        "name": "Olympic View Daycare",
+        "address": "521 Dumeresq St",
+        "city": "Victoria",
+        "phone": "778-866-7401",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.527667",
+          "48.418971"
+        ]
+      },
+      "properties": {
+        "id": "1309",
+        "name": "Skills For Life Child Care",
+        "address": "3527 Grenadier Rd",
+        "city": "Victoria",
+        "phone": "250-514-4624",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.349822",
+          "48.460958"
+        ]
+      },
+      "properties": {
+        "id": "1333",
+        "name": "Queensbury Childcare",
+        "address": "1260 Queensbury Ave",
+        "city": "Victoria",
+        "phone": "250-634-3511",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.405244",
+          "48.4323"
+        ]
+      },
+      "properties": {
+        "id": "1344",
+        "name": "Les Agneaux De Saute-Mouton",
+        "address": "670 Lampson St",
+        "city": "Victoria",
+        "phone": "250-220-6015",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.320757",
+          "48.483222"
+        ]
+      },
+      "properties": {
+        "id": "1355",
+        "name": "Cathedral School Childcare & Junior Kindergarten",
+        "address": "1806 San Juan Ave",
+        "city": "Victoria",
+        "phone": "250-383-5125",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.323806",
+          "48.476077"
+        ]
+      },
+      "properties": {
+        "id": "1376",
+        "name": "Wiseways Childcare",
+        "address": "1790 Feltham Rd",
+        "city": "Victoria",
+        "phone": "250-477-1312",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.496066",
+          "48.420915"
+        ]
+      },
+      "properties": {
+        "id": "1378",
+        "name": "Megans Puddle Jumpers",
+        "address": "519 Acland Ave",
+        "city": "Victoria",
+        "phone": "250-893-9944",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.514517",
+          "48.396344"
+        ]
+      },
+      "properties": {
+        "id": "1437",
+        "name": "Bgc South Vancouver Island - Metchosin Club",
+        "address": "3900 Metchosin Rd",
+        "city": "Victoria",
+        "phone": "250-661-7438",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.387665",
+          "48.435647"
+        ]
+      },
+      "properties": {
+        "id": "1486",
+        "name": "Nurture Early Childhood Education Centre",
+        "address": "1008 Russell St",
+        "city": "Victoria",
+        "phone": "250-812-0292",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.353839",
+          "48.4266"
+        ]
+      },
+      "properties": {
+        "id": "1526",
+        "name": "Maple Tree Children's Centre (Pandora)",
+        "address": "1075 Pandora Ave",
+        "city": "Victoria",
+        "phone": "250-588-0512",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.39501",
+          "48.478445"
+        ]
+      },
+      "properties": {
+        "id": "1533",
+        "name": "Jumping Puddles Childcare",
+        "address": "4173 Bremerton St",
+        "city": "Victoria",
+        "phone": "250-884-2871",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.392256",
+          "48.432414"
+        ]
+      },
+      "properties": {
+        "id": "1543",
+        "name": "Green House Studio",
+        "address": "737 Wilson St",
+        "city": "Victoria",
+        "phone": "250-884-4085",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.436137",
+          "48.487193"
+        ]
+      },
+      "properties": {
+        "id": "1638",
+        "name": "Nature Bound Daycare",
+        "address": "4165 Prospect Lake Rd",
+        "city": "Victoria",
+        "phone": "778-874-2133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.337014",
+          "48.435936"
+        ]
+      },
+      "properties": {
+        "id": "1647",
+        "name": "Little Owl Early Learning 2",
+        "address": "2575 Victor St",
+        "city": "Victoria",
+        "phone": "250-516-1338",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.449274",
+          "48.575392"
+        ]
+      },
+      "properties": {
+        "id": "1669",
+        "name": "Bgc South Vancouver Island - Central Saanich Club",
+        "address": "1233 Clarke Rd",
+        "city": "Victoria",
+        "phone": "250-384-9133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.321338",
+          "48.439166"
+        ]
+      },
+      "properties": {
+        "id": "1680",
+        "name": "Carnarvon Kids Childcare",
+        "address": "2023 Carnarvon St",
+        "city": "Victoria",
+        "phone": "250-415-5265",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.329654",
+          "48.4611"
+        ]
+      },
+      "properties": {
+        "id": "1688",
+        "name": "Gillybird Nature Academy 4",
+        "address": "3703 St. Aidan's St",
+        "city": "Victoria",
+        "phone": "250-704-6607",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.49819",
+          "48.465683"
+        ]
+      },
+      "properties": {
+        "id": "1736",
+        "name": "Creative Little Learners",
+        "address": "2323 Belair Rd",
+        "city": "Victoria",
+        "phone": "250-474-6661",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.400636",
+          "48.459899"
+        ]
+      },
+      "properties": {
+        "id": "1747",
+        "name": "Poka Poka Daycare",
+        "address": "624 Sedger Rd",
+        "city": "Victoria",
+        "phone": "778-980-1536",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.320121",
+          "48.435826"
+        ]
+      },
+      "properties": {
+        "id": "1759",
+        "name": "Bubby's Early Learning Childcare",
+        "address": "2060 Haultain St",
+        "city": "Victoria",
+        "phone": "204-396-4842",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.371612",
+          "48.416347"
+        ]
+      },
+      "properties": {
+        "id": "1773",
+        "name": "Beckley Cottage Preschool",
+        "address": "3-427 Parry St",
+        "city": "Victoria",
+        "phone": "250-727-2197",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.400642",
+          "48.454389"
+        ]
+      },
+      "properties": {
+        "id": "1821",
+        "name": "Full O'beans Child Care/Beansprout It Care",
+        "address": "3120 Tillicum Rd",
+        "city": "Victoria",
+        "phone": "250-360-1148",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.328548",
+          "48.452965"
+        ]
+      },
+      "properties": {
+        "id": "1853",
+        "name": "Chibi And Friends Daycare",
+        "address": "3361 Veteran St",
+        "city": "Victoria",
+        "phone": "250-634-2723",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.494511",
+          "48.442376"
+        ]
+      },
+      "properties": {
+        "id": "1862",
+        "name": "You'll Never Walk Alone Childcare",
+        "address": "2858 Hagel Rd",
+        "city": "Victoria",
+        "phone": "250-514-5310",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.343411",
+          "48.447216"
+        ]
+      },
+      "properties": {
+        "id": "1884",
+        "name": "Squeeks & Giggles Family Daycare",
+        "address": "1524 Clawthorpe Ave",
+        "city": "Victoria",
+        "phone": "250-418-8565",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.361333",
+          "48.443426"
+        ]
+      },
+      "properties": {
+        "id": "1889",
+        "name": "Ctots Childhood Education Centre Expansion",
+        "address": "2951 Glasgow St",
+        "city": "Victoria",
+        "phone": "250-589-7677",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.416303",
+          "48.42771"
+        ]
+      },
+      "properties": {
+        "id": "1943",
+        "name": "Blue Heron Montessori Nestlings",
+        "address": "1234 Juno St",
+        "city": "Victoria",
+        "phone": "250-686-7703",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.352597",
+          "48.429734"
+        ]
+      },
+      "properties": {
+        "id": "1945",
+        "name": "Fernwood Playschool Ltd.",
+        "address": "1811 Cook St",
+        "city": "Victoria",
+        "phone": "250-580-4880",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.345824",
+          "48.47084"
+        ]
+      },
+      "properties": {
+        "id": "1946",
+        "name": "Garderie Les Rigolos",
+        "address": "1415 Andrews Ave",
+        "city": "Victoria",
+        "phone": "604-736-5056",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.495873",
+          "48.466097"
+        ]
+      },
+      "properties": {
+        "id": "1988",
+        "name": "Ecole Millstream Elementary Seamless Day",
+        "address": "626 Hoylake Ave",
+        "city": "Victoria",
+        "phone": "250-478-8348",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.344487",
+          "48.430704"
+        ]
+      },
+      "properties": {
+        "id": "2014",
+        "name": "Seedlings Forest Education Preschool",
+        "address": "1310 Gladstone Ave",
+        "city": "Victoria",
+        "phone": "250-880-0660",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.332299",
+          "48.451329"
+        ]
+      },
+      "properties": {
+        "id": "2043",
+        "name": "Simply Fun Shelbourne",
+        "address": "3308 Kingsley St",
+        "city": "Victoria",
+        "phone": "250-881-3958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.381257",
+          "48.474346"
+        ]
+      },
+      "properties": {
+        "id": "2081",
+        "name": "Little Campus Montessori Preschool",
+        "address": "765 Rogers Ave",
+        "city": "Victoria",
+        "phone": "250-920-9463",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.328203",
+          "48.489641"
+        ]
+      },
+      "properties": {
+        "id": "2104",
+        "name": "Simply Fun Gordon Head",
+        "address": "1620 Wycliffe Pl",
+        "city": "Victoria",
+        "phone": "250-881-3958",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.315436",
+          "48.470129"
+        ]
+      },
+      "properties": {
+        "id": "2121",
+        "name": "Pedal Pusher Daycare",
+        "address": "2234 Mccoy Rd",
+        "city": "Victoria",
+        "phone": "250-475-2217",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.489888",
+          "48.446472"
+        ]
+      },
+      "properties": {
+        "id": "2152",
+        "name": "Aerie Early Care And Learning Centre",
+        "address": "121-612 Goldstream Ave",
+        "city": "Victoria",
+        "phone": "778-828-9930",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.525445",
+          "48.388727"
+        ]
+      },
+      "properties": {
+        "id": "2161",
+        "name": "Raccoon Den Child Care",
+        "address": "4125 Metchosin Rd",
+        "city": "Victoria",
+        "phone": "250-391-7824",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.357529",
+          "48.437099"
+        ]
+      },
+      "properties": {
+        "id": "2198",
+        "name": "Compass Childcare Ltd",
+        "address": "2570 Fifth St",
+        "city": "Victoria",
+        "phone": "250-590-2488",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.3896",
+          "48.433837"
+        ]
+      },
+      "properties": {
+        "id": "2205",
+        "name": "Meadowside",
+        "address": "740 Sherk St",
+        "city": "Victoria",
+        "phone": "250-995-1766",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.517226",
+          "48.459012"
+        ]
+      },
+      "properties": {
+        "id": "2207",
+        "name": "Children Of The Island Early Learning Centre Inc.",
+        "address": "2620 Mica Pl",
+        "city": "Victoria",
+        "phone": "250-514-8344",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.469191",
+          "48.444408"
+        ]
+      },
+      "properties": {
+        "id": "2223",
+        "name": "Victoria Kids Out And About",
+        "address": "109-1830 Island Hwy",
+        "city": "Victoria",
+        "phone": "250-479-4566",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.428609",
+          "48.468721"
+        ]
+      },
+      "properties": {
+        "id": "2245",
+        "name": "Next Level Childcare Society Afterschool Club",
+        "address": "110-25 Helmcken Rd",
+        "city": "Victoria",
+        "phone": "778-265-7507",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.355284",
+          "48.429946"
+        ]
+      },
+      "properties": {
+        "id": "2269",
+        "name": "Little Phoenix Child Care Centre",
+        "address": "1004 North Park St",
+        "city": "Victoria",
+        "phone": "778-269-2273",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.496532",
+          "48.424597"
+        ]
+      },
+      "properties": {
+        "id": "2272",
+        "name": "Munchkaroo Child Care",
+        "address": "3260 Galloway Rd",
+        "city": "Victoria",
+        "phone": "250-888-5084",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.339999",
+          "48.466591"
+        ]
+      },
+      "properties": {
+        "id": "2289",
+        "name": "Oak Park Family Child Care",
+        "address": "1541 Oak Park Pl",
+        "city": "Victoria",
+        "phone": "250-532-3880",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.339723",
+          "48.440793"
+        ]
+      },
+      "properties": {
+        "id": "2295",
+        "name": "Hamilton Park",
+        "address": "1487 Hamilton Rd",
+        "city": "Victoria",
+        "phone": "250-370-9101",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.383496",
+          "48.466105"
+        ]
+      },
+      "properties": {
+        "id": "2297",
+        "name": "Lori\u2019S Kids",
+        "address": "642 Canterbury Rd",
+        "city": "Victoria",
+        "phone": "250-381-1027",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.471185",
+          "48.455457"
+        ]
+      },
+      "properties": {
+        "id": "2298",
+        "name": "Little Explorers Family Childcare",
+        "address": "2311 Chilco Rd",
+        "city": "Victoria",
+        "phone": "778-998-8446",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.372184",
+          "48.448538"
+        ]
+      },
+      "properties": {
+        "id": "2320",
+        "name": "Cefa Early Learning Victoria Douglas",
+        "address": "3233 Douglas St",
+        "city": "Victoria",
+        "phone": "250-590-6006",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.503571",
+          "48.421598"
+        ]
+      },
+      "properties": {
+        "id": "2322",
+        "name": "Honey Bee's Daycare",
+        "address": "646 Cairndale Rd",
+        "city": "Victoria",
+        "phone": "250-213-2363",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.345322",
+          "48.47016"
+        ]
+      },
+      "properties": {
+        "id": "2325",
+        "name": "Braefoot Childcare Program",
+        "address": "1440 Harrop Rd",
+        "city": "Victoria",
+        "phone": "250-721-2244",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.345664",
+          "48.416466"
+        ]
+      },
+      "properties": {
+        "id": "2327",
+        "name": "Fairfield Children\u2019S House",
+        "address": "436 Durban St",
+        "city": "Victoria",
+        "phone": "250-858-7456",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.54216",
+          "48.44872"
+        ]
+      },
+      "properties": {
+        "id": "2328",
+        "name": "Beacon Nature Club - Pexsisen",
+        "address": "3100 Constellation Ave",
+        "city": "Victoria",
+        "phone": "250-415-9986",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.324672",
+          "48.477315"
+        ]
+      },
+      "properties": {
+        "id": "2358",
+        "name": "Smilekids Childcare",
+        "address": "4126 Cabot Place",
+        "city": "Victoria",
+        "phone": "250-884-4126",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.379701",
+          "48.416926"
+        ]
+      },
+      "properties": {
+        "id": "2384",
+        "name": "Cherry Blossom Childcare",
+        "address": "140 Oswego St",
+        "city": "Victoria",
+        "phone": "250-588-3147",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.376071",
+          "48.440527"
+        ]
+      },
+      "properties": {
+        "id": "2494",
+        "name": "Aspire Preschool Inc",
+        "address": "3-415 Dunedin St",
+        "city": "Victoria",
+        "phone": "778-899-0985",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.409157",
+          "48.461848"
+        ]
+      },
+      "properties": {
+        "id": "2506",
+        "name": "Braefoot Childcare Program - Marigold Campus",
+        "address": "3751 Grange Rd",
+        "city": "Victoria",
+        "phone": "778-535-6351",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.3576",
+          "48.439942"
+        ]
+      },
+      "properties": {
+        "id": "2509",
+        "name": "Ocean Rain International Daycare Center - Hillside",
+        "address": "1038 Hillside Ave",
+        "city": "Victoria",
+        "phone": "250-889-7914",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.319466",
+          "48.475515"
+        ]
+      },
+      "properties": {
+        "id": "2513",
+        "name": "Solecito Family Home Daycare",
+        "address": "1833 Feltham Rd",
+        "city": "Victoria",
+        "phone": "250-885-6042",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.532225",
+          "48.407877"
+        ]
+      },
+      "properties": {
+        "id": "2516",
+        "name": "Love N Care Childcare",
+        "address": "911 Wild Ridge Way",
+        "city": "Victoria",
+        "phone": "250-739-9429",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.360165",
+          "48.46531"
+        ]
+      },
+      "properties": {
+        "id": "2537",
+        "name": "Blossom Early Childhood Center",
+        "address": "3937 Quadra St",
+        "city": "Victoria",
+        "phone": "778-677-4021",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.388116",
+          "48.460213"
+        ]
+      },
+      "properties": {
+        "id": "2616",
+        "name": "Lil Starz Childcare Inc.",
+        "address": "3725 Tillicum Rd",
+        "city": "Victoria",
+        "phone": "250-418-0563",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.494138",
+          "48.464947"
+        ]
+      },
+      "properties": {
+        "id": "2628",
+        "name": "Yellow Mellow Daycare",
+        "address": "2285 Bellamy Rd",
+        "city": "Victoria",
+        "phone": "604-720-2694",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.332141",
+          "48.468008"
+        ]
+      },
+      "properties": {
+        "id": "2649",
+        "name": "Ocean Rain International Daycare Center - Shelbourne",
+        "address": "100-3941 Shelbourne St",
+        "city": "Victoria",
+        "phone": "250-418-5784",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.493715",
+          "48.427091"
+        ]
+      },
+      "properties": {
+        "id": "2729",
+        "name": "Muddy Boots Child Care",
+        "address": "3168 Pearkes Rd",
+        "city": "Victoria",
+        "phone": "250-589-4546",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.438472",
+          "48.453859"
+        ]
+      },
+      "properties": {
+        "id": "2732",
+        "name": "View Royal Out Of School Club",
+        "address": "279 Island Highway",
+        "city": "Victoria",
+        "phone": "604-380-4060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.49394",
+          "48.421325"
+        ]
+      },
+      "properties": {
+        "id": "2749",
+        "name": "My Chosen Child Care Ltd.",
+        "address": "3307 Wishart Rd",
+        "city": "Victoria",
+        "phone": "250-888-2425",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.489204",
+          "48.407352"
+        ]
+      },
+      "properties": {
+        "id": "2763",
+        "name": "Next Level Childcare Society Royal Bay",
+        "address": "345 Latoria Boulevard 200",
+        "city": "Victoria",
+        "phone": "604-380-4060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.44254",
+          "48.466257"
+        ]
+      },
+      "properties": {
+        "id": "2788",
+        "name": "Ilm - Eagle View",
+        "address": "97 Talcott Rd",
+        "city": "Victoria",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.48893",
+          "48.410493"
+        ]
+      },
+      "properties": {
+        "id": "2819",
+        "name": "Home From Home @ Royal Bay",
+        "address": "3475 Sparrowhawk Ave",
+        "city": "Victoria",
+        "phone": "250-857-1852",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.438773",
+          "48.45502"
+        ]
+      },
+      "properties": {
+        "id": "2828",
+        "name": "Bloom Montessori (View Royal)",
+        "address": "286 Island Hwy",
+        "city": "Victoria",
+        "phone": "250-812-3137",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.398079",
+          "48.4698"
+        ]
+      },
+      "properties": {
+        "id": "2858",
+        "name": "Flower Patch Kids",
+        "address": "795B Gladiola Ave",
+        "city": "Victoria",
+        "phone": "250-507-0973",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.475765",
+          "48.439839"
+        ]
+      },
+      "properties": {
+        "id": "2875",
+        "name": "Colwood Kids Early Childhood Center",
+        "address": "1949 Sooke Rd",
+        "city": "Victoria",
+        "phone": "778-265-0658",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.552892",
+          "48.398898"
+        ]
+      },
+      "properties": {
+        "id": "2881",
+        "name": "Gnome Place Like Home",
+        "address": "4116 Happy Valley Rd",
+        "city": "Victoria",
+        "phone": "778-977-1430",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.490439",
+          "48.434426"
+        ]
+      },
+      "properties": {
+        "id": "2900",
+        "name": "Stronger Together Academy",
+        "address": "588 Heatherly Rd",
+        "city": "Victoria",
+        "phone": "778-384-0504",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.371298",
+          "48.457687"
+        ]
+      },
+      "properties": {
+        "id": "2971",
+        "name": "Imaginarium Daycare",
+        "address": "881 Darwin Ave",
+        "city": "Victoria",
+        "phone": "778-967-7397",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.359833",
+          "48.430402"
+        ]
+      },
+      "properties": {
+        "id": "3034",
+        "name": "Coastline Early Learning Centre",
+        "address": "845 Caledonia Ave",
+        "city": "Victoria",
+        "phone": "236-470-0193",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.448495",
+          "48.466247"
+        ]
+      },
+      "properties": {
+        "id": "3039",
+        "name": "My Little Artist Holistic Daycare",
+        "address": "2312 Francis View Dr",
+        "city": "Victoria",
+        "phone": "604-771-4136",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.488181",
+          "48.420539"
+        ]
+      },
+      "properties": {
+        "id": "3052",
+        "name": "Adventure Awaits Childcare Inc.",
+        "address": "3326 Painter Rd",
+        "city": "Victoria",
+        "phone": "250-858-8154",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.356053",
+          "48.44829"
+        ]
+      },
+      "properties": {
+        "id": "3063",
+        "name": "Mi Mundo Childcare Center",
+        "address": "3145 Blackwood St",
+        "city": "Victoria",
+        "phone": "250-883-7523",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.421521",
+          "48.45352"
+        ]
+      },
+      "properties": {
+        "id": "3082",
+        "name": "Ilm-Craigflower",
+        "address": "2766 Admirals Rd",
+        "city": "Victoria",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.514216",
+          "48.411045"
+        ]
+      },
+      "properties": {
+        "id": "3087",
+        "name": "Family Roots - At Home Daycare",
+        "address": "3599 Kelly Dawn Pl",
+        "city": "Victoria",
+        "phone": "250-516-4233",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.420272",
+          "48.454391"
+        ]
+      },
+      "properties": {
+        "id": "3092",
+        "name": "Sunflower Playhouse",
+        "address": "1006 Dunkirk Lane",
+        "city": "Victoria",
+        "phone": "250-818-7692",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.311196",
+          "48.419799"
+        ]
+      },
+      "properties": {
+        "id": "3096",
+        "name": "Toddington Daycare",
+        "address": "963 St. Patrick St",
+        "city": "Victoria",
+        "phone": "250-514-3612",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.312135",
+          "48.416341"
+        ]
+      },
+      "properties": {
+        "id": "3180",
+        "name": "Taryn's Ohana Academy Ltd.",
+        "address": "2325 Central Ave",
+        "city": "Victoria",
+        "phone": "604-928-9939",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.357984",
+          "48.429202"
+        ]
+      },
+      "properties": {
+        "id": "3198",
+        "name": "Cherry Blossom Childcare Downtown",
+        "address": "932 Balmoral Road",
+        "city": "Victoria",
+        "phone": "250-889-7515",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.343144",
+          "48.427955"
+        ]
+      },
+      "properties": {
+        "id": "3221",
+        "name": "Super Genius Daycare Fernwood",
+        "address": "1340 Balmoral Rd",
+        "city": "Victoria",
+        "phone": "250-634-1174",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.50506",
+          "48.42528"
+        ]
+      },
+      "properties": {
+        "id": "3235",
+        "name": "Alphabet Zoo Early Learning Centre (Fulton)",
+        "address": "3322 Fulton Rd",
+        "city": "Victoria",
+        "phone": "250-893-0146",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.50567",
+          "48.451883"
+        ]
+      },
+      "properties": {
+        "id": "3271",
+        "name": "Ruth King Elementary School - Osc",
+        "address": "2764 Jacklin Rd",
+        "city": "Victoria",
+        "phone": "250-478-8348",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.470024",
+          "48.44018"
+        ]
+      },
+      "properties": {
+        "id": "3314",
+        "name": "Acekids Daycare",
+        "address": "117-1911 Sooke Rd",
+        "city": "Victoria",
+        "phone": "604-910-2451",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.338109",
+          "48.438534"
+        ]
+      },
+      "properties": {
+        "id": "3331",
+        "name": "Smilekids Childcare Hillside",
+        "address": "2715 Forbes St",
+        "city": "Victoria",
+        "phone": "250-884-4126",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.422399",
+          "48.470837"
+        ]
+      },
+      "properties": {
+        "id": "3341",
+        "name": "Almosthome Strawberry Hill",
+        "address": "3897 Holland Ave",
+        "city": "Victoria",
+        "phone": "250-590-7666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.406643",
+          "48.482076"
+        ]
+      },
+      "properties": {
+        "id": "3375",
+        "name": "Cherry Lane Childcare",
+        "address": "4260 Ponderosa Cres",
+        "city": "Victoria",
+        "phone": "778-350-2920",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.306188",
+          "48.422693"
+        ]
+      },
+      "properties": {
+        "id": "3376",
+        "name": "St Christopher's Montessori School Casa",
+        "address": "2451 Windsor Rd",
+        "city": "Victoria",
+        "phone": "250-595-3213",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.410529",
+          "48.493739"
+        ]
+      },
+      "properties": {
+        "id": "3433",
+        "name": "Hampton House Society",
+        "address": "3200-4464 Markham St",
+        "city": "Victoria",
+        "phone": "250-351-6776",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.532383",
+          "48.3808"
+        ]
+      },
+      "properties": {
+        "id": "3445",
+        "name": "Metchosin Preschool",
+        "address": "1023-4495 Happy Valley Rd",
+        "city": "Victoria",
+        "phone": "250-478-9241",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.387983",
+          "48.500238"
+        ]
+      },
+      "properties": {
+        "id": "3454",
+        "name": "Bee Happy Montessori House",
+        "address": "526 Normandy Rd",
+        "city": "Victoria",
+        "phone": "250-516-6191",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.503801",
+          "48.409068"
+        ]
+      },
+      "properties": {
+        "id": "3457",
+        "name": "Anchors Wood Playcare",
+        "address": "3542 Charnley Pl",
+        "city": "Victoria",
+        "phone": "778-677-0466",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.310685",
+          "48.435902"
+        ]
+      },
+      "properties": {
+        "id": "3463",
+        "name": "Ilm-Willows",
+        "address": "2290 Musgrave St",
+        "city": "Victoria",
+        "phone": "250-585-7898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.339355",
+          "48.440378"
+        ]
+      },
+      "properties": {
+        "id": "3558",
+        "name": "The Victoria School For Ideal Education",
+        "address": "2820 Belmont Ave",
+        "city": "Victoria",
+        "phone": "250-383-6654",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.379182",
+          "48.481213"
+        ]
+      },
+      "properties": {
+        "id": "3589",
+        "name": "Rainbows And Dreams",
+        "address": "4184 Keewatin Pl",
+        "city": "Victoria",
+        "phone": "250-479-1966",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.34036",
+          "48.45938"
+        ]
+      },
+      "properties": {
+        "id": "3602",
+        "name": "Tender Hearts Child Care",
+        "address": "3615 Doncaster Dr",
+        "city": "Victoria",
+        "phone": "250-595-3240",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.455795",
+          "48.435955"
+        ]
+      },
+      "properties": {
+        "id": "3631",
+        "name": "Military Family Resource Centre Out Of School Care",
+        "address": "720 Galiano Cres",
+        "city": "Victoria",
+        "phone": "250-363-3590",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.464064",
+          "48.441598"
+        ]
+      },
+      "properties": {
+        "id": "3632",
+        "name": "Military Family Resource Centre Daycare",
+        "address": "2610 Rosebank Rd",
+        "city": "Victoria",
+        "phone": "250-363-8628",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.495821",
+          "48.422277"
+        ]
+      },
+      "properties": {
+        "id": "3634",
+        "name": "Happy Campers Osc - Wishart",
+        "address": "3310 Wishart Rd",
+        "city": "Victoria",
+        "phone": "250-391-0909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.398162",
+          "48.479394"
+        ]
+      },
+      "properties": {
+        "id": "3651",
+        "name": "Oakridge Family Care Centre",
+        "address": "4163 Oakridge Cres",
+        "city": "Victoria",
+        "phone": "778-533-1713",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.335303",
+          "48.43822"
+        ]
+      },
+      "properties": {
+        "id": "3659",
+        "name": "Abc Infant Care",
+        "address": "2700 Scott St",
+        "city": "Victoria",
+        "phone": "250-598-9700",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.462197",
+          "48.446246"
+        ]
+      },
+      "properties": {
+        "id": "3665",
+        "name": "Juan De Fuca Childcare Centre",
+        "address": "1767 Island Hwy",
+        "city": "Victoria",
+        "phone": "250-478-8384",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.360381",
+          "48.445981"
+        ]
+      },
+      "properties": {
+        "id": "3688",
+        "name": "Quadra Out Of School Care Program",
+        "address": "3031 Quadra St",
+        "city": "Victoria",
+        "phone": "250-388-5251",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.363799",
+          "48.4806"
+        ]
+      },
+      "properties": {
+        "id": "3695",
+        "name": "St. Margaret's School",
+        "address": "1080 Lucas Ave",
+        "city": "Victoria",
+        "phone": "250-479-7171",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.483697",
+          "48.415441"
+        ]
+      },
+      "properties": {
+        "id": "3703",
+        "name": "Happy Campers Childcare",
+        "address": "3424 Metchosin Rd",
+        "city": "Victoria",
+        "phone": "250-391-0909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.416488",
+          "48.479978"
+        ]
+      },
+      "properties": {
+        "id": "3711",
+        "name": "Piccolo's Childcare Centre",
+        "address": "4143 Auldfarm Lane",
+        "city": "Victoria",
+        "phone": "250-882-3802",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.485845",
+          "48.436128"
+        ]
+      },
+      "properties": {
+        "id": "3714",
+        "name": "Happy Camper's Childcare - Colwood",
+        "address": "3000 Wishart Rd",
+        "city": "Victoria",
+        "phone": "250-391-0909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.548504",
+          "48.456987"
+        ]
+      },
+      "properties": {
+        "id": "3734",
+        "name": "Happy Campers Osc - Willway",
+        "address": "2939 Mt. Wells Dr",
+        "city": "Victoria",
+        "phone": "250-391-0909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.390531",
+          "48.492645"
+        ]
+      },
+      "properties": {
+        "id": "3766",
+        "name": "Wiggles N' Giggles",
+        "address": "4400 Viewmont Ave",
+        "city": "Victoria",
+        "phone": "250-595-6929",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.422081",
+          "48.467015"
+        ]
+      },
+      "properties": {
+        "id": "3793",
+        "name": "Little Friends Childcare Inc.",
+        "address": "40 High St",
+        "city": "Victoria",
+        "phone": "250-479-8423",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.533199",
+          "48.438116"
+        ]
+      },
+      "properties": {
+        "id": "3795",
+        "name": "His Kids Early Education And Child Care Centre",
+        "address": "1289 Parkdale Dr",
+        "city": "Victoria",
+        "phone": "250-744-8700",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.417178",
+          "48.477896"
+        ]
+      },
+      "properties": {
+        "id": "3819",
+        "name": "Strawberry Vale Out Of School Care",
+        "address": "4109 Rosedale Ave",
+        "city": "Victoria",
+        "phone": "250-889-4792",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.336542",
+          "48.414127"
+        ]
+      },
+      "properties": {
+        "id": "3823",
+        "name": "Ross Bay Preschool Ltd",
+        "address": "1620 Earle St",
+        "city": "Victoria",
+        "phone": "250-383-7445",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.412557",
+          "48.428845"
+        ]
+      },
+      "properties": {
+        "id": "3830",
+        "name": "Esquimalt Recreation Centre Osc",
+        "address": "527 Fraser St",
+        "city": "Victoria",
+        "phone": "250-412-8506",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.34052",
+          "48.437966"
+        ]
+      },
+      "properties": {
+        "id": "3868",
+        "name": "Ladybug Child Care",
+        "address": "2665 Asquith St",
+        "city": "Victoria",
+        "phone": "250-516-6418",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.307321",
+          "48.428695"
+        ]
+      },
+      "properties": {
+        "id": "3881",
+        "name": "Glenlyon Norfolk School Daycare",
+        "address": "1701 Beach Dr",
+        "city": "Victoria",
+        "phone": "250-370-6854",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.330135",
+          "48.413397"
+        ]
+      },
+      "properties": {
+        "id": "3890",
+        "name": "Carousel Child Care Centre",
+        "address": "301 Richmond Ave",
+        "city": "Victoria",
+        "phone": "250-598-2313",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.493464",
+          "48.434437"
+        ]
+      },
+      "properties": {
+        "id": "3899",
+        "name": "Learning Tree Preschool",
+        "address": "2250 Sooke Rd",
+        "city": "Victoria",
+        "phone": "250-478-7113",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.3842",
+          "48.471876"
+        ]
+      },
+      "properties": {
+        "id": "3918",
+        "name": "Pacific Christian Pre-School",
+        "address": "671 Agnes St",
+        "city": "Victoria",
+        "phone": "250-479-4532",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.494041",
+          "48.435218"
+        ]
+      },
+      "properties": {
+        "id": "3927",
+        "name": "Little Bears Early Childhood Education Centre",
+        "address": "623 Kelly Rd",
+        "city": "Victoria",
+        "phone": "250-478-8999",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.319016",
+          "48.417925"
+        ]
+      },
+      "properties": {
+        "id": "3937",
+        "name": "St. Michaels University School - Junior School",
+        "address": "820 Victoria Ave",
+        "city": "Victoria",
+        "phone": "250-598-3922",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.507131",
+          "48.450303"
+        ]
+      },
+      "properties": {
+        "id": "3975",
+        "name": "Kids Klub Western #1",
+        "address": "935 Goldstream Ave",
+        "city": "Victoria",
+        "phone": "250-478-7571",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.409495",
+          "48.506428"
+        ]
+      },
+      "properties": {
+        "id": "3976",
+        "name": "Kids Klub Beaver Lake School",
+        "address": "4828 West Saanich Rd",
+        "city": "Victoria",
+        "phone": "250-479-5670",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.390913",
+          "48.467514"
+        ]
+      },
+      "properties": {
+        "id": "3977",
+        "name": "Kids Klub Centre Mckenzie School",
+        "address": "4005 Raymond St N",
+        "city": "Victoria",
+        "phone": "250-479-7622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.402076",
+          "48.480629"
+        ]
+      },
+      "properties": {
+        "id": "3978",
+        "name": "Kids Klub Centre Northridge",
+        "address": "4190 Carey Rd",
+        "city": "Victoria",
+        "phone": "250-812-7047",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.345321",
+          "48.470169"
+        ]
+      },
+      "properties": {
+        "id": "3979",
+        "name": "Kids Klub Braefoot Elementary School",
+        "address": "1440 Harrop Rd",
+        "city": "Victoria",
+        "phone": "250-477-7784",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.320732",
+          "48.483203"
+        ]
+      },
+      "properties": {
+        "id": "3980",
+        "name": "Kids Klub Gordon Head",
+        "address": "1806 San Juan Ave",
+        "city": "Victoria",
+        "phone": "250-881-4116",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.487686",
+          "48.437472"
+        ]
+      },
+      "properties": {
+        "id": "3981",
+        "name": "Happy Campers Osc - Mt View",
+        "address": "510 Mount View Ave",
+        "city": "Victoria",
+        "phone": "250-391-0909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.399012",
+          "48.454331"
+        ]
+      },
+      "properties": {
+        "id": "3982",
+        "name": "Kids Klub - Pearkes Recreation Centre",
+        "address": "3100 Tillicum Rd",
+        "city": "Victoria",
+        "phone": "250-475-5494",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.506838",
+          "48.465823"
+        ]
+      },
+      "properties": {
+        "id": "3983",
+        "name": "Kids Klub - Lakewood Elementary",
+        "address": "2363 Setchfield Ave",
+        "city": "Victoria",
+        "phone": "250-478-1566",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.365635",
+          "48.478368"
+        ]
+      },
+      "properties": {
+        "id": "3984",
+        "name": "Kids Klub Centre Lakehill Site",
+        "address": "1031 Lucas Ave",
+        "city": "Victoria",
+        "phone": "250-479-0353",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.402601",
+          "48.465168"
+        ]
+      },
+      "properties": {
+        "id": "3985",
+        "name": "Marigold Kids Klub",
+        "address": "505 Marigold Rd",
+        "city": "Victoria",
+        "phone": "250-479-9934",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.360984",
+          "48.436976"
+        ]
+      },
+      "properties": {
+        "id": "4050",
+        "name": "Quadra Village Community Childcare",
+        "address": "901 Kings Rd",
+        "city": "Victoria",
+        "phone": "250-388-7696",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.528791",
+          "48.428423"
+        ]
+      },
+      "properties": {
+        "id": "4087",
+        "name": "Happy Campers Osc - Happy Valley",
+        "address": "3291 Happy Valley Rd",
+        "city": "Victoria",
+        "phone": "250-391-0909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.401318",
+          "48.432033"
+        ]
+      },
+      "properties": {
+        "id": "4093",
+        "name": "La Garderie Saute-Mouton",
+        "address": "637 Head St",
+        "city": "Victoria",
+        "phone": "250-220-6015",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.291103",
+          "48.464369"
+        ]
+      },
+      "properties": {
+        "id": "4122",
+        "name": "Queenswood Family Child Care",
+        "address": "2590 Arbutus Rd",
+        "city": "Victoria",
+        "phone": "250-514-4155",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.411295",
+          "48.453712"
+        ]
+      },
+      "properties": {
+        "id": "4127",
+        "name": "Apples And Bananas",
+        "address": "2838 Adelaide Ave",
+        "city": "Victoria",
+        "phone": "250-475-7595",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.501695",
+          "48.439927"
+        ]
+      },
+      "properties": {
+        "id": "4158",
+        "name": "Child's Play Family Child Care",
+        "address": "2825 Pickford Rd",
+        "city": "Victoria",
+        "phone": "250-391-1577",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.318569",
+          "48.473473"
+        ]
+      },
+      "properties": {
+        "id": "4166",
+        "name": "Maria Montessori Academy",
+        "address": "1841 Fairburn Dr",
+        "city": "Victoria",
+        "phone": "250-479-4746",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.378487",
+          "48.444176"
+        ]
+      },
+      "properties": {
+        "id": "4175",
+        "name": "Burnside Child Care Centre",
+        "address": "471 Cecelia Rd",
+        "city": "Victoria",
+        "phone": "250-388-5251",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.413036",
+          "48.429702"
+        ]
+      },
+      "properties": {
+        "id": "4197",
+        "name": "Island Kids Academy Centre 2 (Forrest)",
+        "address": "542 Fraser St",
+        "city": "Victoria",
+        "phone": "250-413-7429",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.361416",
+          "48.445087"
+        ]
+      },
+      "properties": {
+        "id": "4220",
+        "name": "Urban Meadow",
+        "address": "3004 Quadra St",
+        "city": "Victoria",
+        "phone": "250-590-0679",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.413118",
+          "48.429578"
+        ]
+      },
+      "properties": {
+        "id": "4223",
+        "name": "Island Kids Academy Esquimalt Centre 1 (Ocean)",
+        "address": "538 Fraser St",
+        "city": "Victoria",
+        "phone": "250-381-2929",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.324326",
+          "48.433802"
+        ]
+      },
+      "properties": {
+        "id": "4225",
+        "name": "St. Patrick's Catholic School",
+        "address": "2368 Trent St",
+        "city": "Victoria",
+        "phone": "250-727-6893",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.298394",
+          "48.469168"
+        ]
+      },
+      "properties": {
+        "id": "4332",
+        "name": "G.R. Pearkes Child Care Services",
+        "address": "3970 Haro Rd",
+        "city": "Victoria",
+        "phone": "250-519-6778",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.349888",
+          "48.432336"
+        ]
+      },
+      "properties": {
+        "id": "4335",
+        "name": "Tigger's Playschool",
+        "address": "1161 Princess Ave",
+        "city": "Victoria",
+        "phone": "250-818-7677",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.314906",
+          "48.441972"
+        ]
+      },
+      "properties": {
+        "id": "4343",
+        "name": "Gonzales Preschool Group",
+        "address": "2928 Eastdowne Rd",
+        "city": "Victoria",
+        "phone": "250-727-1003",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.518977",
+          "48.44131"
+        ]
+      },
+      "properties": {
+        "id": "4388",
+        "name": "Langford Montessori Junior Kindergarten",
+        "address": "1033 Jenkins Ave",
+        "city": "Victoria",
+        "phone": "250-857-5895",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.436432",
+          "48.53378"
+        ]
+      },
+      "properties": {
+        "id": "4426",
+        "name": "Island Montessori House School",
+        "address": "5575 West Saanich Rd",
+        "city": "Victoria",
+        "phone": "250-592-4411",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.517109",
+          "48.433797"
+        ]
+      },
+      "properties": {
+        "id": "4436",
+        "name": "Happy Campers Osc - Forge",
+        "address": "2612 Sooke Rd",
+        "city": "Victoria",
+        "phone": "250-391-0909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.512154",
+          "48.445747"
+        ]
+      },
+      "properties": {
+        "id": "4457",
+        "name": "Happy Campers Osc - Dunford",
+        "address": "948 Dunford Ave",
+        "city": "Victoria",
+        "phone": "250-391-0909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.53253",
+          "48.429899"
+        ]
+      },
+      "properties": {
+        "id": "4463",
+        "name": "Almosthome Luxton",
+        "address": "1040 Marwood Ave",
+        "city": "Victoria",
+        "phone": "250-590-7666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.336965",
+          "48.437032"
+        ]
+      },
+      "properties": {
+        "id": "4552",
+        "name": "Little Acorn Care Centre",
+        "address": "2629 Victor St",
+        "city": "Victoria",
+        "phone": "250-370-9103",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.48685",
+          "48.459346"
+        ]
+      },
+      "properties": {
+        "id": "4591",
+        "name": "Tiny Bubbles",
+        "address": "2576 Jeanine Dr",
+        "city": "Victoria",
+        "phone": "250-661-1520",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.512168",
+          "48.449974"
+        ]
+      },
+      "properties": {
+        "id": "4650",
+        "name": "Almosthome Goldstream It",
+        "address": "999 Goldstream Ave",
+        "city": "Victoria",
+        "phone": "250-590-7666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.344154",
+          "48.449615"
+        ]
+      },
+      "properties": {
+        "id": "4655",
+        "name": "Artscalibre Academy",
+        "address": "3220 Cedar Hill Rd",
+        "city": "Victoria",
+        "phone": "250-382-3533",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.361364",
+          "48.427422"
+        ]
+      },
+      "properties": {
+        "id": "4658",
+        "name": "Shalom Day Care",
+        "address": "1461 Blanshard",
+        "city": "Victoria",
+        "phone": "778-977-2898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.520193",
+          "48.442043"
+        ]
+      },
+      "properties": {
+        "id": "4660",
+        "name": "Love Bugs Family Childcare",
+        "address": "1062 Jenkins Ave",
+        "city": "Victoria",
+        "phone": "250-220-5718",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.322755",
+          "48.486356"
+        ]
+      },
+      "properties": {
+        "id": "4666",
+        "name": "Torquay School Kids Klub",
+        "address": "4413 Torquay Dr",
+        "city": "Victoria",
+        "phone": "250-589-6762",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.399242",
+          "48.479463"
+        ]
+      },
+      "properties": {
+        "id": "4702",
+        "name": "Little Critters Family Daycare",
+        "address": "4177 Carey Rd",
+        "city": "Victoria",
+        "phone": "250-889-8922",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.417628",
+          "48.428511"
+        ]
+      },
+      "properties": {
+        "id": "4705",
+        "name": "La Pre-Maternelle Appletree Preschool",
+        "address": "500 Admirals Rd",
+        "city": "Victoria",
+        "phone": "250-479-0292",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.37962",
+          "48.498663"
+        ]
+      },
+      "properties": {
+        "id": "4730",
+        "name": "Vme Montessori Educare",
+        "address": "1012 Falaise Pl",
+        "city": "Victoria",
+        "phone": "250-881-8666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.388409",
+          "48.438162"
+        ]
+      },
+      "properties": {
+        "id": "4819",
+        "name": "Vwca Little Steps Childcare",
+        "address": "521 Craigflower Rd",
+        "city": "Victoria",
+        "phone": "250-590-8922",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.496228",
+          "48.435952"
+        ]
+      },
+      "properties": {
+        "id": "4849",
+        "name": "Happy Campers - Kelly",
+        "address": "647 Kelly Rd",
+        "city": "Victoria",
+        "phone": "250-391-0909",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.540289",
+          "48.36612"
+        ]
+      },
+      "properties": {
+        "id": "4893",
+        "name": "A Growing Place Early Childhood Centre",
+        "address": "4749 William Head Rd",
+        "city": "Victoria",
+        "phone": "250-391-1133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.500016",
+          "48.451025"
+        ]
+      },
+      "properties": {
+        "id": "4894",
+        "name": "Leap Forward",
+        "address": "2758 Peatt Rd",
+        "city": "Victoria",
+        "phone": "250-818-9225",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.440978",
+          "48.453995"
+        ]
+      },
+      "properties": {
+        "id": "4897",
+        "name": "Victory Hill Daycare",
+        "address": "287 Pallisier Ave",
+        "city": "Victoria",
+        "phone": "778-403-5159",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.514248",
+          "48.434582"
+        ]
+      },
+      "properties": {
+        "id": "4907",
+        "name": "Tune Town Childcare Centre",
+        "address": "101-3179 Jacklin Rd",
+        "city": "Victoria",
+        "phone": "778-433-7713",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.366542",
+          "48.446855"
+        ]
+      },
+      "properties": {
+        "id": "4920",
+        "name": "Sweet Kids Family Daycare",
+        "address": "3142 Alder St",
+        "city": "Victoria",
+        "phone": "250-813-1886",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.398894",
+          "48.449269"
+        ]
+      },
+      "properties": {
+        "id": "4928",
+        "name": "Almosthome Tillicum",
+        "address": "2964 Tillicum Rd",
+        "city": "Victoria",
+        "phone": "250-590-7666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.352486",
+          "48.446911"
+        ]
+      },
+      "properties": {
+        "id": "4934",
+        "name": "Simply Fun Finlayson",
+        "address": "3069 Highview St",
+        "city": "Victoria",
+        "phone": "",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.490002",
+          "48.43502"
+        ]
+      },
+      "properties": {
+        "id": "4939",
+        "name": "Sunshine Early Childhood Centre",
+        "address": "2225 Sooke Rd",
+        "city": "Victoria",
+        "phone": "250-893-8327",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.334625",
+          "48.417018"
+        ]
+      },
+      "properties": {
+        "id": "4946",
+        "name": "Little Owl Early Learning",
+        "address": "1648 Richardson St",
+        "city": "Victoria",
+        "phone": "250-516-1338",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.399548",
+          "48.454528"
+        ]
+      },
+      "properties": {
+        "id": "4947",
+        "name": "Full O' Beans Preschool",
+        "address": "3100 Tillicum Rd",
+        "city": "Victoria",
+        "phone": "250-360-1148",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.403824",
+          "48.461844"
+        ]
+      },
+      "properties": {
+        "id": "4956",
+        "name": "St. Joseph's Early Learning Centre",
+        "address": "757 Burnside Rd W",
+        "city": "Victoria",
+        "phone": "250-479-1237",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.35574",
+          "48.449114"
+        ]
+      },
+      "properties": {
+        "id": "4968",
+        "name": "Nette's Family Childcare",
+        "address": "3175 Stevenson Pl",
+        "city": "Victoria",
+        "phone": "250-385-4877",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.354683",
+          "48.436741"
+        ]
+      },
+      "properties": {
+        "id": "4998",
+        "name": "Little House On Graham",
+        "address": "2545 Graham St",
+        "city": "Victoria",
+        "phone": "250-999-2084",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.328435",
+          "48.476027"
+        ]
+      },
+      "properties": {
+        "id": "5013",
+        "name": "Victoria Nature School Gordon Head",
+        "address": "4100 Lambrick Way",
+        "city": "Victoria",
+        "phone": "403-354-2262",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.382395",
+          "48.455913"
+        ]
+      },
+      "properties": {
+        "id": "5029",
+        "name": "Family First Child Care",
+        "address": "83 Battleford Ave",
+        "city": "Victoria",
+        "phone": "250-893-3980",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.374665",
+          "48.454483"
+        ]
+      },
+      "properties": {
+        "id": "5039",
+        "name": "Kids & Company Victoria",
+        "address": "131 3500 Uptown Blvd",
+        "city": "Victoria",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.513389",
+          "48.442354"
+        ]
+      },
+      "properties": {
+        "id": "5045",
+        "name": "Kids & Company Langford",
+        "address": "Building D 965 Langford Parkway",
+        "city": "Victoria",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.363779",
+          "48.420983"
+        ]
+      },
+      "properties": {
+        "id": "5062",
+        "name": "Little Hands Child Care Humboldt",
+        "address": "792 Humboldt St",
+        "city": "Victoria",
+        "phone": "250-634-4872",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.327544",
+          "48.485206"
+        ]
+      },
+      "properties": {
+        "id": "5070",
+        "name": "Adventure Island Childcare",
+        "address": "4355 Okano Pl",
+        "city": "Victoria",
+        "phone": "250-857-1217",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.343905",
+          "48.439683"
+        ]
+      },
+      "properties": {
+        "id": "5100",
+        "name": "Gillybird Nature Academy",
+        "address": "2750 Roseberry Ave",
+        "city": "Victoria",
+        "phone": "250-704-6607",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.462981",
+          "48.451211"
+        ]
+      },
+      "properties": {
+        "id": "5103",
+        "name": "Bloom Montessori",
+        "address": "101-1701 Island Hwy",
+        "city": "Victoria",
+        "phone": "250-812-3137",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.324188",
+          "48.429932"
+        ]
+      },
+      "properties": {
+        "id": "5111",
+        "name": "Playville Early Childhood Centre",
+        "address": "1939 Bourchier St",
+        "city": "Victoria",
+        "phone": "250-686-1489",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.384572",
+          "48.470075"
+        ]
+      },
+      "properties": {
+        "id": "5132",
+        "name": "Sarah's Lil' Monkeys",
+        "address": "647 Kenneth St",
+        "city": "Victoria",
+        "phone": "250-889-4488",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.365614",
+          "48.439029"
+        ]
+      },
+      "properties": {
+        "id": "5134",
+        "name": "Centennial Day Care Centre",
+        "address": "106-740 Hillside Ave",
+        "city": "Victoria",
+        "phone": "250-386-6832",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.406282",
+          "48.483048"
+        ]
+      },
+      "properties": {
+        "id": "5140",
+        "name": "Mud Puddle Daycare",
+        "address": "1170 Gerda Rd",
+        "city": "Victoria",
+        "phone": "250-418-5372",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.471872",
+          "48.444524"
+        ]
+      },
+      "properties": {
+        "id": "5179",
+        "name": "Bgc South Vancouver Island - Westshore Club",
+        "address": "345 Wale Rd",
+        "city": "Victoria",
+        "phone": "250-384-9133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.372586",
+          "48.523337"
+        ]
+      },
+      "properties": {
+        "id": "5188",
+        "name": "Best Neighbour Childcare Centre",
+        "address": "5148 Lochside Dr",
+        "city": "Victoria",
+        "phone": "778-402-8767",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.333515",
+          "48.41734"
+        ]
+      },
+      "properties": {
+        "id": "5213",
+        "name": "Christ Church Cathedral Childcare",
+        "address": "1670 Richardson St",
+        "city": "Victoria",
+        "phone": "250-383-5125",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.357161",
+          "48.446485"
+        ]
+      },
+      "properties": {
+        "id": "5231",
+        "name": "Little Boom Daycare",
+        "address": "1115 Finlayson St",
+        "city": "Victoria",
+        "phone": "250-361-3425",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.398315",
+          "48.499469"
+        ]
+      },
+      "properties": {
+        "id": "5234",
+        "name": "Sandy's Daycare",
+        "address": "4648 West Saanich Rd",
+        "city": "Victoria",
+        "phone": "250-891-4932",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.345255",
+          "48.438831"
+        ]
+      },
+      "properties": {
+        "id": "5237",
+        "name": "Oaklands Out Of School Care #2",
+        "address": "2736 Fernwood Rd",
+        "city": "Victoria",
+        "phone": "250-370-9101",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.363796",
+          "48.450942"
+        ]
+      },
+      "properties": {
+        "id": "5277",
+        "name": "Cloverdale Child Care Scout Hall",
+        "address": "3266 Glasgow Ave",
+        "city": "Victoria",
+        "phone": "250-995-1766",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.3936",
+          "48.436499"
+        ]
+      },
+      "properties": {
+        "id": "5279",
+        "name": "Little Genius Academy",
+        "address": "1121 Dominion Rd",
+        "city": "Victoria",
+        "phone": "250-384-2806",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.400394",
+          "48.482009"
+        ]
+      },
+      "properties": {
+        "id": "5340",
+        "name": "Northridge Neighbours Daycare",
+        "address": "4231 Carey Rd",
+        "city": "Victoria",
+        "phone": "778-265-5246",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.394314",
+          "48.436427"
+        ]
+      },
+      "properties": {
+        "id": "5352",
+        "name": "Super Genius Daycare",
+        "address": "780 Dominion Rd",
+        "city": "Victoria",
+        "phone": "250-385-0860",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.325046",
+          "48.461951"
+        ]
+      },
+      "properties": {
+        "id": "5358",
+        "name": "Marco's Daycare",
+        "address": "3816 Kremlin St",
+        "city": "Victoria",
+        "phone": "250-383-5826",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.535242",
+          "48.377429"
+        ]
+      },
+      "properties": {
+        "id": "5366",
+        "name": "Painted Turtle Early Childcare Centre",
+        "address": "4526 William Head Rd",
+        "city": "Victoria",
+        "phone": "250-882-9794",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.328508",
+          "48.429339"
+        ]
+      },
+      "properties": {
+        "id": "5371",
+        "name": "Sundance Playschool",
+        "address": "1733 Bank St",
+        "city": "Victoria",
+        "phone": "778-977-4443",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.319214",
+          "48.489665"
+        ]
+      },
+      "properties": {
+        "id": "5380",
+        "name": "Karen Hambley Daycare",
+        "address": "1781 Ash Rd",
+        "city": "Victoria",
+        "phone": "250-213-5344",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.426882",
+          "48.448839"
+        ]
+      },
+      "properties": {
+        "id": "5381",
+        "name": "Maple Tree Children's Centre Aldersmith",
+        "address": "A1 100 Aldersmith Pl",
+        "city": "Victoria",
+        "phone": "250-590-6193",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.517503",
+          "48.432943"
+        ]
+      },
+      "properties": {
+        "id": "5405",
+        "name": "Alphabet Zoo Early Learning Centre",
+        "address": "2619 Sooke Rd",
+        "city": "Victoria",
+        "phone": "778-265-1337",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.311103",
+          "48.44427"
+        ]
+      },
+      "properties": {
+        "id": "5407",
+        "name": "Seedlings Daycare",
+        "address": "3025 Cadboro Bay Rd",
+        "city": "Victoria",
+        "phone": "250-727-5597",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.425668",
+          "48.46648"
+        ]
+      },
+      "properties": {
+        "id": "5409",
+        "name": "Quail's  Nest Daycare",
+        "address": "18 Camden Ave",
+        "city": "Victoria",
+        "phone": "250-721-2342",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.409489",
+          "48.479271"
+        ]
+      },
+      "properties": {
+        "id": "5412",
+        "name": "Nancy's Little Angels",
+        "address": "1180 Dunsterville Ave",
+        "city": "Victoria",
+        "phone": "250-516-3223",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.405824",
+          "48.462482"
+        ]
+      },
+      "properties": {
+        "id": "5415",
+        "name": "Anklebyters Out-Of-School Care",
+        "address": "3751 Grange Rd",
+        "city": "Victoria",
+        "phone": "250-216-2756",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.442684",
+          "48.466271"
+        ]
+      },
+      "properties": {
+        "id": "5416",
+        "name": "Eagle View Out Of School Care",
+        "address": "97 Talcott Rd",
+        "city": "Victoria",
+        "phone": "250-216-2756",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.554639",
+          "48.364109"
+        ]
+      },
+      "properties": {
+        "id": "5474",
+        "name": "My Chosen Child Care Ltd.",
+        "address": "4983 Rocky Point Rd",
+        "city": "Victoria",
+        "phone": "250-888-2425",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.361387",
+          "48.443636"
+        ]
+      },
+      "properties": {
+        "id": "5482",
+        "name": "Ctots Childhood Education Centre",
+        "address": "2955 Glasgow St",
+        "city": "Victoria",
+        "phone": "250-589-7677",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.426205",
+          "48.468516"
+        ]
+      },
+      "properties": {
+        "id": "5508",
+        "name": "Kidspace Learning Centres Eagle Creek Inc.",
+        "address": "110-25 Helmcken Rd",
+        "city": "Victoria",
+        "phone": "250-786-5990",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.521855",
+          "48.429455"
+        ]
+      },
+      "properties": {
+        "id": "5511",
+        "name": "Fabes Childcare",
+        "address": "938 Walfred Rd",
+        "city": "Victoria",
+        "phone": "250-884-1486",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.417827",
+          "48.465035"
+        ]
+      },
+      "properties": {
+        "id": "5545",
+        "name": "Giggles & Grins Daycare",
+        "address": "1203 Burnside Rd W",
+        "city": "Victoria",
+        "phone": "778-350-0137",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.438464",
+          "48.465473"
+        ]
+      },
+      "properties": {
+        "id": "5561",
+        "name": "Garderie Pomme D'api Daycare",
+        "address": "22 Erskine Lane",
+        "city": "Victoria",
+        "phone": "250-415-2573",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.335271",
+          "48.439319"
+        ]
+      },
+      "properties": {
+        "id": "5565",
+        "name": "Best Buddies Childcare",
+        "address": "2746 Scott St",
+        "city": "Victoria",
+        "phone": "250-888-8359",
+        "services": []
+      }
+    }
+  ]
+}

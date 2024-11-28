@@ -1,0 +1,5705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.14196",
+          "49.161272"
+        ]
+      },
+      "properties": {
+        "id": "39",
+        "name": "Richmond Colts Day Care",
+        "address": "7171 Minoru Blvd.",
+        "city": "Richmond",
+        "phone": "604-726-0890",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.150441",
+          "49.166987"
+        ]
+      },
+      "properties": {
+        "id": "44",
+        "name": "Brighouse ymca Kids Club",
+        "address": "6800 Azure Rd",
+        "city": "Richmond",
+        "phone": "604-306-2630",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.183474",
+          "49.130864"
+        ]
+      },
+      "properties": {
+        "id": "45",
+        "name": "Byng ymca Kids Club",
+        "address": "3711 Georgia St",
+        "city": "Richmond",
+        "phone": "604-668-6155",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.188606",
+          "49.139457"
+        ]
+      },
+      "properties": {
+        "id": "48",
+        "name": "Manoah ymca Kids Club",
+        "address": "10111 4Th Ave",
+        "city": "Richmond",
+        "phone": "604-241-1116",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.149718",
+          "49.191375"
+        ]
+      },
+      "properties": {
+        "id": "56",
+        "name": "Creative Childcare Centre",
+        "address": "1891 Wellington Cres",
+        "city": "Richmond",
+        "phone": "604-512-1318",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.119676",
+          "49.165695"
+        ]
+      },
+      "properties": {
+        "id": "59",
+        "name": "Anderson ymca Kids Club",
+        "address": "9460 Alberta Rd",
+        "city": "Richmond",
+        "phone": "604-214-6629",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.179135",
+          "49.12582"
+        ]
+      },
+      "properties": {
+        "id": "108",
+        "name": "Steveston Community Centre - Preschools",
+        "address": "4111 Moncton St",
+        "city": "Richmond",
+        "phone": "604-238-8088",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.112608",
+          "49.166723"
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "name": "Our Saviour Child Care Centre",
+        "address": "6340 No. 4 Rd",
+        "city": "Richmond",
+        "phone": "604-270-0085",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.181249",
+          "49.14686"
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "name": "West Richmond Kindercare/Junior Out Of School Care",
+        "address": "9180 No. 1 Rd",
+        "city": "Richmond",
+        "phone": "604-238-8400",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.186472",
+          "49.151185"
+        ]
+      },
+      "properties": {
+        "id": "154",
+        "name": "Gilmore Out Of School Care",
+        "address": "8380 Elsmore Rd",
+        "city": "Richmond",
+        "phone": "604-238-8400",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.181249",
+          "49.14686"
+        ]
+      },
+      "properties": {
+        "id": "155",
+        "name": "Merry King Preschool",
+        "address": "9180 No. 1 Rd",
+        "city": "Richmond",
+        "phone": "604-238-8400",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.123843",
+          "49.138998"
+        ]
+      },
+      "properties": {
+        "id": "166",
+        "name": "Child's World Preschool",
+        "address": "9020 Williams Rd",
+        "city": "Richmond",
+        "phone": "604-238-8063",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.127417",
+          "49.140776"
+        ]
+      },
+      "properties": {
+        "id": "167",
+        "name": "South Arm Out Of School Care #1",
+        "address": "8880 Williams Rd",
+        "city": "Richmond",
+        "phone": "604-238-8078",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.127417",
+          "49.140776"
+        ]
+      },
+      "properties": {
+        "id": "168",
+        "name": "Preschool Parade",
+        "address": "8880 Williams Rd",
+        "city": "Richmond",
+        "phone": "604-238-8063",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.133862",
+          "49.161409"
+        ]
+      },
+      "properties": {
+        "id": "171",
+        "name": "Brighouse Junior Kindergarten",
+        "address": "8151 Bennett Rd",
+        "city": "Richmond",
+        "phone": "604-272-2480",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.142484",
+          "49.143255"
+        ]
+      },
+      "properties": {
+        "id": "293",
+        "name": "Tomorrow's Topkids Errington Clubhouse",
+        "address": "9831 Herbert Ave",
+        "city": "Richmond",
+        "phone": "604-241-4199",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.144349",
+          "49.153825"
+        ]
+      },
+      "properties": {
+        "id": "294",
+        "name": "Tomorrows Topkids Ferris Clubhouse",
+        "address": "7520 Sunnymede Cres",
+        "city": "Richmond",
+        "phone": "604-241-8348",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.174742",
+          "49.15495"
+        ]
+      },
+      "properties": {
+        "id": "295",
+        "name": "Tomorrow's Topkids Grauer Clubhouse",
+        "address": "4440 Blundell Rd",
+        "city": "Richmond",
+        "phone": "604-437-4744",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.164926",
+          "49.130259"
+        ]
+      },
+      "properties": {
+        "id": "296",
+        "name": "Tomorrows Topkids Westwind Clubhouse",
+        "address": "11371 Kingfisher Dr",
+        "city": "Richmond",
+        "phone": "604-448-8963",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.18523",
+          "49.170819"
+        ]
+      },
+      "properties": {
+        "id": "298",
+        "name": "Tomorrow's Topkids Spul'u'kwuks Clubhouse",
+        "address": "5999 Blanshard Dr",
+        "city": "Richmond",
+        "phone": "604-721-9287",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.126565",
+          "49.185434"
+        ]
+      },
+      "properties": {
+        "id": "308",
+        "name": "Pioneer Daycare Center",
+        "address": "8711 Cambie Rd",
+        "city": "Richmond",
+        "phone": "604-278-8212",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.969502",
+          "49.173134"
+        ]
+      },
+      "properties": {
+        "id": "343",
+        "name": "Bethany Child Care Centre",
+        "address": "22680 Westminster Hwy",
+        "city": "Richmond",
+        "phone": "604-519-0133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.167649",
+          "49.162796"
+        ]
+      },
+      "properties": {
+        "id": "375",
+        "name": "Rompers Preschool",
+        "address": "5151 Granville Ave",
+        "city": "Richmond",
+        "phone": "604-238-8497",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.163208",
+          "49.121214"
+        ]
+      },
+      "properties": {
+        "id": "377",
+        "name": "Treehouse Early Learning Center",
+        "address": "100-5500 Andrews Rd",
+        "city": "Richmond",
+        "phone": "604-277-8224",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.08963",
+          "49.156554"
+        ]
+      },
+      "properties": {
+        "id": "405",
+        "name": "Cornerstone Christian Academy Preschool",
+        "address": "7890 No. 5 Rd",
+        "city": "Richmond",
+        "phone": "604-303-9181",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.965695",
+          "49.176678"
+        ]
+      },
+      "properties": {
+        "id": "428",
+        "name": "Hamilton Out Of School Care",
+        "address": "5140 Smith Dr",
+        "city": "Richmond",
+        "phone": "604-204-8655",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.104409",
+          "49.135616"
+        ]
+      },
+      "properties": {
+        "id": "453",
+        "name": "S.P.I.C.E. Of Life Child Care Centre",
+        "address": "10851 Shell Rd",
+        "city": "Richmond",
+        "phone": "604-272-4040",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.113336",
+          "49.136111"
+        ]
+      },
+      "properties": {
+        "id": "563",
+        "name": "Auntie Nette's Childcare",
+        "address": "10251 Dennis Cres",
+        "city": "Richmond",
+        "phone": "778-919-9590",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.1306",
+          "49.151776"
+        ]
+      },
+      "properties": {
+        "id": "564",
+        "name": "Munchkin Korner Child Care Centre",
+        "address": "8680 St. Albans Rd",
+        "city": "Richmond",
+        "phone": "604-275-3177",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.10453",
+          "49.180684"
+        ]
+      },
+      "properties": {
+        "id": "594",
+        "name": "Patty's Family Child Care",
+        "address": "33-10711 Shepherd Dr",
+        "city": "Richmond",
+        "phone": "604-277-9420",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072645",
+          "49.176392"
+        ]
+      },
+      "properties": {
+        "id": "629",
+        "name": "Cefa Crestwood Junior Kindergarten (Commerce Campus)",
+        "address": "100-13775 Commerce Pky",
+        "city": "Richmond",
+        "phone": "604-273-0116",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072645",
+          "49.176392"
+        ]
+      },
+      "properties": {
+        "id": "630",
+        "name": "Cefa Crestwood Junior Kindergarten (Commerce Campus)",
+        "address": "100-13775 Commerce Pky",
+        "city": "Richmond",
+        "phone": "604-273-0116",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.118365",
+          "49.150464"
+        ]
+      },
+      "properties": {
+        "id": "642",
+        "name": "Hatch Kids Learning Center Ltd.",
+        "address": "8600 Ash St",
+        "city": "Richmond",
+        "phone": "604-762-8181",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.129609",
+          "49.137917"
+        ]
+      },
+      "properties": {
+        "id": "644",
+        "name": "Apple Tree Ryan Child Care",
+        "address": "8520 Ryan Rd",
+        "city": "Richmond",
+        "phone": "604-726-0301",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.183614",
+          "49.127092"
+        ]
+      },
+      "properties": {
+        "id": "666",
+        "name": "Blueberry Field Child Care Inc. - 30 Months To School Age",
+        "address": "3720 Broadway St",
+        "city": "Richmond",
+        "phone": "778-708-1751",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.114952",
+          "49.133904"
+        ]
+      },
+      "properties": {
+        "id": "680",
+        "name": "Crayon Box Learning Center Inc.",
+        "address": "100-10811 No. 4 Rd",
+        "city": "Richmond",
+        "phone": "604-275-2332",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.114952",
+          "49.133904"
+        ]
+      },
+      "properties": {
+        "id": "681",
+        "name": "Crayon Box Learning Center Inc.",
+        "address": "100-10811 No. 4 Rd",
+        "city": "Richmond",
+        "phone": "604-275-2332",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.147319",
+          "49.173379"
+        ]
+      },
+      "properties": {
+        "id": "734",
+        "name": "Willow Early Care & Learning Centre",
+        "address": "650-5688 Hollybridge Way",
+        "city": "Richmond",
+        "phone": "604-317-5255",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.147319",
+          "49.173379"
+        ]
+      },
+      "properties": {
+        "id": "735",
+        "name": "Willow Early Care & Learning Centre",
+        "address": "650-5688 Hollybridge Way",
+        "city": "Richmond",
+        "phone": "604-317-5255",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.142778",
+          "49.189726"
+        ]
+      },
+      "properties": {
+        "id": "739",
+        "name": "Little Pilots Inclusive Program",
+        "address": "3688 Cessna Dr",
+        "city": "Richmond",
+        "phone": "604-207-1980",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.080749",
+          "49.185125"
+        ]
+      },
+      "properties": {
+        "id": "766",
+        "name": "Octopus Academy",
+        "address": "12880 Clarke Pl",
+        "city": "Richmond",
+        "phone": "604-285-2818",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.080749",
+          "49.185125"
+        ]
+      },
+      "properties": {
+        "id": "767",
+        "name": "Octopus Academy",
+        "address": "12880 Clarke Pl",
+        "city": "Richmond",
+        "phone": "604-285-2818",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.161009",
+          "49.16983"
+        ]
+      },
+      "properties": {
+        "id": "771",
+        "name": "Lingo Childcare Centre",
+        "address": "5660 Westminster Hwy",
+        "city": "Richmond",
+        "phone": "604-727-6758",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.17367",
+          "49.146264"
+        ]
+      },
+      "properties": {
+        "id": "775",
+        "name": "Ready Set Grow Child Care",
+        "address": "4611 Princeton Ave",
+        "city": "Richmond",
+        "phone": "778-320-3987",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.191411",
+          "49.126134"
+        ]
+      },
+      "properties": {
+        "id": "790",
+        "name": "Sandcastle Park Children's Centre",
+        "address": "7-3060 Chatham St",
+        "city": "Richmond",
+        "phone": "604-274-8380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.111265",
+          "49.196371"
+        ]
+      },
+      "properties": {
+        "id": "795",
+        "name": "Connections Kids Club - Tait",
+        "address": "10071 Finlayson Dr",
+        "city": "Richmond",
+        "phone": "604-271-7600",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.093611",
+          "49.188905"
+        ]
+      },
+      "properties": {
+        "id": "808",
+        "name": "Imago Dei Child Care",
+        "address": "11571 Daniels Rd",
+        "city": "Richmond",
+        "phone": "778-855-2273",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.184216",
+          "49.138437"
+        ]
+      },
+      "properties": {
+        "id": "809",
+        "name": "Little Sunshines",
+        "address": "10340 2Nd Ave",
+        "city": "Richmond",
+        "phone": "604-358-3787",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.099494",
+          "49.129803"
+        ]
+      },
+      "properties": {
+        "id": "824",
+        "name": "Richmonds Best After School Program",
+        "address": "150 11780 Hammersmith Way",
+        "city": "Richmond",
+        "phone": "604-241-7624",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.125436",
+          "49.179075"
+        ]
+      },
+      "properties": {
+        "id": "861",
+        "name": "Nido De Montessori",
+        "address": "2125-4653 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-256-6522",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.125436",
+          "49.179075"
+        ]
+      },
+      "properties": {
+        "id": "862",
+        "name": "Nido De Montessori",
+        "address": "2125-4653 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-256-6522",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.10683",
+          "49.135857"
+        ]
+      },
+      "properties": {
+        "id": "880",
+        "name": "Little Waddlers Daycare",
+        "address": "10840 Maddocks Rd",
+        "city": "Richmond",
+        "phone": "778-847-3540",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.170659",
+          "49.151833"
+        ]
+      },
+      "properties": {
+        "id": "885",
+        "name": "Blossom Child Care",
+        "address": "4571 Lancelot Dr",
+        "city": "Richmond",
+        "phone": "604-317-8207",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.08502",
+          "49.182421"
+        ]
+      },
+      "properties": {
+        "id": "938",
+        "name": "Kiddyland Multiple Intelligence Children Centre",
+        "address": "12440 Woodhead Rd",
+        "city": "Richmond",
+        "phone": "604-668-6439",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.113308",
+          "49.15731"
+        ]
+      },
+      "properties": {
+        "id": "947",
+        "name": "Joyful Kids Learning Centre",
+        "address": "7600 No. 4 Rd",
+        "city": "Richmond",
+        "phone": "604-652-7272",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.186472",
+          "49.151185"
+        ]
+      },
+      "properties": {
+        "id": "1020",
+        "name": "Nest Early Learning",
+        "address": "8380 Elsmore Rd",
+        "city": "Richmond",
+        "phone": "604-644-0971",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.156318",
+          "49.138482"
+        ]
+      },
+      "properties": {
+        "id": "1023",
+        "name": "Nice Kids Child Care Centre",
+        "address": "6280 Goldsmith Dr",
+        "city": "Richmond",
+        "phone": "604-722-6066",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.153078",
+          "49.14128"
+        ]
+      },
+      "properties": {
+        "id": "1050",
+        "name": "Maple House Infant/Toddler Daycare",
+        "address": "6451 Williams Rd",
+        "city": "Richmond",
+        "phone": "778-668-5077",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.177267",
+          "49.123115"
+        ]
+      },
+      "properties": {
+        "id": "1062",
+        "name": "Generation Daycare Inc.",
+        "address": "200-4080 Bayview St",
+        "city": "Richmond",
+        "phone": "604-370-3206",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.128976",
+          "49.179598"
+        ]
+      },
+      "properties": {
+        "id": "1091",
+        "name": "Happy Child Care Bilingual Childcare",
+        "address": "8531 Leslie Rd",
+        "city": "Richmond",
+        "phone": "604-368-5488",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.186517",
+          "49.142519"
+        ]
+      },
+      "properties": {
+        "id": "1135",
+        "name": "Little Cactus Daycare Ltd",
+        "address": "9311 Kirkmond Cres",
+        "city": "Richmond",
+        "phone": "778-882-8317",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.161324",
+          "49.16983"
+        ]
+      },
+      "properties": {
+        "id": "1164",
+        "name": "Lingo Rainbow Childcare Centre",
+        "address": "6020 Dover Rd",
+        "city": "Richmond",
+        "phone": "604-727-6758",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.166102",
+          "49.166118"
+        ]
+      },
+      "properties": {
+        "id": "1201",
+        "name": "Rainbow Angels Infant Toddler Centre",
+        "address": "5364 Opal Pl",
+        "city": "Richmond",
+        "phone": "604-365-8128",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.116913",
+          "49.153326"
+        ]
+      },
+      "properties": {
+        "id": "1296",
+        "name": "Hope Infant Toddler Group Daycare Ii",
+        "address": "9691 mcburney Dr",
+        "city": "Richmond",
+        "phone": "778-628-3783",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.138252",
+          "49.177332"
+        ]
+      },
+      "properties": {
+        "id": "1304",
+        "name": "Tiny Hoppers Early Learning Centre",
+        "address": "160-7951 Alderbridge Way",
+        "city": "Richmond",
+        "phone": "604-279-1199",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.138252",
+          "49.177332"
+        ]
+      },
+      "properties": {
+        "id": "1305",
+        "name": "Tiny Hoppers Early Learning Centre",
+        "address": "160-7951 Alderbridge Way",
+        "city": "Richmond",
+        "phone": "604-279-1199",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.096077",
+          "49.181269"
+        ]
+      },
+      "properties": {
+        "id": "1319",
+        "name": "Kids R Us Early Learning Center",
+        "address": "11600 Aztec St",
+        "city": "Richmond",
+        "phone": "604-767-0439",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.120368",
+          "49.146887"
+        ]
+      },
+      "properties": {
+        "id": "1321",
+        "name": "Potter's Hand Montessori Learning Center",
+        "address": "9411 Glenacres Dr",
+        "city": "Richmond",
+        "phone": "778-868-8109",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.09736",
+          "49.131286"
+        ]
+      },
+      "properties": {
+        "id": "1350",
+        "name": "Ironwood Montessori Academy",
+        "address": "11191 Coppersmith Pl",
+        "city": "Richmond",
+        "phone": "778-994-1288",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097374",
+          "49.131287"
+        ]
+      },
+      "properties": {
+        "id": "1351",
+        "name": "Ironwood Montessori Academy",
+        "address": "11191 Coppersmith Pl",
+        "city": "Richmond",
+        "phone": "778-994-1288",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.180356",
+          "49.148763"
+        ]
+      },
+      "properties": {
+        "id": "1370",
+        "name": "Seafair Education Centre",
+        "address": "4071 Francis Rd",
+        "city": "Richmond",
+        "phone": "778-226-9018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.086655",
+          "49.183465"
+        ]
+      },
+      "properties": {
+        "id": "1374",
+        "name": "Cambie Community Centre Out Of School",
+        "address": "12360 Cambie Rd",
+        "city": "Richmond",
+        "phone": "604-238-8399",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.159761",
+          "49.167149"
+        ]
+      },
+      "properties": {
+        "id": "1420",
+        "name": "Little Cactus Central Daycare",
+        "address": "6580 Bouchard Ct",
+        "city": "Richmond",
+        "phone": "604-780-6018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.065965",
+          "49.133668"
+        ]
+      },
+      "properties": {
+        "id": "1421",
+        "name": "Mustard Seed Children's Centre",
+        "address": "14511 Steveston Highway",
+        "city": "Richmond",
+        "phone": "604-370-0272",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.130662",
+          "49.177719"
+        ]
+      },
+      "properties": {
+        "id": "1441",
+        "name": "Iss Of Bc",
+        "address": "150-8400 Alexandra Rd",
+        "city": "Richmond",
+        "phone": "778-372-6571",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.166566",
+          "49.166382"
+        ]
+      },
+      "properties": {
+        "id": "1487",
+        "name": "Rainbow Angels Infant Toddler Learning Center",
+        "address": "5353 Opal Pl",
+        "city": "Richmond",
+        "phone": "604-365-8128",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.09128",
+          "49.13125"
+        ]
+      },
+      "properties": {
+        "id": "1505",
+        "name": "Beacon Education Ltd Dba Willowbrae Academy Richmond South",
+        "address": "101-12033 Riverside Way",
+        "city": "Richmond",
+        "phone": "604-374-2688",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.09128",
+          "49.13125"
+        ]
+      },
+      "properties": {
+        "id": "1506",
+        "name": "Beacon Education Ltd Dba Willowbrae Academy Richmond South",
+        "address": "101-12033 Riverside Way",
+        "city": "Richmond",
+        "phone": "604-374-2688",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.107576",
+          "49.197762"
+        ]
+      },
+      "properties": {
+        "id": "1511",
+        "name": "River Run Early Care & Learning Centre",
+        "address": "10277 River Dr",
+        "city": "Richmond",
+        "phone": "778-828-9930",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.107576",
+          "49.197762"
+        ]
+      },
+      "properties": {
+        "id": "1512",
+        "name": "River Run Early Care And Learning Centre",
+        "address": "10277 River Dr",
+        "city": "Richmond",
+        "phone": "778-828-9930",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.136348",
+          "49.185582"
+        ]
+      },
+      "properties": {
+        "id": "1675",
+        "name": "Little Moon Childcare Centre",
+        "address": "100-3871 No. 3 Rd",
+        "city": "Richmond",
+        "phone": "604-227-4166",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.128222",
+          "49.171051"
+        ]
+      },
+      "properties": {
+        "id": "1743",
+        "name": "Canstone Ackroyd Daycare",
+        "address": "8600 Ackroyd Rd",
+        "city": "Richmond",
+        "phone": "604-279-1966",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.111525",
+          "49.183153"
+        ]
+      },
+      "properties": {
+        "id": "1745",
+        "name": "Fable Tree Child Care",
+        "address": "4151 Bryson Crt",
+        "city": "Richmond",
+        "phone": "604-366-5350",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141669",
+          "49.189597"
+        ]
+      },
+      "properties": {
+        "id": "1793",
+        "name": "Academics Prekindergarten Yvr",
+        "address": "500-3600 Lysander Lane",
+        "city": "Richmond",
+        "phone": "604-861-9074",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141669",
+          "49.189597"
+        ]
+      },
+      "properties": {
+        "id": "1794",
+        "name": "Academics Prekindergarten Yvr",
+        "address": "500-3600 Lysander Lane",
+        "city": "Richmond",
+        "phone": "604-861-9074",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13619",
+          "49.187478"
+        ]
+      },
+      "properties": {
+        "id": "1800",
+        "name": "St. Dulwich Academy Inc.",
+        "address": "7960 River Rd",
+        "city": "Richmond",
+        "phone": "236-866-7960",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13619",
+          "49.187478"
+        ]
+      },
+      "properties": {
+        "id": "1801",
+        "name": "St. Dulwich Academy Inc.",
+        "address": "7960 River Rd",
+        "city": "Richmond",
+        "phone": "604-616-5193",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072208",
+          "49.187037"
+        ]
+      },
+      "properties": {
+        "id": "1802",
+        "name": "Royal Academy",
+        "address": "3600 Viking Way",
+        "city": "Richmond",
+        "phone": "778-855-5000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072208",
+          "49.187037"
+        ]
+      },
+      "properties": {
+        "id": "1803",
+        "name": "Royal Academy",
+        "address": "3600 Viking Way",
+        "city": "Richmond",
+        "phone": "778-855-5000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.184943",
+          "49.145649"
+        ]
+      },
+      "properties": {
+        "id": "1804",
+        "name": "Les Petit's Bout De Choux",
+        "address": "3740 Raymond",
+        "city": "Richmond",
+        "phone": "604-345-8119",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.106944",
+          "49.192624"
+        ]
+      },
+      "properties": {
+        "id": "1805",
+        "name": "Little Dove Childcare",
+        "address": "10440 mclennan Pl",
+        "city": "Richmond",
+        "phone": "604-270-9393",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135846",
+          "49.182163"
+        ]
+      },
+      "properties": {
+        "id": "1809",
+        "name": "Urban Richmond Academy",
+        "address": "200-4328 No. 3 Rd",
+        "city": "Richmond",
+        "phone": "604-800-7751",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.135846",
+          "49.182163"
+        ]
+      },
+      "properties": {
+        "id": "1810",
+        "name": "Urban Richmond Academy",
+        "address": "200-4328 No. 3 Rd",
+        "city": "Richmond",
+        "phone": "604-800-7751",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.146544",
+          "49.134998"
+        ]
+      },
+      "properties": {
+        "id": "1812",
+        "name": "Active Minds Academy Inc",
+        "address": "10680 Monashee Dr",
+        "city": "Richmond",
+        "phone": "604-277-6625",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.081042",
+          "49.189854"
+        ]
+      },
+      "properties": {
+        "id": "1816",
+        "name": "Cefa Early Learning Jacombs - Group (30 Months To Schoolage)",
+        "address": "3351 Jacombs Rd",
+        "city": "Richmond",
+        "phone": "778-832-1066",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.081042",
+          "49.189854"
+        ]
+      },
+      "properties": {
+        "id": "1817",
+        "name": "Cefa Early Learning Jacombs - Group (Under 36 Months)",
+        "address": "3351 Jacombs Rd",
+        "city": "Richmond",
+        "phone": "778-832-1066",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.168009",
+          "49.15125"
+        ]
+      },
+      "properties": {
+        "id": "1819",
+        "name": "Five Talents Childcare Center Ltd.",
+        "address": "8500 Calder Rd",
+        "city": "Richmond",
+        "phone": "778-968-1978",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.177267",
+          "49.123115"
+        ]
+      },
+      "properties": {
+        "id": "1880",
+        "name": "Generation Daycare Inc.",
+        "address": "200-4080 Bayview St",
+        "city": "Richmond",
+        "phone": "604-370-3206",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.081866",
+          "49.186128"
+        ]
+      },
+      "properties": {
+        "id": "1926",
+        "name": "Little Koala Montessori Academy Clarke",
+        "address": "110-12855 Clarke Pl",
+        "city": "Richmond",
+        "phone": "778-999-9229",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.081866",
+          "49.186128"
+        ]
+      },
+      "properties": {
+        "id": "1927",
+        "name": "Little Koala Montessori Academy Clarke",
+        "address": "110-12855 Clarke Pl",
+        "city": "Richmond",
+        "phone": "778-999-9229",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.125387",
+          "49.17965"
+        ]
+      },
+      "properties": {
+        "id": "1957",
+        "name": "Rothewood Academy Richmond Garden City",
+        "address": "210-4591 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-238-6070",
+        "services": [
+          "Preschool",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.125387",
+          "49.17965"
+        ]
+      },
+      "properties": {
+        "id": "1958",
+        "name": "Rothewood Academy Richmond Garden City",
+        "address": "210-4591 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-238-6070",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13543",
+          "49.167099"
+        ]
+      },
+      "properties": {
+        "id": "2045",
+        "name": "Seedlings Early Childhood Development Hub",
+        "address": "6380 No. 3 Rd",
+        "city": "Richmond",
+        "phone": "604-242-3641",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13543",
+          "49.167099"
+        ]
+      },
+      "properties": {
+        "id": "2046",
+        "name": "Seedlings Early Childhood Development Hub",
+        "address": "6380 No. 3 Rd",
+        "city": "Richmond",
+        "phone": "604-242-3641",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13543",
+          "49.167099"
+        ]
+      },
+      "properties": {
+        "id": "2047",
+        "name": "Seedlings Early Childhood Development Hub",
+        "address": "6380 No. 3 Rd",
+        "city": "Richmond",
+        "phone": "604-242-3641",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13543",
+          "49.167099"
+        ]
+      },
+      "properties": {
+        "id": "2048",
+        "name": "Seedlings Early Childhood Development Hub",
+        "address": "6380 No. 3 Rd",
+        "city": "Richmond",
+        "phone": "604-242-3641",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.179497",
+          "49.154335"
+        ]
+      },
+      "properties": {
+        "id": "2156",
+        "name": "Ready Montessori Daycare",
+        "address": "8060 Corless Pl",
+        "city": "Richmond",
+        "phone": "778-803-9191",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.124535",
+          "49.165841"
+        ]
+      },
+      "properties": {
+        "id": "2180",
+        "name": "Fine Art Montessori Childcare Centre Inc. (Famc)",
+        "address": "105-6488 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-304-6150",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072898",
+          "49.172381"
+        ]
+      },
+      "properties": {
+        "id": "2194",
+        "name": "Smart Start Academy Inc.",
+        "address": "1168-13351 Commerce Pky",
+        "city": "Richmond",
+        "phone": "604-214-8622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072898",
+          "49.172381"
+        ]
+      },
+      "properties": {
+        "id": "2195",
+        "name": "Smart Start Academy Inc.",
+        "address": "1168-13351 Commerce Pky",
+        "city": "Richmond",
+        "phone": "604-214-8622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.090838",
+          "49.148399"
+        ]
+      },
+      "properties": {
+        "id": "2210",
+        "name": "Rjds Early Learning Centre - Gan Aleph",
+        "address": "8760 No. 5 Rd",
+        "city": "Richmond",
+        "phone": "604-275-3393",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.090838",
+          "49.148399"
+        ]
+      },
+      "properties": {
+        "id": "2211",
+        "name": "Rjds Early Learning Centre - Gan Bet",
+        "address": "8760 No. 5 Rd",
+        "city": "Richmond",
+        "phone": "604-275-3393",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.090838",
+          "49.148399"
+        ]
+      },
+      "properties": {
+        "id": "2212",
+        "name": "Rjds After School Care",
+        "address": "8760 No. 5 Rd",
+        "city": "Richmond",
+        "phone": "604-275-3393",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.115758",
+          "49.183222"
+        ]
+      },
+      "properties": {
+        "id": "2282",
+        "name": "Tomsett ymca Kids Club",
+        "address": "9671 Odlin Rd",
+        "city": "Richmond",
+        "phone": "604-307-4820",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.174746",
+          "49.154949"
+        ]
+      },
+      "properties": {
+        "id": "2316",
+        "name": "Just B4 - Grauer Elementary",
+        "address": "4440 Blundell Rd",
+        "city": "Richmond",
+        "phone": "604-668-6000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.120544",
+          "49.145369"
+        ]
+      },
+      "properties": {
+        "id": "2317",
+        "name": "Just B4 - Lee Elementary",
+        "address": "9491 Ash St",
+        "city": "Richmond",
+        "phone": "604-668-6000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.145151",
+          "49.136718"
+        ]
+      },
+      "properties": {
+        "id": "2333",
+        "name": "Amore Family Child Care",
+        "address": "10340 Buttermere Dr",
+        "city": "Richmond",
+        "phone": "778-862-8612",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.113415",
+          "49.163097"
+        ]
+      },
+      "properties": {
+        "id": "2338",
+        "name": "Whole Education Academy",
+        "address": "10019 Granville Ave",
+        "city": "Richmond",
+        "phone": "236-454-1520",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.113415",
+          "49.163097"
+        ]
+      },
+      "properties": {
+        "id": "2339",
+        "name": "Whole Education Academy",
+        "address": "10019 Granville Ave",
+        "city": "Richmond",
+        "phone": "236-454-1520",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.094436",
+          "49.13073"
+        ]
+      },
+      "properties": {
+        "id": "2350",
+        "name": "Redwood Academy Richmond",
+        "address": "120-11060 Horseshoe Way",
+        "city": "Richmond",
+        "phone": "604-370-6699",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.094436",
+          "49.13073"
+        ]
+      },
+      "properties": {
+        "id": "2351",
+        "name": "Redwood Academy Richmond",
+        "address": "120-11060 Horseshoe Way",
+        "city": "Richmond",
+        "phone": "604-370-6699",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.973688",
+          "49.176476"
+        ]
+      },
+      "properties": {
+        "id": "2364",
+        "name": "Wild Dream Educare",
+        "address": "22451 Rathburn Dr",
+        "city": "Richmond",
+        "phone": "778-885-3559",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.089085",
+          "49.182108"
+        ]
+      },
+      "properties": {
+        "id": "2406",
+        "name": "The Big Playhouse Cambie",
+        "address": "12160 Woodhead Rd",
+        "city": "Richmond",
+        "phone": "778-378-8470",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.137585",
+          "49.177435"
+        ]
+      },
+      "properties": {
+        "id": "2430",
+        "name": "Harrow House Academy - Early Learning Centre",
+        "address": "135-7951 Alderbridge Way",
+        "city": "Richmond",
+        "phone": "604-779-7951",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.137585",
+          "49.177435"
+        ]
+      },
+      "properties": {
+        "id": "2431",
+        "name": "Harrow House Academy - Early Learning Centre",
+        "address": "135-7951 Alderbridge Way",
+        "city": "Richmond",
+        "phone": "604-779-7951",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.136348",
+          "49.185582"
+        ]
+      },
+      "properties": {
+        "id": "2459",
+        "name": "Little Moon Childcare Centre",
+        "address": "100-3871 No. 3 Rd",
+        "city": "Richmond",
+        "phone": "604-227-4166",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.098669",
+          "49.186096"
+        ]
+      },
+      "properties": {
+        "id": "2477",
+        "name": "Lil Clubhouse Childcare",
+        "address": "11295 Mellis Dr",
+        "city": "Richmond",
+        "phone": "604-722-4076",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.098669",
+          "49.186096"
+        ]
+      },
+      "properties": {
+        "id": "2478",
+        "name": "Lil Clubhouse Childcare",
+        "address": "11295 Mellis Dr",
+        "city": "Richmond",
+        "phone": "604-722-4076",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.157932",
+          "49.118345"
+        ]
+      },
+      "properties": {
+        "id": "2488",
+        "name": "Aves Flow",
+        "address": "13040 No. 2 Rd",
+        "city": "Richmond",
+        "phone": "778-239-9000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.157932",
+          "49.118345"
+        ]
+      },
+      "properties": {
+        "id": "2489",
+        "name": "Aves Flow",
+        "address": "13040 No. 2 Rd",
+        "city": "Richmond",
+        "phone": "778-239-9000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.150501",
+          "49.155166"
+        ]
+      },
+      "properties": {
+        "id": "2519",
+        "name": "Kiddo House Montessori",
+        "address": "6640 Blundell Rd",
+        "city": "Richmond",
+        "phone": "778-886-0626",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.183614",
+          "49.127092"
+        ]
+      },
+      "properties": {
+        "id": "2584",
+        "name": "Blueberry Field Child Care Inc.",
+        "address": "3720 Broadway St",
+        "city": "Richmond",
+        "phone": "778-708-1751",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.081978",
+          "49.178006"
+        ]
+      },
+      "properties": {
+        "id": "2606",
+        "name": "Angels At Home Family Childcare",
+        "address": "4720 Wyne Cres",
+        "city": "Richmond",
+        "phone": "778-322-9472",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.14701",
+          "49.175883"
+        ]
+      },
+      "properties": {
+        "id": "2610",
+        "name": "Hummingbird Child Care",
+        "address": "6899 Pearson Way",
+        "city": "Richmond",
+        "phone": "236-454-7097",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.14701",
+          "49.175883"
+        ]
+      },
+      "properties": {
+        "id": "2611",
+        "name": "Hummingbird Child Care",
+        "address": "6899 Pearson Way",
+        "city": "Richmond",
+        "phone": "236-454-7097",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.115016",
+          "49.152969"
+        ]
+      },
+      "properties": {
+        "id": "2641",
+        "name": "Hope Group Daycare Center",
+        "address": "8340 Aspin Dr",
+        "city": "Richmond",
+        "phone": "778-628-3783",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141409",
+          "49.138304"
+        ]
+      },
+      "properties": {
+        "id": "2718",
+        "name": "Tomorrow's Topkids Maple Lane Clubhouse",
+        "address": "7671 Alouette Dr",
+        "city": "Richmond",
+        "phone": "604-437-4744",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141409",
+          "49.138304"
+        ]
+      },
+      "properties": {
+        "id": "2719",
+        "name": "Tomorrow's Topkids Maple Lane Clubhouse",
+        "address": "7671 Alouette Dr",
+        "city": "Richmond",
+        "phone": "604-218-5179",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072977",
+          "49.175257"
+        ]
+      },
+      "properties": {
+        "id": "2738",
+        "name": "Rothewood Academy - Crestwood",
+        "address": "110-13575 Commerce Pky",
+        "city": "Richmond",
+        "phone": "604-227-9176",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.072977",
+          "49.175257"
+        ]
+      },
+      "properties": {
+        "id": "2739",
+        "name": "Rothewood Academy - Crestwood",
+        "address": "110-13575 Commerce Pky",
+        "city": "Richmond",
+        "phone": "604-227-9176",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.188606",
+          "49.139457"
+        ]
+      },
+      "properties": {
+        "id": "2742",
+        "name": "Alderwood House School Sandpiper",
+        "address": "10111 Fourth Ave",
+        "city": "Richmond",
+        "phone": "604-362-7928",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.107295",
+          "49.197699"
+        ]
+      },
+      "properties": {
+        "id": "2859",
+        "name": "River Run Early Care & Learning Centre - Preschool",
+        "address": "10277 River Dr",
+        "city": "Richmond",
+        "phone": "778-828-9930",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.124312",
+          "49.148124"
+        ]
+      },
+      "properties": {
+        "id": "2904",
+        "name": "Precious Smiles Academy Richmond",
+        "address": "9080 Francis Rd",
+        "city": "Richmond",
+        "phone": "236-515-9080",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.124312",
+          "49.148124"
+        ]
+      },
+      "properties": {
+        "id": "2905",
+        "name": "Precious Smiles Academy Richmond",
+        "address": "9080 Francis Rd",
+        "city": "Richmond",
+        "phone": "236-515-9080",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.128975",
+          "49.189718"
+        ]
+      },
+      "properties": {
+        "id": "2947",
+        "name": "Sprouts Child Care Centre",
+        "address": "3368 Carscallen Rd",
+        "city": "Richmond",
+        "phone": "236-880-7605",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.128975",
+          "49.189718"
+        ]
+      },
+      "properties": {
+        "id": "2953",
+        "name": "Sprouts Child Care Centre",
+        "address": "3328 Carscallen Rd",
+        "city": "Richmond",
+        "phone": "236-880-7605",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.107295",
+          "49.197699"
+        ]
+      },
+      "properties": {
+        "id": "3000",
+        "name": "River Run Early Care & Learning Centre",
+        "address": "10277 River Dr",
+        "city": "Richmond",
+        "phone": "778-828-9930",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.139565",
+          "49.137318"
+        ]
+      },
+      "properties": {
+        "id": "3011",
+        "name": "Maple House Infant Toddler Daycare 1",
+        "address": "7791 Tweedsmuir Ave",
+        "city": "Richmond",
+        "phone": "778-898-2359",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.089175",
+          "49.151111"
+        ]
+      },
+      "properties": {
+        "id": "3117",
+        "name": "Az-Zahraa Islamic Academy",
+        "address": "8580 No. 5 Rd",
+        "city": "Richmond",
+        "phone": "604-274-7861",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.07003",
+          "49.176979"
+        ]
+      },
+      "properties": {
+        "id": "3127",
+        "name": "Terra Early Learning",
+        "address": "120-13799 Commerce Pky",
+        "city": "Richmond",
+        "phone": "604-285-6558",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.07003",
+          "49.176979"
+        ]
+      },
+      "properties": {
+        "id": "3128",
+        "name": "Terra Early Learning",
+        "address": "120-13799 Commerce Pky",
+        "city": "Richmond",
+        "phone": "604-285-6558",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.168845",
+          "49.13729"
+        ]
+      },
+      "properties": {
+        "id": "3129",
+        "name": "Happy Dolphins Childcare",
+        "address": "10371 Hollymount Dr",
+        "city": "Richmond",
+        "phone": "778-712-3666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.111464",
+          "49.179936"
+        ]
+      },
+      "properties": {
+        "id": "3141",
+        "name": "Lulu Land Infant Toddler Group Daycare",
+        "address": "10128 Carter Crt",
+        "city": "Richmond",
+        "phone": "778-708-1194",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.156571",
+          "49.144885"
+        ]
+      },
+      "properties": {
+        "id": "3244",
+        "name": "Bright Kids Early Learning Center - Rekis",
+        "address": "6211 Rekis Ave",
+        "city": "Richmond",
+        "phone": "778-302-0314",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.109255",
+          "49.155922"
+        ]
+      },
+      "properties": {
+        "id": "3322",
+        "name": "New Direction Academy",
+        "address": "10331 Blundell Rd",
+        "city": "Richmond",
+        "phone": "778-862-5478",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.188606",
+          "49.139457"
+        ]
+      },
+      "properties": {
+        "id": "3325",
+        "name": "Alderwood House School Sandpiper",
+        "address": "10111 Fourth Ave",
+        "city": "Richmond",
+        "phone": "604-362-7928",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.150501",
+          "49.155166"
+        ]
+      },
+      "properties": {
+        "id": "3357",
+        "name": "Kiddo House Montessori",
+        "address": "6640 Blundell Rd",
+        "city": "Richmond",
+        "phone": "778-886-0626",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.150501",
+          "49.155166"
+        ]
+      },
+      "properties": {
+        "id": "3358",
+        "name": "Kiddo House Montessori",
+        "address": "6640 Blundell Rd",
+        "city": "Richmond",
+        "phone": "778-886-0626",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.133862",
+          "49.161409"
+        ]
+      },
+      "properties": {
+        "id": "3388",
+        "name": "Brighouse Junior Kindergarten Corporation",
+        "address": "8151 Bennett Road",
+        "city": "Richmond",
+        "phone": "604-312-3352",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.12045",
+          "49.138925"
+        ]
+      },
+      "properties": {
+        "id": "3406",
+        "name": "Hatch Kids Learning Centre",
+        "address": "9282 Williams Rd",
+        "city": "Richmond",
+        "phone": "778-838-6691",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.12045",
+          "49.138925"
+        ]
+      },
+      "properties": {
+        "id": "3407",
+        "name": "Hatch Kids Learning Centre",
+        "address": "9282 Williams Rd",
+        "city": "Richmond",
+        "phone": "778-838-6691",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.07111",
+          "49.170106"
+        ]
+      },
+      "properties": {
+        "id": "3415",
+        "name": "Star Academy Of Montessori Corporation",
+        "address": "13780 Westminster Hwy",
+        "city": "Richmond",
+        "phone": "778-228-1233",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.101245",
+          "49.140636"
+        ]
+      },
+      "properties": {
+        "id": "3422",
+        "name": "Inspirations Montessori School - Williams",
+        "address": "110-11000 Williams Rd",
+        "city": "Richmond",
+        "phone": "778-980-6085",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.101245",
+          "49.140636"
+        ]
+      },
+      "properties": {
+        "id": "3423",
+        "name": "Inspirations Montessori School - Williams",
+        "address": "110-11000 Williams Rd",
+        "city": "Richmond",
+        "phone": "778-980-6085",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.157029",
+          "49.116753"
+        ]
+      },
+      "properties": {
+        "id": "3446",
+        "name": "Mia Montessori Academy",
+        "address": "110-6111 Dyke Rd",
+        "city": "Richmond",
+        "phone": "236-885-1885",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13261",
+          "49.136799"
+        ]
+      },
+      "properties": {
+        "id": "3461",
+        "name": "Tomorrow's Topkids Bridge Clubhouse",
+        "address": "10400 Leonard Rd",
+        "city": "Richmond",
+        "phone": "604-437-4744",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.090269",
+          "49.184624"
+        ]
+      },
+      "properties": {
+        "id": "3499",
+        "name": "Alderwood House Heron It Class",
+        "address": "12091 Cambie Rd",
+        "city": "Richmond",
+        "phone": "604-362-7928",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.090269",
+          "49.184624"
+        ]
+      },
+      "properties": {
+        "id": "3500",
+        "name": "Alderwood House Heron School Aged Care",
+        "address": "12091 Cambie Rd",
+        "city": "Richmond",
+        "phone": "604-362-7928",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.090269",
+          "49.184624"
+        ]
+      },
+      "properties": {
+        "id": "3501",
+        "name": "Alderwood House Heron 3 To 5 Daycare",
+        "address": "12091 Cambie Rd",
+        "city": "Richmond",
+        "phone": "604-362-7928",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.174715",
+          "49.151624"
+        ]
+      },
+      "properties": {
+        "id": "3534",
+        "name": "Pinnacles Early Learning Centre",
+        "address": "4640 Coventry Dr",
+        "city": "Richmond",
+        "phone": "672-833-1337",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.165121",
+          "49.136571"
+        ]
+      },
+      "properties": {
+        "id": "3568",
+        "name": "James mckinney ymca Kids Club",
+        "address": "10451 Lassam Rd",
+        "city": "Richmond",
+        "phone": "250-960-9336",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.104129",
+          "49.2028"
+        ]
+      },
+      "properties": {
+        "id": "3607",
+        "name": "Rainbow's Nest Child Care",
+        "address": "11331 Twigg Pl",
+        "city": "Richmond",
+        "phone": "604-324-6030",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.187141",
+          "49.160704"
+        ]
+      },
+      "properties": {
+        "id": "3628",
+        "name": "Rise & Shine Montessori",
+        "address": "3440 Moresby Dr",
+        "city": "Richmond",
+        "phone": "604-275-7655",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.086235",
+          "49.181202"
+        ]
+      },
+      "properties": {
+        "id": "3638",
+        "name": "Lesco Montessori Daycare",
+        "address": "12720 Cameron Dr",
+        "city": "Richmond",
+        "phone": "604-279-4228",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.167928",
+          "49.155313"
+        ]
+      },
+      "properties": {
+        "id": "3662",
+        "name": "True Light Montessori Children's Centre",
+        "address": "5120 Blundell Rd",
+        "city": "Richmond",
+        "phone": "604-271-7131",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.16529",
+          "49.13658"
+        ]
+      },
+      "properties": {
+        "id": "3664",
+        "name": "Tomorrows Topkids mckinney Clubhouse",
+        "address": "10451 Lassam Rd",
+        "city": "Richmond",
+        "phone": "604-437-4744",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.121314",
+          "49.169392"
+        ]
+      },
+      "properties": {
+        "id": "3674",
+        "name": "Rpc Out Of School Care",
+        "address": "9300 Westminster Hwy",
+        "city": "Richmond",
+        "phone": "604-278-3264",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.160446",
+          "49.122614"
+        ]
+      },
+      "properties": {
+        "id": "3676",
+        "name": "Renaissance Kids",
+        "address": "1 12491 No 2 Rd",
+        "city": "Richmond",
+        "phone": "604-241-0141",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.12836",
+          "49.145078"
+        ]
+      },
+      "properties": {
+        "id": "3681",
+        "name": "Baby Bumble Bee Day Care",
+        "address": "8260 Sierpina Place",
+        "city": "Richmond",
+        "phone": "604-272-3203",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.111458",
+          "49.190178"
+        ]
+      },
+      "properties": {
+        "id": "3686",
+        "name": "Chaoyin Bilingual Academy",
+        "address": "10111 Bird Rd",
+        "city": "Richmond",
+        "phone": "778-883-6138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.104407",
+          "49.135611"
+        ]
+      },
+      "properties": {
+        "id": "3702",
+        "name": "S.P.I.C.E. Of Life Child Care Centre",
+        "address": "10851 Shell Rd",
+        "city": "Richmond",
+        "phone": "604-272-4040",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.118258",
+          "49.187904"
+        ]
+      },
+      "properties": {
+        "id": "3707",
+        "name": "Country Care Child Care Centre (School Age)",
+        "address": "9500 Kilby Dr",
+        "city": "Richmond",
+        "phone": "604-721-5672",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.178104",
+          "49.168888"
+        ]
+      },
+      "properties": {
+        "id": "3718",
+        "name": "Discovery Montessori Day Care",
+        "address": "6211 Forsythe Cres",
+        "city": "Richmond",
+        "phone": "604-807-9796",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.138188",
+          "49.130042"
+        ]
+      },
+      "properties": {
+        "id": "3732",
+        "name": "Noah's Ark School",
+        "address": "11371 No.3 Rd",
+        "city": "Richmond",
+        "phone": "778-990-3520",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.125857",
+          "49.177807"
+        ]
+      },
+      "properties": {
+        "id": "3755",
+        "name": "Harvest Montessori School",
+        "address": "120-8740 Alexandra Rd",
+        "city": "Richmond",
+        "phone": "604-278-6228",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.180619",
+          "49.155214"
+        ]
+      },
+      "properties": {
+        "id": "3756",
+        "name": "Blue Whale Children's Learning Centre",
+        "address": "8060  No.1 Rd",
+        "city": "Richmond",
+        "phone": "604-762-1666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.086968",
+          "49.178379"
+        ]
+      },
+      "properties": {
+        "id": "3778",
+        "name": "Creative Art Montessori School",
+        "address": "12551 Jensen Dr",
+        "city": "Richmond",
+        "phone": "604-270-6996",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.965695",
+          "49.176678"
+        ]
+      },
+      "properties": {
+        "id": "3827",
+        "name": "Rainbows And Unicorns Preschool",
+        "address": "5140 Smith Dr",
+        "city": "Richmond",
+        "phone": "604-204-8655",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.144094",
+          "49.148591"
+        ]
+      },
+      "properties": {
+        "id": "3853",
+        "name": "Creative Daycare",
+        "address": "7271 Francis Rd",
+        "city": "Richmond",
+        "phone": "604-278-1675",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.16056",
+          "49.146494"
+        ]
+      },
+      "properties": {
+        "id": "3856",
+        "name": "Perla's Child Care",
+        "address": "9231 Laka Dr",
+        "city": "Richmond",
+        "phone": "604-274-4708",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.120544",
+          "49.145369"
+        ]
+      },
+      "properties": {
+        "id": "3873",
+        "name": "Morning Glory Montessori Children's Centre",
+        "address": "9491 Ash St",
+        "city": "Richmond",
+        "phone": "604-272-2821",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.176935",
+          "49.137988"
+        ]
+      },
+      "properties": {
+        "id": "3878",
+        "name": "Tomorrow's Topkids Deifenbaker Clubhouse",
+        "address": "4511 Hermitage Dr",
+        "city": "Richmond",
+        "phone": "604-307-4759",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.163639",
+          "49.151139"
+        ]
+      },
+      "properties": {
+        "id": "3880",
+        "name": "La Garderie/Prematernelle Les Moussaillons",
+        "address": "8580 Kilgour Pl",
+        "city": "Richmond",
+        "phone": "604-488-4235",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.163639",
+          "49.151139"
+        ]
+      },
+      "properties": {
+        "id": "3893",
+        "name": "La Garde Scolaire Les Matelots",
+        "address": "8580 Kilgour Pl",
+        "city": "Richmond",
+        "phone": "604-488-4235",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.131418",
+          "49.153818"
+        ]
+      },
+      "properties": {
+        "id": "3903",
+        "name": "Central Montessori Child Care - Site B",
+        "address": "8191 St. Albans Rd",
+        "city": "Richmond",
+        "phone": "604-618-2880",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.131418",
+          "49.153818"
+        ]
+      },
+      "properties": {
+        "id": "3904",
+        "name": "Central Montessori Child Care - Site C",
+        "address": "8191 St. Albans Rd",
+        "city": "Richmond",
+        "phone": "604-618-2880",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.166487",
+          "49.143027"
+        ]
+      },
+      "properties": {
+        "id": "3915",
+        "name": "Richmond Christian School Early Learning",
+        "address": "5240 Woodwards Rd",
+        "city": "Richmond",
+        "phone": "604-272-5720",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.104683",
+          "49.196274"
+        ]
+      },
+      "properties": {
+        "id": "3925",
+        "name": "Crystal Star Day Care",
+        "address": "10631 Gilmore Cres",
+        "city": "Richmond",
+        "phone": "604-276-9816",
+        "services": [
+          "Preschool",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.179342",
+          "49.135807"
+        ]
+      },
+      "properties": {
+        "id": "3930",
+        "name": "Arts And Music Daycare",
+        "address": "4200 Annapolis Pl",
+        "city": "Richmond",
+        "phone": "604-271-4769",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.969502",
+          "49.173134"
+        ]
+      },
+      "properties": {
+        "id": "3957",
+        "name": "Bethany Child Care Centre",
+        "address": "22680 Westminister Hwy",
+        "city": "Richmond",
+        "phone": "604-519-0133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.154781",
+          "49.135355"
+        ]
+      },
+      "properties": {
+        "id": "3961",
+        "name": "Busy Bee Family Child Care Centre",
+        "address": "10760 Housman St",
+        "city": "Richmond",
+        "phone": "604-721-0402",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.115228",
+          "49.186657"
+        ]
+      },
+      "properties": {
+        "id": "3992",
+        "name": "Tinkerbell Family Child Care",
+        "address": "3831 Kilby Crt",
+        "city": "Richmond",
+        "phone": "604-277-5403",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.123843",
+          "49.138998"
+        ]
+      },
+      "properties": {
+        "id": "4005",
+        "name": "South Arm Community Hall - Kindercare",
+        "address": "9020 Williams Rd",
+        "city": "Richmond",
+        "phone": "604-238-8078",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.171446",
+          "49.141757"
+        ]
+      },
+      "properties": {
+        "id": "4052",
+        "name": "Fantasy Island At Beth Tikvah",
+        "address": "9711 Geal Rd",
+        "city": "Richmond",
+        "phone": "778-837-6262",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.089224",
+          "49.185589"
+        ]
+      },
+      "properties": {
+        "id": "4067",
+        "name": "Childfirst Childcare",
+        "address": "3800 No. 5 Rd",
+        "city": "Richmond",
+        "phone": "604-276-8906",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.118365",
+          "49.150461"
+        ]
+      },
+      "properties": {
+        "id": "4078",
+        "name": "Hatch Kids Learning Center Ltd.",
+        "address": "8600 Ash St",
+        "city": "Richmond",
+        "phone": "604-762-8181",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.19156",
+          "49.126061"
+        ]
+      },
+      "properties": {
+        "id": "4080",
+        "name": "Sandcastle Park Children's Centre",
+        "address": "8 3060 Chatham St",
+        "city": "Richmond",
+        "phone": "604-274-8380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.180357",
+          "49.148745"
+        ]
+      },
+      "properties": {
+        "id": "4104",
+        "name": "Dino-Mites Preschool",
+        "address": "4071 Francis Rd",
+        "city": "Richmond",
+        "phone": "604-272-2423",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.180899",
+          "49.134987"
+        ]
+      },
+      "properties": {
+        "id": "4142",
+        "name": "Smart Lion Day Care",
+        "address": "10751 Fundy Dr",
+        "city": "Richmond",
+        "phone": "604-272-7293",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.174742",
+          "49.15495"
+        ]
+      },
+      "properties": {
+        "id": "4170",
+        "name": "Cherry Blossom Montessori",
+        "address": "4440 Blundell Rd",
+        "city": "Richmond",
+        "phone": "778-829-1441",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.124535",
+          "49.165841"
+        ]
+      },
+      "properties": {
+        "id": "4237",
+        "name": "Fine Art Montessori Childcare Centre Inc. (Famc)",
+        "address": "105-6488 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-304-6150",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103822",
+          "49.125574"
+        ]
+      },
+      "properties": {
+        "id": "4252",
+        "name": "Sequoia Children's Learning Community",
+        "address": "12151 Shell Rd",
+        "city": "Richmond",
+        "phone": "604-275-6466",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103822",
+          "49.125574"
+        ]
+      },
+      "properties": {
+        "id": "4253",
+        "name": "Sequoia Children's Learning Community",
+        "address": "12151 Shell Rd",
+        "city": "Richmond",
+        "phone": "604-275-6466",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.178104",
+          "49.168888"
+        ]
+      },
+      "properties": {
+        "id": "4256",
+        "name": "Discovery Before & After School Care",
+        "address": "6211 Forsyth Cres",
+        "city": "Richmond",
+        "phone": "604-807-9796",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.166487",
+          "49.143027"
+        ]
+      },
+      "properties": {
+        "id": "4257",
+        "name": "Richmond Christian School",
+        "address": "5240 Woodwards Rd",
+        "city": "Richmond",
+        "phone": "604-723-6622",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.095396",
+          "49.145414"
+        ]
+      },
+      "properties": {
+        "id": "4259",
+        "name": "Creative Adventures Out Of School Care",
+        "address": "11511 King Rd",
+        "city": "Richmond",
+        "phone": "604-926-8003",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.095396",
+          "49.145414"
+        ]
+      },
+      "properties": {
+        "id": "4294",
+        "name": "Creative Adventures Day Care",
+        "address": "11511 King Rd",
+        "city": "Richmond",
+        "phone": "604-926-8003",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.12479",
+          "49.149388"
+        ]
+      },
+      "properties": {
+        "id": "4310",
+        "name": "Happy May Child Care Centre",
+        "address": "8660 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-218-6581",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.11878",
+          "49.165427"
+        ]
+      },
+      "properties": {
+        "id": "4311",
+        "name": "Windmill Children's House Infant/Toddler",
+        "address": "9500 Alberta Rd",
+        "city": "Richmond",
+        "phone": "604-266-3111",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.121625",
+          "49.190522"
+        ]
+      },
+      "properties": {
+        "id": "4322",
+        "name": "Bee Happy Child Care Centre",
+        "address": "9311 Patterson Rd",
+        "city": "Richmond",
+        "phone": "604-270-4824",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.974925",
+          "49.1731"
+        ]
+      },
+      "properties": {
+        "id": "4323",
+        "name": "Learning Tree Montessori Day Care",
+        "address": "22215 Garratt Dr",
+        "city": "Richmond",
+        "phone": "604-527-4068",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.185534",
+          "49.158638"
+        ]
+      },
+      "properties": {
+        "id": "4352",
+        "name": "Creatively Crafted Childcare - The Chill Zone",
+        "address": "3760 Moresby Dr",
+        "city": "Richmond",
+        "phone": "604-728-0570",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.121314",
+          "49.169392"
+        ]
+      },
+      "properties": {
+        "id": "4354",
+        "name": "Rpc Day Care",
+        "address": "9300 Westminster Highway",
+        "city": "Richmond",
+        "phone": "604-278-3264",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.082317",
+          "49.184488"
+        ]
+      },
+      "properties": {
+        "id": "4365",
+        "name": "Cambie Community Centre Out Of School",
+        "address": "12800 Cambie Rd",
+        "city": "Richmond",
+        "phone": "604-233-8399",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.188851",
+          "49.128634"
+        ]
+      },
+      "properties": {
+        "id": "4381",
+        "name": "Tiny Tots Playhouse Family Child Care",
+        "address": "3217 Richmond Street",
+        "city": "Richmond",
+        "phone": "604-285-6013",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.124703",
+          "49.177926"
+        ]
+      },
+      "properties": {
+        "id": "4392",
+        "name": "Happy May Child Care Centre Iii",
+        "address": "201-4751 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-218-6581",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.117279",
+          "49.137512"
+        ]
+      },
+      "properties": {
+        "id": "4395",
+        "name": "Lil' Chickadees Infant/Toddler Child Care Centre",
+        "address": "9620 Snowdon Ave",
+        "city": "Richmond",
+        "phone": "604-271-2227",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.164874",
+          "49.159574"
+        ]
+      },
+      "properties": {
+        "id": "4410",
+        "name": "Butterfly Progressive Montessori Preschool",
+        "address": "7360 Lombard Rd",
+        "city": "Richmond",
+        "phone": "604-241-2511",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.120544",
+          "49.145369"
+        ]
+      },
+      "properties": {
+        "id": "4412",
+        "name": "Morning Glory Montessori Children's Centre",
+        "address": "9491 Ash St",
+        "city": "Richmond",
+        "phone": "604-272-2821",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.124703",
+          "49.177926"
+        ]
+      },
+      "properties": {
+        "id": "4424",
+        "name": "Happy May Child Care Centre Iv",
+        "address": "220-4751 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-218-6581",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.09234",
+          "49.180277"
+        ]
+      },
+      "properties": {
+        "id": "4460",
+        "name": "Cherub Montessori Preschool & Kinder Academy",
+        "address": "11960 Montego St",
+        "city": "Richmond",
+        "phone": "604-277-1219",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.131317",
+          "49.15191"
+        ]
+      },
+      "properties": {
+        "id": "4469",
+        "name": "Future Step Child Care",
+        "address": "8631 St. Albans Rd",
+        "city": "Richmond",
+        "phone": "604-780-7528",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.116646",
+          "49.159513"
+        ]
+      },
+      "properties": {
+        "id": "4470",
+        "name": "Peaceful Bilingual Early Learning Centre",
+        "address": "7360 Bridge St",
+        "city": "Richmond",
+        "phone": "604-998-7827",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.976957",
+          "49.173701"
+        ]
+      },
+      "properties": {
+        "id": "4485",
+        "name": "Smart Baby Family Child Care",
+        "address": "22140 mclean Ave",
+        "city": "Richmond",
+        "phone": "778-888-4862",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13238",
+          "49.169216"
+        ]
+      },
+      "properties": {
+        "id": "4494",
+        "name": "Circle Of Friends",
+        "address": "140-8279 Saba Rd",
+        "city": "Richmond",
+        "phone": "604-233-8910",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.114952",
+          "49.133904"
+        ]
+      },
+      "properties": {
+        "id": "4496",
+        "name": "Crayon Box Learning Center",
+        "address": "160-10811 No. 4 Rd",
+        "city": "Richmond",
+        "phone": "604-275-2332",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.114952",
+          "49.133904"
+        ]
+      },
+      "properties": {
+        "id": "4497",
+        "name": "Crayon Box Learning Center Inc.",
+        "address": "160-10811 No. 4 Rd",
+        "city": "Richmond",
+        "phone": "604-275-2332",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.158131",
+          "49.160474"
+        ]
+      },
+      "properties": {
+        "id": "4513",
+        "name": "Happy Valley Montessori Children Centre Inc.",
+        "address": "6091 Udy Rd",
+        "city": "Richmond",
+        "phone": "604-897-3088",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.148992",
+          "49.164259"
+        ]
+      },
+      "properties": {
+        "id": "4547",
+        "name": "Baby Panda Childcare Centre",
+        "address": "6060 Redfern Cres",
+        "city": "Richmond",
+        "phone": "604-295-9100",
+        "services": [
+          "Preschool",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.164748",
+          "49.134939"
+        ]
+      },
+      "properties": {
+        "id": "4549",
+        "name": "Giggles Day Care",
+        "address": "10861 Hollymount Dr",
+        "city": "Richmond",
+        "phone": "604-764-5157",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.124703",
+          "49.177926"
+        ]
+      },
+      "properties": {
+        "id": "4556",
+        "name": "Happy May Child Care Centre Ii",
+        "address": "170-4751 Garden City Rd",
+        "city": "Richmond",
+        "phone": "604-218-6581",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.119607",
+          "49.140531"
+        ]
+      },
+      "properties": {
+        "id": "4579",
+        "name": "Blueberry Field Child Care Inc. - Under 36 Months",
+        "address": "9440 Williams Rd",
+        "city": "Richmond",
+        "phone": "778-708-1751",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.098718",
+          "49.140927"
+        ]
+      },
+      "properties": {
+        "id": "4586",
+        "name": "Kiddyland Multiple Intelligence Children Centre",
+        "address": "11331 Williams Rd",
+        "city": "Richmond",
+        "phone": "604-241-2733",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.163932",
+          "49.145419"
+        ]
+      },
+      "properties": {
+        "id": "4597",
+        "name": "Bowen Child Care Centre",
+        "address": "9160 Pauleshin Cres",
+        "city": "Richmond",
+        "phone": "778-320-5758",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.160749",
+          "49.122897"
+        ]
+      },
+      "properties": {
+        "id": "4612",
+        "name": "Renaissance Kids",
+        "address": "1-12491 No. 2 Rd",
+        "city": "Richmond",
+        "phone": "604-241-0141",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.127453",
+          "49.135194"
+        ]
+      },
+      "properties": {
+        "id": "4632",
+        "name": "Apple Tree Roselea Child Care Centre",
+        "address": "8740 Roselea Pl",
+        "city": "Richmond",
+        "phone": "604-726-0301",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.11788",
+          "49.153293"
+        ]
+      },
+      "properties": {
+        "id": "4640",
+        "name": "Hope Infant Toddler Group Daycare",
+        "address": "9520 mcburney Dr",
+        "city": "Richmond",
+        "phone": "604-282-7278",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.143706",
+          "49.148554"
+        ]
+      },
+      "properties": {
+        "id": "4669",
+        "name": "Little Hedgehog Child Care Centre",
+        "address": "7311 Francis Rd",
+        "city": "Richmond",
+        "phone": "604-204-2014",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.116767",
+          "49.137179"
+        ]
+      },
+      "properties": {
+        "id": "4686",
+        "name": "Apple Tree Child Care Centre",
+        "address": "10211 Mortfield Rd",
+        "city": "Richmond",
+        "phone": "604-726-0301",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.082317",
+          "49.184488"
+        ]
+      },
+      "properties": {
+        "id": "4693",
+        "name": "East Richmond Community Association Preschool",
+        "address": "12800 Cambie Rd",
+        "city": "Richmond",
+        "phone": "604-238-8385",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.969502",
+          "49.173134"
+        ]
+      },
+      "properties": {
+        "id": "4696",
+        "name": "Bethany Child Care Centre - Before & After School Care",
+        "address": "22680 Westminister Hwy",
+        "city": "Richmond",
+        "phone": "604-519-0133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.113767",
+          "49.155761"
+        ]
+      },
+      "properties": {
+        "id": "4721",
+        "name": "Little Koala Montessori Academy Childcare",
+        "address": "10011 Blundell Rd",
+        "city": "Richmond",
+        "phone": "604-271-7068",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.157725",
+          "49.145795"
+        ]
+      },
+      "properties": {
+        "id": "4745",
+        "name": "Tapestry Christian Early Learning",
+        "address": "9280 No. 2 Rd",
+        "city": "Richmond",
+        "phone": "604-277-1079",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.114698",
+          "49.184328"
+        ]
+      },
+      "properties": {
+        "id": "4763",
+        "name": "Colorful World Montessori - < 36 Months",
+        "address": "106-9780 Cambie Rd",
+        "city": "Richmond",
+        "phone": "604-270-8870",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.114695",
+          "49.18422"
+        ]
+      },
+      "properties": {
+        "id": "4764",
+        "name": "Colorful World Montessori",
+        "address": "106-9780 Cambie Rd",
+        "city": "Richmond",
+        "phone": "604-270-8870",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.174753",
+          "49.151436"
+        ]
+      },
+      "properties": {
+        "id": "4848",
+        "name": "Golden Apple Children's House",
+        "address": "4620 Coventry Dr",
+        "city": "Richmond",
+        "phone": "604-241-1115",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.133557",
+          "49.158919"
+        ]
+      },
+      "properties": {
+        "id": "4858",
+        "name": "Richmond Out Of School Care",
+        "address": "8220 General Currie Rd",
+        "city": "Richmond",
+        "phone": "778-928-7364",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.17624",
+          "49.139401"
+        ]
+      },
+      "properties": {
+        "id": "4899",
+        "name": "Golden Apple Child Care",
+        "address": "4328 Fortune Ave",
+        "city": "Richmond",
+        "phone": "604-723-5216",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.095464",
+          "49.137092"
+        ]
+      },
+      "properties": {
+        "id": "4905",
+        "name": "Lily Pad Family Daycare",
+        "address": "11591 Sealord Rd",
+        "city": "Richmond",
+        "phone": "604-447-4657",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.123527",
+          "49.162545"
+        ]
+      },
+      "properties": {
+        "id": "4985",
+        "name": "Acorn To Oaks Academy Group 2",
+        "address": "9120 Granville Ave",
+        "city": "Richmond",
+        "phone": "604-284-5499",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.170661",
+          "49.143071"
+        ]
+      },
+      "properties": {
+        "id": "4988",
+        "name": "Choo Choo Train Montessori Learning Centre",
+        "address": "9555 Geal Rd",
+        "city": "Richmond",
+        "phone": "604-727-0289",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.07047",
+          "49.173261"
+        ]
+      },
+      "properties": {
+        "id": "4997",
+        "name": "Cefa Crestwood Junior Kindergarten",
+        "address": "120-13700 International Pl",
+        "city": "Richmond",
+        "phone": "604-273-0118",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.183144",
+          "49.124751"
+        ]
+      },
+      "properties": {
+        "id": "5001",
+        "name": "Stars Of Tomorrow Early Learning",
+        "address": "12191 1 Ave",
+        "city": "Richmond",
+        "phone": "604-370-1221",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.07048",
+          "49.173265"
+        ]
+      },
+      "properties": {
+        "id": "5011",
+        "name": "Cefa Crestwood Junior Kindergarten",
+        "address": "120 13700 International Place",
+        "city": "Richmond",
+        "phone": "604-273-0118",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.122966",
+          "49.149436"
+        ]
+      },
+      "properties": {
+        "id": "5021",
+        "name": "Richmond Star Child Care - Under 36 Months",
+        "address": "8851 Heather St",
+        "city": "Richmond",
+        "phone": "604-726-9000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.122966",
+          "49.149436"
+        ]
+      },
+      "properties": {
+        "id": "5022",
+        "name": "Richmond Star Academy",
+        "address": "8851 Heather St",
+        "city": "Richmond",
+        "phone": "604-726-9000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103267",
+          "49.185785"
+        ]
+      },
+      "properties": {
+        "id": "5035",
+        "name": "Kids And Company - Group Day Care",
+        "address": "200 3851 Shell Rd",
+        "city": "Richmond",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.103267",
+          "49.185785"
+        ]
+      },
+      "properties": {
+        "id": "5036",
+        "name": "Kids And Company - Group Day Care",
+        "address": "200 3851 Shell Rd",
+        "city": "Richmond",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.160749",
+          "49.122897"
+        ]
+      },
+      "properties": {
+        "id": "5050",
+        "name": "Renaissance Kids School Age Program # 1",
+        "address": "1-12491 No. 2 Rd",
+        "city": "Richmond",
+        "phone": "604-241-0141",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097883",
+          "49.138869"
+        ]
+      },
+      "properties": {
+        "id": "5053",
+        "name": "Ladybug Child Care & Learning Centre",
+        "address": "10200 Seacote Rd",
+        "city": "Richmond",
+        "phone": "778-995-9893",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.132027",
+          "49.147237"
+        ]
+      },
+      "properties": {
+        "id": "5057",
+        "name": "Precious Steps Academy",
+        "address": "8391 Osgoode Dr",
+        "city": "Richmond",
+        "phone": "604-447-3901",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.085015",
+          "49.182623"
+        ]
+      },
+      "properties": {
+        "id": "5082",
+        "name": "Golden Apple Bilingual Daycare Ltd.",
+        "address": "12440 Woodhead Rd",
+        "city": "Richmond",
+        "phone": "778-863-5122",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.159802",
+          "49.122922"
+        ]
+      },
+      "properties": {
+        "id": "5097",
+        "name": "Renaissance Kids School Age Program #2",
+        "address": "12431 No. 2 Rd",
+        "city": "Richmond",
+        "phone": "604-241-0141",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.170743",
+          "49.137341"
+        ]
+      },
+      "properties": {
+        "id": "5145",
+        "name": "Magic Bean Daycare",
+        "address": "4891 Hermitage Dr",
+        "city": "Richmond",
+        "phone": "778-789-5215",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.195132",
+          "49.174492"
+        ]
+      },
+      "properties": {
+        "id": "5152",
+        "name": "Terra Nova Nature Preschool",
+        "address": "2680 River Rd",
+        "city": "Richmond",
+        "phone": "604-238-8497",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.158259",
+          "49.133087"
+        ]
+      },
+      "properties": {
+        "id": "5155",
+        "name": "South Central Montessori Child Care Ltd.",
+        "address": "6020 Steveston Highway",
+        "city": "Richmond",
+        "phone": "778-889-0188",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.154673",
+          "49.146123"
+        ]
+      },
+      "properties": {
+        "id": "5173",
+        "name": "Apple Tree Maple Child Care Centre",
+        "address": "9211 Romaniuk Dr",
+        "city": "Richmond",
+        "phone": "604-716-8383",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.127252",
+          "49.188583"
+        ]
+      },
+      "properties": {
+        "id": "5180",
+        "name": "Mustard Seed Children's Centre - Gcc 30 Months To School Age",
+        "address": "3360 Sexsmith Rd",
+        "city": "Richmond",
+        "phone": "604-285-5266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.127252",
+          "49.188583"
+        ]
+      },
+      "properties": {
+        "id": "5181",
+        "name": "Mustard Seed Children's Centre",
+        "address": "3360 Sexsmith Rd",
+        "city": "Richmond",
+        "phone": "604-285-5266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141412",
+          "49.138305"
+        ]
+      },
+      "properties": {
+        "id": "5183",
+        "name": "Little Maples After School Care",
+        "address": "7671 Alouette Dr",
+        "city": "Richmond",
+        "phone": "604-512-1611",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.14113",
+          "49.13755"
+        ]
+      },
+      "properties": {
+        "id": "5184",
+        "name": "Little Maples Preschool",
+        "address": "7671 Alouette Dr",
+        "city": "Richmond",
+        "phone": "604-512-1611",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141337",
+          "49.169924"
+        ]
+      },
+      "properties": {
+        "id": "5201",
+        "name": "Genius Education Academy",
+        "address": "7420 Westminster Hwy",
+        "city": "Richmond",
+        "phone": "604-808-8219",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141337",
+          "49.169924"
+        ]
+      },
+      "properties": {
+        "id": "5202",
+        "name": "Genius Education Academy",
+        "address": "7420 Westminster Hwy",
+        "city": "Richmond",
+        "phone": "604-808-8219",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.158166",
+          "49.133126"
+        ]
+      },
+      "properties": {
+        "id": "5203",
+        "name": "South Central Montessori Child Care Ltd - Infant/Toddler",
+        "address": "110-6020 Steveston Hwy",
+        "city": "Richmond",
+        "phone": "778-889-0188",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.188603",
+          "49.139454"
+        ]
+      },
+      "properties": {
+        "id": "5214",
+        "name": "Royal Blue Heron Montessori Academy",
+        "address": "10111 Fourth Ave",
+        "city": "Richmond",
+        "phone": "604-232-9001",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.182182",
+          "49.125415"
+        ]
+      },
+      "properties": {
+        "id": "5217",
+        "name": "With Our Own Two Hands",
+        "address": "3871 Moncton St",
+        "city": "Richmond",
+        "phone": "604-440-3733",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.15195",
+          "49.153719"
+        ]
+      },
+      "properties": {
+        "id": "5260",
+        "name": "Connections Kids Club - Blundell",
+        "address": "6480 Blundell Rd",
+        "city": "Richmond",
+        "phone": "604-271-7600",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.123732",
+          "49.162545"
+        ]
+      },
+      "properties": {
+        "id": "5264",
+        "name": "Acorn To Oaks Academy",
+        "address": "9080 Granville Ave",
+        "city": "Richmond",
+        "phone": "604-284-5499",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.145976",
+          "49.162049"
+        ]
+      },
+      "properties": {
+        "id": "5270",
+        "name": "Trinity's Little Children Centre",
+        "address": "7100 Granville Ave",
+        "city": "Richmond",
+        "phone": "778-297-8522",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.128048",
+          "49.165492"
+        ]
+      },
+      "properties": {
+        "id": "5274",
+        "name": "Connections Kids Club - Cook",
+        "address": "8600 Cook Rd",
+        "city": "Richmond",
+        "phone": "604-271-7600",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.128586",
+          "49.178595"
+        ]
+      },
+      "properties": {
+        "id": "5317",
+        "name": "Rainbow Angels Montessori Childcare Centre",
+        "address": "218-8531 Alexandra Rd",
+        "city": "Richmond",
+        "phone": "604-365-8128",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.13913",
+          "49.171596"
+        ]
+      },
+      "properties": {
+        "id": "5342",
+        "name": "Circle Of Friends - City Centre Community Centre",
+        "address": "5900 Minoru Blvd",
+        "city": "Richmond",
+        "phone": "604-233-8910",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.152894",
+          "49.163709"
+        ]
+      },
+      "properties": {
+        "id": "5350",
+        "name": "Bluejay Montessori & Piano Childcare",
+        "address": "6619 Azure Rd",
+        "city": "Richmond",
+        "phone": "604-306-6173",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.191411",
+          "49.126134"
+        ]
+      },
+      "properties": {
+        "id": "5387",
+        "name": "Sandcastle Park Children's Centre",
+        "address": "3-3060 Chatham St",
+        "city": "Richmond",
+        "phone": "604-274-8380",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.158135",
+          "49.117269"
+        ]
+      },
+      "properties": {
+        "id": "5388",
+        "name": "Mia Montessori Academy",
+        "address": "100-6160 London Rd",
+        "city": "Richmond",
+        "phone": "604-726-8428",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.099049",
+          "49.139392"
+        ]
+      },
+      "properties": {
+        "id": "5403",
+        "name": "Young Columbus Infant/Toddler Center",
+        "address": "11160 Seafield Crescent",
+        "city": "Richmond",
+        "phone": "604-370-4989",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.170482",
+          "49.146074"
+        ]
+      },
+      "properties": {
+        "id": "5406",
+        "name": "Little Sprouts Childcare Centre",
+        "address": "9251 Geal Rd",
+        "city": "Richmond",
+        "phone": "604-271-2888",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.096626",
+          "49.13781"
+        ]
+      },
+      "properties": {
+        "id": "5436",
+        "name": "Woodward Out Of School Care",
+        "address": "10300 Seacote Rd",
+        "city": "Richmond",
+        "phone": "604-726-8003",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.104129",
+          "49.2028"
+        ]
+      },
+      "properties": {
+        "id": "5439",
+        "name": "Rainbow's Nest Child Care",
+        "address": "11331 Twigg Pl",
+        "city": "Richmond",
+        "phone": "604-324-6030",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.160446",
+          "49.122614"
+        ]
+      },
+      "properties": {
+        "id": "5445",
+        "name": "Renaissance Kids",
+        "address": "1-12491 No. 2 Rd",
+        "city": "Richmond",
+        "phone": "604-241-0826",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141055",
+          "49.17601"
+        ]
+      },
+      "properties": {
+        "id": "5447",
+        "name": "Earth Child Montessori School Alderbridge Way",
+        "address": "7780 Alderbridge Way",
+        "city": "Richmond",
+        "phone": "604-270-0131",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141055",
+          "49.17601"
+        ]
+      },
+      "properties": {
+        "id": "5448",
+        "name": "Earth Child Montessori School Alderbridge Way",
+        "address": "7780 Alderbridge Way",
+        "city": "Richmond",
+        "phone": "604-270-0131",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.141055",
+          "49.17601"
+        ]
+      },
+      "properties": {
+        "id": "5449",
+        "name": "Earth Child Montessori School Alderbridge Way",
+        "address": "7780 Alderbridge Way",
+        "city": "Richmond",
+        "phone": "604-270-0131",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.122762",
+          "49.191643"
+        ]
+      },
+      "properties": {
+        "id": "5467",
+        "name": "Premier Montessori Academy",
+        "address": "9140 Bridgeport Rd",
+        "city": "Richmond",
+        "phone": "604-214-2927",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.122762",
+          "49.191643"
+        ]
+      },
+      "properties": {
+        "id": "5468",
+        "name": "Premier Montessori Academy",
+        "address": "9140 Bridgeport Rd",
+        "city": "Richmond",
+        "phone": "604-214-2927",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.163983",
+          "49.142976"
+        ]
+      },
+      "properties": {
+        "id": "5493",
+        "name": "Tomorrow's Topkids Jessie Wowk Clubhouse",
+        "address": "5380 Woodwards Rd",
+        "city": "Richmond",
+        "phone": "604-437-4744",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.097824",
+          "49.139227"
+        ]
+      },
+      "properties": {
+        "id": "5528",
+        "name": "Precious Steps Academy - Seabay",
+        "address": "11411 Seabay Rd",
+        "city": "Richmond",
+        "phone": "604-447-3901",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.182358",
+          "49.148059"
+        ]
+      },
+      "properties": {
+        "id": "5538",
+        "name": "Seafair Montessori Academy",
+        "address": "160-3920 Francis Rd",
+        "city": "Richmond",
+        "phone": "778-226-9018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.138165",
+          "49.17791"
+        ]
+      },
+      "properties": {
+        "id": "5546",
+        "name": "Rothewood Academy Richmond",
+        "address": "140-7931 Alderbridge Way",
+        "city": "Richmond",
+        "phone": "604-279-1818",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-123.138165",
+          "49.17791"
+        ]
+      },
+      "properties": {
+        "id": "5547",
+        "name": "Rothewood Academy Richmond",
+        "address": "100-7931 Alderbridge Way",
+        "city": "Richmond",
+        "phone": "604-279-1818",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    }
+  ]
+}

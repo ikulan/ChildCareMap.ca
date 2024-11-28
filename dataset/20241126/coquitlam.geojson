@@ -1,0 +1,3668 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.874935",
+          "49.239211"
+        ]
+      },
+      "properties": {
+        "id": "43",
+        "name": "Alderson ymca Kids Club",
+        "address": "825 Gauthier Ave",
+        "city": "Coquitlam",
+        "phone": "604-365-1867",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.849377",
+          "49.26163"
+        ]
+      },
+      "properties": {
+        "id": "173",
+        "name": "Children's House Montessori Preschool",
+        "address": "1563 Regan Ave",
+        "city": "Coquitlam",
+        "phone": "604-931-1311",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.83545",
+          "49.234733"
+        ]
+      },
+      "properties": {
+        "id": "209",
+        "name": "Little Neighbours Nursery School",
+        "address": "155 Finnigan St",
+        "city": "Coquitlam",
+        "phone": "604-521-5158",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.83422",
+          "49.248563"
+        ]
+      },
+      "properties": {
+        "id": "224",
+        "name": "Happy Days Playschool",
+        "address": "489 Mundy St",
+        "city": "Coquitlam",
+        "phone": "604-936-0722",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.876944",
+          "49.239741"
+        ]
+      },
+      "properties": {
+        "id": "244",
+        "name": "Immaculate Heart Early Childhood Education Centre",
+        "address": "789 Alderson Ave",
+        "city": "Coquitlam",
+        "phone": "604-939-3682",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.88429",
+          "49.253902"
+        ]
+      },
+      "properties": {
+        "id": "249",
+        "name": "Futurekids Daycare Centre",
+        "address": "600 Fairview St",
+        "city": "Coquitlam",
+        "phone": "604-720-2287",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.803661",
+          "49.281985"
+        ]
+      },
+      "properties": {
+        "id": "263",
+        "name": "Funshine Daycare Center",
+        "address": "2864 mccoomb Dr",
+        "city": "Coquitlam",
+        "phone": "604-464-6442",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.849389",
+          "49.26163"
+        ]
+      },
+      "properties": {
+        "id": "317",
+        "name": "Parkland Players",
+        "address": "1563 Regan Ave",
+        "city": "Coquitlam",
+        "phone": "604-936-7005",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.851239",
+          "49.24591"
+        ]
+      },
+      "properties": {
+        "id": "361",
+        "name": "Hi And Bye Daycare",
+        "address": "411 Schoolhouse St",
+        "city": "Coquitlam",
+        "phone": "604-318-9469",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.785224",
+          "49.301137"
+        ]
+      },
+      "properties": {
+        "id": "366",
+        "name": "Westwood Montessori",
+        "address": "1438 Pinetree Way",
+        "city": "Coquitlam",
+        "phone": "604-765-0966",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.819247",
+          "49.28422"
+        ]
+      },
+      "properties": {
+        "id": "378",
+        "name": "Panda Bear Children's Place On Falcon",
+        "address": "1198 Falcon Dr",
+        "city": "Coquitlam",
+        "phone": "604-862-1302",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.811602",
+          "49.297737"
+        ]
+      },
+      "properties": {
+        "id": "391",
+        "name": "Emerald Hills Montessori",
+        "address": "1501 Bramble Lane",
+        "city": "Coquitlam",
+        "phone": "604-942-5430",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.813199",
+          "49.298466"
+        ]
+      },
+      "properties": {
+        "id": "392",
+        "name": "Emerald Hills Montessori School Age Care",
+        "address": "2875 Panorama Dr",
+        "city": "Coquitlam",
+        "phone": "604-942-5430",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.812894",
+          "49.2653"
+        ]
+      },
+      "properties": {
+        "id": "403",
+        "name": "Ranch Park Kids Place Inc.",
+        "address": "2701 Spuraway Ave",
+        "city": "Coquitlam",
+        "phone": "604-942-6474",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.835567",
+          "49.234673"
+        ]
+      },
+      "properties": {
+        "id": "429",
+        "name": "Friends And Neighbours Together",
+        "address": "155 Finnigan St",
+        "city": "Coquitlam",
+        "phone": "604-526-3223",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.854933",
+          "49.249328"
+        ]
+      },
+      "properties": {
+        "id": "445",
+        "name": "Bright Beginnings Infant / Child Care",
+        "address": "1393 Austin Ave",
+        "city": "Coquitlam",
+        "phone": "236-888-2764",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.751717",
+          "49.286634"
+        ]
+      },
+      "properties": {
+        "id": "451",
+        "name": "Leigh School Daycare",
+        "address": "1230 Soball St",
+        "city": "Coquitlam",
+        "phone": "778-881-6475",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.861609",
+          "49.269047"
+        ]
+      },
+      "properties": {
+        "id": "457",
+        "name": "Harbour View Childcare Inc",
+        "address": "960 Lillian St",
+        "city": "Coquitlam",
+        "phone": "604-931-3033",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.776842",
+          "49.291039"
+        ]
+      },
+      "properties": {
+        "id": "492",
+        "name": "Raindrops Family Daycare",
+        "address": "3216 Harwood Ave",
+        "city": "Coquitlam",
+        "phone": "604-941-6123",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.800859",
+          "49.27163"
+        ]
+      },
+      "properties": {
+        "id": "496",
+        "name": "Holly Hobby House Family Child Care",
+        "address": "5-2880 Dacre Ave",
+        "city": "Coquitlam",
+        "phone": "604-552-4000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.791515",
+          "49.308251"
+        ]
+      },
+      "properties": {
+        "id": "498",
+        "name": "Stars Family Child Care",
+        "address": "1713 Sugarpine Crt",
+        "city": "Coquitlam",
+        "phone": "604-945-9416",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.778111",
+          "49.291111"
+        ]
+      },
+      "properties": {
+        "id": "499",
+        "name": "Claydon Family Daycare",
+        "address": "3200 Harwood Ave",
+        "city": "Coquitlam",
+        "phone": "604-941-5081",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.891368",
+          "49.253102"
+        ]
+      },
+      "properties": {
+        "id": "501",
+        "name": "Playcare",
+        "address": "517 Appian Way",
+        "city": "Coquitlam",
+        "phone": "604-939-9142",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.86984",
+          "49.26012"
+        ]
+      },
+      "properties": {
+        "id": "506",
+        "name": "Supreme Family Daycare",
+        "address": "701 Hailey St",
+        "city": "Coquitlam",
+        "phone": "604-364-4827",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.855141",
+          "49.240823"
+        ]
+      },
+      "properties": {
+        "id": "507",
+        "name": "Little Bloomers",
+        "address": "11-1383 Brunette Ave",
+        "city": "Coquitlam",
+        "phone": "604-727-2206",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.879109",
+          "49.25914"
+        ]
+      },
+      "properties": {
+        "id": "620",
+        "name": "Mountain View Group Daycare 7",
+        "address": "740 Smith Ave",
+        "city": "Coquitlam",
+        "phone": "604-937-3020",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.757955",
+          "49.295559"
+        ]
+      },
+      "properties": {
+        "id": "636",
+        "name": "Mandarin Immersion Childcare Center",
+        "address": "1342 Canary Pl",
+        "city": "Coquitlam",
+        "phone": "778-710-1717",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.806534",
+          "49.277395"
+        ]
+      },
+      "properties": {
+        "id": "643",
+        "name": "Early Learning Childcare Centre",
+        "address": "103-2764 Barnet Hwy",
+        "city": "Coquitlam",
+        "phone": "604-475-4800",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.865183",
+          "49.245334"
+        ]
+      },
+      "properties": {
+        "id": "653",
+        "name": "Nelson Home Daycare",
+        "address": "400 Nelson St",
+        "city": "Coquitlam",
+        "phone": "778-237-6602",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.793894",
+          "49.283083"
+        ]
+      },
+      "properties": {
+        "id": "655",
+        "name": "Kidz R Kidz",
+        "address": "101-3007 Glen Dr",
+        "city": "Coquitlam",
+        "phone": "604-474-2595",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.789515",
+          "49.278638"
+        ]
+      },
+      "properties": {
+        "id": "668",
+        "name": "Academics Prekindergarten Westwood Inc",
+        "address": "501-1123 Westwood St",
+        "city": "Coquitlam",
+        "phone": "604-474-2662",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.810537",
+          "49.304719"
+        ]
+      },
+      "properties": {
+        "id": "695",
+        "name": "Rugrats Academy",
+        "address": "1601 Salal Cres",
+        "city": "Coquitlam",
+        "phone": "778-873-3028",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.795371",
+          "49.267903"
+        ]
+      },
+      "properties": {
+        "id": "716",
+        "name": "Little Steps Educare Daycare",
+        "address": "2986 Dewdney Trunk Rd",
+        "city": "Coquitlam",
+        "phone": "604-945-8018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.849392",
+          "49.26163"
+        ]
+      },
+      "properties": {
+        "id": "718",
+        "name": "Baker's Corner Preschool",
+        "address": "1563 Regan Ave",
+        "city": "Coquitlam",
+        "phone": "604-461-5848",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.850161",
+          "49.263191"
+        ]
+      },
+      "properties": {
+        "id": "772",
+        "name": "Baby Smart Infant And Toddler Child Care Centre",
+        "address": "1530 Como Lake Ave",
+        "city": "Coquitlam",
+        "phone": "604-306-6698",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.837857",
+          "49.243939"
+        ]
+      },
+      "properties": {
+        "id": "803",
+        "name": "Happy Steps Daycare",
+        "address": "2045 Kugler Ave",
+        "city": "Coquitlam",
+        "phone": "778-355-5288",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.780112",
+          "49.289141"
+        ]
+      },
+      "properties": {
+        "id": "822",
+        "name": "Today Classic Early Learning",
+        "address": "3164 Tory Ave",
+        "city": "Coquitlam",
+        "phone": "604-617-9317",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.88069",
+          "49.241961"
+        ]
+      },
+      "properties": {
+        "id": "860",
+        "name": "Glowing Hearts Daycare",
+        "address": "705 Delestre Ave",
+        "city": "Coquitlam",
+        "phone": "604-936-9890",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.743102",
+          "49.29931"
+        ]
+      },
+      "properties": {
+        "id": "870",
+        "name": "Highland Montessori Child Care",
+        "address": "3550 Highland Dr",
+        "city": "Coquitlam",
+        "phone": "778-998-8976",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.857128",
+          "49.246142"
+        ]
+      },
+      "properties": {
+        "id": "913",
+        "name": "Gamesters Fundamentals Inc",
+        "address": "1189 Rochester Ave",
+        "city": "Coquitlam",
+        "phone": "778-227-4335",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.866459",
+          "49.240575"
+        ]
+      },
+      "properties": {
+        "id": "915",
+        "name": "Little Sparrows Day Care",
+        "address": "1014 Quadling Ave",
+        "city": "Coquitlam",
+        "phone": "604-603-1146",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.780424",
+          "49.293556"
+        ]
+      },
+      "properties": {
+        "id": "921",
+        "name": "Little Friend Circles Daycare",
+        "address": "1346 El Camino Dr",
+        "city": "Coquitlam",
+        "phone": "604-440-3787",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.789372",
+          "49.307092"
+        ]
+      },
+      "properties": {
+        "id": "946",
+        "name": "Bumble Bear Childcare",
+        "address": "3093 Mulberry Pl",
+        "city": "Coquitlam",
+        "phone": "604-944-9807",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.801855",
+          "49.288238"
+        ]
+      },
+      "properties": {
+        "id": "948",
+        "name": "Learning Steps Daycare",
+        "address": "1254 Johnson St",
+        "city": "Coquitlam",
+        "phone": "604-725-6373",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.88803",
+          "49.270127"
+        ]
+      },
+      "properties": {
+        "id": "963",
+        "name": "Caterpillar Montessori Daycare",
+        "address": "599 Chapman Ave",
+        "city": "Coquitlam",
+        "phone": "604-936-0718",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.787029",
+          "49.280765"
+        ]
+      },
+      "properties": {
+        "id": "1001",
+        "name": "Little Dolphins Daycare Ltd",
+        "address": "107-1135 Pipeline Rd",
+        "city": "Coquitlam",
+        "phone": "604-345-2830",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.88133",
+          "49.239169"
+        ]
+      },
+      "properties": {
+        "id": "1006",
+        "name": "Bee House Montessori Day Care Ltd",
+        "address": "283 Hart St",
+        "city": "Coquitlam",
+        "phone": "604-817-4584",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.752702",
+          "49.302825"
+        ]
+      },
+      "properties": {
+        "id": "1043",
+        "name": "Do-Re-Mi Kids In Learning",
+        "address": "1483 Cadena Crt",
+        "city": "Coquitlam",
+        "phone": "604-468-9166",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.818306",
+          "49.281499"
+        ]
+      },
+      "properties": {
+        "id": "1075",
+        "name": "Alpha Bees Childcare",
+        "address": "1157 Falcon Dr",
+        "city": "Coquitlam",
+        "phone": "604-472-0299",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.77506",
+          "49.28778"
+        ]
+      },
+      "properties": {
+        "id": "1093",
+        "name": "Fav's Kangaroos Family Home Daycare",
+        "address": "3250 Samuels Crt",
+        "city": "Coquitlam",
+        "phone": "604-346-8066",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.765806",
+          "49.28984"
+        ]
+      },
+      "properties": {
+        "id": "1200",
+        "name": "Sweet Peas Daycare",
+        "address": "1889 Bluff Way",
+        "city": "Coquitlam",
+        "phone": "604-765-3576",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.878979",
+          "49.265822"
+        ]
+      },
+      "properties": {
+        "id": "1239",
+        "name": "Miller Park Kidz Clubhouse",
+        "address": "800 Egmont Ave",
+        "city": "Coquitlam",
+        "phone": "778-868-3017",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.744862",
+          "49.296967"
+        ]
+      },
+      "properties": {
+        "id": "1306",
+        "name": "Kiddie College",
+        "address": "3496 Princeton Ave",
+        "city": "Coquitlam",
+        "phone": "604-475-7006",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.791635",
+          "49.306592"
+        ]
+      },
+      "properties": {
+        "id": "1313",
+        "name": "Wonderland Plateau Daycare",
+        "address": "3066 Sienna Crt",
+        "city": "Coquitlam",
+        "phone": "604-318-1479",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.871773",
+          "49.246495"
+        ]
+      },
+      "properties": {
+        "id": "1315",
+        "name": "Mini Miracles Toddler Centre",
+        "address": "913 Madore Ave",
+        "city": "Coquitlam",
+        "phone": "778-776-2351",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.802217",
+          "49.268645"
+        ]
+      },
+      "properties": {
+        "id": "1379",
+        "name": "Happy Grace Child Care Centre",
+        "address": "966 Crystal Crt",
+        "city": "Coquitlam",
+        "phone": "778-836-8659",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.861399",
+          "49.24778"
+        ]
+      },
+      "properties": {
+        "id": "1386",
+        "name": "Acclaim Canada Education & Family Childcare Services",
+        "address": "1104 Charland Ave",
+        "city": "Coquitlam",
+        "phone": "604-562-2273",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.820171",
+          "49.300409"
+        ]
+      },
+      "properties": {
+        "id": "1408",
+        "name": "Just Kiddies Childcare",
+        "address": "103-2591 Panorama Dr",
+        "city": "Coquitlam",
+        "phone": "604-618-9876",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.83033",
+          "49.246168"
+        ]
+      },
+      "properties": {
+        "id": "1423",
+        "name": "Jax And Friends Playcare Daycare",
+        "address": "2283 Stanwood Ave",
+        "city": "Coquitlam",
+        "phone": "778-891-1517",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.868174",
+          "49.267472"
+        ]
+      },
+      "properties": {
+        "id": "1451",
+        "name": "Lil' Grownups Daycare",
+        "address": "947 Blue Mountain St",
+        "city": "Coquitlam",
+        "phone": "778-960-8652",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.854734",
+          "49.264637"
+        ]
+      },
+      "properties": {
+        "id": "1461",
+        "name": "Qas Out Of School Care",
+        "address": "821 Fairfax St",
+        "city": "Coquitlam",
+        "phone": "604-939-1741",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.739622",
+          "49.296584"
+        ]
+      },
+      "properties": {
+        "id": "1523",
+        "name": "Westwood Montessori Childcare (Partington)",
+        "address": "3537 Mcvicar Crt",
+        "city": "Coquitlam",
+        "phone": "604-765-0966",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.891818",
+          "49.246003"
+        ]
+      },
+      "properties": {
+        "id": "1530",
+        "name": "Little Marines Training Center",
+        "address": "211-403 North Rd",
+        "city": "Coquitlam",
+        "phone": "604-492-0988",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.860792",
+          "49.263248"
+        ]
+      },
+      "properties": {
+        "id": "1536",
+        "name": "Kidscool Early Learning Centre",
+        "address": "1116 Como Lake Ave",
+        "city": "Coquitlam",
+        "phone": "604-767-9726",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.809356",
+          "49.283928"
+        ]
+      },
+      "properties": {
+        "id": "1633",
+        "name": "Dreamkids Childcare Ltd. (Dream Location)",
+        "address": "201A-1194 Lansdowne Dr",
+        "city": "Coquitlam",
+        "phone": "604-809-1823",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.819819",
+          "49.286706"
+        ]
+      },
+      "properties": {
+        "id": "1640",
+        "name": "Barney Multi-Age Daycare",
+        "address": "1265 Falcon Dr",
+        "city": "Coquitlam",
+        "phone": "778-834-9771",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.860156",
+          "49.256815"
+        ]
+      },
+      "properties": {
+        "id": "1687",
+        "name": "Jiji Children's Learning Centre Inc.",
+        "address": "1132 Sprice Ave",
+        "city": "Coquitlam",
+        "phone": "604-936-6060",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.801568",
+          "49.290608"
+        ]
+      },
+      "properties": {
+        "id": "1779",
+        "name": "Blessed Generations Academy - Westwood Coquitlam",
+        "address": "1294 Johnson St",
+        "city": "Coquitlam",
+        "phone": "604-618-4767",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.753175",
+          "49.290767"
+        ]
+      },
+      "properties": {
+        "id": "1891",
+        "name": "Don Moore Childcare",
+        "address": "3392 Don Moore Dr",
+        "city": "Coquitlam",
+        "phone": "604-500-0740",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.823478",
+          "49.237705"
+        ]
+      },
+      "properties": {
+        "id": "1903",
+        "name": "Play2learn Childcare",
+        "address": "2421 Mariana Pl",
+        "city": "Coquitlam",
+        "phone": "604-724-3319",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.743782",
+          "49.294916"
+        ]
+      },
+      "properties": {
+        "id": "1989",
+        "name": "Meme Childcare",
+        "address": "3495 David Ave",
+        "city": "Coquitlam",
+        "phone": "604-355-1702",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.818485",
+          "49.286702"
+        ]
+      },
+      "properties": {
+        "id": "2062",
+        "name": "Story Place Childcare Center",
+        "address": "2558 Peregrine Pl",
+        "city": "Coquitlam",
+        "phone": "604-364-7191",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.782771",
+          "49.2855"
+        ]
+      },
+      "properties": {
+        "id": "2082",
+        "name": "Allegro Musical Daycare",
+        "address": "3143 Sechelt Dr",
+        "city": "Coquitlam",
+        "phone": "778-288-5484",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.877705",
+          "49.237136"
+        ]
+      },
+      "properties": {
+        "id": "2117",
+        "name": "Ab-Early Learning",
+        "address": "727 Henderson Ave",
+        "city": "Coquitlam",
+        "phone": "778-859-8010",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.75692",
+          "49.286573"
+        ]
+      },
+      "properties": {
+        "id": "2135",
+        "name": "Blossom Babies Child Care Centre",
+        "address": "1221 Burkemont Pl",
+        "city": "Coquitlam",
+        "phone": "604-761-4614",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.798217",
+          "49.29713"
+        ]
+      },
+      "properties": {
+        "id": "2146",
+        "name": "Baby To Superstar Daycare",
+        "address": "2936 Valleyvista Dr",
+        "city": "Coquitlam",
+        "phone": "604-518-9355",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.807544",
+          "49.283082"
+        ]
+      },
+      "properties": {
+        "id": "2167",
+        "name": "Launchpad Early Learning Centre",
+        "address": "2813 Glen Dr",
+        "city": "Coquitlam",
+        "phone": "778-320-8183",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.854067",
+          "49.264557"
+        ]
+      },
+      "properties": {
+        "id": "2257",
+        "name": "Saints And Angels Preschool",
+        "address": "1405 Como Lake Ave",
+        "city": "Coquitlam",
+        "phone": "604-868-9117",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.788803",
+          "49.315309"
+        ]
+      },
+      "properties": {
+        "id": "2274",
+        "name": "Plateau Montessori Childcare",
+        "address": "3285 Plateau Blvd",
+        "city": "Coquitlam",
+        "phone": "604-916-9592",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.830813",
+          "49.271867"
+        ]
+      },
+      "properties": {
+        "id": "2296",
+        "name": "Bouncing Babies & Toddling Tots Childcare",
+        "address": "2263 Park Cres",
+        "city": "Coquitlam",
+        "phone": "778-789-2270",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.801117",
+          "49.290171"
+        ]
+      },
+      "properties": {
+        "id": "2309",
+        "name": "Barney Multi-Age Childcare",
+        "address": "2905 Walton Ave",
+        "city": "Coquitlam",
+        "phone": "778-834-9771",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.758795",
+          "49.298296"
+        ]
+      },
+      "properties": {
+        "id": "2435",
+        "name": "Princeton Castle Childcare",
+        "address": "3368 Princeton Ave",
+        "city": "Coquitlam",
+        "phone": "604-618-9876",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.757788",
+          "49.299122"
+        ]
+      },
+      "properties": {
+        "id": "2517",
+        "name": "Colorful Cornerstone Mandarin Academic Learning Centre",
+        "address": "3374 Watkins Ave",
+        "city": "Coquitlam",
+        "phone": "604-900-3074",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.743705",
+          "49.297193"
+        ]
+      },
+      "properties": {
+        "id": "2529",
+        "name": "Lynn Early Learning Centre",
+        "address": "3504 Chandler St",
+        "city": "Coquitlam",
+        "phone": "604-902-7905",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.794089",
+          "49.296179"
+        ]
+      },
+      "properties": {
+        "id": "2542",
+        "name": "Annar Fine Art Academy",
+        "address": "2900 Waterford Pl",
+        "city": "Coquitlam",
+        "phone": "778-822-7120",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.823843",
+          "49.2695"
+        ]
+      },
+      "properties": {
+        "id": "2571",
+        "name": "Sunflower Daycare",
+        "address": "885 Baker St",
+        "city": "Coquitlam",
+        "phone": "604-618-9739",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.767347",
+          "49.292201"
+        ]
+      },
+      "properties": {
+        "id": "2586",
+        "name": "Hana Child Care Ltd",
+        "address": "1257 Beedie Dr",
+        "city": "Coquitlam",
+        "phone": "778-928-7862",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.778391",
+          "49.293333"
+        ]
+      },
+      "properties": {
+        "id": "2608",
+        "name": "Pango Childcare Group Inc",
+        "address": "Unit A - 1393 Gabriola Dr",
+        "city": "Coquitlam",
+        "phone": "604-366-0987",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.817237",
+          "49.292674"
+        ]
+      },
+      "properties": {
+        "id": "2748",
+        "name": "Jasmine Childcare Centre",
+        "address": "2558 Jasmine Crt",
+        "city": "Coquitlam",
+        "phone": "778-918-0965",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.800874",
+          "49.269587"
+        ]
+      },
+      "properties": {
+        "id": "2826",
+        "name": "Lavender Forest Child Care Center",
+        "address": "979 Crystal Crt",
+        "city": "Coquitlam",
+        "phone": "778-875-1551",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.841243",
+          "49.259975"
+        ]
+      },
+      "properties": {
+        "id": "2848",
+        "name": "All Bright Early Learning Center",
+        "address": "706 Linton St",
+        "city": "Coquitlam",
+        "phone": "778-316-5360",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.833799",
+          "49.245649"
+        ]
+      },
+      "properties": {
+        "id": "2889",
+        "name": "Luminosity Childcare",
+        "address": "423 Mundy St",
+        "city": "Coquitlam",
+        "phone": "778-990-4403",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.78819",
+          "49.308678"
+        ]
+      },
+      "properties": {
+        "id": "2912",
+        "name": "Best Of Paradise Childcare",
+        "address": "1726 Paddock Dr",
+        "city": "Coquitlam",
+        "phone": "604-441-4526",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.813599",
+          "49.281594"
+        ]
+      },
+      "properties": {
+        "id": "2991",
+        "name": "Busy Bees Child Care",
+        "address": "1159 Eagleridge Dr",
+        "city": "Coquitlam",
+        "phone": "604-561-5380",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.754184",
+          "49.285986"
+        ]
+      },
+      "properties": {
+        "id": "3045",
+        "name": "Mariposa Arts Academy",
+        "address": "3421 Victoria Dr",
+        "city": "Coquitlam",
+        "phone": "778-886-8621",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.851002",
+          "49.259504"
+        ]
+      },
+      "properties": {
+        "id": "3064",
+        "name": "Kidsville Childcare",
+        "address": "1518 Smith Ave",
+        "city": "Coquitlam",
+        "phone": "604-363-9084",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.851766",
+          "49.255337"
+        ]
+      },
+      "properties": {
+        "id": "3071",
+        "name": "Art In Daycare",
+        "address": "625 Schoolhouse St",
+        "city": "Coquitlam",
+        "phone": "236-788-8485",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.801458",
+          "49.268686"
+        ]
+      },
+      "properties": {
+        "id": "3090",
+        "name": "Three Cats Home Daycare",
+        "address": "965 Crystal Crt",
+        "city": "Coquitlam",
+        "phone": "778-683-2124",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.831682",
+          "49.272433"
+        ]
+      },
+      "properties": {
+        "id": "3148",
+        "name": "All Bright Early Learning Center Park",
+        "address": "2274 Park Crescent",
+        "city": "Coquitlam",
+        "phone": "778-316-5360",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.85019",
+          "49.261345"
+        ]
+      },
+      "properties": {
+        "id": "3167",
+        "name": "Play Garden Infant And Toddler Centre",
+        "address": "1572 Regan Ave",
+        "city": "Coquitlam",
+        "phone": "778-798-8162",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.852649",
+          "49.25548"
+        ]
+      },
+      "properties": {
+        "id": "3169",
+        "name": "Nik Kids Academy",
+        "address": "622 Schoolhouse St",
+        "city": "Coquitlam",
+        "phone": "778-885-3264",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.807575",
+          "49.25129"
+        ]
+      },
+      "properties": {
+        "id": "3195",
+        "name": "Riverview Childcare Ltd",
+        "address": "2762 Cultus Crt",
+        "city": "Coquitlam",
+        "phone": "604-716-6642",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.88621",
+          "49.24749"
+        ]
+      },
+      "properties": {
+        "id": "3199",
+        "name": "Happy Kids Castle Daycare",
+        "address": "605 Dansey Ave",
+        "city": "Coquitlam",
+        "phone": "672-963-2024",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.73863",
+          "49.29729"
+        ]
+      },
+      "properties": {
+        "id": "3228",
+        "name": "Coast Salish ymca Kids Club",
+        "address": "3538 Sheffeild Ave",
+        "city": "Coquitlam",
+        "phone": "250-960-9336",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.80139",
+          "49.263693"
+        ]
+      },
+      "properties": {
+        "id": "3230",
+        "name": "Littleversity Daycare",
+        "address": "2936 Wickham Dr",
+        "city": "Coquitlam",
+        "phone": "778-238-6729",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.880891",
+          "49.245102"
+        ]
+      },
+      "properties": {
+        "id": "3256",
+        "name": "Angels Playhouse Daycare Society (Rochester Ave)",
+        "address": "722 Rochester Ave",
+        "city": "Coquitlam",
+        "phone": "604-809-3868",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.753506",
+          "49.304308"
+        ]
+      },
+      "properties": {
+        "id": "3259",
+        "name": "Belfi's Child Care",
+        "address": "1487 Southview St",
+        "city": "Coquitlam",
+        "phone": "604-861-4020",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.870712",
+          "49.238203"
+        ]
+      },
+      "properties": {
+        "id": "3260",
+        "name": "Mind Nest",
+        "address": "915B Roderick Ave",
+        "city": "Coquitlam",
+        "phone": "587-703-8470",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.802472",
+          "49.263545"
+        ]
+      },
+      "properties": {
+        "id": "3291",
+        "name": "Love Kids Daycare",
+        "address": "3007 Pasture Cir",
+        "city": "Coquitlam",
+        "phone": "604-338-8020",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.783124",
+          "49.295663"
+        ]
+      },
+      "properties": {
+        "id": "3298",
+        "name": "Dino Multi-Age Daycare",
+        "address": "3106 Fisher Crt",
+        "city": "Coquitlam",
+        "phone": "778-834-9771",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.874714",
+          "49.240563"
+        ]
+      },
+      "properties": {
+        "id": "3361",
+        "name": "Lilly Of The Valley",
+        "address": "B-822 Quadling Ave",
+        "city": "Coquitlam",
+        "phone": "604-368-2921",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.743515",
+          "49.299701"
+        ]
+      },
+      "properties": {
+        "id": "3404",
+        "name": "Dream Castle Childcare Centre Ltd",
+        "address": "3542 Highland Dr",
+        "city": "Coquitlam",
+        "phone": "778-861-3456",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.800655",
+          "49.294869"
+        ]
+      },
+      "properties": {
+        "id": "3417",
+        "name": "Honey Bunny Childcare",
+        "address": "1362 Corbin Pl",
+        "city": "Coquitlam",
+        "phone": "778-239-0266",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.787987",
+          "49.282241"
+        ]
+      },
+      "properties": {
+        "id": "3468",
+        "name": "Creating Smiles - Glen",
+        "address": "3064 Glen Dr",
+        "city": "Coquitlam",
+        "phone": "778-239-2075",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.887606",
+          "49.254115"
+        ]
+      },
+      "properties": {
+        "id": "3469",
+        "name": "Safe Garden Home Daycare",
+        "address": "606 Denton St",
+        "city": "Coquitlam",
+        "phone": "778-858-9465",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.756326",
+          "49.297213"
+        ]
+      },
+      "properties": {
+        "id": "3482",
+        "name": "Smiling Kids Childcare Centre",
+        "address": "1380 Coast Meridian Rd",
+        "city": "Coquitlam",
+        "phone": "604-600-4393",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.771225",
+          "49.302443"
+        ]
+      },
+      "properties": {
+        "id": "3521",
+        "name": "Super Dooper Childcare Centre",
+        "address": "3328 Turner Ave",
+        "city": "Coquitlam",
+        "phone": "604-790-9956",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.810065",
+          "49.262229"
+        ]
+      },
+      "properties": {
+        "id": "3538",
+        "name": "Kindly Kids Land Center",
+        "address": "2989 Cove Pl",
+        "city": "Coquitlam",
+        "phone": "778-829-7177",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.793923",
+          "49.281471"
+        ]
+      },
+      "properties": {
+        "id": "3556",
+        "name": "Ladybird Montessori Learning Academy",
+        "address": "8-1180 Pinetree Way",
+        "city": "Coquitlam",
+        "phone": "778-285-1737",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.839062",
+          "49.260533"
+        ]
+      },
+      "properties": {
+        "id": "3576",
+        "name": "Quinton Childcare",
+        "address": "1950 Quinton Ave",
+        "city": "Coquitlam",
+        "phone": "604-655-7718",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.739926",
+          "49.287187"
+        ]
+      },
+      "properties": {
+        "id": "3582",
+        "name": "Burke Village Academy",
+        "address": "3516 Forst Ave",
+        "city": "Coquitlam",
+        "phone": "778-723-5650",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.848739",
+          "49.261337"
+        ]
+      },
+      "properties": {
+        "id": "3671",
+        "name": "Over The Rainbow - Regan / Cavalry Baptist Church",
+        "address": "1636 Regan Ave",
+        "city": "Coquitlam",
+        "phone": "604-939-2726",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.878963",
+          "49.267639"
+        ]
+      },
+      "properties": {
+        "id": "3678",
+        "name": "Julie & Friends Family Child Care",
+        "address": "755 Adiron Ave",
+        "city": "Coquitlam",
+        "phone": "604-328-5257",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.804336",
+          "49.282931"
+        ]
+      },
+      "properties": {
+        "id": "3704",
+        "name": "Jane's Happy Family Daycare",
+        "address": "1 2865 Glen Dr",
+        "city": "Coquitlam",
+        "phone": "604-307-9219",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.766955",
+          "49.290621"
+        ]
+      },
+      "properties": {
+        "id": "3798",
+        "name": "Learn & Play Preschool",
+        "address": "1237 Beedie Dr",
+        "city": "Coquitlam",
+        "phone": "604-464-9656",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.786799",
+          "49.30043"
+        ]
+      },
+      "properties": {
+        "id": "3804",
+        "name": "Westwood Montessori Out Of School Care",
+        "address": "1420 Pinetree Way",
+        "city": "Coquitlam",
+        "phone": "604-765-0966",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.800539",
+          "49.266256"
+        ]
+      },
+      "properties": {
+        "id": "3810",
+        "name": "Meadowbrook Players",
+        "address": "900 Sharpe St",
+        "city": "Coquitlam",
+        "phone": "604-338-8943",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.827807",
+          "49.240472"
+        ]
+      },
+      "properties": {
+        "id": "3822",
+        "name": "School House Daycare",
+        "address": "2273 Sorrento Dr",
+        "city": "Coquitlam",
+        "phone": "604-939-5189",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.817636",
+          "49.295975"
+        ]
+      },
+      "properties": {
+        "id": "3855",
+        "name": "New Horizon Montessori School Ltd.",
+        "address": "1415 Noons Creek Dr",
+        "city": "Coquitlam",
+        "phone": "604-552-7542",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.88948",
+          "49.258071"
+        ]
+      },
+      "properties": {
+        "id": "3872",
+        "name": "Sunshine Childcare",
+        "address": "1111-550 Cottonwood Ave",
+        "city": "Coquitlam",
+        "phone": "604-937-3578",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.788556",
+          "49.310734"
+        ]
+      },
+      "properties": {
+        "id": "3908",
+        "name": "Hampton Park Bilingual Montessori Inc.",
+        "address": "1760 Paddock Dr",
+        "city": "Coquitlam",
+        "phone": "604-468-9934",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.813513",
+          "49.280017"
+        ]
+      },
+      "properties": {
+        "id": "3913",
+        "name": "B & D Montessori Learning Academy Ltd. (Coq)",
+        "address": "1187 Eagleridge Dr",
+        "city": "Coquitlam",
+        "phone": "604-464-6447",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.817086",
+          "49.285058"
+        ]
+      },
+      "properties": {
+        "id": "3942",
+        "name": "Panda Bear Children's Place \"Panda Kids\"",
+        "address": "1215 Falcon Dr",
+        "city": "Coquitlam",
+        "phone": "604-862-1302",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.779618",
+          "49.298182"
+        ]
+      },
+      "properties": {
+        "id": "3990",
+        "name": "Blue Sky",
+        "address": "1382 Kenney St",
+        "city": "Coquitlam",
+        "phone": "604-562-5989",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.802938",
+          "49.288142"
+        ]
+      },
+      "properties": {
+        "id": "3997",
+        "name": "Homera Daycare Center",
+        "address": "1252 Hudson St",
+        "city": "Coquitlam",
+        "phone": "604-945-5263",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.874302",
+          "49.247598"
+        ]
+      },
+      "properties": {
+        "id": "4002",
+        "name": "Nagin's Daycare",
+        "address": "450 Joyce St",
+        "city": "Coquitlam",
+        "phone": "604-936-0777",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.851824",
+          "49.25713"
+        ]
+      },
+      "properties": {
+        "id": "4009",
+        "name": "Green Apple Daycare Coquitlam",
+        "address": "1504 Sprice Ave",
+        "city": "Coquitlam",
+        "phone": "604-931-5595",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.821054",
+          "49.274036"
+        ]
+      },
+      "properties": {
+        "id": "4049",
+        "name": "Children Of Integrity Montessori Childcare Academy",
+        "address": "2541 Quay Pl",
+        "city": "Coquitlam",
+        "phone": "778-840-0764",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.809137",
+          "49.281135"
+        ]
+      },
+      "properties": {
+        "id": "4059",
+        "name": "Wind And Tide Preschool - Eagle Ridge",
+        "address": "1160 Lansdowne Dr",
+        "city": "Coquitlam",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.868476",
+          "49.257945"
+        ]
+      },
+      "properties": {
+        "id": "4073",
+        "name": "First Steps Daycare",
+        "address": "675 Blue Mountain St",
+        "city": "Coquitlam",
+        "phone": "604-931-0691",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.792627",
+          "49.278632"
+        ]
+      },
+      "properties": {
+        "id": "4096",
+        "name": "Educastle Childcare Learning Centre",
+        "address": "270 3020 Lincoln Ave",
+        "city": "Coquitlam",
+        "phone": "604-942-2273",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.887094",
+          "49.258534"
+        ]
+      },
+      "properties": {
+        "id": "4118",
+        "name": "Kids Village",
+        "address": "588 Cottonwood Ave",
+        "city": "Coquitlam",
+        "phone": "604-931-8138",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.889408",
+          "49.267965"
+        ]
+      },
+      "properties": {
+        "id": "4147",
+        "name": "Children's Choice",
+        "address": "578 Thompson Ave",
+        "city": "Coquitlam",
+        "phone": "604-939-8652",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.81764",
+          "49.298433"
+        ]
+      },
+      "properties": {
+        "id": "4174",
+        "name": "Panorama Group Daycare",
+        "address": "2625 Panorama Dr",
+        "city": "Coquitlam",
+        "phone": "604-468-4030",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.876982",
+          "49.241349"
+        ]
+      },
+      "properties": {
+        "id": "4188",
+        "name": "Our Lady Of Fatima Early Learning Center & Before/After Care",
+        "address": "315 Walker St",
+        "city": "Coquitlam",
+        "phone": "604-936-4250",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.826934",
+          "49.251221"
+        ]
+      },
+      "properties": {
+        "id": "4192",
+        "name": "Dream Tree Day Care",
+        "address": "2405 King Albert Ave",
+        "city": "Coquitlam",
+        "phone": "604-936-9948",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.797472",
+          "49.267394"
+        ]
+      },
+      "properties": {
+        "id": "4198",
+        "name": "Friendship Corner Daycare",
+        "address": "2950 Dewdney Trunk Rd",
+        "city": "Coquitlam",
+        "phone": "604-945-8504",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.820245",
+          "49.248565"
+        ]
+      },
+      "properties": {
+        "id": "4216",
+        "name": "Over The Rainbow - Austin",
+        "address": "2600 Austin Ave",
+        "city": "Coquitlam",
+        "phone": "604-939-2726",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.890619",
+          "49.245911"
+        ]
+      },
+      "properties": {
+        "id": "4241",
+        "name": "Rainforest Learning Centre Inc. \u2013 Coquitlam",
+        "address": "101 511 Rochester Ave",
+        "city": "Coquitlam",
+        "phone": "778-355-0555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.846011",
+          "49.262172"
+        ]
+      },
+      "properties": {
+        "id": "4328",
+        "name": "123 A.B.C. Montessori Infant/Toddler Center",
+        "address": "737 Poirier St",
+        "city": "Coquitlam",
+        "phone": "604-931-7206",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.792533",
+          "49.288088"
+        ]
+      },
+      "properties": {
+        "id": "4334",
+        "name": "Douglas College Early Childhood Education Center (Coquitlam)",
+        "address": "1250 Pinetree Way",
+        "city": "Coquitlam",
+        "phone": "604-777-6101",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.878988",
+          "49.265822"
+        ]
+      },
+      "properties": {
+        "id": "4345",
+        "name": "White Swan Montessori Education Centre",
+        "address": "800 Egmont Ave",
+        "city": "Coquitlam",
+        "phone": "604-931-7926",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.870571",
+          "49.248505"
+        ]
+      },
+      "properties": {
+        "id": "4441",
+        "name": "Little Treasures Daycare Inc",
+        "address": "450 Blue Mountain St",
+        "city": "Coquitlam",
+        "phone": "604-931-5593",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.821461",
+          "49.273708"
+        ]
+      },
+      "properties": {
+        "id": "4455",
+        "name": "Lily Care Day Care",
+        "address": "2546 Quay Pl",
+        "city": "Coquitlam",
+        "phone": "778-355-8620",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.800965",
+          "49.289928"
+        ]
+      },
+      "properties": {
+        "id": "4482",
+        "name": "Canyon Springs Montessori School & Childcare Centre",
+        "address": "2910 Walton Ave",
+        "city": "Coquitlam",
+        "phone": "604-945-0566",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.864713",
+          "49.249643"
+        ]
+      },
+      "properties": {
+        "id": "4492",
+        "name": "Hellokids Childcare Centre",
+        "address": "1020 Ridgeway Ave",
+        "city": "Coquitlam",
+        "phone": "604-261-9713",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.801427",
+          "49.292291"
+        ]
+      },
+      "properties": {
+        "id": "4503",
+        "name": "The Good Shepherd Daycare",
+        "address": "1320 Johnson St",
+        "city": "Coquitlam",
+        "phone": "604-537-8100",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.794028",
+          "49.292246"
+        ]
+      },
+      "properties": {
+        "id": "4520",
+        "name": "Jia Jia Family Daycare",
+        "address": "3014 Delahaye Dr",
+        "city": "Coquitlam",
+        "phone": "604-475-2663",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.805693",
+          "49.287166"
+        ]
+      },
+      "properties": {
+        "id": "4544",
+        "name": "Durant Kids Center",
+        "address": "1210 Durant Dr",
+        "city": "Coquitlam",
+        "phone": "604-552-5775",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.800542",
+          "49.3001"
+        ]
+      },
+      "properties": {
+        "id": "4594",
+        "name": "Brightstart Children's Academy Ltd",
+        "address": "1450 Johnson St",
+        "city": "Coquitlam",
+        "phone": "778-883-0529",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.841871",
+          "49.258627"
+        ]
+      },
+      "properties": {
+        "id": "4609",
+        "name": "Teddy Bear Family Child Care",
+        "address": "1883 Walnut Cres",
+        "city": "Coquitlam",
+        "phone": "778-867-3732",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.778115",
+          "49.290293"
+        ]
+      },
+      "properties": {
+        "id": "4629",
+        "name": "Pitter Patter Daycare",
+        "address": "1267 Nestor St",
+        "city": "Coquitlam",
+        "phone": "604-626-3952",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.794865",
+          "49.283166"
+        ]
+      },
+      "properties": {
+        "id": "4630",
+        "name": "Glen Childcare",
+        "address": "2977 Glen Dr",
+        "city": "Coquitlam",
+        "phone": "778-285-3589",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.841593",
+          "49.264709"
+        ]
+      },
+      "properties": {
+        "id": "4714",
+        "name": "Como Lake Kids Village Daycare",
+        "address": "825 St. Laurence St",
+        "city": "Coquitlam",
+        "phone": "",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.86994",
+          "49.23704"
+        ]
+      },
+      "properties": {
+        "id": "4718",
+        "name": "Elation Education Child Care Centre",
+        "address": "100 & 200 938 Brunette Ave",
+        "city": "Coquitlam",
+        "phone": "604-515-8846",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.810031",
+          "49.283498"
+        ]
+      },
+      "properties": {
+        "id": "4779",
+        "name": "Dreamkids Childcare",
+        "address": "207-1194 Lansdowne Dr",
+        "city": "Coquitlam",
+        "phone": "604-809-1823",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.834711",
+          "49.248793"
+        ]
+      },
+      "properties": {
+        "id": "4780",
+        "name": "Little Eagle Childcare Centre Ltd",
+        "address": "200-2188 Austin Ave",
+        "city": "Coquitlam",
+        "phone": "604-931-6777",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.805973",
+          "49.25724"
+        ]
+      },
+      "properties": {
+        "id": "4801",
+        "name": "Little Rainbow House Preschool & Daycare",
+        "address": "700 Clearwater Way",
+        "city": "Coquitlam",
+        "phone": "604-945-2727",
+        "services": [
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.806964",
+          "49.27849"
+        ]
+      },
+      "properties": {
+        "id": "4815",
+        "name": "Little Butterflies Daycare",
+        "address": "16-2773 Barnet Hwy",
+        "city": "Coquitlam",
+        "phone": "778-875-2570",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.75548",
+          "49.298906"
+        ]
+      },
+      "properties": {
+        "id": "4817",
+        "name": "The Kinder Garden Learning Centre",
+        "address": "1406 Duchess St",
+        "city": "Coquitlam",
+        "phone": "604-862-8567",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.756323",
+          "49.297552"
+        ]
+      },
+      "properties": {
+        "id": "4830",
+        "name": "Burke Mountain Preschool",
+        "address": "1386 Coast Meridian Rd",
+        "city": "Coquitlam",
+        "phone": "604-475-5834",
+        "services": [
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.777712",
+          "49.290873"
+        ]
+      },
+      "properties": {
+        "id": "4845",
+        "name": "Watch Me Grow Child Care Centre",
+        "address": "1276 Hornby St",
+        "city": "Coquitlam",
+        "phone": "778-988-9582",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.792764",
+          "49.265553"
+        ]
+      },
+      "properties": {
+        "id": "4930",
+        "name": "Precious Shepherd Family Daycare",
+        "address": "850 Greene St",
+        "city": "Coquitlam",
+        "phone": "604-474-4754",
+        "services": [
+          "2.5 - 5 yrs",
+          "Out of School Care",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.755198",
+          "49.292518"
+        ]
+      },
+      "properties": {
+        "id": "4954",
+        "name": "Core Education And Fine Arts",
+        "address": "3380 David Ave",
+        "city": "Coquitlam",
+        "phone": "778-980-5641",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.833196",
+          "49.247891"
+        ]
+      },
+      "properties": {
+        "id": "5033",
+        "name": "Able Child Academy Early Learning Ltd",
+        "address": "2200 Austin Ave",
+        "city": "Coquitlam",
+        "phone": "778-877-6831",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.812312",
+          "49.256993"
+        ]
+      },
+      "properties": {
+        "id": "5079",
+        "name": "Little Stars Family Child Care",
+        "address": "2746 Westlake Dr",
+        "city": "Coquitlam",
+        "phone": "604-767-9137",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.802036",
+          "49.289802"
+        ]
+      },
+      "properties": {
+        "id": "5088",
+        "name": "Peek-A-Boo Infant And Toddler Daycare",
+        "address": "2888 Walton Ave",
+        "city": "Coquitlam",
+        "phone": "778-227-5747",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.846312",
+          "49.238743"
+        ]
+      },
+      "properties": {
+        "id": "5095",
+        "name": "Gamesters Gift Of Time",
+        "address": "1704 Sheridan Ave",
+        "city": "Coquitlam",
+        "phone": "778-227-4335",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.79638",
+          "49.292216"
+        ]
+      },
+      "properties": {
+        "id": "5154",
+        "name": "Golden Apple Daycare",
+        "address": "1315 Jordan St",
+        "city": "Coquitlam",
+        "phone": "604-475-3868",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.800981",
+          "49.289667"
+        ]
+      },
+      "properties": {
+        "id": "5215",
+        "name": "Canyon Springs Daycare",
+        "address": "1277 Johnson St",
+        "city": "Coquitlam",
+        "phone": "604-945-0566",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.86147",
+          "49.257341"
+        ]
+      },
+      "properties": {
+        "id": "5220",
+        "name": "Amazement Park Children's Center - Before-After School Care",
+        "address": "1107 Sprice Ave",
+        "city": "Coquitlam",
+        "phone": "604-789-9366",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.850757",
+          "49.239262"
+        ]
+      },
+      "properties": {
+        "id": "5225",
+        "name": "Sidekicks Childcare Centre",
+        "address": "1550 Booth Ave",
+        "city": "Coquitlam",
+        "phone": "604-553-6007",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.862973",
+          "49.245073"
+        ]
+      },
+      "properties": {
+        "id": "5226",
+        "name": "Bunny's Childcare",
+        "address": "1060 Rochester Ave",
+        "city": "Coquitlam",
+        "phone": "604-939-2517",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.793131",
+          "49.281041"
+        ]
+      },
+      "properties": {
+        "id": "5227",
+        "name": "Write Choice Early Learning Centre",
+        "address": "2027-1163 Pinetree Way",
+        "city": "Coquitlam",
+        "phone": "604-475-3181",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.842085",
+          "49.233126"
+        ]
+      },
+      "properties": {
+        "id": "5229",
+        "name": "Funtime Family Daycare",
+        "address": "1898 Brunette Ave",
+        "city": "Coquitlam",
+        "phone": "778-838-8258",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.747575",
+          "49.298184"
+        ]
+      },
+      "properties": {
+        "id": "5298",
+        "name": "Westwood Montessori (Burke Mountain)",
+        "address": "1401 Kingston St",
+        "city": "Coquitlam",
+        "phone": "604-765-0966",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.793883",
+          "49.281452"
+        ]
+      },
+      "properties": {
+        "id": "5313",
+        "name": "Ladybird Montessori Learning Academy",
+        "address": "2-1180 Pinetree Way",
+        "city": "Coquitlam",
+        "phone": "778-285-1737",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.86279",
+          "49.257746"
+        ]
+      },
+      "properties": {
+        "id": "5314",
+        "name": "Amazement Park Children's Center Ltd",
+        "address": "1050 Cottonwood Ave",
+        "city": "Coquitlam",
+        "phone": "604-789-9366",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.75546",
+          "49.271484"
+        ]
+      },
+      "properties": {
+        "id": "5327",
+        "name": "Dreamkids Childcare Ltd (Poco Location)",
+        "address": "B110 - 1475 Prairie Ave",
+        "city": "Coquitlam",
+        "phone": "604-809-1823",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.803475",
+          "49.27232"
+        ]
+      },
+      "properties": {
+        "id": "5334",
+        "name": "Cribs To Crayons Daycare Ltd",
+        "address": "2860 Dewdney Trunk Rd",
+        "city": "Coquitlam",
+        "phone": "604-537-3444",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.81838",
+          "49.297238"
+        ]
+      },
+      "properties": {
+        "id": "5377",
+        "name": "Sun Fun Child Care Center",
+        "address": "2648 Sandstone Cres",
+        "city": "Coquitlam",
+        "phone": "604-945-8901",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.799437",
+          "49.287592"
+        ]
+      },
+      "properties": {
+        "id": "5402",
+        "name": "Walton Learning Childcare Centre",
+        "address": "1149 Durant Dr",
+        "city": "Coquitlam",
+        "phone": "604-723-1019",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.863916",
+          "49.248932"
+        ]
+      },
+      "properties": {
+        "id": "5426",
+        "name": "Ema - Kids Club (Coquitlam)",
+        "address": "1046F Austin Ave",
+        "city": "Coquitlam",
+        "phone": "604-231-3311",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.772116",
+          "49.302964"
+        ]
+      },
+      "properties": {
+        "id": "5507",
+        "name": "Happy Feet Montessori Child Care",
+        "address": "1461 Hockaday St",
+        "city": "Coquitlam",
+        "phone": "604-474-0850",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.881489",
+          "49.246624"
+        ]
+      },
+      "properties": {
+        "id": "5549",
+        "name": "Foundation Of Learning Child Care Inc.",
+        "address": "427 Donald St",
+        "city": "Coquitlam",
+        "phone": "778-898-9471",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.882175",
+          "49.253986"
+        ]
+      },
+      "properties": {
+        "id": "5557",
+        "name": "Sweet Pea's Daycare",
+        "address": "699 Accacia Ave",
+        "city": "Coquitlam",
+        "phone": "778-707-2634",
+        "services": [
+          "2.5 - 5 yrs",
+          "Under 36 months"
+        ]
+      }
+    }
+  ]
+}

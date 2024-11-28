@@ -1,0 +1,1848 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.924806",
+          "49.207788"
+        ]
+      },
+      "properties": {
+        "id": "24",
+        "name": "St. Barnabas Daycare Society",
+        "address": "1005 Napanee St",
+        "city": "New Westminster",
+        "phone": "604-526-6956",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.890477",
+          "49.232909"
+        ]
+      },
+      "properties": {
+        "id": "88",
+        "name": "Park Place Out-Of-School Care",
+        "address": "521 Fader St",
+        "city": "New Westminster",
+        "phone": "604-540-1688",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.942285",
+          "49.20546"
+        ]
+      },
+      "properties": {
+        "id": "89",
+        "name": "Playwest Kids Out-Of-School Care",
+        "address": "1714 8 Ave",
+        "city": "New Westminster",
+        "phone": "604-517-6078",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.911597",
+          "49.226212"
+        ]
+      },
+      "properties": {
+        "id": "90",
+        "name": "Misty Meadows Out-Of-School Care",
+        "address": "91 Courtney Cres",
+        "city": "New Westminster",
+        "phone": "604-540-1688",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.899939",
+          "49.226575"
+        ]
+      },
+      "properties": {
+        "id": "91",
+        "name": "Hilltop Hideway Out-Of-School Care",
+        "address": "331 Richmond St",
+        "city": "New Westminster",
+        "phone": "604-540-1688",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.911269",
+          "49.220733"
+        ]
+      },
+      "properties": {
+        "id": "92",
+        "name": "Griffin's Alley-Out-Of-School Care",
+        "address": "701 Park Cres",
+        "city": "New Westminster",
+        "phone": "604-540-1688",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.929894",
+          "49.210863"
+        ]
+      },
+      "properties": {
+        "id": "93",
+        "name": "Klub Kelvin Out-Of-School Care",
+        "address": "1010 Hamilton St",
+        "city": "New Westminster",
+        "phone": "604-517-6088",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.908463",
+          "49.219608"
+        ]
+      },
+      "properties": {
+        "id": "208",
+        "name": "Queen's Park Preschool",
+        "address": "Centennial Lodge Queens Pk.",
+        "city": "New Westminster",
+        "phone": "604-526-1153",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.952915",
+          "49.200909"
+        ]
+      },
+      "properties": {
+        "id": "412",
+        "name": "Happy Learning Child Care Centre",
+        "address": "2201 Eighth Ave",
+        "city": "New Westminster",
+        "phone": "604-553-4611",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.93358",
+          "49.207347"
+        ]
+      },
+      "properties": {
+        "id": "548",
+        "name": "Quality Family Day Care",
+        "address": "1305 Nanaimo St",
+        "city": "New Westminster",
+        "phone": "604-524-1653",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.931561",
+          "49.21225"
+        ]
+      },
+      "properties": {
+        "id": "549",
+        "name": "Dedic Family Day Care",
+        "address": "1015 8Th Ave",
+        "city": "New Westminster",
+        "phone": "604-523-0270",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.940658",
+          "49.186192"
+        ]
+      },
+      "properties": {
+        "id": "635",
+        "name": "Qe Clubhouse & Kids Borough",
+        "address": "833 Salter St",
+        "city": "New Westminster",
+        "phone": "778-237-4383",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.914212",
+          "49.222763"
+        ]
+      },
+      "properties": {
+        "id": "714",
+        "name": "Polka Dot Fine Art & Education",
+        "address": "203-800 mcbride Blvd",
+        "city": "New Westminster",
+        "phone": "604-343-6644",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.921146",
+          "49.212385"
+        ]
+      },
+      "properties": {
+        "id": "721",
+        "name": "Academics Prekindergarten Royal City",
+        "address": "300-628 Sixth Ave",
+        "city": "New Westminster",
+        "phone": "778-398-4769",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.917585",
+          "49.211445"
+        ]
+      },
+      "properties": {
+        "id": "749",
+        "name": "Royal Academy",
+        "address": "425 Sixth St",
+        "city": "New Westminster",
+        "phone": "778-388-1700",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.949616",
+          "49.1845"
+        ]
+      },
+      "properties": {
+        "id": "827",
+        "name": "Riverside Childcare",
+        "address": "140-1110 Ewen Ave",
+        "city": "New Westminster",
+        "phone": "604-354-1180",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.914623",
+          "49.221085"
+        ]
+      },
+      "properties": {
+        "id": "853",
+        "name": "Abc Academy-Children's Learning Center",
+        "address": "37 8Th Ave",
+        "city": "New Westminster",
+        "phone": "604-805-2402",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.9203",
+          "49.208586"
+        ]
+      },
+      "properties": {
+        "id": "854",
+        "name": "Abc Academy - Children's Learning Center Ltd",
+        "address": "160-401 Eighth St",
+        "city": "New Westminster",
+        "phone": "604-805-2402",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.934961",
+          "49.207427"
+        ]
+      },
+      "properties": {
+        "id": "994",
+        "name": "Golden Sunshine Daycare Centre",
+        "address": "1320 Seventh Ave",
+        "city": "New Westminster",
+        "phone": "778-223-6676",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.916059",
+          "49.21087"
+        ]
+      },
+      "properties": {
+        "id": "1015",
+        "name": "Blessed Generations Academy In Royal City",
+        "address": "501 4Th Ave",
+        "city": "New Westminster",
+        "phone": "604-618-4767",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.907247",
+          "49.208618"
+        ]
+      },
+      "properties": {
+        "id": "1106",
+        "name": "Pals Autism Society",
+        "address": "101 Third St",
+        "city": "New Westminster",
+        "phone": "604-251-1627",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.885879",
+          "49.231147"
+        ]
+      },
+      "properties": {
+        "id": "1119",
+        "name": "Urban Academy",
+        "address": "466 Rousseau St",
+        "city": "New Westminster",
+        "phone": "604-524-2211",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.921773",
+          "49.213484"
+        ]
+      },
+      "properties": {
+        "id": "1129",
+        "name": "Cefa Early Learning",
+        "address": "243-610 Sixth St",
+        "city": "New Westminster",
+        "phone": "778-326-2332",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.933527",
+          "49.210486"
+        ]
+      },
+      "properties": {
+        "id": "1141",
+        "name": "Growing Hands Childcare Centre",
+        "address": "1188 Eighth Ave",
+        "city": "New Westminster",
+        "phone": "778-899-1797",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.910959",
+          "49.20521"
+        ]
+      },
+      "properties": {
+        "id": "1145",
+        "name": "Mongio Early Learning Center",
+        "address": "600 Royal Ave",
+        "city": "New Westminster",
+        "phone": "604-553-8988",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.913685",
+          "49.222217"
+        ]
+      },
+      "properties": {
+        "id": "1274",
+        "name": "Polka Dot Fine Art & Education",
+        "address": "205-800 mcbride Blvd",
+        "city": "New Westminster",
+        "phone": "604-343-6644",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.924241",
+          "49.211861"
+        ]
+      },
+      "properties": {
+        "id": "1301",
+        "name": "Abc Academy - Children's Learning Center (Asc & Preschool)",
+        "address": "201-615 Eighth St",
+        "city": "New Westminster",
+        "phone": "604-805-2402",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.893142",
+          "49.22951"
+        ]
+      },
+      "properties": {
+        "id": "1449",
+        "name": "Tulip Childcare Center",
+        "address": "427 E Columbia St",
+        "city": "New Westminster",
+        "phone": "604-360-5556",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.896659",
+          "49.233989"
+        ]
+      },
+      "properties": {
+        "id": "1484",
+        "name": "Rainbow Bunnies",
+        "address": "536 Amess St",
+        "city": "New Westminster",
+        "phone": "778-836-1247",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.934972",
+          "49.20959"
+        ]
+      },
+      "properties": {
+        "id": "1501",
+        "name": "Precious Early Years Childcare",
+        "address": "733 Thirteenth St",
+        "city": "New Westminster",
+        "phone": "604-515-2808",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.937373",
+          "49.192946"
+        ]
+      },
+      "properties": {
+        "id": "1594",
+        "name": "Pink Bunny Daycare Ltd",
+        "address": "347 Fenton St",
+        "city": "New Westminster",
+        "phone": "604-600-7486",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.930748",
+          "49.207685"
+        ]
+      },
+      "properties": {
+        "id": "1605",
+        "name": "We Care Childcare - Children's Learning Centre",
+        "address": "602 12Th St",
+        "city": "New Westminster",
+        "phone": "604-553-4064",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.893482",
+          "49.221339"
+        ]
+      },
+      "properties": {
+        "id": "1613",
+        "name": "121 - Alphabet Montessori",
+        "address": "121 Columbia St E",
+        "city": "New Westminster",
+        "phone": "604-431-4545",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.953756",
+          "49.182437"
+        ]
+      },
+      "properties": {
+        "id": "1670",
+        "name": "Heartland Montessori Child Care",
+        "address": "249 Dawe St",
+        "city": "New Westminster",
+        "phone": "604-715-0050",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.947543",
+          "49.192676"
+        ]
+      },
+      "properties": {
+        "id": "1697",
+        "name": "Tiny Hoppers Early Learning Queensborough",
+        "address": "F120 - 805 Boyd St",
+        "city": "New Westminster",
+        "phone": "604-873-3921",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.947949",
+          "49.203409"
+        ]
+      },
+      "properties": {
+        "id": "1720",
+        "name": "Happy Family Child Care",
+        "address": "1931 Eighth Ave",
+        "city": "New Westminster",
+        "phone": "778-834-5151",
+        "services": [
+          "Under 36 months",
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.904856",
+          "49.208252"
+        ]
+      },
+      "properties": {
+        "id": "1905",
+        "name": "Qayqayt Seamless Day",
+        "address": "85 Merivale St",
+        "city": "New Westminster",
+        "phone": "604-220-4481",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.919273",
+          "49.21238"
+        ]
+      },
+      "properties": {
+        "id": "2267",
+        "name": "Little Footprints Academy (New West)",
+        "address": "200-505 Sixth St",
+        "city": "New Westminster",
+        "phone": "604-328-2091",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.914155",
+          "49.220311"
+        ]
+      },
+      "properties": {
+        "id": "2363",
+        "name": "Starlight Child Care Centre",
+        "address": "728 Colborne St",
+        "city": "New Westminster",
+        "phone": "778-389-9669",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.893553",
+          "49.231368"
+        ]
+      },
+      "properties": {
+        "id": "2381",
+        "name": "Sapperton Child Care",
+        "address": "308 Braid St",
+        "city": "New Westminster",
+        "phone": "604-525-4374",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.927735",
+          "49.195969"
+        ]
+      },
+      "properties": {
+        "id": "2446",
+        "name": "Queensborough Kids Child Care",
+        "address": "490 Furness St",
+        "city": "New Westminster",
+        "phone": "604-524-0522",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.940658",
+          "49.186183"
+        ]
+      },
+      "properties": {
+        "id": "2447",
+        "name": "Just B4 Queensborough",
+        "address": "833 Salter St",
+        "city": "New Westminster",
+        "phone": "604-517-6398",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.899941",
+          "49.226579"
+        ]
+      },
+      "properties": {
+        "id": "2479",
+        "name": "Skwo:Wech Children's Center",
+        "address": "331 Richmond St",
+        "city": "New Westminster",
+        "phone": "604-562-5092",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.93365",
+          "49.205714"
+        ]
+      },
+      "properties": {
+        "id": "2756",
+        "name": "Kiddie Castle Daycare",
+        "address": "1-1402 Sixth Ave",
+        "city": "New Westminster",
+        "phone": "604-526-5965",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.904969",
+          "49.23003"
+        ]
+      },
+      "properties": {
+        "id": "2779",
+        "name": "Amazing Angel Daycare",
+        "address": "919 Chilliwack St",
+        "city": "New Westminster",
+        "phone": "778-859-3293",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.913498",
+          "49.217392"
+        ]
+      },
+      "properties": {
+        "id": "2821",
+        "name": "Spencer's Lane",
+        "address": "605 Second St",
+        "city": "New Westminster",
+        "phone": "236-881-2361",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.909742",
+          "49.203573"
+        ]
+      },
+      "properties": {
+        "id": "2892",
+        "name": "Petite Academy Inc.",
+        "address": "632 Carnarvon St",
+        "city": "New Westminster",
+        "phone": "778-773-5695",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.944561",
+          "49.18711"
+        ]
+      },
+      "properties": {
+        "id": "2950",
+        "name": "Queensborough ymca Kids Club",
+        "address": "920 Ewen Ave",
+        "city": "New Westminster",
+        "phone": "236-880-7605",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.942284",
+          "49.205455"
+        ]
+      },
+      "properties": {
+        "id": "2978",
+        "name": "Tweedsmuir After School Studio",
+        "address": "1714 8Th Ave",
+        "city": "New Westminster",
+        "phone": "604-517-6398",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.9113",
+          "49.203335"
+        ]
+      },
+      "properties": {
+        "id": "3070",
+        "name": "Brightlights At The Stage",
+        "address": "230-50 Lorne St",
+        "city": "New Westminster",
+        "phone": "604-518-1291",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.939584",
+          "49.212279"
+        ]
+      },
+      "properties": {
+        "id": "3072",
+        "name": "Bw Childcare",
+        "address": "936 Thirteenth St",
+        "city": "New Westminster",
+        "phone": "778-980-2216",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.912124",
+          "49.226082"
+        ]
+      },
+      "properties": {
+        "id": "3088",
+        "name": "Qayqayt Children's Centre",
+        "address": "91 Courtney Cres",
+        "city": "New Westminster",
+        "phone": "604-540-0431",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.942284",
+          "49.205455"
+        ]
+      },
+      "properties": {
+        "id": "3089",
+        "name": "Ready Set Grow Children's Centre",
+        "address": "1714 Eighth Ave",
+        "city": "New Westminster",
+        "phone": "604-526-9788",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.913252",
+          "49.207258"
+        ]
+      },
+      "properties": {
+        "id": "3165",
+        "name": "Early Steps Academy Queens Park",
+        "address": "601 Queens Ave",
+        "city": "New Westminster",
+        "phone": "604-779-6541",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.91424",
+          "49.2068"
+        ]
+      },
+      "properties": {
+        "id": "3269",
+        "name": "Radiance Childcare Centre",
+        "address": "613 Queens Ave",
+        "city": "New Westminster",
+        "phone": "778-686-6330",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.923234",
+          "49.217733"
+        ]
+      },
+      "properties": {
+        "id": "3318",
+        "name": "Honey Bees Day Care",
+        "address": "819 Fifth St",
+        "city": "New Westminster",
+        "phone": "604-527-6760",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.917984",
+          "49.202123"
+        ]
+      },
+      "properties": {
+        "id": "3336",
+        "name": "Starlight Child Care Ltd.",
+        "address": "1-1001 Royal Ave",
+        "city": "New Westminster",
+        "phone": "778-859-4100",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.945808",
+          "49.184834"
+        ]
+      },
+      "properties": {
+        "id": "3346",
+        "name": "Creative Kids Family Child Care",
+        "address": "232 Howes St",
+        "city": "New Westminster",
+        "phone": "604-325-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.914135",
+          "49.206779"
+        ]
+      },
+      "properties": {
+        "id": "3369",
+        "name": "Little Lambs Childcare Center",
+        "address": "613 Queens Ave",
+        "city": "New Westminster",
+        "phone": "604-515-8212",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.929929",
+          "49.214888"
+        ]
+      },
+      "properties": {
+        "id": "3520",
+        "name": "Blue Castle Kidz Academy",
+        "address": "808 Dublin St",
+        "city": "New Westminster",
+        "phone": "778-989-2574",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.91424",
+          "49.222746"
+        ]
+      },
+      "properties": {
+        "id": "3557",
+        "name": "Polka Dot Early Learning",
+        "address": "10-800 mcbride Blvd",
+        "city": "New Westminster",
+        "phone": "604-724-4328",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.934961",
+          "49.207427"
+        ]
+      },
+      "properties": {
+        "id": "3592",
+        "name": "Somewhere To \"Grow\" Montessori Childcare Centre",
+        "address": "1320 Seventh Ave",
+        "city": "New Westminster",
+        "phone": "778-578-0329",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.914494",
+          "49.203116"
+        ]
+      },
+      "properties": {
+        "id": "3645",
+        "name": "Douglas College Ece Center (New Westminster)",
+        "address": "Room 2814 - 700 Royal Ave",
+        "city": "New Westminster",
+        "phone": "604-527-5632",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.932489",
+          "49.192546"
+        ]
+      },
+      "properties": {
+        "id": "3667",
+        "name": "Merseyside Montessori School",
+        "address": "401 Ewen Ave",
+        "city": "New Westminster",
+        "phone": "604-521-1355",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.908153",
+          "49.209305"
+        ]
+      },
+      "properties": {
+        "id": "3816",
+        "name": "Queen's Park Daycare",
+        "address": "131 Third St",
+        "city": "New Westminster",
+        "phone": "604-521-5680",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.931725",
+          "49.204382"
+        ]
+      },
+      "properties": {
+        "id": "3817",
+        "name": "Dd's Playhouse",
+        "address": "440 14Th St",
+        "city": "New Westminster",
+        "phone": "778-384-3133",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.920786",
+          "49.217664"
+        ]
+      },
+      "properties": {
+        "id": "4024",
+        "name": "Glenbrooke Daycare",
+        "address": "320 8Th Ave",
+        "city": "New Westminster",
+        "phone": "604-522-0666",
+        "services": [
+          "Under 36 months",
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.893244",
+          "49.22818"
+        ]
+      },
+      "properties": {
+        "id": "4202",
+        "name": "A & N Academic Montessori School Ltd",
+        "address": "403 Columbia St E",
+        "city": "New Westminster",
+        "phone": "778-387-8808",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.900004",
+          "49.229068"
+        ]
+      },
+      "properties": {
+        "id": "4234",
+        "name": "Little Jj's Group Childcare Ltd.",
+        "address": "343 8Th Ave E",
+        "city": "New Westminster",
+        "phone": "604-525-1678",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.911746",
+          "49.20292"
+        ]
+      },
+      "properties": {
+        "id": "4353",
+        "name": "Core Education & Fine Arts (New Westminster)",
+        "address": "725 Carnarvon St",
+        "city": "New Westminster",
+        "phone": "604-777-0053",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.917984",
+          "49.202123"
+        ]
+      },
+      "properties": {
+        "id": "4422",
+        "name": "Graham Montessori School",
+        "address": "2-1001 Royal Ave",
+        "city": "New Westminster",
+        "phone": "778-397-0191",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.921667",
+          "49.220868"
+        ]
+      },
+      "properties": {
+        "id": "4563",
+        "name": "Monkey Minders",
+        "address": "220 Blackman St",
+        "city": "New Westminster",
+        "phone": "604-518-1419",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.930357",
+          "49.204356"
+        ]
+      },
+      "properties": {
+        "id": "4578",
+        "name": "Montessori Minds Childcare Centre Ltd #2",
+        "address": "526 1310 Cariboo St",
+        "city": "New Westminster",
+        "phone": "778-837-9496",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.912331",
+          "49.207379"
+        ]
+      },
+      "properties": {
+        "id": "4607",
+        "name": "Frog Hollow Montessori House",
+        "address": "529 Queens Ave",
+        "city": "New Westminster",
+        "phone": "604-521-1355",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.913372",
+          "49.219161"
+        ]
+      },
+      "properties": {
+        "id": "4621",
+        "name": "Cambridge Montessori Children's Centre",
+        "address": "57 7Th Ave",
+        "city": "New Westminster",
+        "phone": "778-668-7188",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.932278",
+          "49.204074"
+        ]
+      },
+      "properties": {
+        "id": "4682",
+        "name": "Fraser Montessori Daycare",
+        "address": "1408 Fifth Ave",
+        "city": "New Westminster",
+        "phone": "604-553-0781",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.955653",
+          "49.202631"
+        ]
+      },
+      "properties": {
+        "id": "4703",
+        "name": "Dragon's Grove",
+        "address": "2201 London St",
+        "city": "New Westminster",
+        "phone": "604-540-1688",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.923545",
+          "49.219834"
+        ]
+      },
+      "properties": {
+        "id": "4720",
+        "name": "Sunshine Day Care",
+        "address": "326 Blackman St",
+        "city": "New Westminster",
+        "phone": "604-803-5873",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.896265",
+          "49.215977"
+        ]
+      },
+      "properties": {
+        "id": "4744",
+        "name": "Graham Montessori School",
+        "address": "76 Jamieson Ct",
+        "city": "New Westminster",
+        "phone": "778-397-0191",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.93524",
+          "49.212705"
+        ]
+      },
+      "properties": {
+        "id": "4898",
+        "name": "123 A Child's World",
+        "address": "1115 Dublin St",
+        "city": "New Westminster",
+        "phone": "778-859-4103",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.921944",
+          "49.214501"
+        ]
+      },
+      "properties": {
+        "id": "4932",
+        "name": "Glenbrooke Daycare (Afterschool)",
+        "address": "701 6Th St",
+        "city": "New Westminster",
+        "phone": "604-522-0666",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.925581",
+          "49.207173"
+        ]
+      },
+      "properties": {
+        "id": "4940",
+        "name": "Little School House Daycare",
+        "address": "1020 Napanee St",
+        "city": "New Westminster",
+        "phone": "778-928-7539",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.943896",
+          "49.20083"
+        ]
+      },
+      "properties": {
+        "id": "4943",
+        "name": "Fraser Montessori Daycare Inc",
+        "address": "1917 Marine Way",
+        "city": "New Westminster",
+        "phone": "604-553-0781",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.9429",
+          "49.206975"
+        ]
+      },
+      "properties": {
+        "id": "4974",
+        "name": "Seeds And Roots Montessori",
+        "address": "1630 Edinburgh St",
+        "city": "New Westminster",
+        "phone": "604-516-7777",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.905686",
+          "49.220747"
+        ]
+      },
+      "properties": {
+        "id": "4986",
+        "name": "Munchkin Manor Early Years Childcare Centre",
+        "address": "497 Glenbrook Dr",
+        "city": "New Westminster",
+        "phone": "604-540-2818",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.892283",
+          "49.223679"
+        ]
+      },
+      "properties": {
+        "id": "5044",
+        "name": "Kids & Company New Westminster",
+        "address": "281 Nelson's Ct",
+        "city": "New Westminster",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.899562",
+          "49.225835"
+        ]
+      },
+      "properties": {
+        "id": "5142",
+        "name": "Archer Daycare",
+        "address": "310 Archer St",
+        "city": "New Westminster",
+        "phone": "604-525-6186",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.906225",
+          "49.205898"
+        ]
+      },
+      "properties": {
+        "id": "5143",
+        "name": "Laugh And Learn Children Centre",
+        "address": "101-335 Carnarvon St",
+        "city": "New Westminster",
+        "phone": "604-526-1414",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.905456",
+          "49.208118"
+        ]
+      },
+      "properties": {
+        "id": "5163",
+        "name": "Kids Korner",
+        "address": "85 Merivale St",
+        "city": "New Westminster",
+        "phone": "604-540-1688",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.936405",
+          "49.190898"
+        ]
+      },
+      "properties": {
+        "id": "5255",
+        "name": "Ewen Childcare Centre",
+        "address": "527 Ewen Ave",
+        "city": "New Westminster",
+        "phone": "604-916-3178",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.91424",
+          "49.222746"
+        ]
+      },
+      "properties": {
+        "id": "5257",
+        "name": "Willowbrae Childcare Academy",
+        "address": "211-800 mcbride Blvd",
+        "city": "New Westminster",
+        "phone": "604-528-8018",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.93638",
+          "49.204145"
+        ]
+      },
+      "properties": {
+        "id": "5309",
+        "name": "Cartwheels & Crayons Childcare",
+        "address": "1530 Sixth Ave",
+        "city": "New Westminster",
+        "phone": "778-398-0062",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.89956",
+          "49.231772"
+        ]
+      },
+      "properties": {
+        "id": "5382",
+        "name": "Fraser Montessori Daycare",
+        "address": "835 Surrey St",
+        "city": "New Westminster",
+        "phone": "604-553-0781",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.892906",
+          "49.226939"
+        ]
+      },
+      "properties": {
+        "id": "5443",
+        "name": "Learn N' Play Early Learning Centre Inc.",
+        "address": "335 Columbia St E",
+        "city": "New Westminster",
+        "phone": "604-553-0461",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.908874",
+          "49.21464"
+        ]
+      },
+      "properties": {
+        "id": "5446",
+        "name": "Golden Sunshine Daycare Centre",
+        "address": "402 First St",
+        "city": "New Westminster",
+        "phone": "778-223-6676",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.917945",
+          "49.209823"
+        ]
+      },
+      "properties": {
+        "id": "5489",
+        "name": "Head Start Pre-Kinder",
+        "address": "617 Fourth Ave",
+        "city": "New Westminster",
+        "phone": "604-374-3728",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.949734",
+          "49.203483"
+        ]
+      },
+      "properties": {
+        "id": "5499",
+        "name": "Precious Early Years Childcare Inc.",
+        "address": "818 Twentieth St",
+        "city": "New Westminster",
+        "phone": "604-525-8186",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.949665",
+          "49.203777"
+        ]
+      },
+      "properties": {
+        "id": "5500",
+        "name": "Precious Early Years Childcare Centre",
+        "address": "826 Twentieth St",
+        "city": "New Westminster",
+        "phone": "604-525-8186",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.934061",
+          "49.209858"
+        ]
+      },
+      "properties": {
+        "id": "5501",
+        "name": "Precious School Years Childcare",
+        "address": "1210 Kingston St",
+        "city": "New Westminster",
+        "phone": "778-999-8637",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.892991",
+          "49.235198"
+        ]
+      },
+      "properties": {
+        "id": "5513",
+        "name": "Hume Park Daycare",
+        "address": "607 Columbia St E",
+        "city": "New Westminster",
+        "phone": "604-354-0662",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.933684",
+          "49.209499"
+        ]
+      },
+      "properties": {
+        "id": "5569",
+        "name": "Precious Early Years Childcare",
+        "address": "1209 Hamilton St",
+        "city": "New Westminster",
+        "phone": "778-999-8637",
+        "services": []
+      }
+    }
+  ]
+}

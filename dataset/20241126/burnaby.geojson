@@ -15,6 +15,7 @@
         "name": "Forest Grove Childcare Centre",
         "address": "36-8650 Cinnamon Dr",
         "city": "Burnaby",
+        "phone": "604-339-6340",
         "services": []
       }
     },
@@ -32,6 +33,7 @@
         "name": "St. Matthews Day Care Society",
         "address": "103-7355 Canada Way",
         "city": "Burnaby",
+        "phone": "604-527-1031",
         "services": []
       }
     },
@@ -49,6 +51,7 @@
         "name": "Cameron ymca Kids Club",
         "address": "9540 Erickson Dr",
         "city": "Burnaby",
+        "phone": "604-421-6560",
         "services": []
       }
     },
@@ -66,6 +69,7 @@
         "name": "Capitol Hill ymca Kids Club",
         "address": "350 Holdom Ave",
         "city": "Burnaby",
+        "phone": "604-294-3013",
         "services": []
       }
     },
@@ -83,6 +87,7 @@
         "name": "Stoney Creek ymca Kids Club",
         "address": "2740 Beaverbrook Cres",
         "city": "Burnaby",
+        "phone": "604-421-0555",
         "services": []
       }
     },
@@ -100,6 +105,7 @@
         "name": "Little Vine Learning Centre",
         "address": "1005 Kensington Ave",
         "city": "Burnaby",
+        "phone": "604-566-5887",
         "services": []
       }
     },
@@ -117,6 +123,7 @@
         "name": "Brentwood Park Plus",
         "address": "1455 Delta Ave Room B",
         "city": "Burnaby",
+        "phone": "604-292-1290",
         "services": []
       }
     },
@@ -134,6 +141,7 @@
         "name": "St. Alban's The Martyr Day Care",
         "address": "7717 19Th Ave",
         "city": "Burnaby",
+        "phone": "604-522-6228",
         "services": []
       }
     },
@@ -151,8 +159,9 @@
         "name": "Burnaby French Language Playschool",
         "address": "6060 Marlborough Ave",
         "city": "Burnaby",
+        "phone": "604-432-1323",
         "services": [
-          2
+          "Preschool"
         ]
       }
     },
@@ -170,6 +179,7 @@
         "name": "Kingsway Christian Children's Centre - Clubhouse",
         "address": "4045 Kingsway",
         "city": "Burnaby",
+        "phone": "604-437-3393",
         "services": []
       }
     },
@@ -187,6 +197,7 @@
         "name": "Kingsway Christian Children's Centre",
         "address": "4061 Kingsway",
         "city": "Burnaby",
+        "phone": "604-437-3393",
         "services": []
       }
     },
@@ -204,6 +215,7 @@
         "name": "Village Day Care",
         "address": "3290 Ganymede Dr",
         "city": "Burnaby",
+        "phone": "604-421-3064",
         "services": []
       }
     },
@@ -221,6 +233,7 @@
         "name": "Nelson Avenue Daycare",
         "address": "5825 Nelson Ave",
         "city": "Burnaby",
+        "phone": "604-439-9263",
         "services": []
       }
     },
@@ -238,8 +251,9 @@
         "name": "Beehive Christian Early Learning",
         "address": "8255 13 Ave",
         "city": "Burnaby",
+        "phone": "604-521-6601",
         "services": [
-          1
+          "2.5 - 5 yrs"
         ]
       }
     },
@@ -257,6 +271,7 @@
         "name": "Pied Piper Preschool",
         "address": "8757 Armstrong Ave",
         "city": "Burnaby",
+        "phone": "604-524-0833",
         "services": []
       }
     },
@@ -274,6 +289,7 @@
         "name": "Gilmore Preschool",
         "address": "50 Gilmore Ave",
         "city": "Burnaby",
+        "phone": "604-618-4333",
         "services": []
       }
     },
@@ -291,8 +307,9 @@
         "name": "Hillview Parent Participation Preschool",
         "address": "4340 Carson St",
         "city": "Burnaby",
+        "phone": "604-431-0119",
         "services": [
-          2
+          "Preschool"
         ]
       }
     },
@@ -310,6 +327,7 @@
         "name": "Madison Children's Centre",
         "address": "4397 Buchanan St",
         "city": "Burnaby",
+        "phone": "604-526-2522",
         "services": []
       }
     },
@@ -327,6 +345,7 @@
         "name": "Tiny Town Childcare Centre",
         "address": "5747 Gilpin St",
         "city": "Burnaby",
+        "phone": "604-433-6110",
         "services": []
       }
     },
@@ -344,6 +363,7 @@
         "name": "Three Bears Centre",
         "address": "9887 Cameron St",
         "city": "Burnaby",
+        "phone": "604-444-3302",
         "services": []
       }
     },
@@ -361,6 +381,7 @@
         "name": "Absorbent Minds Montessori Ltd.",
         "address": "7283 Nelson Ave",
         "city": "Burnaby",
+        "phone": "604-433-2144",
         "services": []
       }
     },
@@ -378,6 +399,7 @@
         "name": "Burnaby Lakeview Early Learning Centre",
         "address": "7777 Mayfield St",
         "city": "Burnaby",
+        "phone": "604-522-5515",
         "services": []
       }
     },
@@ -395,6 +417,7 @@
         "name": "Dharma Kids Centre",
         "address": "3821 Piper Ave",
         "city": "Burnaby",
+        "phone": "604-420-2604",
         "services": []
       }
     },
@@ -412,9 +435,9 @@
         "name": "Kids Link Out Of School Care",
         "address": "7502  2Nd St",
         "city": "Burnaby",
+        "phone": "604-889-1092",
         "services": [
-          3,
-          4
+          "Out of School Care"
         ]
       }
     },
@@ -432,6 +455,7 @@
         "name": "Parkcrest Children's Centre",
         "address": "6040 Winch St",
         "city": "Burnaby",
+        "phone": "604-294-6224",
         "services": []
       }
     },
@@ -449,6 +473,7 @@
         "name": "Bee House Montessori Day Care I",
         "address": "7283 Nelson Ave",
         "city": "Burnaby",
+        "phone": "604-433-9769",
         "services": []
       }
     },
@@ -466,6 +491,7 @@
         "name": "Maywood Neighbourhood Care",
         "address": "4567 Imperial St",
         "city": "Burnaby",
+        "phone": "604-431-0484",
         "services": []
       }
     },
@@ -483,6 +509,7 @@
         "name": "Stride Avenue Neighbourhood Care",
         "address": "7014 Stride Ave",
         "city": "Burnaby",
+        "phone": "604-527-0444",
         "services": []
       }
     },
@@ -500,6 +527,7 @@
         "name": "Treasure Island School Age Care",
         "address": "3883 Triumph St",
         "city": "Burnaby",
+        "phone": "604-723-1837",
         "services": []
       }
     },
@@ -517,6 +545,7 @@
         "name": "Beyond Care",
         "address": "8350 11Th Ave",
         "city": "Burnaby",
+        "phone": "604-521-8748",
         "services": []
       }
     },
@@ -534,10 +563,11 @@
         "name": "Little Hearts Family Child Care",
         "address": "47-5955 Oakdale Rd",
         "city": "Burnaby",
+        "phone": "604-434-2640",
         "services": [
-          0,
-          1,
-          4
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
         ]
       }
     },
@@ -555,6 +585,7 @@
         "name": "Kool Catz Family Child Care",
         "address": "48-5955 Oakdale Rd",
         "city": "Burnaby",
+        "phone": "778-968-6154",
         "services": []
       }
     },
@@ -572,6 +603,7 @@
         "name": "Sheila's Family Daycare",
         "address": "6470 Aubrey St",
         "city": "Burnaby",
+        "phone": "604-294-4011",
         "services": []
       }
     },
@@ -589,6 +621,7 @@
         "name": "Cefa Early Learning Brentwood",
         "address": "Lm100-4664 Lougheed Hwy",
         "city": "Burnaby",
+        "phone": "604-565-3333",
         "services": []
       }
     },
@@ -606,6 +639,7 @@
         "name": "Petits Genies Academy Ltd",
         "address": "101-4181 Hastings St",
         "city": "Burnaby",
+        "phone": "604-788-0901",
         "services": []
       }
     },
@@ -623,8 +657,9 @@
         "name": "Pomegranate Childcare",
         "address": "7289 Gray Ave",
         "city": "Burnaby",
+        "phone": "778-322-8377",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -642,6 +677,7 @@
         "name": "Starlight Child Care Centre",
         "address": "8547 11Th Ave",
         "city": "Burnaby",
+        "phone": "778-389-9669",
         "services": []
       }
     },
@@ -659,6 +695,7 @@
         "name": "Hand In Hand Montessori Child Care",
         "address": "6733 Griffiths Ave",
         "city": "Burnaby",
+        "phone": "604-525-7996",
         "services": []
       }
     },
@@ -676,9 +713,10 @@
         "name": "Rising Stars Daycare Inc",
         "address": "8094 11Th Ave",
         "city": "Burnaby",
+        "phone": "604-553-9987",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -696,6 +734,7 @@
         "name": "Sophia Child Care Facility",
         "address": "8007 19Th Ave",
         "city": "Burnaby",
+        "phone": "604-442-8545",
         "services": []
       }
     },
@@ -713,6 +752,7 @@
         "name": "Happy Bird Daycare",
         "address": "7545 18Th Ave",
         "city": "Burnaby",
+        "phone": "778-903-4237",
         "services": []
       }
     },
@@ -730,6 +770,7 @@
         "name": "Little Hat Daycare",
         "address": "6669 Colborne Ave",
         "city": "Burnaby",
+        "phone": "778-882-0748",
         "services": []
       }
     },
@@ -747,6 +788,7 @@
         "name": "Little Bell Daycare Centre",
         "address": "101-7168 Stride Ave",
         "city": "Burnaby",
+        "phone": "604-721-6666",
         "services": []
       }
     },
@@ -764,6 +806,7 @@
         "name": "Little Sprouts Montessori Daycare Centre",
         "address": "4364 Moscrop St",
         "city": "Burnaby",
+        "phone": "604-367-3696",
         "services": []
       }
     },
@@ -781,6 +824,7 @@
         "name": "Jessie's Tots Educare Centre A",
         "address": "4871 Highlawn Dr",
         "city": "Burnaby",
+        "phone": "778-928-9995",
         "services": []
       }
     },
@@ -798,6 +842,7 @@
         "name": "Ask Or Imagine Christian Children's Center",
         "address": "6344 Sperling Ave",
         "city": "Burnaby",
+        "phone": "604-970-2625",
         "services": []
       }
     },
@@ -815,9 +860,10 @@
         "name": "Little Penguin Family Child Care",
         "address": "114-6044 Wilson Ave",
         "city": "Burnaby",
+        "phone": "778-926-4018",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -835,9 +881,10 @@
         "name": "Happy Face Family Child Care",
         "address": "6965 Aubrey St",
         "city": "Burnaby",
+        "phone": "604-435-0880",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -855,6 +902,7 @@
         "name": "Little Learners Family Daycare",
         "address": "5450 Elsom Ave",
         "city": "Burnaby",
+        "phone": "778-321-5437",
         "services": []
       }
     },
@@ -872,6 +920,7 @@
         "name": "Fantastic Kidz Childcare",
         "address": "7233 Dow Ave",
         "city": "Burnaby",
+        "phone": "778-386-8889",
         "services": []
       }
     },
@@ -889,6 +938,7 @@
         "name": "Broadway Bilingual Daycare",
         "address": "6644 Broadway",
         "city": "Burnaby",
+        "phone": "604-444-4706",
         "services": []
       }
     },
@@ -906,6 +956,7 @@
         "name": "Springtree Montessori School",
         "address": "6693 Brantford Ave",
         "city": "Burnaby",
+        "phone": "778-862-9399",
         "services": []
       }
     },
@@ -923,6 +974,7 @@
         "name": "Angels Playhouse Infant & Toddler Childcare Centre -Creslawn",
         "address": "1361 Crestlawn Dr",
         "city": "Burnaby",
+        "phone": "604-809-3868",
         "services": []
       }
     },
@@ -940,6 +992,7 @@
         "name": "Lael Academy",
         "address": "5467 Hardy Crt",
         "city": "Burnaby",
+        "phone": "778-951-1993",
         "services": []
       }
     },
@@ -957,6 +1010,7 @@
         "name": "Little Blossom Daycare",
         "address": "7283 Nelson Ave",
         "city": "Burnaby",
+        "phone": "604-433-5155",
         "services": []
       }
     },
@@ -974,8 +1028,9 @@
         "name": "Inspirations Montessori School",
         "address": "7980 Gray Ave",
         "city": "Burnaby",
+        "phone": "778-889-5083",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -993,6 +1048,7 @@
         "name": "Grace Montessori Daycare",
         "address": "7588 Cariboo Rd",
         "city": "Burnaby",
+        "phone": "778-986-5168",
         "services": []
       }
     },
@@ -1010,6 +1066,7 @@
         "name": "Jessie's Tots Educare Centre B",
         "address": "4630 Northlawn Dr",
         "city": "Burnaby",
+        "phone": "778-928-9995",
         "services": []
       }
     },
@@ -1027,6 +1084,7 @@
         "name": "Aurora Montessori Children's House",
         "address": "3895 Albert St",
         "city": "Burnaby",
+        "phone": "778-723-4585",
         "services": []
       }
     },
@@ -1044,6 +1102,7 @@
         "name": "Early Learning Childcare Centre",
         "address": "6619 Brantford Ave",
         "city": "Burnaby",
+        "phone": "778-898-9593",
         "services": []
       }
     },
@@ -1061,6 +1120,7 @@
         "name": "Forest City Children's Centre",
         "address": "5855 Imperial St",
         "city": "Burnaby",
+        "phone": "604-433-2324",
         "services": []
       }
     },
@@ -1078,6 +1138,7 @@
         "name": "Spring Childcare",
         "address": "7050 Broadway",
         "city": "Burnaby",
+        "phone": "778-798-0907",
         "services": []
       }
     },
@@ -1095,6 +1156,7 @@
         "name": "Parker James",
         "address": "5770 Grant St",
         "city": "Burnaby",
+        "phone": "604-657-4850",
         "services": []
       }
     },
@@ -1112,6 +1174,7 @@
         "name": "Sakura Childcare The Third",
         "address": "6776 Gilley Ave",
         "city": "Burnaby",
+        "phone": "778-858-7216",
         "services": []
       }
     },
@@ -1129,6 +1192,7 @@
         "name": "Gummy Bears Child Care",
         "address": "6288 Service St",
         "city": "Burnaby",
+        "phone": "778-927-8133",
         "services": []
       }
     },
@@ -1146,11 +1210,11 @@
         "name": "Emmarisse Daycare",
         "address": "7057 Sierra Dr",
         "city": "Burnaby",
+        "phone": "778-513-7820",
         "services": [
-          0,
-          1,
-          3,
-          4
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
         ]
       }
     },
@@ -1168,6 +1232,7 @@
         "name": "Play N Learn Daycare",
         "address": "3839 Thurston St",
         "city": "Burnaby",
+        "phone": "604-617-8355",
         "services": []
       }
     },
@@ -1185,6 +1250,7 @@
         "name": "Deer Lake Seventh-Day Adventist School",
         "address": "5550 Gilpin St",
         "city": "Burnaby",
+        "phone": "604-816-5845",
         "services": []
       }
     },
@@ -1202,6 +1268,7 @@
         "name": "Toma's Montessori Childcare",
         "address": "7870 6Th St",
         "city": "Burnaby",
+        "phone": "778-773-8507",
         "services": []
       }
     },
@@ -1219,6 +1286,7 @@
         "name": "Next Prep Academy",
         "address": "4838 Hastings St",
         "city": "Burnaby",
+        "phone": "604-653-6398",
         "services": []
       }
     },
@@ -1236,6 +1304,7 @@
         "name": "Happy Treehouse Family Daycare",
         "address": "8017 19Th Ave",
         "city": "Burnaby",
+        "phone": "604-515-0444",
         "services": []
       }
     },
@@ -1253,11 +1322,11 @@
         "name": "Little Town Childcare Centre",
         "address": "7480 Broadway",
         "city": "Burnaby",
+        "phone": "604-729-6655",
         "services": [
-          0,
-          1,
-          3,
-          4
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
         ]
       }
     },
@@ -1275,6 +1344,7 @@
         "name": "Cedar Tree Early Learning Center",
         "address": "5086 Inman Ave",
         "city": "Burnaby",
+        "phone": "778-889-9292",
         "services": []
       }
     },
@@ -1292,6 +1362,7 @@
         "name": "Foccus Kids Family Child Care",
         "address": "47-6670 Rumble St",
         "city": "Burnaby",
+        "phone": "778-866-0721",
         "services": []
       }
     },
@@ -1309,6 +1380,7 @@
         "name": "Metrotown Daycare",
         "address": "7250 Dow Ave",
         "city": "Burnaby",
+        "phone": "778-872-1239",
         "services": []
       }
     },
@@ -1326,6 +1398,7 @@
         "name": "A & B Daycare",
         "address": "6092 Selma Ave",
         "city": "Burnaby",
+        "phone": "778-995-2628",
         "services": []
       }
     },
@@ -1343,6 +1416,7 @@
         "name": "Organic Early Learning",
         "address": "7535 Sixth St",
         "city": "Burnaby",
+        "phone": "604-765-9982",
         "services": []
       }
     },
@@ -1360,6 +1434,7 @@
         "name": "Propel Montessori Daycare",
         "address": "7200 Cariboo Rd",
         "city": "Burnaby",
+        "phone": "604-836-8009",
         "services": []
       }
     },
@@ -1377,6 +1452,7 @@
         "name": "Kidz Adventure Learning Centre",
         "address": "5165 Hardwick St",
         "city": "Burnaby",
+        "phone": "778-773-9997",
         "services": []
       }
     },
@@ -1394,6 +1470,7 @@
         "name": "Eminent Stars Daycare Ltd",
         "address": "3986 Rumble St",
         "city": "Burnaby",
+        "phone": "778-223-2698",
         "services": []
       }
     },
@@ -1411,6 +1488,7 @@
         "name": "Angels Playhouse Infant And Toddler Childcare Centre(Rumble)",
         "address": "5588 Rumble St",
         "city": "Burnaby",
+        "phone": "604-809-3868",
         "services": []
       }
     },
@@ -1428,6 +1506,7 @@
         "name": "Busy Bee Montessori Children's House",
         "address": "5749 Elsom Ave",
         "city": "Burnaby",
+        "phone": "604-603-5687",
         "services": []
       }
     },
@@ -1445,6 +1524,7 @@
         "name": "Boo Boo Daycare",
         "address": "6209 Elgin Ave",
         "city": "Burnaby",
+        "phone": "778-938-8871",
         "services": []
       }
     },
@@ -1462,6 +1542,7 @@
         "name": "Little Dino Childcare Centre",
         "address": "7929 19Th Ave",
         "city": "Burnaby",
+        "phone": "236-428-8878",
         "services": []
       }
     },
@@ -1479,6 +1560,7 @@
         "name": "Puddle Splashers Childcare Society",
         "address": "510 Duncan Ave",
         "city": "Burnaby",
+        "phone": "604-802-4059",
         "services": []
       }
     },
@@ -1496,6 +1578,7 @@
         "name": "2Nd Home Bilingual Child Care Center",
         "address": "6262 Buckingham Dr",
         "city": "Burnaby",
+        "phone": "778-955-7181",
         "services": []
       }
     },
@@ -1513,6 +1596,7 @@
         "name": "Angel Wings Daycare Center",
         "address": "7444 Edmonds St",
         "city": "Burnaby",
+        "phone": "604-551-6090",
         "services": []
       }
     },
@@ -1530,6 +1614,7 @@
         "name": "Little Shakespeare Child Care Ltd.",
         "address": "4181 Venables St",
         "city": "Burnaby",
+        "phone": "604-715-2535",
         "services": []
       }
     },
@@ -1547,6 +1632,7 @@
         "name": "Language Arts Early Learning",
         "address": "8695 10Th Ave",
         "city": "Burnaby",
+        "phone": "236-251-6951",
         "services": []
       }
     },
@@ -1564,6 +1650,7 @@
         "name": "Capitol Hill Children's Centre",
         "address": "5750 Pandora St",
         "city": "Burnaby",
+        "phone": "778-727-1310",
         "services": []
       }
     },
@@ -1581,6 +1668,7 @@
         "name": "P-Wee Early Learning Centre",
         "address": "4001 Hastings St",
         "city": "Burnaby",
+        "phone": "778-846-8666",
         "services": []
       }
     },
@@ -1598,9 +1686,10 @@
         "name": "Kids Fun Castle",
         "address": "4620 Pender St",
         "city": "Burnaby",
+        "phone": "778-869-3363",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -1618,8 +1707,9 @@
         "name": "Children's Reef Learning Center Ltd.",
         "address": "3722 Frances St",
         "city": "Burnaby",
+        "phone": "778-837-4672",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -1637,6 +1727,7 @@
         "name": "Starlight Child Care Centre",
         "address": "8486 16Th Ave",
         "city": "Burnaby",
+        "phone": "778-389-9669",
         "services": []
       }
     },
@@ -1654,6 +1745,7 @@
         "name": "Baby Home Child Care Centre",
         "address": "7931 Goodlad St",
         "city": "Burnaby",
+        "phone": "778-829-8684",
         "services": []
       }
     },
@@ -1671,6 +1763,7 @@
         "name": "Kidz Adventure Learning Centre (Parkcrest)",
         "address": "6138 Parkcrest Dr",
         "city": "Burnaby",
+        "phone": "778-872-3992",
         "services": []
       }
     },
@@ -1688,6 +1781,7 @@
         "name": "Gummy Bears Child Care",
         "address": "6719 Brantford Ave",
         "city": "Burnaby",
+        "phone": "778-927-8133",
         "services": []
       }
     },
@@ -1705,6 +1799,7 @@
         "name": "Abc Childcare",
         "address": "6938 Halligan St",
         "city": "Burnaby",
+        "phone": "778-238-8618",
         "services": []
       }
     },
@@ -1722,6 +1817,7 @@
         "name": "Honey Bees Studio Daycare",
         "address": "7854 6Th St",
         "city": "Burnaby",
+        "phone": "604-527-6760",
         "services": []
       }
     },
@@ -1739,6 +1835,7 @@
         "name": "Lil Prodigies Centre",
         "address": "7123 Curtis St",
         "city": "Burnaby",
+        "phone": "604-291-0756",
         "services": []
       }
     },
@@ -1756,6 +1853,7 @@
         "name": "Wonderworld Montessori Academy-Metrotown",
         "address": "6390 Silver Ave",
         "city": "Burnaby",
+        "phone": "604-612-4254",
         "services": []
       }
     },
@@ -1773,8 +1871,9 @@
         "name": "Momentos De Ninos Childcare Ltd",
         "address": "5875 mckee St",
         "city": "Burnaby",
+        "phone": "778-865-9183",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -1792,6 +1891,7 @@
         "name": "Marlbrough Neighbourhood Care",
         "address": "5151 Sanders St",
         "city": "Burnaby",
+        "phone": "604-431-0400",
         "services": []
       }
     },
@@ -1809,8 +1909,9 @@
         "name": "Little Wonderland Childcare",
         "address": "7767 12Th Ave",
         "city": "Burnaby",
+        "phone": "778-885-9386",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -1828,6 +1929,7 @@
         "name": "Polka Dot Fine Art & Education",
         "address": "300-5761 Marine Way",
         "city": "Burnaby",
+        "phone": "604-724-4328",
         "services": []
       }
     },
@@ -1845,6 +1947,7 @@
         "name": "Captain Alpha Childcare",
         "address": "4304 Parker St",
         "city": "Burnaby",
+        "phone": "778-888-8132",
         "services": []
       }
     },
@@ -1862,6 +1965,7 @@
         "name": "Mulberry Tree Infant And Toddler Childcare",
         "address": "3784 Frances St",
         "city": "Burnaby",
+        "phone": "604-428-1733",
         "services": []
       }
     },
@@ -1879,6 +1983,7 @@
         "name": "Play And Learn Childcare Centre",
         "address": "4425 Saratoga Ct",
         "city": "Burnaby",
+        "phone": "604-258-9727",
         "services": []
       }
     },
@@ -1896,9 +2001,10 @@
         "name": "A + Child Care Centre",
         "address": "6793 Elwell St",
         "city": "Burnaby",
+        "phone": "778-251-0130",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -1916,6 +2022,7 @@
         "name": "Happyland Infant And Toddler Daycare",
         "address": "6295 Broadway",
         "city": "Burnaby",
+        "phone": "778-883-9030",
         "services": []
       }
     },
@@ -1933,6 +2040,7 @@
         "name": "Hula Bears Child Care",
         "address": "5858 Bryant St",
         "city": "Burnaby",
+        "phone": "778-239-8818",
         "services": []
       }
     },
@@ -1950,6 +2058,7 @@
         "name": "A & B Learning Daycare",
         "address": "4605 Grassmere St",
         "city": "Burnaby",
+        "phone": "778-995-2628",
         "services": []
       }
     },
@@ -1967,6 +2076,7 @@
         "name": "Little Eagles Childcare - Centre For Excellence",
         "address": "3755 Banff Ave",
         "city": "Burnaby",
+        "phone": "604-336-9484",
         "services": []
       }
     },
@@ -1984,6 +2094,7 @@
         "name": "Marlborough Early Years Care",
         "address": "6051 Royal Oak Ave",
         "city": "Burnaby",
+        "phone": "604-431-0400",
         "services": []
       }
     },
@@ -2001,6 +2112,7 @@
         "name": "Burnaby Montessori School Ltd",
         "address": "5489 Kingsway",
         "city": "Burnaby",
+        "phone": "604-558-1661",
         "services": []
       }
     },
@@ -2018,6 +2130,7 @@
         "name": "Little Stars Daycare Centre",
         "address": "7760 Lawrence Dr",
         "city": "Burnaby",
+        "phone": "604-367-3696",
         "services": []
       }
     },
@@ -2035,6 +2148,7 @@
         "name": "South Slope Day Care",
         "address": "4625 Neville St",
         "city": "Burnaby",
+        "phone": "778-892-3113",
         "services": []
       }
     },
@@ -2052,6 +2166,7 @@
         "name": "Creative Tots Montessori & Daycare",
         "address": "3756 Burke St",
         "city": "Burnaby",
+        "phone": "236-476-2268",
         "services": []
       }
     },
@@ -2069,6 +2184,7 @@
         "name": "Angels Playhouse Daycare Society (Sperling Ave)",
         "address": "6850 Sperling Ave",
         "city": "Burnaby",
+        "phone": "604-809-3868",
         "services": []
       }
     },
@@ -2086,8 +2202,9 @@
         "name": "Bright Beginnings Fine Arts Preschool Ltd",
         "address": "201-5262 Rumble St",
         "city": "Burnaby",
+        "phone": "604-818-2376",
         "services": [
-          2
+          "Preschool"
         ]
       }
     },
@@ -2105,8 +2222,9 @@
         "name": "Chris' Home Daycare",
         "address": "7110 Maureen Cres",
         "city": "Burnaby",
+        "phone": "604-363-4669",
         "services": [
-          1
+          "2.5 - 5 yrs"
         ]
       }
     },
@@ -2124,6 +2242,7 @@
         "name": "Kiddie Club Infant Toddler Childcare",
         "address": "6177 Leibly Ave",
         "city": "Burnaby",
+        "phone": "778-801-7874",
         "services": []
       }
     },
@@ -2141,6 +2260,7 @@
         "name": "Pretty Angels Daycare",
         "address": "8148 18Th Ave",
         "city": "Burnaby",
+        "phone": "236-862-5435",
         "services": []
       }
     },
@@ -2158,6 +2278,7 @@
         "name": "Ic Early Learning Center",
         "address": "6336 Royal Oak Ave",
         "city": "Burnaby",
+        "phone": "604-500-5559",
         "services": []
       }
     },
@@ -2175,6 +2296,7 @@
         "name": "Amazing Kidz Childcare",
         "address": "3780 Lozells Ave",
         "city": "Burnaby",
+        "phone": "236-863-1758",
         "services": []
       }
     },
@@ -2192,6 +2314,7 @@
         "name": "Early Steps",
         "address": "4890 Hastings St",
         "city": "Burnaby",
+        "phone": "604-862-6980",
         "services": []
       }
     },
@@ -2209,6 +2332,7 @@
         "name": "Galaxy Daycare Centre Ltd",
         "address": "8187 Woodlake Crt",
         "city": "Burnaby",
+        "phone": "604-218-4961",
         "services": []
       }
     },
@@ -2226,9 +2350,10 @@
         "name": "Nubo Kids Center",
         "address": "101-7312 Magnolia Terr",
         "city": "Burnaby",
+        "phone": "604-771-9827",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -2246,6 +2371,7 @@
         "name": "Happy Smile Childcare Centre",
         "address": "7615 17Th Ave",
         "city": "Burnaby",
+        "phone": "778-697-0998",
         "services": []
       }
     },
@@ -2263,6 +2389,7 @@
         "name": "Tree House Infant And Toddler Daycare",
         "address": "6897 Sussex Ave",
         "city": "Burnaby",
+        "phone": "778-387-8009",
         "services": []
       }
     },
@@ -2280,9 +2407,10 @@
         "name": "Open Mind Childcare",
         "address": "7296 18Th Ave",
         "city": "Burnaby",
+        "phone": "604-369-9418",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -2300,9 +2428,10 @@
         "name": "Wonderful Childcare Centre",
         "address": "8080 Buller Ave",
         "city": "Burnaby",
+        "phone": "778-452-5796",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -2320,6 +2449,7 @@
         "name": "A & B Childcare Centre",
         "address": "6620 Colborne Ave",
         "city": "Burnaby",
+        "phone": "778-682-3611",
         "services": []
       }
     },
@@ -2337,6 +2467,7 @@
         "name": "Little Montessorians",
         "address": "719 Carleton Ave",
         "city": "Burnaby",
+        "phone": "778-898-0860",
         "services": []
       }
     },
@@ -2354,11 +2485,11 @@
         "name": "Armstrong Daycare",
         "address": "8688 Armstrong Ave",
         "city": "Burnaby",
+        "phone": "604-338-4968",
         "services": [
-          0,
-          1,
-          3,
-          4
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
         ]
       }
     },
@@ -2376,6 +2507,7 @@
         "name": "E2 Childcare",
         "address": "4642 Irmin St",
         "city": "Burnaby",
+        "phone": "604-658-0792",
         "services": []
       }
     },
@@ -2393,9 +2525,10 @@
         "name": "Hycrest Kids Childcare",
         "address": "6905 Hycrest Dr",
         "city": "Burnaby",
+        "phone": "604-895-4257",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -2413,6 +2546,7 @@
         "name": "Bear Cubs Childcare",
         "address": "3530 Colter Crt",
         "city": "Burnaby",
+        "phone": "778-898-6338",
         "services": []
       }
     },
@@ -2430,9 +2564,10 @@
         "name": "Little Butterfly Montessori Childcare",
         "address": "2863 Southcrest Dr",
         "city": "Burnaby",
+        "phone": "778-683-1338",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -2450,6 +2585,7 @@
         "name": "Burnaby Lakeview Daycare",
         "address": "7020 Sperling Ave",
         "city": "Burnaby",
+        "phone": "778-990-3981",
         "services": []
       }
     },
@@ -2467,6 +2603,7 @@
         "name": "Kids View Studio",
         "address": "4610 Northlawn Dr",
         "city": "Burnaby",
+        "phone": "604-629-3555",
         "services": []
       }
     },
@@ -2484,6 +2621,7 @@
         "name": "Angels Playhouse Daycare Society (Sherban Ct)",
         "address": "5798 Sherban Crt",
         "city": "Burnaby",
+        "phone": "604-809-3868",
         "services": []
       }
     },
@@ -2501,6 +2639,7 @@
         "name": "Crescendo Childcare Centre",
         "address": "4663 Hastings St",
         "city": "Burnaby",
+        "phone": "604-808-7623",
         "services": []
       }
     },
@@ -2518,6 +2657,7 @@
         "name": "Miss Jenny's",
         "address": "7275 Newcombe St",
         "city": "Burnaby",
+        "phone": "604-356-9975",
         "services": []
       }
     },
@@ -2535,6 +2675,7 @@
         "name": "Ic Early Learning Center (Metrotown)",
         "address": "4721 Sardis St",
         "city": "Burnaby",
+        "phone": "604-500-5559",
         "services": []
       }
     },
@@ -2552,23 +2693,7 @@
         "name": "Stride Early Years Care",
         "address": "7051 14Th Ave",
         "city": "Burnaby",
-        "services": []
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "id": "2790",
-        "name": "Raja Montessori Academy Ltd.",
-        "address": null,
-        "city": null,
+        "phone": "604-431-0400",
         "services": []
       }
     },
@@ -2586,6 +2711,7 @@
         "name": "Inspirations Montessori School - Irmin",
         "address": "5232 Irmin St",
         "city": "Burnaby",
+        "phone": "778-889-5083",
         "services": []
       }
     },
@@ -2603,6 +2729,7 @@
         "name": "Mom's Pride Childcare Centre",
         "address": "7328 Dunvegan Crt",
         "city": "Burnaby",
+        "phone": "604-374-3688",
         "services": []
       }
     },
@@ -2620,6 +2747,7 @@
         "name": "Sakura Childcare The Annex",
         "address": "3893 Hurst St",
         "city": "Burnaby",
+        "phone": "604-657-7310",
         "services": []
       }
     },
@@ -2637,6 +2765,7 @@
         "name": "Baby Club Childcare",
         "address": "7538 Tyndale Cres",
         "city": "Burnaby",
+        "phone": "778-302-6919",
         "services": []
       }
     },
@@ -2654,9 +2783,10 @@
         "name": "Alysh Daycare Centre",
         "address": "3964 Creekside Pl",
         "city": "Burnaby",
+        "phone": "604-418-2454",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -2674,6 +2804,7 @@
         "name": "Opus Daycare - Brentwood",
         "address": "1562 Taralawn Crt",
         "city": "Burnaby",
+        "phone": "604-727-5057",
         "services": []
       }
     },
@@ -2691,6 +2822,7 @@
         "name": "Opus Daycare - Nelson",
         "address": "8358 Nelson Ave",
         "city": "Burnaby",
+        "phone": "604-727-5057",
         "services": []
       }
     },
@@ -2708,6 +2840,7 @@
         "name": "Puddle Splashers Childcare Society",
         "address": "751 Hammarskjold Dr",
         "city": "Burnaby",
+        "phone": "604-802-4059",
         "services": []
       }
     },
@@ -2725,6 +2858,7 @@
         "name": "Ic Early Learning Center (Nelson)",
         "address": "5989 Nelson Ave",
         "city": "Burnaby",
+        "phone": "604-719-1111",
         "services": []
       }
     },
@@ -2742,6 +2876,7 @@
         "name": "Gym Bears Child Care",
         "address": "6428 Selma Ave",
         "city": "Burnaby",
+        "phone": "778-927-8133",
         "services": []
       }
     },
@@ -2759,6 +2894,7 @@
         "name": "Baby Smile Childcare",
         "address": "7348 Stride Ave",
         "city": "Burnaby",
+        "phone": "778-302-6919",
         "services": []
       }
     },
@@ -2776,6 +2912,7 @@
         "name": "Little Seedlings Daycare Centre",
         "address": "7352 12Th Ave",
         "city": "Burnaby",
+        "phone": "778-882-0887",
         "services": []
       }
     },
@@ -2793,6 +2930,7 @@
         "name": "Burnaby Lake Childcare",
         "address": "4578 Brentlawn Dr",
         "city": "Burnaby",
+        "phone": "604-728-0613",
         "services": []
       }
     },
@@ -2810,6 +2948,7 @@
         "name": "Fabulous Kidz Childcare",
         "address": "4677 Northview Crt",
         "city": "Burnaby",
+        "phone": "778-386-8889",
         "services": []
       }
     },
@@ -2827,6 +2966,7 @@
         "name": "Happy Owls Childcare",
         "address": "6355 Grant St",
         "city": "Burnaby",
+        "phone": "778-386-8889",
         "services": []
       }
     },
@@ -2844,8 +2984,9 @@
         "name": "Baby Beluga Early Learning & Play House",
         "address": "5450 Moreland Dr",
         "city": "Burnaby",
+        "phone": "778-846-5120",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -2863,9 +3004,10 @@
         "name": "Adventure House Early Learning Childcare",
         "address": "8187 12Th Ave",
         "city": "Burnaby",
+        "phone": "236-453-0873",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -2883,11 +3025,11 @@
         "name": "Bear House Daycare At Rosewood",
         "address": "7978 Rosewood St",
         "city": "Burnaby",
+        "phone": "778-998-5599",
         "services": [
-          0,
-          1,
-          3,
-          4
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
         ]
       }
     },
@@ -2905,6 +3047,7 @@
         "name": "Angels Playhouse Daycare Society (Clinton St)",
         "address": "5288 Clinton St",
         "city": "Burnaby",
+        "phone": "604-809-3868",
         "services": []
       }
     },
@@ -2922,6 +3065,7 @@
         "name": "Pearl Childcare",
         "address": "6312 Pearl Ave",
         "city": "Burnaby",
+        "phone": "604-537-5756",
         "services": []
       }
     },
@@ -2939,8 +3083,9 @@
         "name": "Christine Sinclair Child Care Centre",
         "address": "3713 Kensington Ave",
         "city": "Burnaby",
+        "phone": "236-339-3109",
         "services": [
-          1
+          "2.5 - 5 yrs"
         ]
       }
     },
@@ -2958,11 +3103,11 @@
         "name": "Apple Island Childcare",
         "address": "7487 Holly St",
         "city": "Burnaby",
+        "phone": "604-721-7488",
         "services": [
-          0,
-          1,
-          3,
-          4
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
         ]
       }
     },
@@ -2980,8 +3125,9 @@
         "name": "Little Sparrows Academy Corporation",
         "address": "8049 Gilley Ave",
         "city": "Burnaby",
+        "phone": "778-865-7198",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -2999,8 +3145,9 @@
         "name": "A Miracle Childcare",
         "address": "6655 Georgia St",
         "city": "Burnaby",
+        "phone": "672-513-2463",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -3018,6 +3165,7 @@
         "name": "Ic Early Learning Center (Morley)",
         "address": "7726 Morley St",
         "city": "Burnaby",
+        "phone": "604-500-5559",
         "services": []
       }
     },
@@ -3035,9 +3183,10 @@
         "name": "Hummingbird Learning House",
         "address": "8049 Macpherson Ave",
         "city": "Burnaby",
+        "phone": "778-302-4647",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -3055,6 +3204,7 @@
         "name": "Abc Academy - Children's Learning Center Ltd - Burnaby",
         "address": "3830 Sunset St",
         "city": "Burnaby",
+        "phone": "604-317-9040",
         "services": []
       }
     },
@@ -3072,6 +3222,7 @@
         "name": "Little Charm Daycare",
         "address": "4650 Neville St",
         "city": "Burnaby",
+        "phone": "778-302-6919",
         "services": []
       }
     },
@@ -3089,9 +3240,10 @@
         "name": "Lulu Berry And Lime Daycare",
         "address": "8013 16Th Ave",
         "city": "Burnaby",
+        "phone": "236-512-8778",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -3109,9 +3261,10 @@
         "name": "Summer Joy Child-Care",
         "address": "3322 Lealand Crt",
         "city": "Burnaby",
+        "phone": "604-230-4674",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -3129,8 +3282,9 @@
         "name": "A1 Suncrest Daycare",
         "address": "7907 Suncrest Dr",
         "city": "Burnaby",
+        "phone": "778-986-9386",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -3148,6 +3302,7 @@
         "name": "Baby Angel Early Learning Inc",
         "address": "4536 Irmin St",
         "city": "Burnaby",
+        "phone": "778-885-6330",
         "services": []
       }
     },
@@ -3165,6 +3320,7 @@
         "name": "Happyland Infant And Toddler Daycare (Dundas)",
         "address": "6295 Broadway",
         "city": "Burnaby",
+        "phone": "778-883-9030",
         "services": []
       }
     },
@@ -3182,8 +3338,9 @@
         "name": "Marin Learning Center",
         "address": "5110 Marine Dr",
         "city": "Burnaby",
+        "phone": "604-283-4088",
         "services": [
-          1
+          "2.5 - 5 yrs"
         ]
       }
     },
@@ -3201,6 +3358,7 @@
         "name": "Blessed Generations Academy - Canada Way Burnaby",
         "address": "7837 Canada Way",
         "city": "Burnaby",
+        "phone": "604-618-4767",
         "services": []
       }
     },
@@ -3218,6 +3376,7 @@
         "name": "Early Steps Highgate",
         "address": "7327 Edmonds St",
         "city": "Burnaby",
+        "phone": "604-544-5770",
         "services": []
       }
     },
@@ -3235,8 +3394,9 @@
         "name": "Happy Gogo Childcare Centre",
         "address": "7928 14Th Ave",
         "city": "Burnaby",
+        "phone": "778-320-9988",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -3254,6 +3414,7 @@
         "name": "Lullaby Child Care",
         "address": "6368 Buckingham Dr",
         "city": "Burnaby",
+        "phone": "604-353-5618",
         "services": []
       }
     },
@@ -3271,6 +3432,7 @@
         "name": "Organic Early Learning (Satellite)",
         "address": "7501 6Th St",
         "city": "Burnaby",
+        "phone": "604-765-9982",
         "services": []
       }
     },
@@ -3288,6 +3450,7 @@
         "name": "Pioneering Minds Childcare Ltd",
         "address": "6079 Marine Drive",
         "city": "Burnaby",
+        "phone": "778-865-9183",
         "services": []
       }
     },
@@ -3305,8 +3468,9 @@
         "name": "Little Oak Childcare Centre (Stride Burnaby)",
         "address": "7171 Stride Ave",
         "city": "Burnaby",
+        "phone": "778-898-6338",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -3324,6 +3488,7 @@
         "name": "Keekoz Daycare",
         "address": "4290 Venables St",
         "city": "Burnaby",
+        "phone": "604-294-9969",
         "services": []
       }
     },
@@ -3341,6 +3506,7 @@
         "name": "Jellybean Park Junior Campus",
         "address": "2110 4700 Kingsway",
         "city": "Burnaby",
+        "phone": "604-539-9898",
         "services": []
       }
     },
@@ -3358,9 +3524,10 @@
         "name": "Taylor Park Children's Centre (30 Months To School Age)",
         "address": "7500 Hanna Crt",
         "city": "Burnaby",
+        "phone": "604-520-6017",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -3378,6 +3545,7 @@
         "name": "Little Children Family Daycare",
         "address": "5655 Cedarwood St",
         "city": "Burnaby",
+        "phone": "604-431-1918",
         "services": []
       }
     },
@@ -3395,9 +3563,9 @@
         "name": "The Grove Out Of School Childcare Program",
         "address": "8525 Forest Grove Dr Rm 11 & 7",
         "city": "Burnaby",
+        "phone": "604-420-5001",
         "services": [
-          3,
-          4
+          "Out of School Care"
         ]
       }
     },
@@ -3415,6 +3583,7 @@
         "name": "Seeds Family Day Care",
         "address": "4378 Sardis St",
         "city": "Burnaby",
+        "phone": "604-435-0846",
         "services": []
       }
     },
@@ -3432,6 +3601,7 @@
         "name": "Mrs Dolling's Family Daycare",
         "address": "6050 Halifax St",
         "city": "Burnaby",
+        "phone": "604-299-7111",
         "services": []
       }
     },
@@ -3449,6 +3619,7 @@
         "name": "Burquitlam Childcare",
         "address": "9847 Lyndhurst St",
         "city": "Burnaby",
+        "phone": "604-421-2919",
         "services": []
       }
     },
@@ -3466,6 +3637,7 @@
         "name": "Treasure Island Out Of School Care Ii",
         "address": "4550 Kitchener St",
         "city": "Burnaby",
+        "phone": "604-723-1837",
         "services": []
       }
     },
@@ -3483,6 +3655,7 @@
         "name": "Douglas Road Neighbourhood Care",
         "address": "4861 Canada Way",
         "city": "Burnaby",
+        "phone": "604-298-7094",
         "services": []
       }
     },
@@ -3500,6 +3673,7 @@
         "name": "South Slope Out Of School Care",
         "address": "4446 Watling St",
         "city": "Burnaby",
+        "phone": "604-419-0806",
         "services": []
       }
     },
@@ -3517,6 +3691,7 @@
         "name": "House Of Angels",
         "address": "7610 Dow Ave",
         "city": "Burnaby",
+        "phone": "778-881-2693",
         "services": []
       }
     },
@@ -3534,6 +3709,7 @@
         "name": "Core Education & Fine Arts",
         "address": "4970 Canada Way",
         "city": "Burnaby",
+        "phone": "604-299-2373",
         "services": []
       }
     },
@@ -3551,9 +3727,10 @@
         "name": "Hanna Court Children's Centre",
         "address": "7521 Hanna Crt",
         "city": "Burnaby",
+        "phone": "604-520-6017",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -3571,6 +3748,7 @@
         "name": "Kelli's Little Angels",
         "address": "4652 Brentlawn Dr",
         "city": "Burnaby",
+        "phone": "604-551-6093",
         "services": []
       }
     },
@@ -3588,6 +3766,7 @@
         "name": "Bright Star Montessori School Inc",
         "address": "7591 Gray Ave",
         "city": "Burnaby",
+        "phone": "778-861-8876",
         "services": []
       }
     },
@@ -3605,6 +3784,7 @@
         "name": "Yu's Montessori School In Burnaby",
         "address": "380 Hythe Ave S",
         "city": "Burnaby",
+        "phone": "604-866-2904",
         "services": []
       }
     },
@@ -3622,6 +3802,7 @@
         "name": "Apple Tree Family Daycare",
         "address": "7924 Nursery St",
         "city": "Burnaby",
+        "phone": "604-515-7503",
         "services": []
       }
     },
@@ -3639,11 +3820,11 @@
         "name": "Building Block Daycare",
         "address": "3430 Douglas Rd",
         "city": "Burnaby",
+        "phone": "604-437-5985",
         "services": [
-          0,
-          1,
-          3,
-          4
+          "2.5 - 5 yrs",
+          "Under 36 months",
+          "Out of School Care"
         ]
       }
     },
@@ -3661,6 +3842,7 @@
         "name": "Clinton Neighbourhood Care",
         "address": "5858 Clinton St",
         "city": "Burnaby",
+        "phone": "604-435-1222",
         "services": []
       }
     },
@@ -3678,6 +3860,7 @@
         "name": "Bee House Montessori Day Care Ii",
         "address": "3855 Sunset St",
         "city": "Burnaby",
+        "phone": "604-814-4584",
         "services": []
       }
     },
@@ -3695,8 +3878,9 @@
         "name": "North Rd Montessori Child Care",
         "address": "2781 North Rd",
         "city": "Burnaby",
+        "phone": "604-444-3787",
         "services": [
-          1
+          "2.5 - 5 yrs"
         ]
       }
     },
@@ -3714,6 +3898,7 @@
         "name": "In-Joy Montessori Children's Centre",
         "address": "6808 Beresford St",
         "city": "Burnaby",
+        "phone": "778-688-4585",
         "services": []
       }
     },
@@ -3731,6 +3916,7 @@
         "name": "In-Joy Montessori Children's Center",
         "address": "5375 Gilpin St",
         "city": "Burnaby",
+        "phone": "778-688-4585",
         "services": []
       }
     },
@@ -3748,6 +3934,7 @@
         "name": "Kitchener School Age Care",
         "address": "1351 Gilmore Ave",
         "city": "Burnaby",
+        "phone": "604-526-2522",
         "services": []
       }
     },
@@ -3765,6 +3952,7 @@
         "name": "Jellybean Park International Campus",
         "address": "452 4800 Kingsway",
         "city": "Burnaby",
+        "phone": "604-539-9898",
         "services": []
       }
     },
@@ -3782,6 +3970,7 @@
         "name": "Lochdale Neighbourhood Care",
         "address": "6990 Aubrey St",
         "city": "Burnaby",
+        "phone": "604-431-0400",
         "services": []
       }
     },
@@ -3799,9 +3988,10 @@
         "name": "Summerhill Montessori Preschool And Kindergarten",
         "address": "1600 Cliff Ave",
         "city": "Burnaby",
+        "phone": "604-294-0240",
         "services": [
-          1,
-          2
+          "2.5 - 5 yrs",
+          "Preschool"
         ]
       }
     },
@@ -3819,6 +4009,7 @@
         "name": "Yukon Crescent Children's Centre",
         "address": "2123 Yukon Cres",
         "city": "Burnaby",
+        "phone": "604-526-2522",
         "services": []
       }
     },
@@ -3836,6 +4027,7 @@
         "name": "Aubrey Daycare Centre",
         "address": "6409 Aubrey St",
         "city": "Burnaby",
+        "phone": "604-677-0012",
         "services": []
       }
     },
@@ -3853,6 +4045,7 @@
         "name": "Rosser Children's Centre",
         "address": "4375 Pandora St",
         "city": "Burnaby",
+        "phone": "604-526-2522",
         "services": []
       }
     },
@@ -3870,6 +4063,7 @@
         "name": "Aubrey Daycare Centre",
         "address": "947 Sperling Ave",
         "city": "Burnaby",
+        "phone": "604-677-0012",
         "services": []
       }
     },
@@ -3887,6 +4081,7 @@
         "name": "Rhema Childcare Centre Ltd.",
         "address": "7381 Curtis St",
         "city": "Burnaby",
+        "phone": "604-299-4817",
         "services": []
       }
     },
@@ -3904,6 +4099,7 @@
         "name": "Deer Lake Child Care",
         "address": "5135 Sperling Ave",
         "city": "Burnaby",
+        "phone": "604-294-4988",
         "services": []
       }
     },
@@ -3921,6 +4117,7 @@
         "name": "Kiddocare Infant/Toddler Centre",
         "address": "7595 10 Ave",
         "city": "Burnaby",
+        "phone": "604-230-6148",
         "services": []
       }
     },
@@ -3938,6 +4135,7 @@
         "name": "Cambridge Montessori Children's House",
         "address": "4415 Fitzgerald Ave",
         "city": "Burnaby",
+        "phone": "778-668-7188",
         "services": []
       }
     },
@@ -3955,6 +4153,7 @@
         "name": "Aubrey Daycare Centre",
         "address": "949 Sperling Ave",
         "city": "Burnaby",
+        "phone": "604-677-0012",
         "services": []
       }
     },
@@ -3972,6 +4171,7 @@
         "name": "Cameron Children's Centre",
         "address": "9838 Cameron St",
         "city": "Burnaby",
+        "phone": "604-526-2522",
         "services": []
       }
     },
@@ -3989,6 +4189,7 @@
         "name": "Discovery Childcare Centre",
         "address": "49 7411 12 Ave",
         "city": "Burnaby",
+        "phone": "778-397-2892",
         "services": []
       }
     },
@@ -4006,6 +4207,7 @@
         "name": "Amy's Family Day Care",
         "address": "6088 Sperling Ave",
         "city": "Burnaby",
+        "phone": "604-522-0748",
         "services": []
       }
     },
@@ -4023,6 +4225,7 @@
         "name": "Suncrest Neighbourhood Care",
         "address": "3883 Rumble St",
         "city": "Burnaby",
+        "phone": "604-431-0400",
         "services": []
       }
     },
@@ -4040,6 +4243,7 @@
         "name": "A & C Family Daycare",
         "address": "5382 Irving St",
         "city": "Burnaby",
+        "phone": "604-438-0537",
         "services": []
       }
     },
@@ -4057,6 +4261,7 @@
         "name": "Little Stars Daycare",
         "address": "6026 Brantford Ave",
         "city": "Burnaby",
+        "phone": "604-430-9734",
         "services": []
       }
     },
@@ -4074,6 +4279,7 @@
         "name": "Lil' Monkeys Family Childcare",
         "address": "3842 Hertford St",
         "city": "Burnaby",
+        "phone": "604-451-7571",
         "services": []
       }
     },
@@ -4091,6 +4297,7 @@
         "name": "Core Education & Fine Arts - Kingsway",
         "address": "4021 Kingsway",
         "city": "Burnaby",
+        "phone": "604-719-4050",
         "services": []
       }
     },
@@ -4108,6 +4315,7 @@
         "name": "Morning Star Child Educare",
         "address": "1345 Aldrin Pl",
         "city": "Burnaby",
+        "phone": "604-325-9996",
         "services": []
       }
     },
@@ -4125,6 +4333,7 @@
         "name": "Angels Playhouse Infant & Toddler Child Care Centre",
         "address": "103 7339 Macpherson Ave",
         "city": "Burnaby",
+        "phone": "604-809-3868",
         "services": []
       }
     },
@@ -4142,6 +4351,7 @@
         "name": "Reach For The Stars Montessori",
         "address": "3440 Boundary Rd",
         "city": "Burnaby",
+        "phone": "604-688-7827",
         "services": []
       }
     },
@@ -4159,6 +4369,7 @@
         "name": "Smilestones Junior Kindergarten Inc.",
         "address": "4162 Norland Ave",
         "city": "Burnaby",
+        "phone": "604-298-9006",
         "services": []
       }
     },
@@ -4176,6 +4387,7 @@
         "name": "Happy Feet Childcare Centre",
         "address": "6550 Clinton St",
         "city": "Burnaby",
+        "phone": "604-808-7623",
         "services": []
       }
     },
@@ -4193,6 +4405,7 @@
         "name": "Bear Paws Child Care",
         "address": "6842 Gilley Ave",
         "city": "Burnaby",
+        "phone": "604-563-6825",
         "services": []
       }
     },
@@ -4210,6 +4423,7 @@
         "name": "Graham Montessori School (Oos)",
         "address": "8260 13Th Ave",
         "city": "Burnaby",
+        "phone": "778-397-0191",
         "services": []
       }
     },
@@ -4227,9 +4441,10 @@
         "name": "Little Eden Child Care Center",
         "address": "3755 Fir St",
         "city": "Burnaby",
+        "phone": "604-565-3376",
         "services": [
-          0,
-          1
+          "2.5 - 5 yrs",
+          "Under 36 months"
         ]
       }
     },
@@ -4247,6 +4462,7 @@
         "name": "Educare Children's  Centre",
         "address": "5715 Royal Oak Ave",
         "city": "Burnaby",
+        "phone": "604-808-7623",
         "services": []
       }
     },
@@ -4264,6 +4480,7 @@
         "name": "Astro Childcare",
         "address": "4108 Manor St",
         "city": "Burnaby",
+        "phone": "604-438-8585",
         "services": []
       }
     },
@@ -4281,6 +4498,7 @@
         "name": "Caring Daycare",
         "address": "7544 14Th Ave",
         "city": "Burnaby",
+        "phone": "604-525-9580",
         "services": []
       }
     },
@@ -4298,6 +4516,7 @@
         "name": "Fraser Montessori Daycare",
         "address": "6269  14Th Ave",
         "city": "Burnaby",
+        "phone": "604-553-0781",
         "services": []
       }
     },
@@ -4315,6 +4534,7 @@
         "name": "St. Francis De Sales Parish Before & After School Care",
         "address": "6656 Balmoral St",
         "city": "Burnaby",
+        "phone": "604-683-0281",
         "services": []
       }
     },
@@ -4332,6 +4552,7 @@
         "name": "St. Francis De Sales Preschool",
         "address": "6681 Arcola St",
         "city": "Burnaby",
+        "phone": "604-434-3311",
         "services": []
       }
     },
@@ -4349,6 +4570,7 @@
         "name": "Linda's Family Daycare",
         "address": "5-6797 Dow Ave",
         "city": "Burnaby",
+        "phone": "604-519-1669",
         "services": []
       }
     },
@@ -4366,6 +4588,7 @@
         "name": "Bcit Student Association Childcare Centre",
         "address": "4703 Wayburne Dr",
         "city": "Burnaby",
+        "phone": "604-432-8600",
         "services": []
       }
     },
@@ -4383,6 +4606,7 @@
         "name": "Twelfth Avenue Neighbourhood Care",
         "address": "7622 12Th Ave",
         "city": "Burnaby",
+        "phone": "604-431-0400",
         "services": []
       }
     },
@@ -4400,6 +4624,7 @@
         "name": "Brentwood Montessori Child Care Ltd.",
         "address": "101-1950 Bellwood Ave",
         "city": "Burnaby",
+        "phone": "604-294-2671",
         "services": []
       }
     },
@@ -4417,6 +4642,7 @@
         "name": "Golden Apple Daycare",
         "address": "2181 Sperling Ave",
         "city": "Burnaby",
+        "phone": "604-781-1516",
         "services": []
       }
     },
@@ -4434,6 +4660,7 @@
         "name": "A Tree House Daycare Centre",
         "address": "6100 Broadway",
         "city": "Burnaby",
+        "phone": "778-997-2666",
         "services": []
       }
     },
@@ -4451,6 +4678,7 @@
         "name": "Growing Minds Child Care Centre",
         "address": "7456 19 Ave",
         "city": "Burnaby",
+        "phone": "604-442-4917",
         "services": []
       }
     },
@@ -4468,6 +4696,7 @@
         "name": "Rosser ymca Kids Club",
         "address": "4375 Pandora St",
         "city": "Burnaby",
+        "phone": "604-297-0979",
         "services": []
       }
     },
@@ -4485,8 +4714,9 @@
         "name": "Harmony Family Childcare",
         "address": "7750 Newcombe St",
         "city": "Burnaby",
+        "phone": "604-524-2499",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -4504,6 +4734,7 @@
         "name": "Gilpin Neighbourhood Care",
         "address": "5433 Ivar Pl",
         "city": "Burnaby",
+        "phone": "604-298-5355",
         "services": []
       }
     },
@@ -4521,8 +4752,9 @@
         "name": "Kidtopia Child Care",
         "address": "7135 Walker Ave",
         "city": "Burnaby",
+        "phone": "604-725-0603",
         "services": [
-          0
+          "Under 36 months"
         ]
       }
     },
@@ -4540,6 +4772,7 @@
         "name": "Brightstart Children's Academy Ltd",
         "address": "2830 Bainbridge Ave",
         "city": "Burnaby",
+        "phone": "778-883-0529",
         "services": []
       }
     },
@@ -4557,6 +4790,7 @@
         "name": "Petits Genies",
         "address": "1600 Delta Ave",
         "city": "Burnaby",
+        "phone": "604-788-0901",
         "services": []
       }
     },
@@ -4574,6 +4808,7 @@
         "name": "Little House Child Care",
         "address": "3849 Parker St",
         "city": "Burnaby",
+        "phone": "604-298-4166",
         "services": []
       }
     },
@@ -4591,6 +4826,7 @@
         "name": "Kiddie Club Childcare Center",
         "address": "6686 Stanley St",
         "city": "Burnaby",
+        "phone": "778-861-1313",
         "services": []
       }
     },
@@ -4608,6 +4844,7 @@
         "name": "Pamela's Little Promises",
         "address": "5925 mckee St",
         "city": "Burnaby",
+        "phone": "604-434-7352",
         "services": []
       }
     },
@@ -4625,6 +4862,7 @@
         "name": "Neville Childcare",
         "address": "5769 Neville St",
         "city": "Burnaby",
+        "phone": "604-417-2489",
         "services": []
       }
     },
@@ -4642,6 +4880,7 @@
         "name": "Ccaa Child Care Centre",
         "address": "5069 Inman Ave",
         "city": "Burnaby",
+        "phone": "778-322-0288",
         "services": []
       }
     },
@@ -4659,6 +4898,7 @@
         "name": "'Ccaa' Infant And Toddler Child Care Centre",
         "address": "3978 Brandon St",
         "city": "Burnaby",
+        "phone": "778-322-0288",
         "services": []
       }
     },
@@ -4676,6 +4916,7 @@
         "name": "Bear Paws Child Care Sperling",
         "address": "6790 Sperling Ave",
         "city": "Burnaby",
+        "phone": "604-777-3288",
         "services": []
       }
     },
@@ -4693,6 +4934,7 @@
         "name": "Bear's House Child Care",
         "address": "4609 Rumble St",
         "city": "Burnaby",
+        "phone": "604-721-7488",
         "services": []
       }
     },
@@ -4710,8 +4952,9 @@
         "name": "C.J.'S School Age Fun Daycare",
         "address": "7429 Imperial St",
         "city": "Burnaby",
+        "phone": "604-525-6497",
         "services": [
-          4
+          "Out of School Care"
         ]
       }
     },
@@ -4729,6 +4972,7 @@
         "name": "Kathy's Licensed Child Care Centre",
         "address": "6650 Humphries Ave",
         "city": "Burnaby",
+        "phone": "604-783-2692",
         "services": []
       }
     },
@@ -4746,6 +4990,7 @@
         "name": "Supernova Montessori Childcare",
         "address": "7626 16Th Ave",
         "city": "Burnaby",
+        "phone": "604-446-8169",
         "services": []
       }
     },
@@ -4763,6 +5008,7 @@
         "name": "Little Einstein Children's Centre",
         "address": "5014 Smith Ave",
         "city": "Burnaby",
+        "phone": "604-377-1956",
         "services": []
       }
     },
@@ -4780,6 +5026,7 @@
         "name": "Dreamland Infant And Toddler Daycare Center",
         "address": "5365 Venables St",
         "city": "Burnaby",
+        "phone": "604-298-7772",
         "services": []
       }
     },
@@ -4797,6 +5044,7 @@
         "name": "Kiddie Club Childcare Center",
         "address": "6290 Walker Ave",
         "city": "Burnaby",
+        "phone": "778-861-1313",
         "services": []
       }
     },
@@ -4814,6 +5062,7 @@
         "name": "Windsor ymca Kids Club",
         "address": "6166 Imperial St",
         "city": "Burnaby",
+        "phone": "604-996-4412",
         "services": []
       }
     },
@@ -4831,6 +5080,7 @@
         "name": "Sakura Childcare The First",
         "address": "4237 Price Cres",
         "city": "Burnaby",
+        "phone": "778-858-7216",
         "services": []
       }
     },
@@ -4848,6 +5098,7 @@
         "name": "Buckingham Tots Child Care Center",
         "address": "7461 Stanley St",
         "city": "Burnaby",
+        "phone": "604-337-0064",
         "services": []
       }
     },
@@ -4865,6 +5116,7 @@
         "name": "Jessie's Tots Educare Centre",
         "address": "4836 Brentlawn Dr",
         "city": "Burnaby",
+        "phone": "778-928-9995",
         "services": []
       }
     },
@@ -4882,6 +5134,7 @@
         "name": "Dandelion Daycare Centre",
         "address": "5870 Rumble St",
         "city": "Burnaby",
+        "phone": "604-566-2666",
         "services": []
       }
     }

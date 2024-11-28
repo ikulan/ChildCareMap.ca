@@ -1,0 +1,3036 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.637094",
+          "49.177182"
+        ]
+      },
+      "properties": {
+        "id": "30",
+        "name": "Bright Angels Children's Centre Ii",
+        "address": "21176 Yeoman's Cres",
+        "city": "Langley",
+        "phone": "604-599-1943",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.65344",
+          "49.13468"
+        ]
+      },
+      "properties": {
+        "id": "200",
+        "name": "Covenant Kids Christian Daycare",
+        "address": "20525 72 Ave",
+        "city": "Langley",
+        "phone": "604-530-5619",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.667206",
+          "49.169642"
+        ]
+      },
+      "properties": {
+        "id": "210",
+        "name": "Chipmunk Achievers Preschool",
+        "address": "20025 91A Ave",
+        "city": "Langley",
+        "phone": "604-888-5022",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.634424",
+          "49.105305"
+        ]
+      },
+      "properties": {
+        "id": "226",
+        "name": "Sunbeam Preschool & Childcare",
+        "address": "21277 56 Ave",
+        "city": "Langley",
+        "phone": "778-777-2054",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.643264",
+          "49.102941"
+        ]
+      },
+      "properties": {
+        "id": "264",
+        "name": "Wonder Years Day Care - Fraser Crossing",
+        "address": "5537 209 St",
+        "city": "Langley",
+        "phone": "604-530-6554",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.650734",
+          "49.096"
+        ]
+      },
+      "properties": {
+        "id": "358",
+        "name": "Rainforest Learning Centre Inc. \u2013 Langley",
+        "address": "5100 206 St",
+        "city": "Langley",
+        "phone": "604-514-1566",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.636023",
+          "49.156677"
+        ]
+      },
+      "properties": {
+        "id": "408",
+        "name": "Sunflower Montessori",
+        "address": "21150  85Th Ave",
+        "city": "Langley",
+        "phone": "604-513-0070",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.662531",
+          "49.059627"
+        ]
+      },
+      "properties": {
+        "id": "440",
+        "name": "St. Joseph's Church Preschool & Out Of School Care Program",
+        "address": "20244  32Nd Ave",
+        "city": "Langley",
+        "phone": "604-530-4288",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.63494",
+          "49.171139"
+        ]
+      },
+      "properties": {
+        "id": "488",
+        "name": "Quality Fun Family Day Care",
+        "address": "21188 93Rd Ave",
+        "city": "Langley",
+        "phone": "604-888-2896",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.635857",
+          "49.157797"
+        ]
+      },
+      "properties": {
+        "id": "490",
+        "name": "Kiddie Korner Family Day Care - Langley",
+        "address": "8503 211A St",
+        "city": "Langley",
+        "phone": "604-882-8444",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.651327",
+          "49.170844"
+        ]
+      },
+      "properties": {
+        "id": "491",
+        "name": "One Of A Kind Family Day Care",
+        "address": "9243 206Th St",
+        "city": "Langley",
+        "phone": "778-878-1430",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.65675",
+          "49.170529"
+        ]
+      },
+      "properties": {
+        "id": "557",
+        "name": "Margie's Family Childcare",
+        "address": "9224 204 St",
+        "city": "Langley",
+        "phone": "604-513-8020",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.648975",
+          "49.104273"
+        ]
+      },
+      "properties": {
+        "id": "669",
+        "name": "Brainbox Montessori Learning Academy",
+        "address": "20700 56 Ave",
+        "city": "Langley",
+        "phone": "778-957-6588",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.628337",
+          "49.174596"
+        ]
+      },
+      "properties": {
+        "id": "675",
+        "name": "Peace Of Mind Family Day Care",
+        "address": "9483 214B St",
+        "city": "Langley",
+        "phone": "604-908-4008",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.639597",
+          "49.091895"
+        ]
+      },
+      "properties": {
+        "id": "724",
+        "name": "Nurturing Hearts Montessori Daycare - Newlands",
+        "address": "21025 48 Ave",
+        "city": "Langley",
+        "phone": "604-533-1805",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.679365",
+          "49.11576"
+        ]
+      },
+      "properties": {
+        "id": "781",
+        "name": "Jellybean Park",
+        "address": "138B-19653 Willowbrook Dr",
+        "city": "Langley",
+        "phone": "604-539-9898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.49419",
+          "49.115334"
+        ]
+      },
+      "properties": {
+        "id": "794",
+        "name": "Khalsa Child Care Centre",
+        "address": "26345 62 Ave",
+        "city": "Langley",
+        "phone": "604-594-0553",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.649402",
+          "49.104694"
+        ]
+      },
+      "properties": {
+        "id": "801",
+        "name": "Brainbox Montessori Learning Academy",
+        "address": "20688 56 Ave",
+        "city": "Langley",
+        "phone": "778-957-6588",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.563726",
+          "49.045772"
+        ]
+      },
+      "properties": {
+        "id": "851",
+        "name": "Flying Kites Child Care Center - Wix Brown",
+        "address": "23851 24Th Ave",
+        "city": "Langley",
+        "phone": "604-308-1446",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.636045",
+          "49.148262"
+        ]
+      },
+      "properties": {
+        "id": "897",
+        "name": "The Curious Moon In Home Multi-Age Child Care",
+        "address": "8026 211B St",
+        "city": "Langley",
+        "phone": "778-549-1902",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.667059",
+          "49.135926"
+        ]
+      },
+      "properties": {
+        "id": "930",
+        "name": "Duckie View Daycare",
+        "address": "7361 200A St",
+        "city": "Langley",
+        "phone": "778-873-8573",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.66377",
+          "49.172851"
+        ]
+      },
+      "properties": {
+        "id": "954",
+        "name": "Strongsteps Children's Learning Centre",
+        "address": "200-8912 202 St",
+        "city": "Langley",
+        "phone": "778-960-2273",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.648601",
+          "49.146176"
+        ]
+      },
+      "properties": {
+        "id": "981",
+        "name": "Tiny Hoppers Early Learning Willoughby Centre",
+        "address": "A230-20689 Willoughby Town Centre Dr",
+        "city": "Langley",
+        "phone": "778-705-0569",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.663293",
+          "49.083729"
+        ]
+      },
+      "properties": {
+        "id": "986",
+        "name": "Top Tier Daycare Ltd",
+        "address": "4492 203 St",
+        "city": "Langley",
+        "phone": "604-612-1593",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.664294",
+          "49.129379"
+        ]
+      },
+      "properties": {
+        "id": "1002",
+        "name": "Kid Central",
+        "address": "6982 201 St",
+        "city": "Langley",
+        "phone": "604-376-5548",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.667337",
+          "49.097607"
+        ]
+      },
+      "properties": {
+        "id": "1063",
+        "name": "Community Kids School Aged Care Inc",
+        "address": "20050 53Rd Ave",
+        "city": "Langley",
+        "phone": "778-240-9858",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.535445",
+          "49.09979"
+        ]
+      },
+      "properties": {
+        "id": "1198",
+        "name": "Little Otters Preschool",
+        "address": "5370 248Th St Room 12",
+        "city": "Langley",
+        "phone": "604-857-7550",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.666747",
+          "49.131861"
+        ]
+      },
+      "properties": {
+        "id": "1258",
+        "name": "Morning Star Daycare",
+        "address": "7099 200A St",
+        "city": "Langley",
+        "phone": "778-994-8775",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.663926",
+          "49.123041"
+        ]
+      },
+      "properties": {
+        "id": "1283",
+        "name": "Simply Kids Childcare Centre",
+        "address": "20211 66Th Ave",
+        "city": "Langley",
+        "phone": "604-593-2266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.669456",
+          "49.105892"
+        ]
+      },
+      "properties": {
+        "id": "1352",
+        "name": "Beyond Elements Childcare Ltd.",
+        "address": "5673 200Th St",
+        "city": "Langley",
+        "phone": "778-863-4641",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.665183",
+          "49.175086"
+        ]
+      },
+      "properties": {
+        "id": "1446",
+        "name": "Learn N' Play North Langley",
+        "address": "2-9497 201 St",
+        "city": "Langley",
+        "phone": "604-389-2049",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.652507",
+          "49.105239"
+        ]
+      },
+      "properties": {
+        "id": "1459",
+        "name": "Bee Yourself Childcare",
+        "address": "20555 56Th Ave",
+        "city": "Langley",
+        "phone": "604-619-9711",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.617286",
+          "49.144772"
+        ]
+      },
+      "properties": {
+        "id": "1464",
+        "name": "The King's Early Learning Centre",
+        "address": "21783 76B Ave",
+        "city": "Langley",
+        "phone": "604-888-0969",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.668955",
+          "49.122837"
+        ]
+      },
+      "properties": {
+        "id": "1467",
+        "name": "Little Bubble's Daycare",
+        "address": "2689 Wildwood Dr",
+        "city": "Langley",
+        "phone": "778-898-5100",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.66524",
+          "49.16793"
+        ]
+      },
+      "properties": {
+        "id": "1503",
+        "name": "Happyland Early Learning Centre Cineplex",
+        "address": "F-20090 91A Ave",
+        "city": "Langley",
+        "phone": "778-995-6997",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.667062",
+          "49.069886"
+        ]
+      },
+      "properties": {
+        "id": "1553",
+        "name": "Kidspace Learning Centres",
+        "address": "20084 37A Ave",
+        "city": "Langley",
+        "phone": "604-300-7122",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.652449",
+          "49.104525"
+        ]
+      },
+      "properties": {
+        "id": "1555",
+        "name": "Tiny Hoppers Early Learning Langley City Centre",
+        "address": "20570 56 Ave",
+        "city": "Langley",
+        "phone": "778-689-7799",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.664799",
+          "49.090409"
+        ]
+      },
+      "properties": {
+        "id": "1617",
+        "name": "Blooming Butterflies Daycare",
+        "address": "4841 201A St",
+        "city": "Langley",
+        "phone": "604-723-5508",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.655247",
+          "49.165262"
+        ]
+      },
+      "properties": {
+        "id": "1628",
+        "name": "Bamboo House Montessori Childcare",
+        "address": "20464 90 Cres",
+        "city": "Langley",
+        "phone": "778-558-9097",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.665131",
+          "49.116365"
+        ]
+      },
+      "properties": {
+        "id": "1703",
+        "name": "Cefa - Langley City Centre",
+        "address": "20121 Willowbrook Dr",
+        "city": "Langley",
+        "phone": "604-306-1415",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.671645",
+          "49.149784"
+        ]
+      },
+      "properties": {
+        "id": "1714",
+        "name": "Willowbrae Academy Langley",
+        "address": "100-8063 199 St",
+        "city": "Langley",
+        "phone": "604-618-6553",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.663226",
+          "49.133194"
+        ]
+      },
+      "properties": {
+        "id": "1726",
+        "name": "Creative Moments Childcare Centre",
+        "address": "20178 72Nd Ave",
+        "city": "Langley",
+        "phone": "604-417-1135",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.669846",
+          "49.068079"
+        ]
+      },
+      "properties": {
+        "id": "1806",
+        "name": "Little Dinosaurs Childcare",
+        "address": "19988 36A Ave",
+        "city": "Langley",
+        "phone": "778-991-8196",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.577243",
+          "49.168856"
+        ]
+      },
+      "properties": {
+        "id": "1854",
+        "name": "Taylin Child Care - Fort Langley",
+        "address": "9160 Church St",
+        "city": "Langley",
+        "phone": "604-349-4066",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.672957",
+          "49.133937"
+        ]
+      },
+      "properties": {
+        "id": "1866",
+        "name": "Kids Canvas Childcare",
+        "address": "7221 198B St",
+        "city": "Langley",
+        "phone": "604-767-5558",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.663987",
+          "49.107858"
+        ]
+      },
+      "properties": {
+        "id": "1877",
+        "name": "Secret Heart Academy",
+        "address": "110&112-5769 201A St",
+        "city": "Langley",
+        "phone": "604-427-1166",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.651793",
+          "49.149051"
+        ]
+      },
+      "properties": {
+        "id": "1933",
+        "name": "Simply Kids Early Learning Society",
+        "address": "20611 80 Ave",
+        "city": "Langley",
+        "phone": "604-593-2266",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.644965",
+          "49.086565"
+        ]
+      },
+      "properties": {
+        "id": "1942",
+        "name": "Young Of Green Gables Early Learning Centre",
+        "address": "4662 208B St",
+        "city": "Langley",
+        "phone": "778-366-8252",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.665475",
+          "49.173689"
+        ]
+      },
+      "properties": {
+        "id": "1980",
+        "name": "Pebbles And Piaget Early Learning Walnut Grove",
+        "address": "9451 202Nd St",
+        "city": "Langley",
+        "phone": "778-919-3797",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.645476",
+          "49.127352"
+        ]
+      },
+      "properties": {
+        "id": "1997",
+        "name": "Ideal Child Care Center",
+        "address": "6880 208 St",
+        "city": "Langley",
+        "phone": "604-302-6775",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.647849",
+          "49.167636"
+        ]
+      },
+      "properties": {
+        "id": "2057",
+        "name": "Rainbow Unicorn Childcare Center",
+        "address": "20723 90A Ave",
+        "city": "Langley",
+        "phone": "236-863-7525",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.667337",
+          "49.097607"
+        ]
+      },
+      "properties": {
+        "id": "2065",
+        "name": "Nicomekl Seamless Day",
+        "address": "20050 53 Ave",
+        "city": "Langley",
+        "phone": "604-533-1469",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.662599",
+          "49.043366"
+        ]
+      },
+      "properties": {
+        "id": "2168",
+        "name": "New Path Child Care",
+        "address": "20084 Fernridge Cres",
+        "city": "Langley",
+        "phone": "778-885-2495",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.649253",
+          "49.096216"
+        ]
+      },
+      "properties": {
+        "id": "2170",
+        "name": "Megan's Munchkins",
+        "address": "20701 51A Ave",
+        "city": "Langley",
+        "phone": "604-534-2289",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.639396",
+          "49.151963"
+        ]
+      },
+      "properties": {
+        "id": "2213",
+        "name": "Headstart Childcare Inc.",
+        "address": "21020 83 Ave",
+        "city": "Langley",
+        "phone": "604-888-0662",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.643356",
+          "49.130719"
+        ]
+      },
+      "properties": {
+        "id": "2229",
+        "name": "Loving Roots Childcare",
+        "address": "7080 208A St",
+        "city": "Langley",
+        "phone": "604-996-3513",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.626124",
+          "49.089823"
+        ]
+      },
+      "properties": {
+        "id": "2365",
+        "name": "Friendz At Five Corners",
+        "address": "21562 Old Yale Rd",
+        "city": "Langley",
+        "phone": "604-788-2892",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.636604",
+          "49.148676"
+        ]
+      },
+      "properties": {
+        "id": "2399",
+        "name": "Willoughby Early Learning Daycare Corp.",
+        "address": "21155 80A Ave",
+        "city": "Langley",
+        "phone": "604-779-1783",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.648948",
+          "49.142303"
+        ]
+      },
+      "properties": {
+        "id": "2443",
+        "name": "Yorkson Childcare Academy",
+        "address": "20683 76B Ave",
+        "city": "Langley",
+        "phone": "604-657-7336",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.652938",
+          "49.100954"
+        ]
+      },
+      "properties": {
+        "id": "2474",
+        "name": "Doulgas Park Early Learning Care",
+        "address": "5409 206 St",
+        "city": "Langley",
+        "phone": "778-241-0568",
+        "services": [
+          "Out of School Care",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.64551",
+          "49.127831"
+        ]
+      },
+      "properties": {
+        "id": "2498",
+        "name": "Wiz Wise Childcare Centre",
+        "address": "6904 208 St",
+        "city": "Langley",
+        "phone": "778-886-9271",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.475076",
+          "49.062746"
+        ]
+      },
+      "properties": {
+        "id": "2540",
+        "name": "Lfvas Childcare Centre",
+        "address": "3300 270Th St",
+        "city": "Langley",
+        "phone": "604-625-7808",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.586922",
+          "49.168154"
+        ]
+      },
+      "properties": {
+        "id": "2555",
+        "name": "Lfas Care Center",
+        "address": "9096 Trattle St",
+        "city": "Langley",
+        "phone": "604-880-7297",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.649053",
+          "49.076166"
+        ]
+      },
+      "properties": {
+        "id": "2601",
+        "name": "5 Steps Childcare",
+        "address": "4084 207A St",
+        "city": "Langley",
+        "phone": "647-821-5512",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.661329",
+          "49.106153"
+        ]
+      },
+      "properties": {
+        "id": "2668",
+        "name": "Little Birds Academy Ltd.",
+        "address": "20257 Fraser Hwy",
+        "city": "Langley",
+        "phone": "778-394-3210",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.657591",
+          "49.104244"
+        ]
+      },
+      "properties": {
+        "id": "2740",
+        "name": "Cookie Monster Preschool-Timms",
+        "address": "20399 Douglas Cres",
+        "city": "Langley",
+        "phone": "604-514-2865",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.662623",
+          "49.080464"
+        ]
+      },
+      "properties": {
+        "id": "2774",
+        "name": "Little Kinlings",
+        "address": "20243 43 Ave",
+        "city": "Langley",
+        "phone": "778-954-8205",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.62155",
+          "49.093997"
+        ]
+      },
+      "properties": {
+        "id": "2812",
+        "name": "Top Tier School Age Care",
+        "address": "21713 50 Ave",
+        "city": "Langley",
+        "phone": "604-612-1593",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.652118",
+          "49.105696"
+        ]
+      },
+      "properties": {
+        "id": "2814",
+        "name": "Bee Yourself Childcare Junior",
+        "address": "20609 Logan Ave",
+        "city": "Langley",
+        "phone": "604-619-9711",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.642819",
+          "49.153358"
+        ]
+      },
+      "properties": {
+        "id": "2861",
+        "name": "Illumine Learning Centre - Langley",
+        "address": "20901 83 Ave",
+        "city": "Langley",
+        "phone": "604-318-9101",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.653714",
+          "49.104448"
+        ]
+      },
+      "properties": {
+        "id": "2885",
+        "name": "Champion Kids Learning Centre Inc",
+        "address": "20525 Fraser Hwy",
+        "city": "Langley",
+        "phone": "778-321-8624",
+        "services": [
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.628922",
+          "49.105448"
+        ]
+      },
+      "properties": {
+        "id": "2968",
+        "name": "Encompass Bright Beginnings Childcare Centre",
+        "address": "A-21405 56 Ave",
+        "city": "Langley",
+        "phone": "604-534-7155",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.668241",
+          "49.093201"
+        ]
+      },
+      "properties": {
+        "id": "3001",
+        "name": "Smiling Buds Daycare",
+        "address": "4992 200 St",
+        "city": "Langley",
+        "phone": "431-336-8911",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.633878",
+          "49.162667"
+        ]
+      },
+      "properties": {
+        "id": "3016",
+        "name": "Kidspace Learning Centres Walnut Grove-After School Club",
+        "address": "101-21183 88 Ave",
+        "city": "Langley",
+        "phone": "604-380-4062",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.676432",
+          "49.137649"
+        ]
+      },
+      "properties": {
+        "id": "3043",
+        "name": "Hill View Early Learning Center",
+        "address": "7423 197 St",
+        "city": "Langley",
+        "phone": "604-765-7894",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.638469",
+          "49.153411"
+        ]
+      },
+      "properties": {
+        "id": "3046",
+        "name": "Twinkle Kids Academy",
+        "address": "21084 83A Ave",
+        "city": "Langley",
+        "phone": "778-990-0316",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.654096",
+          "49.145437"
+        ]
+      },
+      "properties": {
+        "id": "3058",
+        "name": "Donna Gabriel Robins Jb4",
+        "address": "7844 204B St",
+        "city": "Langley",
+        "phone": "604-614-3284",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.622937",
+          "49.166425"
+        ]
+      },
+      "properties": {
+        "id": "3075",
+        "name": "Woodpecker Childcare",
+        "address": "21642 90A Ave",
+        "city": "Langley",
+        "phone": "778-870-9179",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.657797",
+          "49.149057"
+        ]
+      },
+      "properties": {
+        "id": "3084",
+        "name": "Yorkson Kids Care",
+        "address": "A200-8045 204 St",
+        "city": "Langley",
+        "phone": "604-783-3066",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.6793",
+          "49.135872"
+        ]
+      },
+      "properties": {
+        "id": "3093",
+        "name": "Learning Express Early Learning Centre",
+        "address": "19607 73A Ave",
+        "city": "Langley",
+        "phone": "672-982-1667",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.654005",
+          "49.126311"
+        ]
+      },
+      "properties": {
+        "id": "3099",
+        "name": "Little Scholars Childcare",
+        "address": "20523 68 Ave",
+        "city": "Langley",
+        "phone": "604-760-9031",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.634239",
+          "49.172456"
+        ]
+      },
+      "properties": {
+        "id": "3109",
+        "name": "Mindful Kids Childcare Center",
+        "address": "21209 93A Ave",
+        "city": "Langley",
+        "phone": "778-637-0303",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.645213",
+          "49.082553"
+        ]
+      },
+      "properties": {
+        "id": "3147",
+        "name": "Little Ladybug Daycare-Langley",
+        "address": "20867 44 Ave",
+        "city": "Langley",
+        "phone": "604-968-9077",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.63758",
+          "49.150545"
+        ]
+      },
+      "properties": {
+        "id": "3166",
+        "name": "Little Elephant Montessori Centre",
+        "address": "8150 211 St",
+        "city": "Langley",
+        "phone": "778-998-7053",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.673794",
+          "49.151166"
+        ]
+      },
+      "properties": {
+        "id": "3178",
+        "name": "Willowbrook Montessori Daycare - Latimer Campus",
+        "address": "8157 198A Street",
+        "city": "Langley",
+        "phone": "604-753-7276",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.66075",
+          "49.14939"
+        ]
+      },
+      "properties": {
+        "id": "3278",
+        "name": "Blossom Buddies Daycare",
+        "address": "8069 203 St",
+        "city": "Langley",
+        "phone": "778-996-5244",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.662235",
+          "49.150438"
+        ]
+      },
+      "properties": {
+        "id": "3306",
+        "name": "Joyful Movement Childcare",
+        "address": "8129 202 St",
+        "city": "Langley",
+        "phone": "604-828-3703",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.64552",
+          "49.17197"
+        ]
+      },
+      "properties": {
+        "id": "3354",
+        "name": "Curious Cubs Childcare Centre",
+        "address": "9306 208 St",
+        "city": "Langley",
+        "phone": "604-352-5511",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.636574",
+          "49.147387"
+        ]
+      },
+      "properties": {
+        "id": "3377",
+        "name": "Miss Vicki's Childcare Centre",
+        "address": "21150 80 Ave",
+        "city": "Langley",
+        "phone": "778-998-0405",
+        "services": [
+          "Under 36 months"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.650918",
+          "49.141985"
+        ]
+      },
+      "properties": {
+        "id": "3421",
+        "name": "Chipmunks Daycare",
+        "address": "7658 206 St",
+        "city": "Langley",
+        "phone": "778-237-5503",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.677508",
+          "49.117595"
+        ]
+      },
+      "properties": {
+        "id": "3474",
+        "name": "Tiny Timbers Children's Academy Ltd.",
+        "address": "6323 197 St",
+        "city": "Langley",
+        "phone": "877-657-1741",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.663361",
+          "49.132829"
+        ]
+      },
+      "properties": {
+        "id": "3487",
+        "name": "Flora's Family Child Care",
+        "address": "20145 71A Ave",
+        "city": "Langley",
+        "phone": "306-203-9088",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.67327",
+          "49.138948"
+        ]
+      },
+      "properties": {
+        "id": "3512",
+        "name": "Tiny Seeds Childcare Centre",
+        "address": "19817 75 Ave",
+        "city": "Langley",
+        "phone": "604-600-9094",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.545544",
+          "49.071661"
+        ]
+      },
+      "properties": {
+        "id": "3535",
+        "name": "Nurture & Grow Learning Center",
+        "address": "24497 Fraser Hwy",
+        "city": "Langley",
+        "phone": "604-779-1424",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.654574",
+          "49.104278"
+        ]
+      },
+      "properties": {
+        "id": "3543",
+        "name": "Champion Kids Learning Centre #2",
+        "address": "20478 Fraser Hwy",
+        "city": "Langley",
+        "phone": "778-321-8624",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.66408",
+          "49.169449"
+        ]
+      },
+      "properties": {
+        "id": "3618",
+        "name": "Sportsplex Daycare",
+        "address": "100 20165 91A Ave",
+        "city": "Langley",
+        "phone": "604-882-1611",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.640048",
+          "49.177855"
+        ]
+      },
+      "properties": {
+        "id": "3621",
+        "name": "Wind And Tide - Walnut Grove",
+        "address": "21015 96 Ave",
+        "city": "Langley",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.583588",
+          "49.163507"
+        ]
+      },
+      "properties": {
+        "id": "3622",
+        "name": "Wind And Tide Preschool - Fort Langley",
+        "address": "8870 Glover Rd",
+        "city": "Langley",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.641978",
+          "49.075221"
+        ]
+      },
+      "properties": {
+        "id": "3677",
+        "name": "Kid'n Around Childrens Centre",
+        "address": "20997 40 Ave",
+        "city": "Langley",
+        "phone": "604-533-3757",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.66804",
+          "49.083093"
+        ]
+      },
+      "properties": {
+        "id": "3710",
+        "name": "Foxglove School Age Care",
+        "address": "20011 44 Ave",
+        "city": "Langley",
+        "phone": "604-786-6985",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.666307",
+          "49.134265"
+        ]
+      },
+      "properties": {
+        "id": "3715",
+        "name": "Discovery Station Preschool",
+        "address": "20097 72 Ave",
+        "city": "Langley",
+        "phone": "604-533-5881",
+        "services": [
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.647794",
+          "49.090042"
+        ]
+      },
+      "properties": {
+        "id": "3731",
+        "name": "Wind And Tide - North Brookswood",
+        "address": "20719 48 Ave",
+        "city": "Langley",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.675375",
+          "49.153485"
+        ]
+      },
+      "properties": {
+        "id": "3767",
+        "name": "Highland Meadows Day Care",
+        "address": "8286  197Th St",
+        "city": "Langley",
+        "phone": "604-888-1030",
+        "services": [
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.626145",
+          "49.17609"
+        ]
+      },
+      "properties": {
+        "id": "3771",
+        "name": "Run And Have Fun Daycare",
+        "address": "9536 215A St",
+        "city": "Langley",
+        "phone": "604-888-9046",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.625694",
+          "49.168313"
+        ]
+      },
+      "properties": {
+        "id": "3773",
+        "name": "Kids In The Grove Daycare (Topham)",
+        "address": "21555 91 Ave",
+        "city": "Langley",
+        "phone": "604-888-2713",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.672128",
+          "49.121102"
+        ]
+      },
+      "properties": {
+        "id": "3869",
+        "name": "Langley Meadows Community Association Out Of School Program",
+        "address": "2244 Willoughby Way",
+        "city": "Langley",
+        "phone": "604-308-8851",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.650285",
+          "49.083396"
+        ]
+      },
+      "properties": {
+        "id": "3888",
+        "name": "Wise Owl Montessori Childcare Inc",
+        "address": "4471 207A St",
+        "city": "Langley",
+        "phone": "604-783-6604",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.574616",
+          "49.086052"
+        ]
+      },
+      "properties": {
+        "id": "3901",
+        "name": "Strawberry Patch Child Care Centre Inc.",
+        "address": "23422  47 Ave",
+        "city": "Langley",
+        "phone": "604-514-3150",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.660291",
+          "49.167822"
+        ]
+      },
+      "properties": {
+        "id": "3922",
+        "name": "Wind And Tide - Dorothy Peacock",
+        "address": "20292 91A Ave",
+        "city": "Langley",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.650283",
+          "49.083397"
+        ]
+      },
+      "properties": {
+        "id": "3923",
+        "name": "Wind And Tide Preschool - Uplands",
+        "address": "4471 207A St",
+        "city": "Langley",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.640767",
+          "49.171622"
+        ]
+      },
+      "properties": {
+        "id": "3932",
+        "name": "Honey Bee Daycare",
+        "address": "20952 93 Ave",
+        "city": "Langley",
+        "phone": "604-888-4229",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.631281",
+          "49.169286"
+        ]
+      },
+      "properties": {
+        "id": "4011",
+        "name": "Blue Butterfly Childcare",
+        "address": "9191 213Th St",
+        "city": "Langley",
+        "phone": "778-233-9244",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.846315",
+          "54.053818"
+        ]
+      },
+      "properties": {
+        "id": "4032",
+        "name": "Global Montessori Learning Center",
+        "address": "19785 55 A Ave",
+        "city": "Langley",
+        "phone": "604-534-1556",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.661848",
+          "49.065036"
+        ]
+      },
+      "properties": {
+        "id": "4035",
+        "name": "Noel Booth Child Care",
+        "address": "20202 35Th Ave",
+        "city": "Langley",
+        "phone": "604-218-6506",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.652757",
+          "49.169185"
+        ]
+      },
+      "properties": {
+        "id": "4048",
+        "name": "Kids R Kool Childcare",
+        "address": "9175 206Th St",
+        "city": "Langley",
+        "phone": "604-318-0132",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.669962",
+          "49.165438"
+        ]
+      },
+      "properties": {
+        "id": "4086",
+        "name": "Cefa Walnut Grove",
+        "address": "100-19950 88 Ave",
+        "city": "Langley",
+        "phone": "604-306-1415",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.65989",
+          "49.128732"
+        ]
+      },
+      "properties": {
+        "id": "4111",
+        "name": "Kids World Day Care And Learning Centre",
+        "address": "6942 202B St",
+        "city": "Langley",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.627239",
+          "49.090231"
+        ]
+      },
+      "properties": {
+        "id": "4125",
+        "name": "Murrayville Academy And Early Learning Centre",
+        "address": "21514 Old Yale Rd",
+        "city": "Langley",
+        "phone": "604-532-5667",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.589288",
+          "49.087498"
+        ]
+      },
+      "properties": {
+        "id": "4132",
+        "name": "Lcs Early Learning Programs",
+        "address": "22930 48 Ave",
+        "city": "Langley",
+        "phone": "604-533-2222",
+        "services": [
+          "Out of School Care",
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.659435",
+          "49.124812"
+        ]
+      },
+      "properties": {
+        "id": "4179",
+        "name": "Willowbrook Montessori Child Care Centre",
+        "address": "20317 67Th Ave",
+        "city": "Langley",
+        "phone": "604-533-5469",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs",
+          "Preschool"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.636398",
+          "49.17465"
+        ]
+      },
+      "properties": {
+        "id": "4182",
+        "name": "Kids In The Grove Daycare (West Langley)",
+        "address": "9403 212 St",
+        "city": "Langley",
+        "phone": "604-882-2779",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.583588",
+          "49.163507"
+        ]
+      },
+      "properties": {
+        "id": "4218",
+        "name": "Langley Forest School",
+        "address": "8870 Glover Rd",
+        "city": "Langley",
+        "phone": "604-888-8555",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.661095",
+          "49.070164"
+        ]
+      },
+      "properties": {
+        "id": "4232",
+        "name": "Sunnyside Brookswood Family Daycare",
+        "address": "20305 37A Ave",
+        "city": "Langley",
+        "phone": "604-533-5132",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.666403",
+          "49.098708"
+        ]
+      },
+      "properties": {
+        "id": "4233",
+        "name": "Kiddie Kollege Langley",
+        "address": "20103 53 Ave",
+        "city": "Langley",
+        "phone": "604-530-0311",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.679368",
+          "49.114949"
+        ]
+      },
+      "properties": {
+        "id": "4235",
+        "name": "Jellybean Park - Langley Campus",
+        "address": "2-19615 Willowbrook Dr",
+        "city": "Langley",
+        "phone": "604-539-9898",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.664683",
+          "49.088594"
+        ]
+      },
+      "properties": {
+        "id": "4347",
+        "name": "Buttons 'N Bows Childcare Inc.",
+        "address": "20190 48 Ave",
+        "city": "Langley",
+        "phone": "604-209-4340",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.663796",
+          "49.128347"
+        ]
+      },
+      "properties": {
+        "id": "4362",
+        "name": "Love-It Care",
+        "address": "20131 69 Ave",
+        "city": "Langley",
+        "phone": "604-514-4911",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.633662",
+          "49.166983"
+        ]
+      },
+      "properties": {
+        "id": "4366",
+        "name": "Building Blocks Learning Centre",
+        "address": "9060 212Th St",
+        "city": "Langley",
+        "phone": "604-613-7910",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.667135",
+          "49.145582"
+        ]
+      },
+      "properties": {
+        "id": "4447",
+        "name": "Tumble Kids Preschool",
+        "address": "7888 200 St",
+        "city": "Langley",
+        "phone": "604-455-8908",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.641827",
+          "49.163342"
+        ]
+      },
+      "properties": {
+        "id": "4500",
+        "name": "Curiosity Grove - Walnut Grove",
+        "address": "8889 Walnut Grove Dr",
+        "city": "Langley",
+        "phone": "604-532-3540",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.609865",
+          "49.090681"
+        ]
+      },
+      "properties": {
+        "id": "4501",
+        "name": "Little Wise Ones Preschool",
+        "address": "22200 Fraser Hwy",
+        "city": "Langley",
+        "phone": "604-533-6173",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.668019",
+          "49.0831"
+        ]
+      },
+      "properties": {
+        "id": "4555",
+        "name": "Wind And Tide Preschool - Alice Brown",
+        "address": "20011 44 Ave",
+        "city": "Langley",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.606909",
+          "49.088416"
+        ]
+      },
+      "properties": {
+        "id": "4570",
+        "name": "Wonder Years Daycare - Murrayville",
+        "address": "4748 222 St",
+        "city": "Langley",
+        "phone": "604-612-0439",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.662264",
+          "49.0982"
+        ]
+      },
+      "properties": {
+        "id": "4573",
+        "name": "Rock N Tots Daycare",
+        "address": "20216 53 Ave",
+        "city": "Langley",
+        "phone": "604-530-9644",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.582531",
+          "49.166513"
+        ]
+      },
+      "properties": {
+        "id": "4637",
+        "name": "Pathway Montessori Children's Center",
+        "address": "9025 Glover Rd",
+        "city": "Langley",
+        "phone": "604-644-7547",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.658665",
+          "49.168254"
+        ]
+      },
+      "properties": {
+        "id": "4647",
+        "name": "New Horizon Montessori School Ltd",
+        "address": "20338 91A Ave",
+        "city": "Langley",
+        "phone": "604-552-7542",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.622793",
+          "49.161383"
+        ]
+      },
+      "properties": {
+        "id": "4723",
+        "name": "Garderie Les Aventuriers",
+        "address": "8736 216 St",
+        "city": "Langley",
+        "phone": "604-736-5056",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.649097",
+          "49.108657"
+        ]
+      },
+      "properties": {
+        "id": "4761",
+        "name": "Holistic Roots Childcare Centre",
+        "address": "102-5844 Glover Rd",
+        "city": "Langley",
+        "phone": "604-532-7977",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.671485",
+          "49.119842"
+        ]
+      },
+      "properties": {
+        "id": "4823",
+        "name": "Wind And Tide Child Development Centre - Matheson House",
+        "address": "19893 64 Ave",
+        "city": "Langley",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.671485",
+          "49.119842"
+        ]
+      },
+      "properties": {
+        "id": "4824",
+        "name": "Wind And Tide Preschool - Matheson House",
+        "address": "19893 64 Ave",
+        "city": "Langley",
+        "phone": "604-575-0549",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.67116",
+          "49.135459"
+        ]
+      },
+      "properties": {
+        "id": "4842",
+        "name": "Willoughby Heights Little Star Daycare",
+        "address": "19906 73A Ave",
+        "city": "Langley",
+        "phone": "604-510-9367",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.640749",
+          "49.099562"
+        ]
+      },
+      "properties": {
+        "id": "4922",
+        "name": "Parkview Academy Of Early Learning Inc.",
+        "address": "20955 Old Yale Rd",
+        "city": "Langley",
+        "phone": "778-689-6721",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.641588",
+          "49.143786"
+        ]
+      },
+      "properties": {
+        "id": "4942",
+        "name": "Country Bumkins Children's Centre - Richard Bulpitt",
+        "address": "20965 77A St",
+        "city": "Langley",
+        "phone": "604-856-0979",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.593309",
+          "49.088606"
+        ]
+      },
+      "properties": {
+        "id": "4967",
+        "name": "Brave Spaces Early Learning Commons",
+        "address": "22756 48 Ave",
+        "city": "Langley",
+        "phone": "604-514-1000",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.627511",
+          "49.15668"
+        ]
+      },
+      "properties": {
+        "id": "4996",
+        "name": "At Play Child Care",
+        "address": "21501 Telegraph Trail",
+        "city": "Langley",
+        "phone": "604-226-7972",
+        "services": [
+          "Out of School Care",
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.655088",
+          "49.113117"
+        ]
+      },
+      "properties": {
+        "id": "5016",
+        "name": "Cefa Early Learning - Willowbrook",
+        "address": "20510 Langley Bypass",
+        "city": "Langley",
+        "phone": "604-727-8842",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.66593",
+          "49.160655"
+        ]
+      },
+      "properties": {
+        "id": "5017",
+        "name": "Smilestones Junior Kindergarten - Langley",
+        "address": "150-8661 201 St",
+        "city": "Langley",
+        "phone": "604-888-8085",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.636262",
+          "49.145176"
+        ]
+      },
+      "properties": {
+        "id": "5032",
+        "name": "A B Children Family Daycare",
+        "address": "7857 211B St",
+        "city": "Langley",
+        "phone": "778-829-5905",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.667021",
+          "49.157507"
+        ]
+      },
+      "properties": {
+        "id": "5043",
+        "name": "Kids + Company Langley",
+        "address": "8506 200Th St",
+        "city": "Langley",
+        "phone": "416-938-8024",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.678497",
+          "49.132393"
+        ]
+      },
+      "properties": {
+        "id": "5076",
+        "name": "Peanuts Family Daycare",
+        "address": "7140 196A St",
+        "city": "Langley",
+        "phone": "604-534-5851",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.67062",
+          "49.135452"
+        ]
+      },
+      "properties": {
+        "id": "5080",
+        "name": "Bright Star Multiage Child Day Care",
+        "address": "19918 73A Ave",
+        "city": "Langley",
+        "phone": "604-618-8671",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.66408",
+          "49.169449"
+        ]
+      },
+      "properties": {
+        "id": "5139",
+        "name": "Happyland Early Learning Centre",
+        "address": "201-20165 91A Ave",
+        "city": "Langley",
+        "phone": "604-882-1611",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.663325",
+          "49.13166"
+        ]
+      },
+      "properties": {
+        "id": "5172",
+        "name": "5 Star Learning Centre",
+        "address": "7096 201 St",
+        "city": "Langley",
+        "phone": "604-812-4838",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.660786",
+          "49.104352"
+        ]
+      },
+      "properties": {
+        "id": "5221",
+        "name": "Ecel (Langley)",
+        "address": "20279 56 Ave",
+        "city": "Langley",
+        "phone": "604-510-8486",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.643458",
+          "49.110527"
+        ]
+      },
+      "properties": {
+        "id": "5288",
+        "name": "Piggy Ooo's Daycare Centre",
+        "address": "5700 Langley Bypass",
+        "city": "Langley",
+        "phone": "604-562-8985",
+        "services": [
+          "Under 36 months",
+          "2.5 - 5 yrs"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.659743",
+          "49.074005"
+        ]
+      },
+      "properties": {
+        "id": "5332",
+        "name": "Brookswood Kids Place Inc.",
+        "address": "20390 40Th Ave",
+        "city": "Langley",
+        "phone": "604-530-3391",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.583388",
+          "49.030147"
+        ]
+      },
+      "properties": {
+        "id": "5333",
+        "name": "Apple'kins Childcare",
+        "address": "23110 16 Ave",
+        "city": "Langley",
+        "phone": "604-514-8486",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.657797",
+          "49.123522"
+        ]
+      },
+      "properties": {
+        "id": "5477",
+        "name": "Peregrine House School",
+        "address": "20381 66 Ave",
+        "city": "Langley",
+        "phone": "604-378-1840",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.635359",
+          "49.154503"
+        ]
+      },
+      "properties": {
+        "id": "5483",
+        "name": "Creative Angels Daycare Centre",
+        "address": "21179 83B Ave",
+        "city": "Langley",
+        "phone": "778-858-0242",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.646797",
+          "49.147097"
+        ]
+      },
+      "properties": {
+        "id": "5491",
+        "name": "Country Bumkins Children's Centre - Willoughby",
+        "address": "20766 80 Ave",
+        "city": "Langley",
+        "phone": "604-881-9052",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.670454",
+          "49.11817"
+        ]
+      },
+      "properties": {
+        "id": "5505",
+        "name": "Creative Kids Learning Centers - Langley Meadows",
+        "address": "101-19916 64 Ave",
+        "city": "Langley",
+        "phone": "604-560-5002",
+        "services": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.610085",
+          "49.084176"
+        ]
+      },
+      "properties": {
+        "id": "5518",
+        "name": "Nurturing Hearts Montessori Daycare - James Hill",
+        "address": "22144 Old Yale Rd",
+        "city": "Langley",
+        "phone": "778-366-1885",
+        "services": [
+          "Out of School Care"
+        ]
+      }
+    }
+  ]
+}

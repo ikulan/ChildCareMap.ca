@@ -5,13 +5,13 @@ import sys
 
 
 SERVICE_TYPE_MAPPING = {
-    "SRVC_UNDER36_YN": 0,
-    "SRVC_30MOS_5YRS_YN": 1,
-    "PRESCHOOL_MORNING_YN": 2,
-    "PRESCHOOL_MIDDAY_YN": 2,
-    "PRESCHOOL_AFTERNOON_YN": 2,
-    "SRVC_OOS_KINDER_YN": 3,
-    "SRVC_OOS_GR1_AGE12_YN": 4
+    "SRVC_UNDER36_YN": "Under 36 months",
+    "SRVC_30MOS_5YRS_YN": "2.5 - 5 yrs",
+    "PRESCHOOL_MORNING_YN": "Preschool",
+    "PRESCHOOL_MIDDAY_YN": "Preschool",
+    "PRESCHOOL_AFTERNOON_YN": "Preschool",
+    "SRVC_OOS_KINDER_YN": "Out of School Care",
+    "SRVC_OOS_GR1_AGE12_YN": "Out of School Care"
 }
 
 
@@ -38,6 +38,7 @@ def gen_feature(row):
         "name": row["NAME"],
         "address": address,
         "city": row["CITY"],
+        "phone": row["PHONE"],
         "services": services
       }
     }
@@ -55,7 +56,7 @@ def main(args):
 
             for row in csv_reader:
                 # Filter by city if the `city` argument is provided
-                if args.city and row["CITY"] and row.get("CITY").strip() != args.city:
+                if args.city and (not row["CITY"] or row.get("CITY").strip() != args.city):
                     continue
 
                 # parse the row and generate a geojson feature
@@ -82,7 +83,7 @@ def main(args):
                     "features": features,
                 },
                 outfile,
-                indent=2,
+                indent=2
             )
         print(f"GeoJSON data successfully written to '{args.output}'.")
     except Exception as e:
