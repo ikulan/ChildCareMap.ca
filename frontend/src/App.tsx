@@ -1,19 +1,17 @@
-import Map from "react-map-gl";
+import DaycareList from "./components/DaycareList";
+import DaycareMap from "./components/DaycareMap";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
 
 export default function App() {
   return (
-    <>
-      <h1 className="p-4 text-3xl font-bold underline">Hello Tailwind</h1>
-      <Map
-        mapboxAccessToken={import.meta.env.VITE_MAPBOX_API_TOKEN}
-        initialViewState={{
-          longitude: -122.4,
-          latitude: 37.8,
-          zoom: 14,
-        }}
-        style={{ width: 600, height: 400 }}
-        mapStyle="mapbox://styles/mapbox/streets-v9"
-      />
-    </>
+    <div className="h-svh">
+      <Header />
+      <main className="mb-2 grid h-4/5 grid-cols-4 grid-rows-1">
+        <DaycareList />
+        <DaycareMap />
+      </main>
+      <Footer />
+    </div>
   );
 }
