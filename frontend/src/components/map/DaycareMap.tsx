@@ -1,4 +1,9 @@
-import Map from "react-map-gl";
+import Map, {
+  GeolocateControl,
+  NavigationControl,
+  ScaleControl,
+} from "react-map-gl";
+import MapSource from "./MapSource";
 
 function DaycareMap() {
   return (
@@ -11,7 +16,13 @@ function DaycareMap() {
           zoom: 14,
         }}
         mapStyle="mapbox://styles/mapbox/streets-v9"
-      />
+      >
+        <GeolocateControl position="top-right" />
+        <NavigationControl position="top-right" />
+        <ScaleControl />
+
+        <MapSource />
+      </Map>
     </div>
   );
 }
