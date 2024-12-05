@@ -1,7 +1,7 @@
 import DaycareList from "./components/DaycareList";
 import DaycareMap from "./components/map/DaycareMap";
 import Footer from "./components/Footer";
-import Header from "./components/Header";
+import Header from "./components/header/Header";
 
 export default function App() {
   return (
