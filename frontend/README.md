@@ -16,17 +16,13 @@ The project is built with the following technologies:
 
 Follow these steps to set up and run the project locally.
 
-1. Install dependencies
-
-Install all necessary packages:
+1. Install all necessary packages
 
 ```
 npm install
 ```
 
 2. Run the Development Server
-
-Start the development server:
 
 ```
 npm run dev
