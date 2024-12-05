@@ -12,8 +12,8 @@ function MapSource() {
       type="geojson"
       data="./poco.geojson"
       cluster={true}
-      clusterMaxZoom={14}
       clusterRadius={50}
+      clusterMinPoints={5}
     >
       <Layer {...clusterLayer} />
       <Layer {...clusterCountLayer} />

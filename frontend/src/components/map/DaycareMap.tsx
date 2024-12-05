@@ -47,7 +47,7 @@ function DaycareMap() {
 
         mapRef.current?.easeTo({
           center: feature.geometry.coordinates,
-          zoom,
+          zoom: zoom + 2,
           duration: 500,
         });
       });
@@ -64,6 +64,8 @@ function DaycareMap() {
           zoom: 14,
         }}
         mapStyle="mapbox://styles/mapbox/standard"
+        maxZoom={20}
+        minZoom={4}
         interactiveLayerIds={[
           layerIds.cluster as string,
           layerIds.point as string,
