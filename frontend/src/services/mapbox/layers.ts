@@ -43,3 +43,8 @@ export const unclusteredPointLayer: LayerProps = {
     "circle-stroke-color": "#fff",
   },
 };
+
+export const layerIds = {
+  point: unclusteredPointLayer.id,
+  cluster: clusterLayer.id,
+};

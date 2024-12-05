@@ -1,17 +1,11 @@
 import { useRef, useState } from "react";
-import Map, {
-  GeolocateControl,
-  NavigationControl,
-  ScaleControl,
-} from "react-map-gl";
+import Map, { MapRef, GeoJSONSource } from "react-map-gl";
+
+import MapControls from "./MapControls";
 import MapSource from "./MapSource";
-import {
-  clusterLayer,
-  unclusteredPointLayer,
-} from "../../services/mapbox/layers";
 import PopupInfo from "./PopupInfo";
 
-import type { MapRef, GeoJSONSource } from "react-map-gl";
+import { layerIds } from "../../services/mapbox/layers";
 import type { Location } from "../../types/interfaces";
 
 function DaycareMap() {
@@ -28,7 +22,7 @@ function DaycareMap() {
       return;
     }
 
-    if (feature.layer.id === unclusteredPointLayer.id) {
+    if (feature.layer.id === layerIds.point) {
       // Display popup info for a location
       const location: Location = {
         position: {
@@ -38,7 +32,7 @@ function DaycareMap() {
         info: feature.properties,
       };
       setSelectedLocation(location);
-    } else if (feature.layer.id === clusterLayer.id) {
+    } else if (feature.layer.id === layerIds.cluster) {
       // zoom in for a cluster
       const clusterId = feature.properties.cluster_id;
 
@@ -71,16 +65,13 @@ function DaycareMap() {
         }}
         mapStyle="mapbox://styles/mapbox/standard"
         interactiveLayerIds={[
-          clusterLayer.id as string,
-          unclusteredPointLayer.id as string,
+          layerIds.cluster as string,
+          layerIds.point as string,
         ]}
         onClick={onClick}
         ref={mapRef}
       >
-        <GeolocateControl position="top-right" />
-        <NavigationControl position="top-right" />
-        <ScaleControl />
-
+        <MapControls />
         <MapSource />
 
         <PopupInfo location={selectedLocation} onClose={setSelectedLocation} />
