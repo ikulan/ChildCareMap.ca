@@ -1,5 +1,6 @@
 import { Popup } from "react-map-gl";
 import { Location } from "../../types/interfaces";
+import DaycareCard from "../DaycareCard";
 
 interface PopupInfoProps {
   location: Location | null;
@@ -16,7 +17,7 @@ function PopupInfo({ location, onClose }: PopupInfoProps) {
         closeOnClick={false}
         onClose={() => onClose(null)}
       >
-        <b>{location.info.name}</b>
+        <DaycareCard showOnMap={true} daycareInfo={location.info} />
       </Popup>
     )
   );
