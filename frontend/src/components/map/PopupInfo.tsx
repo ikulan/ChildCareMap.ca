@@ -1,22 +1,22 @@
 import { Popup } from "react-map-gl";
-import { Feature, Point } from "geojson";
+import { Location } from "../../types/interfaces";
 
 interface PopupInfoProps {
-  popupInfo: Feature<Point> | null;
-  onClose: (argument: Feature<Point> | null) => void;
+  location: Location | null;
+  onClose: (argument: Location | null) => void;
 }
 
-function PopupInfo({ popupInfo, onClose }: PopupInfoProps) {
+function PopupInfo({ location, onClose }: PopupInfoProps) {
   return (
-    popupInfo && (
+    location && (
       <Popup
         anchor="top"
-        longitude={Number(popupInfo.geometry.coordinates[0])}
-        latitude={Number(popupInfo.geometry.coordinates[1])}
+        longitude={location.position.longitude}
+        latitude={location.position.latitude}
         closeOnClick={false}
         onClose={() => onClose(null)}
       >
-        <b>{popupInfo.properties?.name}</b>
+        <b>{location.info.name}</b>
       </Popup>
     )
   );

@@ -5,16 +5,19 @@ import Map, {
   ScaleControl,
 } from "react-map-gl";
 import MapSource from "./MapSource";
-import type { MapRef, GeoJSONSource } from "react-map-gl";
-import { Feature, Point } from "geojson";
 import {
   clusterLayer,
   unclusteredPointLayer,
 } from "../../services/mapbox/layers";
 import PopupInfo from "./PopupInfo";
 
+import type { MapRef, GeoJSONSource } from "react-map-gl";
+import type { Location } from "../../types/interfaces";
+
 function DaycareMap() {
-  const [popupInfo, setPopupInfo] = useState<Feature<Point> | null>(null);
+  const [selectedLocation, setSelectedLocation] = useState<Location | null>(
+    null,
+  );
   const mapRef = useRef<MapRef>(null);
 
   const onClick = (event) => {
@@ -27,13 +30,14 @@ function DaycareMap() {
 
     if (feature.layer.id === unclusteredPointLayer.id) {
       // Display popup info for a location
-      console.log("popupInfo", popupInfo);
-      const location: Feature<Point> = {
-        type: "Feature",
-        geometry: feature.geometry,
-        properties: feature.properties,
+      const location: Location = {
+        position: {
+          longitude: Number(feature.geometry.coordinates[0]),
+          latitude: Number(feature.geometry.coordinates[1]),
+        },
+        info: feature.properties,
       };
-      setPopupInfo(location);
+      setSelectedLocation(location);
     } else if (feature.layer.id === clusterLayer.id) {
       // zoom in for a cluster
       const clusterId = feature.properties.cluster_id;
@@ -79,7 +83,7 @@ function DaycareMap() {
 
         <MapSource />
 
-        <PopupInfo popupInfo={popupInfo} onClose={setPopupInfo} />
+        <PopupInfo location={selectedLocation} onClose={setSelectedLocation} />
       </Map>
     </div>
   );
