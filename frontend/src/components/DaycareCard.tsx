@@ -7,10 +7,13 @@ interface DaycareCardProps {
 }
 
 function DaycareCard({ showOnMap = false, daycareInfo }: DaycareCardProps) {
+  const wrapperStyle = showOnMap
+    ? "mt-1 w-56 px-1"
+    : "mb-2 rounded-lg border border-gray-200 bg-white shadow p-4";
   const titleStyle = showOnMap ? "text-sm" : "text-lg";
 
   return (
-    <div className="mb-2 max-w-sm rounded-lg border border-gray-200 bg-white p-4 shadow">
+    <div className={`${wrapperStyle}`}>
       <a href="#">
         <h5
           className={`${titleStyle} font-semibold tracking-tight text-gray-900`}
