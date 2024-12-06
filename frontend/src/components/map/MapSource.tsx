@@ -5,12 +5,12 @@ import {
   unclusteredPointLayer,
 } from "../../services/mapbox/layers";
 
-function MapSource() {
+function MapSource({ sourceUrl }: { sourceUrl: string }) {
   return (
     <Source
       id="my-data"
       type="geojson"
-      data="./poco.geojson"
+      data={sourceUrl}
       cluster={true}
       clusterRadius={50}
       clusterMinPoints={5}

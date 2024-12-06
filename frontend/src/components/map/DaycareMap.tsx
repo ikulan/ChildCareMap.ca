@@ -8,6 +8,8 @@ import PopupInfo from "./PopupInfo";
 import { layerIds } from "../../services/mapbox/layers";
 import type { Location } from "../../types/interfaces";
 
+const geojsonUrl = import.meta.env.VITE_DATA_URL + "/port_coquitlam.geojson";
+
 function DaycareMap() {
   const [selectedLocation, setSelectedLocation] = useState<Location | null>(
     null,
@@ -74,7 +76,7 @@ function DaycareMap() {
         ref={mapRef}
       >
         <MapControls />
-        <MapSource />
+        <MapSource sourceUrl={geojsonUrl} />
 
         <PopupInfo location={selectedLocation} onClose={setSelectedLocation} />
       </Map>
