@@ -4,23 +4,33 @@ import json
 import sys
 
 
+# SERVICE_TYPE_MAPPING = {
+#     "SRVC_UNDER36_YN": "Under 36 months",
+#     "SRVC_30MOS_5YRS_YN": "2.5 - 5 yrs",
+#     "PRESCHOOL_MORNING_YN": "Preschool",
+#     "PRESCHOOL_MIDDAY_YN": "Preschool",
+#     "PRESCHOOL_AFTERNOON_YN": "Preschool",
+#     "SRVC_OOS_KINDER_YN": "Out of School Care",
+#     "SRVC_OOS_GR1_AGE12_YN": "Out of School Care"
+# }
+
 SERVICE_TYPE_MAPPING = {
-    "SRVC_UNDER36_YN": "Under 36 months",
-    "SRVC_30MOS_5YRS_YN": "2.5 - 5 yrs",
-    "PRESCHOOL_MORNING_YN": "Preschool",
-    "PRESCHOOL_MIDDAY_YN": "Preschool",
-    "PRESCHOOL_AFTERNOON_YN": "Preschool",
-    "SRVC_OOS_KINDER_YN": "Out of School Care",
-    "SRVC_OOS_GR1_AGE12_YN": "Out of School Care"
+    "SRVC_UNDER36_YN": 0,
+    "SRVC_30MOS_5YRS_YN": 1,
+    "PRESCHOOL_MORNING_YN": 2,
+    "PRESCHOOL_MIDDAY_YN": 2,
+    "PRESCHOOL_AFTERNOON_YN": 2,
+    "SRVC_OOS_KINDER_YN": 3,
+    "SRVC_OOS_GR1_AGE12_YN": 3
 }
 
 
 def gen_feature(row):
     # service type
     services = [code for key, code in SERVICE_TYPE_MAPPING.items() if row.get(key) == "Y"]
-    services = list(set(services))  # deduplicate
+    services = list(set(services))  # de-duplicate
 
-    # address
+    # merge address
     if row["ADDRESS_2"]:
         address = " ".join([row["ADDRESS_1"], row["ADDRESS_2"]])
     else:
@@ -83,7 +93,7 @@ def main(args):
                     "features": features,
                 },
                 outfile,
-                indent=2
+                #indent=2 # better readibility for the output file
             )
         print(f"GeoJSON data successfully written to '{args.output}'.")
     except Exception as e:

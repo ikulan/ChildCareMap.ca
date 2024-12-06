@@ -5,6 +5,7 @@ This project aims to create a convenient and modern website where users can easi
 I’m currently working on developing the website.💪 In the meantime, feel free to click on the city names below to preview the map on GitHub!
 
 ### Top 20 Cities with the Most Daycare Facilities
+(Last Updated: 2024-11-26)
 
 | City          | Number of Licensed Daycares |
 | ------------- | ------------- |
