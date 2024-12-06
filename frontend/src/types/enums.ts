@@ -9,6 +9,5 @@ export enum ServiceTypes {
   UNDER_3 = 0,
   UNDER_5 = 1, // 30 months to 5 years old
   PRESCHOOL = 2,
-  OOS_K = 3, // Out-of-School for Kindergarten
-  OOS_SCHOOL = 4, // Out-of-School for School Age
+  OOS_SCHOOL = 3, // Out-of-School for Kindergarden and School Age
 }

@@ -10,6 +10,7 @@ export type DaycareInfo = {
   name: string;
   address: string;
   city: Cities;
+  phone: string;
   services: ServiceTypes[];
 };
 

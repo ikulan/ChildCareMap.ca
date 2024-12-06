@@ -24,7 +24,7 @@ function DaycareCard({ showOnMap = false, daycareInfo }: DaycareCardProps) {
       <p className="text-sm font-normal text-gray-500">{daycareInfo.address}</p>
 
       <ServiceBadges services={daycareInfo.services} />
-      <p className="text-sm">Tel: 604-123-456</p>
+      <p className="text-sm">Tel: {daycareInfo.phone}</p>
     </div>
   );
 }
