@@ -7,15 +7,15 @@ function Footer() {
         </div>
         <div>
           <span>
+            &copy; 2024
             <a
               href="https://ikulan.github.io/"
-              className="hover:text-indigo-400 hover:underline"
+              className="px-2 hover:text-indigo-400 hover:underline"
               target="_blank"
               rel="noreferrer"
             >
               ikulan
-            </a>{" "}
-            &copy; 2024
+            </a>
           </span>
         </div>
       </div>

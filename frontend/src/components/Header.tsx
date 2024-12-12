@@ -1,5 +1,5 @@
-import DropdownMenu from "./DropdownMenu";
-import OptionsBar from "./OptionsBar";
+import DropdownMenu from "./menu/DropdownMenu";
+import OptionsBar from "./options/OptionsBar";
 import SiteLogo from "./SiteLogo";
 
 function Header() {

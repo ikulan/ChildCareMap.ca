@@ -1,5 +1,5 @@
 import CityButton from "./CityButton";
-import Tag from "./Tag";
+import Tag from "../common/Tag";
 
 const cities = [
   {

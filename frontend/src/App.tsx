@@ -1,6 +1,6 @@
 import DaycareMap from "./components/map/DaycareMap";
 import Footer from "./components/Footer";
-import Header from "./components/header/Header";
+import Header from "./components/Header";
 import { MapProvider } from "react-map-gl";
 
 export default function App() {

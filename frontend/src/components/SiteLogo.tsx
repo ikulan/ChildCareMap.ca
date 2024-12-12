@@ -1,4 +1,4 @@
-import Tag from "./Tag";
+import Tag from "./common/Tag";
 
 function SiteLogo() {
   return (

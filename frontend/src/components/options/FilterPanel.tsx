@@ -1,5 +1,5 @@
-import Tag from "./Tag";
-import ToggleElem from "./ToggleElem";
+import Tag from "../common/Tag";
+import ToggleElem from "../common/ToggleElem";
 
 function FilterPanel() {
   return (
