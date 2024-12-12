@@ -2,7 +2,9 @@
 
 This project aims to create a convenient and modern website where users can easily search for and explore child care service information in BC. The data source comes from the [BC government's open data set](#data-source).
 
-I’m currently working on developing the website.💪 In the meantime, feel free to click on the city names below to preview the map on GitHub!
+Website: www.bc-daycares.info
+
+Currently, the website displays data for the Tri-Cities only. I’m actively working on completing the website. 💪 In the meantime, feel free to click on the city names below to preview the map on GitHub!
 
 ### Top 20 Cities with the Most Daycare Facilities
 (Last Updated: 2024-11-26)
@@ -36,3 +38,47 @@ I’m currently working on developing the website.💪 In the meantime, feel fre
 - Canada.ca > Open Gevernment > [Child Care Map Data](https://open.canada.ca/data/en/dataset/4cc207cc-ff03-44f8-8c5f-415af5224646)
 
 - British Columbia - Data Catalogue > [Child Care Map Data](https://catalogue.data.gov.bc.ca/dataset/child-care-map-data/resource/9a9f14e1-03ea-4a11-936a-6e77b15eeb39)
+
+
+---
+
+## Development
+
+### Tech Stack
+
+- **Front-end**
+  The front-end of the web application is built with TypeScript, React, TailwindCSS, and Mapbox as the Map API.
+  - [View the Front-end Codebase](/frontend/README.md)
+
+- **Back-end**
+  TBD
+
+- **Deployment / Hosting**
+  All services are currently hosted on AWS:
+  - **CDN:** CloudFront
+  - **Website Hosting:** S3
+  - **DNS:** Route 53
+
+
+![Illustration of AWS static website hosting using S3 and CloudFront](/misc/aws_static_website_hosting_s3_cloudfront.webp)
+
+### TODO
+
+- **Front-end**
+  - Complete display for all cities.
+  - Implement data filtering functionality.
+  - Add new features, such as:
+    - Links to inspection reports.
+    - Select and print out custom childcare lists.
+
+- **Back-end**
+  - Develop a backend service to handle location data queries and replace the current static GeoJSON files.
+
+- **Other Improvements**
+  - Set up a continuous deployment pipeline.
+  - Add test automations for better coverage and reliability.
+  - Optimize code and enhance performance.
+  - Integrate logging and metrics for monitoring and analysis.
+  - SEO
+
+

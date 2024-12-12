@@ -23,7 +23,10 @@ Follow these steps to set up and run the project locally.
 npm install
 ```
 
-2. Run the Development Server
+2. Edit the `.env` File
+   Create a `.env.development` file and populate it with the appropriate values from `.env.sample`.
+
+3. Run the Development Server
 
 ```
 npm run dev
