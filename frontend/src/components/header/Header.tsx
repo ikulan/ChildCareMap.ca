@@ -1,4 +1,4 @@
-import Hamburger from "./Hamburger";
+import DropdownMenu from "./DropdownMenu";
 import OptionsBar from "./OptionsBar";
 import SiteLogo from "./SiteLogo";
 
@@ -8,7 +8,7 @@ function Header() {
       <div className="flex flex-wrap items-center justify-between">
         <SiteLogo />
         <OptionsBar />
-        <Hamburger />
+        <DropdownMenu />
       </div>
     </header>
   );
