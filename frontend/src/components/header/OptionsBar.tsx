@@ -1,10 +1,12 @@
 import { useState } from "react";
+import useCityStore from "../../stores/cityStore";
 import { FilterTuneIcon } from "../icons/FilterTuneIcon";
 import { MapPinIcon } from "../icons/MapPinIcon";
 import FilterPanel from "./FilterPanel";
 import CityPanel from "./CityPanel";
 
 function OptionsBar() {
+  const cityObj = useCityStore((state) => state.cityObj);
   const [openCityPanel, setOpenCityPanel] = useState(false);
   const [openFilterPanel, setOpenFilterPanel] = useState(false);
 
@@ -28,7 +30,7 @@ function OptionsBar() {
             onClick={toggleCityPanel}
           >
             <MapPinIcon className="me-2 h-4 w-4" />
-            Port Coquitlam
+            {cityObj.name}
           </button>
           {openCityPanel && <CityPanel />}
         </div>

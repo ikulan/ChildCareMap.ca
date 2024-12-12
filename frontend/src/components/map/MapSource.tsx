@@ -6,21 +6,21 @@ import {
   unclusteredPointLayer,
 } from "../../services/mapbox/layers";
 
-const sourceUrl = (city: string): string => {
-  return `${import.meta.env.VITE_DATA_URL}/data/${city}.geojson`;
+const sourceUrl = (cityHandle: string): string => {
+  return `${import.meta.env.VITE_DATA_URL}/data/${cityHandle}.geojson`;
 };
 
-function MapSource({ city }: { city: string }) {
+function MapSource({ cityHandle }: { cityHandle: string }) {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    const url = sourceUrl(city);
+    const url = sourceUrl(cityHandle);
     /* global fetch */
     fetch(url)
       .then((resp) => resp.json())
       .then((json) => setData(json))
       .catch((err) => console.error("Could not load data", err)); // eslint-disable-line
-  }, [city]);
+  }, [cityHandle]);
 
   return (
     <Source

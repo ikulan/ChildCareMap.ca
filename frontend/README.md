@@ -8,9 +8,10 @@ The project is built with the following technologies:
 
 - TypeScript
 - React
-- Vite: for development build tool
 - Tailwind CSS
-- [Mapbox](https://www.mapbox.com/) (via [react-map-gl](https://visgl.github.io/react-map-gl/)): for the map API
+- [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction): state management
+- Vite: development build tool
+- [Mapbox](https://www.mapbox.com/) (via [react-map-gl](https://visgl.github.io/react-map-gl/)): the map API
 
 ## Getting Started
 

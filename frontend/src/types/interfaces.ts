@@ -18,3 +18,11 @@ export type Location = {
   position: Coordinate;
   info: DaycareInfo;
 };
+
+export type CityInfo = {
+  handle: string;
+  name: string;
+  longitude: number;
+  latitude: number;
+  zoom: number;
+};
