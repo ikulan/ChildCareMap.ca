@@ -1,11 +1,14 @@
 function Footer() {
   return (
     <footer>
-      <div className="flex flex-row items-center justify-center gap-4 px-12 py-4">
+      <div className="flex flex-row items-center justify-between gap-4 p-4">
+        <div className="text-sm text-stone-700 sm:text-center md:text-base">
+          Data Last Updated: {import.meta.env.VITE_DATA_DATE}
+        </div>
         <div>
           <span className="text-sm text-stone-700 sm:text-center md:text-base">
             <a
-              href="https://github.com/ikulan/BC-Daycares-Info"
+              href="https://ikulan.github.io/"
               className="hover:underline"
               target="_blank"
               rel="noreferrer"

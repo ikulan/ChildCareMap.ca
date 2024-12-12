@@ -1,4 +1,5 @@
 import CityButton from "./CityButton";
+import Tag from "./Tag";
 
 const cities = [
   {
@@ -26,11 +27,17 @@ const cities = [
 
 function CityPanel() {
   return (
-    <div className="absolute z-10 mt-2 w-72 divide-y divide-gray-100 rounded-lg bg-white shadow">
+    <div className="absolute z-10 mt-2 w-80 divide-y divide-gray-100 rounded-lg bg-white p-2 shadow">
       <div className="gap-1">
         {cities.map((city) => (
           <CityButton key={city.handle} cityObj={city} />
         ))}
+        <div className="relative inline-flex">
+          <div className="flex w-40 rounded-lg bg-white px-3 py-2 text-center text-sm font-medium text-gray-500">
+            <span className="mr-2 flex items-center">Other</span>
+            <Tag color="gray-500">Coming Soon!</Tag>
+          </div>
+        </div>
       </div>
     </div>
   );
