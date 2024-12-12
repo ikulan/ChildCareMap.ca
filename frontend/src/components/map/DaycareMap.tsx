@@ -67,9 +67,9 @@ function DaycareMap() {
         id="daycareMap"
         mapboxAccessToken={import.meta.env.VITE_MAPBOX_API_TOKEN}
         initialViewState={{
-          longitude: -122.75106,
-          latitude: 49.269857,
-          zoom: 14,
+          longitude: -122.79413,
+          latitude: 49.27962,
+          zoom: 12,
         }}
         mapStyle="mapbox://styles/mapbox/standard"
         maxZoom={20}

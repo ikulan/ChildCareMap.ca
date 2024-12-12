@@ -8,11 +8,11 @@ interface CityState {
 
 const useCityStore = create<CityState>((set) => ({
   cityObj: {
-    handle: "port_coquitlam",
-    name: "Port Coquitlam",
-    longitude: -122.75106,
-    latitude: 49.269857,
-    zoom: 13.5,
+    handle: "coquitlam",
+    name: "Coquitlam",
+    longitude: -122.79413,
+    latitude: 49.27962,
+    zoom: 12,
   },
   setCityObj: (value) => {
     set({ cityObj: value });
