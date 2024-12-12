@@ -10,7 +10,7 @@ function FilterPanel() {
       <ul className="space-y-1 px-3 pb-3 text-sm text-gray-700">
         <li>
           <ToggleElem key="0" disabled>
-            Under 3
+            Under 3 yrs
           </ToggleElem>
         </li>
         <li>
