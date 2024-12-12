@@ -1,12 +1,15 @@
-import useCityStore from "../../stores/cityStore";
 import { useMap } from "react-map-gl";
+import useCityStore from "../../stores/cityStore";
+import useConfigStore from "../../stores/configStore";
 
 function CityButton({ cityObj }) {
   const setCityObj = useCityStore((state) => state.setCityObj);
+  const closeAllPanels = useConfigStore((state) => state.closeAllPanels);
   const { daycareMap } = useMap();
 
   const onClick = () => {
     setCityObj(cityObj);
+    closeAllPanels();
     daycareMap?.easeTo({
       center: [cityObj.longitude, cityObj.latitude],
       zoom: cityObj.zoom,
