@@ -11,10 +11,15 @@ import useCityStore from "../../stores/cityStore";
 
 function DaycareMap() {
   const cityObj = useCityStore((state) => state.cityObj);
+  const [initialLoaded, setInitialLoaded] = useState<boolean>(false);
   const [selectedLocation, setSelectedLocation] = useState<Location | null>(
     null,
   );
   const mapRef = useRef<MapRef>(null);
+
+  const onLoad = () => {
+    setInitialLoaded(true);
+  };
 
   const onClick = (event) => {
     event.originalEvent.stopPropagation();
@@ -74,10 +79,11 @@ function DaycareMap() {
           layerIds.point as string,
         ]}
         onClick={onClick}
+        onLoad={onLoad}
         ref={mapRef}
       >
         <MapControls />
-        <MapSource cityHandle={cityObj.handle} />
+        {initialLoaded && <MapSource cityHandle={cityObj.handle} />}
         <PopupInfo location={selectedLocation} onClose={setSelectedLocation} />
       </Map>
     </div>
