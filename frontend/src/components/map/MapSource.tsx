@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Layer, Source } from "react-map-gl";
 import {
   clusterLayer,
@@ -12,14 +12,24 @@ const sourceUrl = (cityHandle: string): string => {
 
 function MapSource({ cityHandle }: { cityHandle: string }) {
   const [data, setData] = useState(null);
+  const cache = useRef(new Map()); // Use a ref to persist data cache across renders
 
   useEffect(() => {
     const url = sourceUrl(cityHandle);
-    /* global fetch */
-    fetch(url)
-      .then((resp) => resp.json())
-      .then((json) => setData(json))
-      .catch((err) => console.error("Could not load data", err)); // eslint-disable-line
+
+    if (cache.current.has(cityHandle)) {
+      // If data for this city is in the cache, use it
+      setData(cache.current.get(cityHandle));
+    } else {
+      // Otherwise, fetch the data and store it in the cache
+      fetch(url)
+        .then((resp) => resp.json())
+        .then((json) => {
+          cache.current.set(cityHandle, json); // Save data to cache
+          setData(json);
+        })
+        .catch((err) => console.error("Could not load data", err));
+    }
   }, [cityHandle]);
 
   return (
