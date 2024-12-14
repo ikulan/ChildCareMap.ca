@@ -20,7 +20,7 @@ function OptionsBar() {
             onClick={configState.toggleCityPanel}
           >
             <MapPinIcon className="me-2 h-4 w-4" />
-            {cityObj.name}
+            Region: {cityObj.name}
           </button>
           {configState.cityPanelIsOpen && <CityPanel />}
         </div>
