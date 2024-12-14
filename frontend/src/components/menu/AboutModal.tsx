@@ -4,7 +4,7 @@ import { GithubIcon } from "../icons/GithubIcon";
 function AboutModal({ isOpen, onClose }) {
   if (!isOpen) return null;
   return (
-    <Modal onClose={onClose}>
+    <Modal title="About" onClose={onClose}>
       {/* Modal Content */}
       <p className="text-base leading-relaxed text-gray-500">
         This project aims to create a convenient and modern website where users

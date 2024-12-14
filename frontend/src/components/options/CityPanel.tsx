@@ -1,5 +1,4 @@
 import CityButton from "./CityButton";
-import Tag from "../common/Tag";
 
 const cities = [
   {
@@ -39,16 +38,25 @@ const cities = [
   },
 ];
 
-function CityPanel() {
+function CityButtons() {
   return (
-    <div className="absolute z-10 mt-2 w-80 divide-y divide-gray-100 rounded-lg bg-white p-2 shadow">
-      <div className="gap-1">
-        {cities.map((city) => (
-          <CityButton key={city.handle} cityObj={city} />
-        ))}
-      </div>
+    <div className="gap-1">
+      {cities.map((city) => (
+        <CityButton key={city.handle} cityObj={city} />
+      ))}
     </div>
   );
+}
+
+function CityPanel({ asPanel = true }) {
+  if (asPanel === true) {
+    return (
+      <div className="absolute z-10 mt-2 w-80 divide-y divide-gray-100 rounded-lg bg-white p-2 shadow">
+        <CityButtons />
+      </div>
+    );
+  }
+  return <CityButtons />;
 }
 
 export default CityPanel;

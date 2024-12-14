@@ -1,6 +1,6 @@
 import { CrossIcon } from "../icons/CrossIcon";
 
-function Modal({ onClose, children }) {
+function Modal({ title, onClose, children }) {
   return (
     <div
       tabIndex={-1}
@@ -11,7 +11,7 @@ function Modal({ onClose, children }) {
         <div className="relative rounded-lg bg-white shadow">
           {/* Modal Header */}
           <div className="flex items-center justify-between rounded-t border-b p-4 md:p-5">
-            <h3 className="text-xl font-semibold text-gray-900">About</h3>
+            <h3 className="text-xl font-semibold text-gray-900">{title}</h3>
             <button
               type="button"
               className="ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-400 hover:bg-gray-200 hover:text-gray-900"
