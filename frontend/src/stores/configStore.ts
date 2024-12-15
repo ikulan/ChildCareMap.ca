@@ -13,7 +13,7 @@ interface ConfigState {
 const useConfigStore = create<ConfigState>((set) => ({
   cityPanelIsOpen: false,
   filterPanelIsOpen: false,
-  regionModalIsOpen: true,
+  regionModalIsOpen: false,
 
   toggleCityPanel: () =>
     set((state) => ({
