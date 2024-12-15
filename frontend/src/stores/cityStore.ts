@@ -10,9 +10,9 @@ const useCityStore = create<CityState>((set) => ({
   cityObj: {
     handle: "metro_van",
     name: "Metro Vancouver",
-    longitude: -123.138573,
-    latitude: 49.263569,
-    zoom: 12,
+    longitude: -122.9196,
+    latitude: 49.2144,
+    zoom: 10,
   },
   setCityObj: (value) => {
     set({ cityObj: value });
