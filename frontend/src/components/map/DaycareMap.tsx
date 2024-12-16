@@ -30,6 +30,14 @@ function DaycareMap() {
     }
 
     if (feature.layer.id === layerIds.point) {
+      // zoom in for a point
+      const currentZoom = mapRef.current?.getZoom();
+      mapRef.current?.easeTo({
+        center: feature.geometry.coordinates,
+        zoom: Math.max(currentZoom as number, 14),
+        duration: 500,
+      });
+
       // Display popup info for a location
       const location: Location = {
         position: {
