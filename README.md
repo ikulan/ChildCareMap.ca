@@ -1,4 +1,4 @@
-# BC-Daycares.Info
+# ChildCareMap.ca
 
 This project aims to create a convenient and modern website where users can easily search for and explore child care service information in BC. The data source comes from the [BC government's open data set](#data-source).
 
