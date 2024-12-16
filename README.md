@@ -2,9 +2,9 @@
 
 This project aims to create a convenient and modern website where users can easily search for and explore child care service information in BC. The data source comes from the [BC government's open data set](#data-source).
 
-Website: www.bc-daycares.info
+Website: www.childcaremap.ca
 
-Currently, the website displays data for the Tri-Cities only. I’m actively working on completing the website. 💪 In the meantime, feel free to click on the city names below to preview the map on GitHub!
+I am actively working on adding more features to the website, such as search functionality for addresses and city names, completing the backend, and setting up  the continuous deployment pipeline. 💪 Stay tuned for exciting updates!
 
 ### Top 20 Cities with the Most Daycare Facilities
 (Last Updated: 2024-11-26)
