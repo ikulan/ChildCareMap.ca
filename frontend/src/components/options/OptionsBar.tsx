@@ -16,7 +16,7 @@ function OptionsBar() {
         <div>
           <button
             type="button"
-            className="inline-flex items-center rounded-s-full border border-gray-200 bg-white px-4 py-2 text-sm font-medium text-gray-900 hover:bg-gray-100 focus:z-10 focus:outline-none focus:ring-2 focus:ring-gray-200"
+            className="inline-flex items-center rounded-s-full border border-gray-200 bg-white px-4 py-2 text-xs font-medium text-gray-900 hover:bg-gray-100 focus:z-10 focus:outline-none focus:ring-2 focus:ring-gray-200 sm:text-sm"
             onClick={configState.toggleCityPanel}
           >
             <MapPinIcon className="me-2 h-4 w-4" />
@@ -27,7 +27,7 @@ function OptionsBar() {
         <div>
           <button
             type="button"
-            className="inline-flex items-center rounded-e-full border border-gray-200 bg-white px-4 py-2 text-sm font-medium text-gray-900 hover:bg-gray-100 focus:z-10 focus:outline-none focus:ring-2 focus:ring-gray-200"
+            className="inline-flex items-center rounded-e-full border border-gray-200 bg-white px-4 py-2 text-xs font-medium text-gray-900 hover:bg-gray-100 focus:z-10 focus:outline-none focus:ring-2 focus:ring-gray-200 sm:text-sm"
             onClick={configState.toggleFilterPanel}
           >
             <FilterTuneIcon className="me-2 h-4 w-4" />

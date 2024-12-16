@@ -7,7 +7,7 @@ function FilterPanel() {
       <div className="flow justify-items-end px-2 pt-2">
         <Tag color="gray-500">Coming Soon!</Tag>
       </div>
-      <ul className="space-y-1 px-3 pb-3 text-sm text-gray-700">
+      <ul className="space-y-1 pb-3 text-xs text-gray-700 sm:px-3 sm:text-sm">
         <li>
           <ToggleElem key="0" disabled>
             Under 3 yrs
