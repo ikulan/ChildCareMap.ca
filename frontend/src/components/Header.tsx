@@ -6,9 +6,15 @@ function Header() {
   return (
     <header className="px-4 py-2.5">
       <div className="flex flex-wrap items-center justify-between">
-        <SiteLogo />
-        <OptionsBar />
-        <DropdownMenu />
+        <div className="md:order-1">
+          <SiteLogo />
+        </div>
+        <div className="md:order-3">
+          <DropdownMenu />
+        </div>
+        <div className="md:order-2">
+          <OptionsBar />
+        </div>
       </div>
     </header>
   );
