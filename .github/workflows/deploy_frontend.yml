@@ -30,7 +30,7 @@ jobs:
           path: dist
 
   deploy:
-    name: Deploy to S3 and clean CloudFront cache
+    name: Deploy to S3
     needs: build
     runs-on: ubuntu-latest
 
@@ -53,6 +53,19 @@ jobs:
 
       - name: Deploy static site to S3 bucket
         run: aws s3 sync . s3://www.childcaremap.ca --delete
+
+  clean-cache:
+    name: Clean CloudFront cache
+    needs: deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4.0.2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-west-2
 
       - name: Invalidate CloudFront distribution
         run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONT_FRONTEND_DIST_ID }} --paths "/*"
