@@ -1,13 +1,18 @@
-name: Deploy to AWS S3 and clean CloudFront cache
+name: Deploy frontend web app to AWS S3 and clean CloudFront cache
 on:
   push:
     branches:
-      - main
+      - release
 
 jobs:
   build:
     name: Build with Vite
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: ./frontend
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@2.3.2
@@ -47,7 +52,7 @@ jobs:
           aws-region: us-west-2
 
       - name: Deploy static site to S3 bucket
-        run: aws s3 sync . s3://<bucket-name> --delete
+        run: aws s3 sync . s3://www.childcaremap.ca --delete
 
       - name: Invalidate CloudFront distribution
-        run: aws cloudfront create-invalidation --distribution-id <DISTRIBUTION_ID> --paths "/*"
+        run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONT_FRONTEND_DIST_ID }} --paths "/*"
