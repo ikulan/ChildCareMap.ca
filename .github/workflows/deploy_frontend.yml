@@ -16,6 +16,9 @@ jobs:
         working-directory: ./frontend
 
     steps:
+      - if: ${{ env.VITE_MAPBOX_API_TOKEN == '' }}
+        run: echo "Missing environment variable - env.VITE_MAPBOX_API_TOKEN"
+
       - name: Checkout Repo
         uses: actions/checkout@v4
 
