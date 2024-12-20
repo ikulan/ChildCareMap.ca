@@ -9,11 +9,6 @@ jobs:
     name: Build with Vite
     runs-on: ubuntu-latest
     environment: production
-    env:
-      VITE_DATA_DATE: ${{ env.VITE_DATA_DATE }}
-      VITE_DATA_URL: ${{ env.VITE_DATA_URL }}
-      VITE_MAPBOX_API_TOKEN: ${{ env.VITE_MAPBOX_API_TOKEN }}
-
     defaults:
       run:
         shell: bash
@@ -24,13 +19,14 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - if: ${{ env.VITE_MAPBOX_API_TOKEN == '' }}
-        run: echo "Missing environment variable - env.VITE_MAPBOX_API_TOKEN"
-
       - name: Install Dependencies
         run: npm install
 
       - name: Build
+        env:
+          VITE_DATA_DATE: ${{ env.VITE_DATA_DATE }}
+          VITE_DATA_URL: ${{ env.VITE_DATA_URL }}
+          VITE_MAPBOX_API_TOKEN: ${{ env.VITE_MAPBOX_API_TOKEN }}
         run: npm run build
 
       - name: Archive Production Artifact
