@@ -1,0 +1,53 @@
+name: Deploy to AWS S3 and clean CloudFront cache
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build with Vite
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@2.3.2
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Archive Production Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: dist
+          path: dist
+
+  deploy:
+    name: Deploy to S3 and clean CloudFront cache
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.2
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: dist
+          path: dist
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-west-2
+
+      - name: Deploy static site to S3 bucket
+        run: aws s3 sync . s3://<bucket-name> --delete
+
+      - name: Invalidate CloudFront distribution
+        run: aws cloudfront create-invalidation --distribution-id <DISTRIBUTION_ID> --paths "/*"
