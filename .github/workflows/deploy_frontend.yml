@@ -11,6 +11,7 @@ jobs:
     defaults:
       run:
         shell: bash
+        # the working-directory only works for "run:" statements
         working-directory: ./frontend
 
     steps:
@@ -27,7 +28,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: frontend-dist
-          path: /frontend/dist
+          path: frontend/dist
 
   deploy:
     name: Deploy to S3
@@ -35,14 +36,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Download Artifact
         uses: actions/download-artifact@v4
         with:
           name: frontend-dist
-          path: /frontend/dist
+          path: frontend/dist
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4.0.2
@@ -52,7 +50,7 @@ jobs:
           aws-region: us-west-2
 
       - name: Deploy static site to S3 bucket
-        run: aws s3 sync . s3://www.childcaremap.ca --delete
+        run: aws s3 sync frontend/dist s3://www.childcaremap.ca --delete
 
   clean-cache:
     name: Clean CloudFront cache
