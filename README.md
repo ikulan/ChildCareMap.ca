@@ -42,30 +42,40 @@ I am actively working on adding more features to the website, such as search fun
 
 ---
 
-## Development
+## Tech Stack
 
-### Tech Stack
-
-- **Front-end**
-  The front-end of the web application is built with TypeScript, React, TailwindCSS, and Mapbox as the Map API.
+- **Front-end:** The front-end of the web application is built with TypeScript, React, TailwindCSS, and Mapbox as the Map API.
   - [View the Front-end Codebase](/frontend/README.md)
 
-- **Back-end**
-  TBD
+- **Back-end:** TBD
 
-- **Deployment / Hosting**
-  All services are currently hosted on AWS:
+- **CI/CD:** I have integrated **GitHub Actions** with **AWS** to automate production deployments. When a release tag is created, a GitHub Actions workflow is triggered to build the front-end app, upload it to the AWS S3 bucket, and invalidate the CloudFront distribution.
+
+- **Hosting:** All services are currently hosted on AWS:
   - **CDN:** CloudFront
   - **Website Hosting:** S3
   - **DNS:** Route 53
 
-
 ![Illustration of AWS static website hosting using S3 and CloudFront](/misc/aws_static_website_hosting_s3_cloudfront.webp)
 
-### TODO
+
+## Branching Model
+
+### Development
+
+- **Feature Branch:** Represents a feature under development. Create a feature branch when working on a new feature. Name the feature branch using the story type and story ID from Shortcut in the following format: `[story_type]/[story_id]/[story_name]` (e.g., `feature/sc-123/my-story-name`).
+
+- **Main Branch:** Used as the integration branch for completed features. Open a pull request to merge the feature branch into the `main` branch.
+
+### Release
+
+- **Release Branch:** Represents the contents of production environment. When ready to release, create a pull request from the main branch to the release branch.
+
+- After the pull request is merged, create and publish a release with release notes and a version tag. This action triggers an automatic deployment to production. Use the following naming format for version tags: `frontend-v[major].[minor].[patch]`
+
+## TODO
 
 - **Front-end**
-  - Complete display for all cities.
   - Implement data filtering functionality.
   - Add new features, such as:
     - Links to inspection reports.
@@ -75,7 +85,6 @@ I am actively working on adding more features to the website, such as search fun
   - Develop a backend service to handle location data queries and replace the current static GeoJSON files.
 
 - **Other Improvements**
-  - Set up a continuous deployment pipeline.
   - Add test automations for better coverage and reliability.
   - Optimize code and enhance performance.
   - Integrate logging and metrics for monitoring and analysis.
