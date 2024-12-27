@@ -1,7 +1,8 @@
 name: Deploy frontend web app to Production
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - chore/sc-19/set-up-github-actions-for-deployment
 
 jobs:
 
