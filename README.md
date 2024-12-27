@@ -71,6 +71,7 @@ I am actively working on adding more features to the website, such as search fun
 
 - When ready to release, create and publish a release from `main` branch. This action triggers an automatic deployment to production. Use the following naming format for version tags: `frontend-v[major].[minor].[patch]`
 
+
 ## TODO
 
 - **Front-end**
