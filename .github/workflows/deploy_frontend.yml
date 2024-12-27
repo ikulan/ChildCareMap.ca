@@ -24,7 +24,9 @@ jobs:
         run: npm install
 
       - name: Access secrets
-        run: echo "Using backend site: ${{ secrets.VITE_DATA_URL }}"
+        env:
+          VITE_DATA_URL: ${{ secrets.VITE_DATA_URL }}
+        run: echo "Using backend site: $VITE_DATA_URL"
 
       - name: Build
         env:
