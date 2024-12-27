@@ -1,10 +1,11 @@
-name: Deploy frontend web app to AWS S3 and clean CloudFront cache
+name: Deploy frontend web app to Production
 on:
   push:
     branches:
       - chore/sc-19/set-up-github-actions-for-deployment
 
 jobs:
+
   build:
     name: Build with Vite
     runs-on: ubuntu-latest
@@ -22,11 +23,14 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Access secrets
+        run: echo "Using backend site: ${{ secrets.VITE_DATA_URL }}"
+
       - name: Build
         env:
-          VITE_DATA_DATE: ${{ env.VITE_DATA_DATE }}
-          VITE_DATA_URL: ${{ env.VITE_DATA_URL }}
-          VITE_MAPBOX_API_TOKEN: ${{ env.VITE_MAPBOX_API_TOKEN }}
+          VITE_DATA_DATE: ${{ secrets.VITE_DATA_DATE }}
+          VITE_DATA_URL: ${{ secrets.VITE_DATA_URL }}
+          VITE_MAPBOX_API_TOKEN: ${{ secrets.VITE_MAPBOX_API_TOKEN }}
         run: npm run build
 
       - name: Archive Production Artifact
