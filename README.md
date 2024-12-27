@@ -46,26 +46,25 @@ I am actively working on adding more features to the website, such as search fun
 
 ### Tech Stack
 
-- **Front-end**
-  The front-end of the web application is built with TypeScript, React, TailwindCSS, and Mapbox as the Map API.
+- **Front-end:** The front-end of the web application is built with TypeScript, React, TailwindCSS, and Mapbox as the Map API.
   - [View the Front-end Codebase](/frontend/README.md)
 
-- **Back-end**
-  TBD
+- **Back-end:** TBD
 
-- **Deployment / Hosting**
-  All services are currently hosted on AWS:
+- **Hosting:** All services are currently hosted on AWS:
   - **CDN:** CloudFront
   - **Website Hosting:** S3
   - **DNS:** Route 53
 
-
 ![Illustration of AWS static website hosting using S3 and CloudFront](/misc/aws_static_website_hosting_s3_cloudfront.webp)
+
+- **CI/CD**
+  - **GitHub Actions:** I have integrated **GitHub Actions** with **AWS** to automate production deployments. When a release tag is created, a GitHub Actions workflow is triggered to build the front-end app, upload it to the AWS S3 bucket, and invalidate the CloudFront distribution.
+
 
 ### TODO
 
 - **Front-end**
-  - Complete display for all cities.
   - Implement data filtering functionality.
   - Add new features, such as:
     - Links to inspection reports.
@@ -75,7 +74,6 @@ I am actively working on adding more features to the website, such as search fun
   - Develop a backend service to handle location data queries and replace the current static GeoJSON files.
 
 - **Other Improvements**
-  - Set up a continuous deployment pipeline.
   - Add test automations for better coverage and reliability.
   - Optimize code and enhance performance.
   - Integrate logging and metrics for monitoring and analysis.
