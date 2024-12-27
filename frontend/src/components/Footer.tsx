@@ -3,7 +3,7 @@ function Footer() {
     <footer>
       <div className="flex flex-row items-center justify-between gap-4 p-4 text-sm text-gray-600 md:text-base">
         <div className="sm:text-center">
-          Data Last Updated: {import.meta.env.VITE_DATA_DATE} (
+          Last Updated: {import.meta.env.VITE_DATA_DATE} (
           {import.meta.env.VITE_APP_VERSION})
         </div>
         <div>
