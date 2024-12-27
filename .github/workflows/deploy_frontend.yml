@@ -10,10 +10,6 @@ jobs:
     name: Build with Vite
     runs-on: ubuntu-latest
     environment: production
-    env:
-      VITE_DATA_DATE: ${{ vars.VITE_DATA_DATE }}
-      VITE_DATA_URL: ${{ vars.VITE_DATA_URL }}
-      VITE_MAPBOX_API_TOKEN: ${{ secrets.VITE_MAPBOX_API_TOKEN }}
     defaults:
       run:
         shell: bash
@@ -27,16 +23,37 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Define Version Name
+        run: |
+          VERSION_NAME="${{ github.ref_name }}-$(date +'%Y%m%d')"
+          echo "VERSION_NAME=$VERSION_NAME" >> $GITHUB_ENV
+
+      - name: Print Version Name
+        run: |
+          echo "Version Name: $VERSION_NAME"
+
       - name: Access Env Variables
-        run: echo "Using backend site $VITE_DATA_URL"
+        env:
+          VITE_DATA_URL: ${{ vars.VITE_DATA_URL }}
+        run: |
+          echo "Using backend site: $VITE_DATA_URL"
 
       - name: Build
+        env:
+          VITE_DATA_DATE: ${{ vars.VITE_DATA_DATE }}
+          VITE_DATA_URL: ${{ vars.VITE_DATA_URL }}
+          VITE_MAPBOX_API_TOKEN: ${{ secrets.VITE_MAPBOX_API_TOKEN }}
+          VITE_APP_VERSION: $VERSION_NAME
         run: npm run build
+
+      - name: Define Artifact Name
+        run: |
+          echo "ARTIFACT_NAME=frontend-$VERSION_NAME" >> $GITHUB_ENV
 
       - name: Archive Production Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: frontend-dist
+          name: ${{ env.ARTIFACT_NAME }}
           path: frontend/dist
 
   deploy:
