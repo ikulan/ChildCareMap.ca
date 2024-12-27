@@ -33,7 +33,7 @@ jobs:
           VITE_DATA_DATE: ${{ vars.VITE_DATA_DATE }}
           VITE_DATA_URL: ${{ vars.VITE_DATA_URL }}
           VITE_MAPBOX_API_TOKEN: ${{ secrets.VITE_MAPBOX_API_TOKEN }}
-          VITE_APP_VERSION: $VERSION_NAME
+          VITE_APP_VERSION: ${{ env.VERSION_NAME }}
         run: npm run build
 
       - name: Archive Production Artifact
