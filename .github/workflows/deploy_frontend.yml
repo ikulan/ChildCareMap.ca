@@ -24,18 +24,8 @@ jobs:
 
       - name: Define Version Name
         run: |
-          VERSION_NAME="${{ github.ref_name }}-$(date +'%Y%m%d')"
+          VERSION_NAME="${{ github.event.release.tag_name }}-$(date +'%Y%m%d')"
           echo "VERSION_NAME=$VERSION_NAME" >> $GITHUB_ENV
-
-      - name: Print Version Name
-        run: |
-          echo "Version Name: $VERSION_NAME"
-
-      - name: Access Env Variables
-        env:
-          VITE_DATA_URL: ${{ vars.VITE_DATA_URL }}
-        run: |
-          echo "Using backend site: $VITE_DATA_URL"
 
       - name: Build
         env:
@@ -45,14 +35,10 @@ jobs:
           VITE_APP_VERSION: $VERSION_NAME
         run: npm run build
 
-      - name: Define Artifact Name
-        run: |
-          echo "ARTIFACT_NAME=frontend-$VERSION_NAME" >> $GITHUB_ENV
-
       - name: Archive Production Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ env.ARTIFACT_NAME }}
+          name: ${{ env.VERSION_NAME }}
           path: frontend/dist
 
   deploy:
@@ -64,7 +50,7 @@ jobs:
       - name: Download Artifact
         uses: actions/download-artifact@v4
         with:
-          name: frontend-dist
+          name: ${{ env.VERSION_NAME }}
           path: frontend/dist
 
       - name: Configure AWS Credentials
