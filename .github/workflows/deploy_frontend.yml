@@ -39,7 +39,7 @@ jobs:
       - name: Archive Production Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ env.VERSION_NAME }}
+          name: frontend-dist
           path: frontend/dist
 
   deploy:
@@ -51,12 +51,8 @@ jobs:
       - name: Download Artifact
         uses: actions/download-artifact@v4
         with:
-          name: ${{ env.VERSION_NAME }}
-
-      - name: Unzip Artifact
-        run: |
-          unzip ${{ env.VERSION_NAME }}.zip -d frontend-extracted
-          ls -R frontend-extracted
+          name: frontend-dist
+          path: frontend/dist
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4.0.2
@@ -66,7 +62,7 @@ jobs:
           aws-region: us-west-2
 
       - name: Deploy static site to S3 bucket
-        run: aws s3 sync frontend-extracted/ s3://www.childcaremap.ca --delete
+        run: aws s3 sync frontend/dist s3://www.childcaremap.ca --delete
 
   clean-cache:
     name: Clean CloudFront cache
