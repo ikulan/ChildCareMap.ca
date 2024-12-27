@@ -51,7 +51,6 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: ${{ env.VERSION_NAME }}
-          path: frontend/dist
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4.0.2
@@ -61,7 +60,7 @@ jobs:
           aws-region: us-west-2
 
       - name: Deploy static site to S3 bucket
-        run: aws s3 sync frontend/dist s3://www.childcaremap.ca --delete
+        run: aws s3 sync ${{ env.VERSION_NAME }} s3://www.childcaremap.ca --delete
 
   clean-cache:
     name: Clean CloudFront cache
