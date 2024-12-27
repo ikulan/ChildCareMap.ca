@@ -69,9 +69,8 @@ I am actively working on adding more features to the website, such as search fun
 
 ### Release
 
-- **Release Branch:** Represents the contents of production environment. When ready to release, create a pull request from the main branch to the release branch.
+- When ready to release, create and publish a release from `main` branch. This action triggers an automatic deployment to production. Use the following naming format for version tags: `frontend-v[major].[minor].[patch]`
 
-- After the pull request is merged, create and publish a release with release notes and a version tag. This action triggers an automatic deployment to production. Use the following naming format for version tags: `frontend-v[major].[minor].[patch]`
 
 ## TODO
 
