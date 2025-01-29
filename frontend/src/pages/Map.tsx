@@ -12,7 +12,7 @@ export default function Map() {
   return (
     <div className="m-auto h-svh max-w-screen-xl">
       <MapProvider>
-        <Header />
+        <Header displayOptions={true} />
         {regionModalIsOpen && (
           <RegionModel isOpen={regionModalIsOpen} onClose={closeRegionModal} />
         )}
